@@ -33,7 +33,15 @@ function sidebarOf001To050() {
   return [
     "/001-050/leetcode-1-two-sum",
     "/001-050/leetcode-2-add-two-numbers",
-    "/001-050/leetcode-3-longest-substring-without-repeating-characters"
+    "/001-050/leetcode-3-longest-substring-without-repeating-characters",
+    "/001-050/leetcode-4-median-of-two-sorted-arrays",
+    "/001-050/leetcode-5-longest-palindromic-substring",
+    "/001-050/leetcode-6-zigzag-conversion",
+    "/001-050/leetcode-7-reverse-integer",
+    "/001-050/leetcode-8-string-to-integer-atoi",
+    "/001-050/leetcode-9-palindrome-number",
+    "/001-050/leetcode-10-regular-expression-matching",
+
   ];
 }
 
