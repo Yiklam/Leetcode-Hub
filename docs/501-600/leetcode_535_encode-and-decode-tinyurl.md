@@ -1,0 +1,20 @@
+# 535. TinyURL 的加密与解密
+
+**题目链接：**[https://leetcode-cn.com/problems/encode-and-decode-tinyurl](https://leetcode-cn.com/problems/encode-and-decode-tinyurl)
+
+---
+
+<div class="content__1Y2H">
+ <div class="notranslate">
+  <p>TinyURL是一种URL简化服务， 比如：当你输入一个URL&nbsp;<code>https://leetcode.com/problems/design-tinyurl</code>&nbsp;时，它将返回一个简化的URL&nbsp;<code>http://tinyurl.com/4e9iAk</code>.</p> 
+  <p>要求：设计一个 TinyURL 的加密&nbsp;<code>encode</code>&nbsp;和解密&nbsp;<code>decode</code>&nbsp;的方法。你的加密和解密算法如何设计和运作是没有限制的，你只需要保证一个URL可以被加密成一个TinyURL，并且这个TinyURL可以用解密方法恢复成原本的URL。</p> 
+ </div>
+</div>
+
+---
+
+**AC 代码：**
+
+```java
+
+```
