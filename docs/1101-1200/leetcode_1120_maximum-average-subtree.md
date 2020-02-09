@@ -11,7 +11,7 @@
   <p>树的平均值是树中节点值的总和除以节点数。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例：</strong></p> 
-  <p><img style="height: 123px; width: 132px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/07/12/1308_example_1.png" alt=""></p> 
+  <p><img style="height: 123px; width: 132px;" src="/aliyun-lc-upload/uploads/2019/07/12/1308_example_1.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>[5,6,1]
 <strong>输出：</strong>6.00000
 <strong>解释： </strong>

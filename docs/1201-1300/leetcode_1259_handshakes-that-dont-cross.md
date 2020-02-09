@@ -15,13 +15,13 @@
 <strong>输出：</strong>1
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><img style="height: 311px; width: 651px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/11/16/5125_example_2.png" alt=""></p> 
+  <p><img style="height: 311px; width: 651px;" src="/aliyun-lc-upload/uploads/2019/11/16/5125_example_2.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>num_people = 4
 <strong>输出：</strong>2
 <strong>解释：</strong>总共有两种方案，第一种方案是 [(1,2),(3,4)] ，第二种方案是 [(2,3),(4,1)] 。
 </pre> 
   <p><strong>示例 3：</strong></p> 
-  <p><img style="height: 992px; width: 664px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/11/16/5125_example_3.png" alt=""></p> 
+  <p><img style="height: 992px; width: 664px;" src="/aliyun-lc-upload/uploads/2019/11/16/5125_example_3.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>num_people = 6
 <strong>输出：</strong>5
 </pre> 

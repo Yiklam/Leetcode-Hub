@@ -19,7 +19,7 @@
 <strong>输出：</strong>13
 <strong>解释：</strong>
 在 M = 6 次移动之后在最终图中可到达的结点如下所示。
-<img style="height: 200px; width: 487px;" src="https://s3-lc-upload.s3.amazonaws.com/uploads/2018/08/01/origfinal.png" alt="">
+<img style="height: 200px; width: 487px;" src="/uploads/2018/08/01/origfinal.png" alt="">
 </pre> 
   <p><strong>示例 2：</strong></p> 
   <pre class="language-text"><strong>输入：</strong><code>edges </code>= [[0,1,4],[1,2,6],[0,2,8],[1,3,1]], M = 10, N = 4

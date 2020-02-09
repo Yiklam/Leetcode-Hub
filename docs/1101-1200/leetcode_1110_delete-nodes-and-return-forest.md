@@ -11,7 +11,7 @@
   <p>返回森林中的每棵树。你可以按任意顺序组织答案。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例：</strong></p> 
-  <p><strong><img style="height: 150px; width: 237px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/07/05/screen-shot-2019-07-01-at-53836-pm.png" alt=""></strong></p> 
+  <p><strong><img style="height: 150px; width: 237px;" src="/aliyun-lc-upload/uploads/2019/07/05/screen-shot-2019-07-01-at-53836-pm.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>root = [1,2,3,4,5,6,7], to_delete = [3,5]
 <strong>输出：</strong>[[1,2,null,4],[6],[7]]
 </pre> 

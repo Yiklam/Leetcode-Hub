@@ -15,7 +15,7 @@
   <pre class="language-text"><strong>输入：</strong>7
 <strong>输出：</strong>[[0,0,0,null,null,0,0,null,null,0,0],[0,0,0,null,null,0,0,0,0],[0,0,0,0,0,0,0],[0,0,0,0,0,null,null,null,null,0,0],[0,0,0,0,0,null,null,0,0]]
 <strong>解释：</strong>
-<img style="height: 400px; width: 700px;" src="https://aliyun-lc-upload.oss-cn-hangzhou.aliyuncs.com/aliyun-lc-upload/uploads/2018/08/24/fivetrees.png" alt="">
+<img style="height: 400px; width: 700px;" src="/aliyun-lc-upload/uploads/2018/08/24/fivetrees.png" alt="">
 </pre> 
   <p>&nbsp;</p> 
   <p><strong>提示：</strong></p> 

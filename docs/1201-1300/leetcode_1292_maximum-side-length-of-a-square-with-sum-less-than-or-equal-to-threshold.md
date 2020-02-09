@@ -9,7 +9,7 @@
   <p>给你一个大小为&nbsp;<code>m x n</code>&nbsp;的矩阵&nbsp;<code>mat</code>&nbsp;和一个整数阈值&nbsp;<code>threshold</code>。</p> 
   <p>请你返回元素总和小于或等于阈值的正方形区域的最大边长；如果没有这样的正方形区域，则返回 <strong>0&nbsp;</strong>。<br> &nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 186px; width: 335px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/12/15/e1.png" alt=""></p> 
+  <p><img style="height: 186px; width: 335px;" src="/aliyun-lc-upload/uploads/2019/12/15/e1.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>mat = [[1,1,3,2,4,3,2],[1,1,3,2,4,3,2],[1,1,3,2,4,3,2]], threshold = 4
 <strong>输出：</strong>2
 <strong>解释：</strong>总和小于 4 的正方形的最大边长为 2，如图所示。

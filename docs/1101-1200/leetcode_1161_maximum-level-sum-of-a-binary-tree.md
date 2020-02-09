@@ -10,7 +10,7 @@
   <p>请你找出层内元素之和 <strong>最大</strong> 的那几层（可能只有一层）的层号，并返回其中&nbsp;<strong>最小</strong> 的那个。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例：</strong></p> 
-  <p><strong><img style="height: 175px; width: 200px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/08/17/capture.jpeg" alt=""></strong></p> 
+  <p><strong><img style="height: 175px; width: 200px;" src="/aliyun-lc-upload/uploads/2019/08/17/capture.jpeg" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>[1,7,0,7,-8,null,null]
 <strong>输出：</strong>2
 <strong>解释：</strong>

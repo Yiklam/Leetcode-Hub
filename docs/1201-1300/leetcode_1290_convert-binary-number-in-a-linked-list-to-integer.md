@@ -10,7 +10,7 @@
   <p>请你返回该链表所表示数字的 <strong>十进制值</strong> 。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 108px; width: 426px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/12/15/graph-1.png" alt=""></p> 
+  <p><img style="height: 108px; width: 426px;" src="/aliyun-lc-upload/uploads/2019/12/15/graph-1.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>head = [1,0,1]
 <strong>输出：</strong>5
 <strong>解释：</strong>二进制数 (101) 转化为十进制数 (5)

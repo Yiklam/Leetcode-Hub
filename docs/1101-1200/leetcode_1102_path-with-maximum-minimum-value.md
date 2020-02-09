@@ -12,18 +12,18 @@
   <p>找出所有路径中得分 <strong>最高</strong> 的那条路径，返回其&nbsp;<strong>得分</strong>。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="height: 59px; width: 70px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/06/27/1313_ex1.jpeg" alt=""></strong></p> 
+  <p><strong><img style="height: 59px; width: 70px;" src="/aliyun-lc-upload/uploads/2019/06/27/1313_ex1.jpeg" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>[[5,4,5],[1,2,6],[7,4,6]]
 <strong>输出：</strong>4
 <strong>解释： </strong>
 得分最高的路径用黄色突出显示。 
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img style="height: 39px; width: 134px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/06/27/1313_ex2.jpeg" alt=""></strong></p> 
+  <p><strong><img style="height: 39px; width: 134px;" src="/aliyun-lc-upload/uploads/2019/06/27/1313_ex2.jpeg" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>[[2,2,1,2,2,2],[1,2,2,2,1,2]]
 <strong>输出：</strong>2</pre> 
   <p><strong>示例 3：</strong></p> 
-  <p><strong><img src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/06/27/1313_ex3.jpeg" alt=""></strong></p> 
+  <p><strong><img src="/aliyun-lc-upload/uploads/2019/06/27/1313_ex3.jpeg" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>[[3,4,6,3,4],[0,2,1,1,7],[8,8,3,2,7],[3,2,4,9,8],[4,1,2,0,0],[4,6,5,4,3]]
 <strong>输出：</strong>3</pre> 
   <p>&nbsp;</p> 

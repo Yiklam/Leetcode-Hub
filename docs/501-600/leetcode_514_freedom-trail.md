@@ -17,7 +17,7 @@
   <p><strong>示例：</strong></p> 
   <p>&nbsp;</p> 
   <center>
-   <img style="width: 26%;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/22/ring.jpg">
+   <img style="width: 26%;" src="/aliyun-lc-upload/uploads/2018/10/22/ring.jpg">
   </center> &nbsp; 
   <pre class="language-text"><strong>输入:</strong> ring = "godding", key = "gd"
 <strong>输出:</strong> 4

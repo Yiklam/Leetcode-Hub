@@ -15,7 +15,7 @@
   <p>请你帮忙计算为所有房子都供水的最低总成本。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例：</strong></p> 
-  <p><strong><img style="width: 130px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/08/23/1359_ex1.png" alt=""></strong></p> 
+  <p><strong><img style="width: 130px;" src="/aliyun-lc-upload/uploads/2019/08/23/1359_ex1.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>n = 3, wells = [1,2,2], pipes = [[1,2,1],[2,3,1]]
 <strong>输出：</strong>3
 <strong>解释： </strong>

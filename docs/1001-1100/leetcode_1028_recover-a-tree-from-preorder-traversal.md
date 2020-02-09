@@ -12,17 +12,17 @@
   <p>给出遍历输出&nbsp;<code>S</code>，还原树并返回其根节点&nbsp;<code>root</code>。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="height: 200px; width: 320px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/04/12/recover-a-tree-from-preorder-traversal.png" alt=""></strong></p> 
+  <p><strong><img style="height: 200px; width: 320px;" src="/aliyun-lc-upload/uploads/2019/04/12/recover-a-tree-from-preorder-traversal.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>"1-2--3--4-5--6--7"
 <strong>输出：</strong>[1,2,5,3,4,6,7]
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img style="height: 250px; width: 256px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/04/12/screen-shot-2019-04-10-at-114101-pm.png" alt=""></strong></p> 
+  <p><strong><img style="height: 250px; width: 256px;" src="/aliyun-lc-upload/uploads/2019/04/12/screen-shot-2019-04-10-at-114101-pm.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>"1-2--3---4-5--6---7"
 <strong>输出：</strong>[1,2,5,3,null,6,null,4,null,7]
 </pre> 
   <p><strong>示例 3：</strong></p> 
-  <p><img style="height: 250px; width: 276px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/04/12/screen-shot-2019-04-10-at-114955-pm.png" alt=""></p> 
+  <p><img style="height: 250px; width: 276px;" src="/aliyun-lc-upload/uploads/2019/04/12/screen-shot-2019-04-10-at-114955-pm.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>"1-401--349---90--88"
 <strong>输出：</strong>[1,401,null,349,88,90]
 </pre> 

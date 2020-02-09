@@ -10,24 +10,24 @@
   <p>如果没有任何矩形，就返回 0。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="height: 151px; width: 150px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/22/1a.png" alt=""></strong></p> 
+  <p><strong><img style="height: 151px; width: 150px;" src="/aliyun-lc-upload/uploads/2018/12/22/1a.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>[[1,2],[2,1],[1,0],[0,1]]
 <strong>输出：</strong>2.00000
 <strong>解释：</strong>最小面积的矩形出现在 [1,2],[2,1],[1,0],[0,1] 处，面积为 2。</pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><img style="height: 94px; width: 150px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/23/2.png" alt=""></p> 
+  <p><img style="height: 94px; width: 150px;" src="/aliyun-lc-upload/uploads/2018/12/23/2.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>[[0,1],[2,1],[1,1],[1,0],[2,0]]
 <strong>输出：</strong>1.00000
 <strong>解释：</strong>最小面积的矩形出现在 [1,0],[1,1],[2,1],[2,0] 处，面积为 1。
 </pre> 
   <p><strong>示例 3：</strong></p> 
-  <p><img style="height: 94px; width: 150px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/23/3.png" alt=""></p> 
+  <p><img style="height: 94px; width: 150px;" src="/aliyun-lc-upload/uploads/2018/12/23/3.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>[[0,3],[1,2],[3,1],[1,3],[2,1]]
 <strong>输出：</strong>0
 <strong>解释：</strong>没法从这些点中组成任何矩形。
 </pre> 
   <p><strong>示例 4：</strong></p> 
-  <p><strong><img style="height: 155px; width: 160px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/21/4c.png" alt=""></strong></p> 
+  <p><strong><img style="height: 155px; width: 160px;" src="/aliyun-lc-upload/uploads/2018/12/21/4c.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>[[3,1],[1,1],[0,1],[2,1],[3,3],[3,2],[0,2],[2,3]]
 <strong>输出：</strong>2.00000
 <strong>解释：</strong>最小面积的矩形出现在 [2,1],[2,3],[3,3],[3,1] 处，面积为 2。

@@ -20,7 +20,7 @@
   <p>返回将箱子推到目标位置的最小 <strong>推动</strong> 次数，如果无法做到，请返回&nbsp;<code>-1</code>。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="height: 349px; width: 520px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/11/16/sample_1_1620.png" alt=""></strong></p> 
+  <p><strong><img style="height: 349px; width: 520px;" src="/aliyun-lc-upload/uploads/2019/11/16/sample_1_1620.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>grid = [["#","#","#","#","#","#"],
              ["#","T","#","#","#","#"],
 &nbsp;            ["#",".",".","B",".","#"],

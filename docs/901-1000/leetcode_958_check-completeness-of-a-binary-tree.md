@@ -11,13 +11,13 @@
   <p>若设二叉树的深度为 h，除第 h 层外，其它各层 (1～h-1) 的结点数都达到最大个数，第 h 层所有的结点都连续集中在最左边，这就是完全二叉树。（注：第 h 层可能包含 1~&nbsp;2<sup>h</sup>&nbsp;个节点。）</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 145px; width: 180px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/15/complete-binary-tree-1.png" alt=""></p> 
+  <p><img style="height: 145px; width: 180px;" src="/aliyun-lc-upload/uploads/2018/12/15/complete-binary-tree-1.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>[1,2,3,4,5,6]
 <strong>输出：</strong>true
 <strong>解释：</strong>最后一层前的每一层都是满的（即，结点值为 {1} 和 {2,3} 的两层），且最后一层中的所有结点（{4,5,6}）都尽可能地向左。
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/15/complete-binary-tree-2.png" alt=""></strong></p> 
+  <p><strong><img src="/aliyun-lc-upload/uploads/2018/12/15/complete-binary-tree-2.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>[1,2,3,4,5,null,7]
 <strong>输出：</strong>false
 <strong>解释：</strong>值为 7 的结点没有尽可能靠向左侧。

@@ -11,7 +11,7 @@
   <p>以这种方法绘制线条，并返回我们可以绘制的最大连线数。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="height: 72px; width: 100px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/04/28/142.png" alt=""></strong></p> 
+  <p><strong><img style="height: 72px; width: 100px;" src="/aliyun-lc-upload/uploads/2019/04/28/142.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>A = [1,4,2], B = [1,2,4]
 <strong>输出：</strong>2
 <strong>解释：

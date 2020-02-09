@@ -21,17 +21,17 @@
   <p>返回&nbsp;<code>Construct(B)</code>。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="height: 160px; width: 159px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/02/23/maximum-binary-tree-1-1.png" alt=""><img style="height: 160px; width: 169px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/02/23/maximum-binary-tree-1-2.png" alt=""></strong></p> 
+  <p><strong><img style="height: 160px; width: 159px;" src="/aliyun-lc-upload/uploads/2019/02/23/maximum-binary-tree-1-1.png" alt=""><img style="height: 160px; width: 169px;" src="/aliyun-lc-upload/uploads/2019/02/23/maximum-binary-tree-1-2.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>root = [4,1,3,null,null,2], val = 5
 <strong>输出：</strong>[5,4,null,1,3,null,null,2]
 <strong>解释：</strong>A = [1,4,2,3], B = [1,4,2,3,5]
 </pre> 
-  <p><strong>示例 2：<br> <img style="height: 160px; width: 180px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/02/23/maximum-binary-tree-2-1.png" alt=""><img style="height: 160px; width: 214px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/02/23/maximum-binary-tree-2-2.png" alt=""></strong></p> 
+  <p><strong>示例 2：<br> <img style="height: 160px; width: 180px;" src="/aliyun-lc-upload/uploads/2019/02/23/maximum-binary-tree-2-1.png" alt=""><img style="height: 160px; width: 214px;" src="/aliyun-lc-upload/uploads/2019/02/23/maximum-binary-tree-2-2.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>root = [5,2,4,null,1], val = 3
 <strong>输出：</strong>[5,2,4,null,1,null,3]
 <strong>解释：</strong>A = [2,1,5,4], B = [2,1,5,4,3]
 </pre> 
-  <p><strong>示例 3：<br> <img style="height: 160px; width: 180px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/02/23/maximum-binary-tree-3-1.png" alt=""><img style="height: 160px; width: 201px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/02/23/maximum-binary-tree-3-2.png" alt=""></strong></p> 
+  <p><strong>示例 3：<br> <img style="height: 160px; width: 180px;" src="/aliyun-lc-upload/uploads/2019/02/23/maximum-binary-tree-3-1.png" alt=""><img style="height: 160px; width: 201px;" src="/aliyun-lc-upload/uploads/2019/02/23/maximum-binary-tree-3-2.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>root = [5,2,3,null,1], val = 4
 <strong>输出：</strong>[5,2,4,null,1,3]
 <strong>解释：</strong>A = [2,1,5,3], B = [2,1,5,3,4]

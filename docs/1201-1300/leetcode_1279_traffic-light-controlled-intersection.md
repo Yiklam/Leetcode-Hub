@@ -7,7 +7,7 @@
 <div class="content__1Y2H">
  <div class="notranslate">
   <p>这是两条路的交叉路口。第一条路是 A 路，车辆可沿&nbsp;1 号方向由北向南行驶，也可沿&nbsp;2 号方向由南向北行驶。第二条路是 B 路，车辆可沿&nbsp;3 号方向由西向东行驶，也可沿 4 号方向由东向西行驶。</p> 
-  <p><img style="height:417px; width:600px" src="https://assets.leetcode.com/uploads/2019/11/11/exp.png" alt=""></p> 
+  <p><img style="height:417px; width:600px" src="/uploads/2019/11/11/exp.png" alt=""></p> 
   <p>每条路在路口前都有一个红绿灯。红绿灯可以亮起红灯或绿灯。</p> 
   <ol> 
    <li><strong>绿灯</strong>表示两个方向的车辆都可通过路口。</li> 

@@ -12,7 +12,7 @@
   <p>派对最多只会有一个 “名人” 参加。若&nbsp;“名人” 存在，请返回他/她的编号；若&nbsp;“名人”&nbsp;不存在，请返回&nbsp;<code>-1</code>。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1:</strong></p> 
-  <p><img style="height: 181px; width: 186px;" src="https://assets.leetcode.com/uploads/2019/02/02/277_example_1_bold.PNG" alt=""></p> 
+  <p><img style="height: 181px; width: 186px;" src="/uploads/2019/02/02/277_example_1_bold.PNG" alt=""></p> 
   <pre class="language-text"><strong>输入: </strong>graph = [
 &nbsp; [1,1,0],
 &nbsp; [0,1,0],
@@ -22,7 +22,7 @@
 <strong>解析: </strong>有编号分别为 0、1 和 2 的三个人。graph[i][j] = 1 代表编号为 i 的人认识编号为 j 的人，而 graph[i][j] = 0 则代表编号为 i 的人不认识编号为 j 的人。“名人” 是编号 1 的人，因为 0 和 2 均认识他/她，但 1 不认识任何人。
 </pre> 
   <p><strong>示例&nbsp;2:</strong></p> 
-  <p><img style="height: 192px; width: 193px;" src="https://assets.leetcode.com/uploads/2019/02/02/277_example_2.PNG" alt=""></p> 
+  <p><img style="height: 192px; width: 193px;" src="/uploads/2019/02/02/277_example_2.PNG" alt=""></p> 
   <pre class="language-text"><strong>输入: </strong>graph = [
 &nbsp; [1,0,1],
 &nbsp; [1,1,0],

@@ -11,18 +11,18 @@
   <p>请你删除所有不足节点，并返回生成的二叉树的根。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <pre class="language-text"><strong><img style="height: 200px; width: 482px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/06/08/insufficient-1.png" alt="">
+  <pre class="language-text"><strong><img style="height: 200px; width: 482px;" src="/aliyun-lc-upload/uploads/2019/06/08/insufficient-1.png" alt="">
 输入：</strong>root = [1,2,3,4,-99,-99,7,8,9,-99,-99,12,13,-99,14], limit = 1
-<strong><img style="height: 200px; width: 258px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/06/08/insufficient-2.png" alt="">
+<strong><img style="height: 200px; width: 258px;" src="/aliyun-lc-upload/uploads/2019/06/08/insufficient-2.png" alt="">
 输出：</strong>[1,2,3,4,null,null,7,8,9,null,14]
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <pre class="language-text"><strong><img style="height: 200px; width: 292px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/06/08/insufficient-3.png" alt="">
+  <pre class="language-text"><strong><img style="height: 200px; width: 292px;" src="/aliyun-lc-upload/uploads/2019/06/08/insufficient-3.png" alt="">
 输入：</strong>root = [5,4,8,11,null,17,4,7,1,null,null,5,3], limit = 22
-<strong><img style="height: 200px; width: 264px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/06/08/insufficient-4.png" alt="">
+<strong><img style="height: 200px; width: 264px;" src="/aliyun-lc-upload/uploads/2019/06/08/insufficient-4.png" alt="">
 输出：</strong>[5,4,8,11,null,17,4,7,null,null,null,5]</pre> 
   <p><strong>示例 3：</strong></p> 
-  <pre class="language-text"><strong><img style="height: 100px; width: 140px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/06/08/insufficient-5.png" alt="">
+  <pre class="language-text"><strong><img style="height: 100px; width: 140px;" src="/aliyun-lc-upload/uploads/2019/06/08/insufficient-5.png" alt="">
 输入：</strong>root = [5,-6,-6], limit = 0<strong>
 输出：</strong>[]</pre> 
   <p>&nbsp;</p> 

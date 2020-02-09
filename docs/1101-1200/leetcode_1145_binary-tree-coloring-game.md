@@ -20,7 +20,7 @@
   <p>现在，假设你是「二号」玩家，根据所给出的输入，假如存在一个&nbsp;<code>y</code>&nbsp;值可以确保你赢得这场游戏，则返回&nbsp;<code>true</code>；若无法获胜，就请返回 <code>false</code>。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例：</strong></p> 
-  <p><strong><img style="height: 186px; width: 300px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/08/04/1480-binary-tree-coloring-game.png" alt=""></strong></p> 
+  <p><strong><img style="height: 186px; width: 300px;" src="/aliyun-lc-upload/uploads/2019/08/04/1480-binary-tree-coloring-game.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>root = [1,2,3,4,5,6,7,8,9,10,11], n = 11, x = 3
 <strong>输出：</strong>True
 <strong>解释：</strong>第二个玩家可以选择值为 2 的节点。

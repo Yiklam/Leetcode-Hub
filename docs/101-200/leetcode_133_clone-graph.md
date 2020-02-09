@@ -19,7 +19,7 @@
   <p>给定节点将始终是图中的第一个节点（值为 1）。你必须将&nbsp;<strong>给定节点的拷贝&nbsp;</strong>作为对克隆图的引用返回。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 500px; width: 500px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2020/02/01/133_clone_graph_question.png" alt=""></p> 
+  <p><img style="height: 500px; width: 500px;" src="/aliyun-lc-upload/uploads/2020/02/01/133_clone_graph_question.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>adjList = [[2,4],[1,3],[2,4],[1,3]]
 <strong>输出：</strong>[[2,4],[1,3],[2,4],[1,3]]
 <strong>解释：
@@ -30,7 +30,7 @@
 节点 4 的值是 4，它有两个邻居：节点 1 和 3 。
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><img style="height: 148px; width: 163px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2020/02/01/graph.png" alt=""></p> 
+  <p><img style="height: 148px; width: 163px;" src="/aliyun-lc-upload/uploads/2020/02/01/graph.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>adjList = [[]]
 <strong>输出：</strong>[[]]
 <strong>解释：</strong>输入包含一个空列表。该图仅仅只有一个值为 1 的节点，它没有任何邻居。
@@ -41,7 +41,7 @@
 <strong>解释：</strong>这个图是空的，它不含任何节点。
 </pre> 
   <p><strong>示例 4：</strong></p> 
-  <p><img style="height: 133px; width: 272px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2020/02/01/graph-1.png" alt=""></p> 
+  <p><img style="height: 133px; width: 272px;" src="/aliyun-lc-upload/uploads/2020/02/01/graph-1.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>adjList = [[2],[1]]
 <strong>输出：</strong>[[2],[1]]</pre> 
   <p>&nbsp;</p> 

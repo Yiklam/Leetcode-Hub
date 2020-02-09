@@ -10,12 +10,12 @@
   <p>字符串&nbsp;<code>text</code> 中的每个字母最多只能被使用一次。请你返回最多可以拼凑出多少个单词&nbsp;<strong>"balloon"</strong>。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="height: 35px; width: 154px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/09/14/1536_ex1_upd.jpeg" alt=""></strong></p> 
+  <p><strong><img style="height: 35px; width: 154px;" src="/aliyun-lc-upload/uploads/2019/09/14/1536_ex1_upd.jpeg" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>text = "nlaebolko"
 <strong>输出：</strong>1
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img style="height: 35px; width: 233px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/09/14/1536_ex2_upd.jpeg" alt=""></strong></p> 
+  <p><strong><img style="height: 35px; width: 233px;" src="/aliyun-lc-upload/uploads/2019/09/14/1536_ex2_upd.jpeg" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>text = "loonbalxballpoon"
 <strong>输出：</strong>2
 </pre> 

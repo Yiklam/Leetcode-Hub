@@ -20,7 +20,7 @@
 ]
 <strong>输出：</strong>2
 <strong>解释：</strong>2x2 网格如下：
-<img src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/15/1.png" alt=""></pre> 
+<img src="/aliyun-lc-upload/uploads/2018/12/15/1.png" alt=""></pre> 
   <p><strong>示例 2：</strong></p> 
   <pre class="language-text"><strong>输入：
 </strong>[
@@ -29,7 +29,7 @@
 ]
 <strong>输出：</strong>1
 <strong>解释：</strong>2x2 网格如下：
-<img src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/15/2.png" alt=""></pre> 
+<img src="/aliyun-lc-upload/uploads/2018/12/15/2.png" alt=""></pre> 
   <p><strong>示例 3：</strong></p> 
   <pre class="language-text"><strong>输入：
 </strong>[
@@ -39,7 +39,7 @@
 <strong>输出：</strong>4
 <strong>解释：</strong>（回想一下，因为 \ 字符是转义的，所以 "\\/" 表示 \/，而 "/\\" 表示 /\。）
 2x2 网格如下：
-<img src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/15/3.png" alt=""></pre> 
+<img src="/aliyun-lc-upload/uploads/2018/12/15/3.png" alt=""></pre> 
   <p><strong>示例 4：</strong></p> 
   <pre class="language-text"><strong>输入：
 </strong>[
@@ -49,7 +49,7 @@
 <strong>输出：</strong>5
 <strong>解释：</strong>（回想一下，因为 \ 字符是转义的，所以 "/\\" 表示 /\，而 "\\/" 表示 \/。）
 2x2 网格如下：
-<img src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/15/4.png" alt=""></pre> 
+<img src="/aliyun-lc-upload/uploads/2018/12/15/4.png" alt=""></pre> 
   <p><strong>示例 5：</strong></p> 
   <pre class="language-text"><strong>输入：
 </strong>[
@@ -58,7 +58,7 @@
 ]
 <strong>输出：</strong>3
 <strong>解释：</strong>2x2 网格如下：
-<img src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/15/5.png" alt="">
+<img src="/aliyun-lc-upload/uploads/2018/12/15/5.png" alt="">
 </pre> 
   <p>&nbsp;</p> 
   <p><strong>提示：</strong></p> 
