@@ -1,0 +1,43 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width,initial-scale=1" /><link rel="stylesheet" href="vuepress.min.css" type="text/css"><title>htmlSrc_1050_actors-and-directors-who-cooperated-at-least-three-times</title></head><body><div id="app" class="theme-default-content"><div class="content__1Y2H">
+ <div class="sql-schema-wrapper__1jqS">
+  <a class="sql-schema-link__1VAC">SQL架构
+   <svg viewbox="0 0 24 24" width="1em" height="1em" class="css-1lc17o4-icon">
+    <path fill-rule="evenodd" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path>
+   </svg></a>
+ </div>
+ <div class="notranslate">
+  <p><code>ActorDirector</code>&nbsp;表：</p> 
+  <pre class="language-text">+-------------+---------+
+| Column Name | Type    |
++-------------+---------+
+| actor_id    | int     |
+| director_id | int     |
+| timestamp   | int     |
++-------------+---------+
+timestamp 是这张表的主键.
+</pre> 
+  <p>&nbsp;</p> 
+  <p>写一条SQL查询语句获取合作过至少三次的演员和导演的 id 对&nbsp;<code>(actor_id, director_id)</code></p> 
+  <p><strong>示例：</strong></p> 
+  <pre class="language-text">ActorDirector 表：
++-------------+-------------+-------------+
+| actor_id    | director_id | timestamp   |
++-------------+-------------+-------------+
+| 1           | 1           | 0           |
+| 1           | 1           | 1           |
+| 1           | 1           | 2           |
+| 1           | 2           | 3           |
+| 1           | 2           | 4           |
+| 2           | 1           | 5           |
+| 2           | 1           | 6           |
++-------------+-------------+-------------+
+
+Result 表：
++-------------+-------------+
+| actor_id    | director_id |
++-------------+-------------+
+| 1           | 1           |
++-------------+-------------+
+唯一的 id 对是 (1, 1)，他们恰好合作了 3 次。</pre> 
+ </div>
+</div></div></body></html>
