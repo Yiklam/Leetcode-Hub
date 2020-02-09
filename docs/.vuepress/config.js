@@ -42,7 +42,7 @@ function getNav() {
         },
         {
           text: "701-800",
-          link: "/701-800/leetcode_703_kth-largest-element-in-a-stream/"
+          link: "/701-800/leetcode_702_search-in-a-sorted-array-of-unknown-size/"
         },
         {
           text: "801-900",
@@ -59,7 +59,7 @@ function getNav() {
         },
         {
           text: "1101-1200",
-          link: "/1101-1200/leetcode_1103_distribute-candies-to-people/"
+          link: "/1101-1200/leetcode_1101_the-earliest-moment-when-everyone-become-friends/"
         },
         {
           text: "1201-1300",

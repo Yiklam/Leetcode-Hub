@@ -2,7 +2,7 @@
 home: true
 heroImage: /leetcode.jpg
 heroText: Leetcode 题集
-tagline: 安全、可信。 当前进度：869/1345
+tagline: 安全、可信。 当前进度：1050/1345
 actionText: 开始刷题 →
 actionLink: /001-100/leetcode_2_add-two-numbers.html
 features:
@@ -25,7 +25,4 @@ yarn global add vuepress
 git clone https://github.com/gdut-yy/Leetcode-Hub.git
 cd Leetcode-Hub/
 yarn docs:dev
-
-# 本地阅读
-http://localhost:8080/doc-leetcode/
 ```
