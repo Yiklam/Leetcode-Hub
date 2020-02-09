@@ -1,0 +1,70 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width,initial-scale=1" /><link rel="stylesheet" href="vuepress.min.css" type="text/css"><title>htmlSrc_1098_unpopular-books</title></head><body><div id="app" class="theme-default-content"><div class="content__1Y2H">
+ <div class="sql-schema-wrapper__1jqS">
+  <a class="sql-schema-link__1VAC">SQL架构
+   <svg viewbox="0 0 24 24" width="1em" height="1em" class="css-1lc17o4-icon">
+    <path fill-rule="evenodd" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path>
+   </svg></a>
+ </div>
+ <div class="notranslate">
+  <p>书籍表&nbsp;<code>Books</code>：</p> 
+  <pre class="language-text">+----------------+---------+
+| Column Name    | Type    |
++----------------+---------+
+| book_id        | int     |
+| name           | varchar |
+| available_from | date    |
++----------------+---------+
+book_id 是这个表的主键。
+</pre> 
+  <p>订单表&nbsp;<code>Orders</code>：</p> 
+  <pre class="language-text">+----------------+---------+
+| Column Name    | Type    |
++----------------+---------+
+| order_id       | int     |
+| book_id        | int     |
+| quantity       | int     |
+| dispatch_date  | date    |
++----------------+---------+
+order_id 是这个表的主键。
+book_id  是 Books 表的外键。
+</pre> 
+  <p>&nbsp;</p> 
+  <p>你需要写一段 SQL 命令，筛选出过去一年中订单总量&nbsp;<strong>少于10本&nbsp;</strong>的&nbsp;<strong>书籍&nbsp;</strong>。</p> 
+  <p>注意：<strong>不考虑&nbsp;</strong>上架（available from）距今&nbsp;<strong>不满一个月</strong> 的书籍。并且&nbsp;<strong>假设今天是</strong>&nbsp;<strong>2019-06-23&nbsp;</strong>。</p> 
+  <p>&nbsp;</p> 
+  <p>下面是样例输出结果：</p> 
+  <pre class="language-text">Books 表：
++---------+--------------------+----------------+
+| book_id | name               | available_from |
++---------+--------------------+----------------+
+| 1       | "Kalila And Demna" | 2010-01-01     |
+| 2       | "28 Letters"       | 2012-05-12     |
+| 3       | "The Hobbit"       | 2019-06-10     |
+| 4       | "13 Reasons Why"   | 2019-06-01     |
+| 5       | "The Hunger Games" | 2008-09-21     |
++---------+--------------------+----------------+
+
+Orders 表：
++----------+---------+----------+---------------+
+| order_id | book_id | quantity | dispatch_date |
++----------+---------+----------+---------------+
+| 1        | 1       | 2        | 2018-07-26    |
+| 2        | 1       | 1        | 2018-11-05    |
+| 3        | 3       | 8        | 2019-06-11    |
+| 4        | 4       | 6        | 2019-06-05    |
+| 5        | 4       | 5        | 2019-06-20    |
+| 6        | 5       | 9        | 2009-02-02    |
+| 7        | 5       | 8        | 2010-04-13    |
++----------+---------+----------+---------------+
+
+Result 表：
++-----------+--------------------+
+| book_id   | name               |
++-----------+--------------------+
+| 1         | "Kalila And Demna" |
+| 2         | "28 Letters"       |
+| 5         | "The Hunger Games" |
++-----------+--------------------+
+</pre> 
+ </div>
+</div></div></body></html>
