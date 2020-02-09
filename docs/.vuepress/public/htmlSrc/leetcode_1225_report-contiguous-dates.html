@@ -1,0 +1,70 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width,initial-scale=1" /><link rel="stylesheet" href="vuepress.min.css" type="text/css"><title>htmlSrc_1225_report-contiguous-dates</title></head><body><div id="app" class="theme-default-content"><div class="content__1Y2H">
+ <div class="sql-schema-wrapper__1jqS">
+  <a class="sql-schema-link__1VAC">SQL架构
+   <svg viewbox="0 0 24 24" width="1em" height="1em" class="css-1lc17o4-icon">
+    <path fill-rule="evenodd" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path>
+   </svg></a>
+ </div>
+ <div class="notranslate">
+  <p>Table: <code>Failed</code></p> 
+  <pre class="language-text">+--------------+---------+
+| Column Name  | Type    |
++--------------+---------+
+| fail_date    | date    |
++--------------+---------+
+该表主键为 fail_date。
+该表包含失败任务的天数.
+</pre> 
+  <p>Table: <code>Succeeded</code></p> 
+  <pre class="language-text">+--------------+---------+
+| Column Name  | Type    |
++--------------+---------+
+| success_date | date    |
++--------------+---------+
+该表主键为 success_date。
+该表包含成功任务的天数.
+</pre> 
+  <p>&nbsp;</p> 
+  <p>系统 <strong>每天</strong> 运行一个任务。每个任务都独立于先前的任务。任务的状态可以是失败或是成功。</p> 
+  <p>编写一个 SQL 查询&nbsp;<strong>2019-01-01</strong>&nbsp;到&nbsp;<strong>2019-12-31</strong> 期间任务连续同状态&nbsp;<code>period_state</code>&nbsp;的起止日期（<code>start_date</code> 和 <code>end_date</code>）。即如果任务失败了，就是失败状态的起止日期，如果任务成功了，就是成功状态的起止日期。</p> 
+  <p>最后结果按照起始日期&nbsp;<code>start_date</code>&nbsp;排序</p> 
+  <p>查询结果样例如下所示:</p> 
+  <pre class="language-text">Failed table:
++-------------------+
+| fail_date         |
++-------------------+
+| 2018-12-28        |
+| 2018-12-29        |
+| 2019-01-04        |
+| 2019-01-05        |
++-------------------+
+
+Succeeded table:
++-------------------+
+| success_date      |
++-------------------+
+| 2018-12-30        |
+| 2018-12-31        |
+| 2019-01-01        |
+| 2019-01-02        |
+| 2019-01-03        |
+| 2019-01-06        |
++-------------------+
+
+
+Result table:
++--------------+--------------+--------------+
+| period_state | start_date   | end_date     |
++--------------+--------------+--------------+
+| succeeded    | 2019-01-01   | 2019-01-03   |
+| failed       | 2019-01-04   | 2019-01-05   |
+| succeeded    | 2019-01-06   | 2019-01-06   |
++--------------+--------------+--------------+
+
+结果忽略了 2018 年的记录，因为我们只关心从 2019-01-01 到 2019-12-31 的记录
+从 2019-01-01 到 2019-01-03 所有任务成功，系统状态为 "succeeded"。
+从 2019-01-04 到 2019-01-05 所有任务失败，系统状态为 "failed"。
+从 2019-01-06 到 2019-01-06 所有任务成功，系统状态为 "succeeded"。
+</pre> 
+ </div>
+</div></div></body></html>
