@@ -1,0 +1,74 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width,initial-scale=1" /><link rel="stylesheet" href="vuepress.min.css" type="text/css"><title>htmlSrc_1194_tournament-winners</title></head><body><div id="app" class="theme-default-content"><div class="content__1Y2H">
+ <div class="sql-schema-wrapper__1jqS">
+  <a class="sql-schema-link__1VAC">SQL架构
+   <svg viewbox="0 0 24 24" width="1em" height="1em" class="css-1lc17o4-icon">
+    <path fill-rule="evenodd" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path>
+   </svg></a>
+ </div>
+ <div class="notranslate">
+  <p><code>Players</code>&nbsp;玩家表</p> 
+  <pre class="language-text">+-------------+-------+
+| Column Name | Type  |
++-------------+-------+
+| player_id   | int   |
+| group_id    | int   |
++-------------+-------+
+玩家 ID 是此表的主键。
+此表的每一行表示每个玩家的组。
+</pre> 
+  <p><code>Matches</code>&nbsp;赛事表</p> 
+  <pre class="language-text">+---------------+---------+
+| Column Name   | Type    |
++---------------+---------+
+| match_id      | int     |
+| first_player  | int     |
+| second_player | int     | 
+| first_score   | int     |
+| second_score  | int     |
++---------------+---------+
+match_id 是此表的主键。
+每一行是一场比赛的记录，第一名和第二名球员包含每场比赛的球员 ID。
+第一个玩家和第二个玩家的分数分别包含第一个玩家和第二个玩家的分数。
+你可以假设，在每一场比赛中，球员都属于同一组。
+</pre> 
+  <p>&nbsp;</p> 
+  <p>每组的获胜者是在组内得分最高的选手。如果平局，player_id <strong>最小&nbsp;</strong>的选手获胜。</p> 
+  <p>编写一个 SQL 查询来查找每组中的获胜者。</p> 
+  <p>查询结果格式如下所示</p> 
+  <pre class="language-text"><code>Players 表</code>:
++-----------+------------+
+| player_id | group_id   |
++-----------+------------+
+| 15        | 1          |
+| 25        | 1          |
+| 30        | 1          |
+| 45        | 1          |
+| 10        | 2          |
+| 35        | 2          |
+| 50        | 2          |
+| 20        | 3          |
+| 40        | 3          |
++-----------+------------+
+
+<code>Matches 表</code>:
++------------+--------------+---------------+-------------+--------------+
+| match_id   | first_player | second_player | first_score | second_score |
++------------+--------------+---------------+-------------+--------------+
+| 1          | 15           | 45            | 3           | 0            |
+| 2          | 30           | 25            | 1           | 2            |
+| 3          | 30           | 15            | 2           | 0            |
+| 4          | 40           | 20            | 5           | 2            |
+| 5          | 35           | 50            | 1           | 1            |
++------------+--------------+---------------+-------------+--------------+
+
+Result 表:
++-----------+------------+
+| group_id  | player_id  |
++-----------+------------+ 
+| 1         | 15         |
+| 2         | 35         |
+| 3         | 40         |
++-----------+------------+
+</pre> 
+ </div>
+</div></div></body></html>
