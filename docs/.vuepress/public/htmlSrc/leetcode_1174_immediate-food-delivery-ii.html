@@ -1,0 +1,53 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width,initial-scale=1" /><link rel="stylesheet" href="vuepress.min.css" type="text/css"><title>htmlSrc_1174_immediate-food-delivery-ii</title></head><body><div id="app" class="theme-default-content"><div class="content__1Y2H">
+ <div class="sql-schema-wrapper__1jqS">
+  <a class="sql-schema-link__1VAC">SQL架构
+   <svg viewbox="0 0 24 24" width="1em" height="1em" class="css-1lc17o4-icon">
+    <path fill-rule="evenodd" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path>
+   </svg></a>
+ </div>
+ <div class="notranslate">
+  <p>配送表: <code>Delivery</code></p> 
+  <pre class="language-text">+-----------------------------+---------+
+| Column Name                 | Type    |
++-----------------------------+---------+
+| delivery_id                 | int     |
+| customer_id                 | int     |
+| order_date                  | date    |
+| customer_pref_delivery_date | date    |
++-----------------------------+---------+
+delivery_id 是表的主键。
+该表保存着顾客的食物配送信息，顾客在某个日期下了订单，并指定了一个期望的配送日期（和下单日期相同或者在那之后）。
+</pre> 
+  <p>&nbsp;</p> 
+  <p>如果顾客期望的配送日期和下单日期相同，则该订单称为 「即时订单」，否则称为「计划订单」。</p> 
+  <p>「首次订单」是顾客最早创建的订单。我们保证一个顾客只会有一个「首次订单」。</p> 
+  <p>写一条 SQL 查询语句获取即时订单在所有用户的首次订单中的比例。<strong>保留两位小数。</strong></p> 
+  <p>&nbsp;</p> 
+  <p>查询结果如下所示：</p> 
+  <pre class="language-text">Delivery 表：
++-------------+-------------+------------+-----------------------------+
+| delivery_id | customer_id | order_date | customer_pref_delivery_date |
++-------------+-------------+------------+-----------------------------+
+| 1           | 1           | 2019-08-01 | 2019-08-02                  |
+| 2           | 2           | 2019-08-02 | 2019-08-02                  |
+| 3           | 1           | 2019-08-11 | 2019-08-12                  |
+| 4           | 3           | 2019-08-24 | 2019-08-24                  |
+| 5           | 3           | 2019-08-21 | 2019-08-22                  |
+| 6           | 2           | 2019-08-11 | 2019-08-13                  |
+| 7           | 4           | 2019-08-09 | 2019-08-09                  |
++-------------+-------------+------------+-----------------------------+
+
+Result 表：
++----------------------+
+| immediate_percentage |
++----------------------+
+| 50.00                |
++----------------------+
+1 号顾客的 1 号订单是首次订单，并且是计划订单。
+2 号顾客的 2 号订单是首次订单，并且是即时订单。
+3 号顾客的 5 号订单是首次订单，并且是计划订单。
+4 号顾客的 7 号订单是首次订单，并且是即时订单。
+因此，一半顾客的首次订单是即时的。
+</pre> 
+ </div>
+</div></div></body></html>
