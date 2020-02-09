@@ -1,5 +1,6 @@
 let path = "/901-1000/";
 module.exports = [
+  path + "leetcode_901_online-stock-span.md",
   path + "leetcode_902_numbers-at-most-n-given-digit-set.md",
   path + "leetcode_903_valid-permutations-for-di-sequence.md",
   path + "leetcode_904_fruit-into-baskets.md",
@@ -73,6 +74,7 @@ module.exports = [
   path + "leetcode_972_equal-rational-numbers.md",
   path + "leetcode_973_k-closest-points-to-origin.md",
   path + "leetcode_974_subarray-sums-divisible-by-k.md",
+  path + "leetcode_975_odd-even-jump.md",
   path + "leetcode_976_largest-perimeter-triangle.md",
   path + "leetcode_977_squares-of-a-sorted-array.md",
   path + "leetcode_978_longest-turbulent-subarray.md",

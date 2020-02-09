@@ -2,9 +2,9 @@
 home: true
 heroImage: /leetcode.jpg
 heroText: Leetcode 题集
-tagline: 安全、可信。 当前进度：1050/1345
+tagline: 安全、可信。 当前进度：1345/1345
 actionText: 开始刷题 →
-actionLink: /001-100/leetcode_2_add-two-numbers.html
+actionLink: /001-100/leetcode_1_two-sum.html
 features:
   - title: 简洁至上
     details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。

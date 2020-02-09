@@ -21,7 +21,7 @@ function getNav() {
     {
       text: "题集",
       items: [
-        { text: "001-100", link: "/001-100/leetcode_2_add-two-numbers/" },
+        { text: "001-100", link: "/001-100/leetcode_1_two-sum/" },
         { text: "101-200", link: "/101-200/leetcode_101_symmetric-tree/" },
         {
           text: "201-300",
@@ -42,7 +42,7 @@ function getNav() {
         },
         {
           text: "701-800",
-          link: "/701-800/leetcode_702_search-in-a-sorted-array-of-unknown-size/"
+          link: "/701-800/leetcode_701_insert-into-a-binary-search-tree/"
         },
         {
           text: "801-900",
@@ -51,7 +51,7 @@ function getNav() {
         },
         {
           text: "901-1000",
-          link: "/901-1000/leetcode_902_numbers-at-most-n-given-digit-set/"
+          link: "/901-1000/leetcode_901_online-stock-span/"
         },
         {
           text: "1001-1100",
