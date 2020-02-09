@@ -1,0 +1,57 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width,initial-scale=1" /><link rel="stylesheet" href="vuepress.min.css" type="text/css"><title>htmlSrc_1270_all-people-report-to-the-given-manager</title></head><body><div id="app" class="theme-default-content"><div class="content__1Y2H">
+ <div class="sql-schema-wrapper__1jqS">
+  <a class="sql-schema-link__1VAC">SQL架构
+   <svg viewbox="0 0 24 24" width="1em" height="1em" class="css-1lc17o4-icon">
+    <path fill-rule="evenodd" d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path>
+   </svg></a>
+ </div>
+ <div class="notranslate">
+  <p>员工表：<code>Employees</code></p> 
+  <pre class="language-text">+---------------+---------+
+| Column Name   | Type    |
++---------------+---------+
+| employee_id   | int     |
+| employee_name | varchar |
+| manager_id    | int     |
++---------------+---------+
+employee_id 是这个表的主键。
+这个表中每一行中，employee_id 表示职工的 ID，employee_name 表示职工的名字，manager_id 表示该职工汇报工作的直线经理。
+这个公司 CEO 是 employee_id = 1 的人。
+</pre> 
+  <p>&nbsp;</p> 
+  <p>用 SQL 查询出所有直接或间接向公司 CEO 汇报工作的职工的 employee_id 。</p> 
+  <p>由于公司规模较小，经理之间的间接关系不超过 3 个经理。</p> 
+  <p>可以以任何顺序返回的结果，不需要去重。</p> 
+  <p>查询结果示例如下：</p> 
+  <pre class="language-text"><code>Employees </code>table:
++-------------+---------------+------------+
+| employee_id | employee_name | manager_id |
++-------------+---------------+------------+
+| 1           | Boss          | 1          |
+| 3           | Alice         | 3          |
+| 2           | Bob           | 1          |
+| 4           | Daniel        | 2          |
+| 7           | Luis          | 4          |
+| 8           | Jhon          | 3          |
+| 9           | Angela        | 8          |
+| 77          | Robert        | 1          |
++-------------+---------------+------------+
+
+<code>Result </code>table:
++-------------+
+| employee_id |
++-------------+
+| 2           |
+| 77          |
+| 4           |
+| 7           |
++-------------+
+
+公司 CEO 的 employee_id 是 1.
+employee_id 是 2 和 77 的职员直接汇报给公司 CEO。
+employee_id 是 4 的职员间接汇报给公司 CEO 4 --&gt; 2 --&gt; 1 。
+employee_id 是 7 的职员间接汇报给公司 CEO 7 --&gt; 4 --&gt; 2 --&gt; 1 。
+employee_id 是 3, 8 ，9 的职员不会直接或间接的汇报给公司 CEO。 
+</pre> 
+ </div>
+</div></div></body></html>
