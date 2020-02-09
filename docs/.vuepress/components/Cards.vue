@@ -17,7 +17,7 @@ export default {
   },
   methods: {
     getHtmlResource() {
-      this.htmlSrc = "/htmlSrc/" + this.card + ".html";
+      this.htmlSrc = "./htmlSrc/" + this.card + ".html";
     },
     frameAdapt() {
       const frame = this.$refs.frame;

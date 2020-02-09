@@ -6,6 +6,10 @@ Leetcode 题解 In Java。
 
 ![](./docs/.vuepress/public/leetcode.jpg)
 
+## 介绍
+
+多年后，后人提起今日：己亥年，庚子春，大疫，万人染疾，众惶恐，不出户，举国防疫，数月方休……
+
 ## 本地开发 & 阅读
 
 本项目基于 vuepress 进行开发，以提供比 github mardown 更佳的阅读体验
