@@ -15,17 +15,17 @@
   <p>如果不能，则返回列表 <code>[-1]</code>。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="height: 120px; width: 88px;" src="/aliyun-lc-upload/uploads/2019/01/05/1219-01.png" alt=""></strong></p> 
+  <p><strong><img style="height: 120px; width: 88px;" src="../aliyun-lc-upload/uploads/2019/01/05/1219-01.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>root = [1,2], voyage = [2,1]
 <strong>输出：</strong>[-1]
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img style="height: 120px; width: 127px;" src="/aliyun-lc-upload/uploads/2019/01/05/1219-02.png" alt=""></strong></p> 
+  <p><strong><img style="height: 120px; width: 127px;" src="../aliyun-lc-upload/uploads/2019/01/05/1219-02.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>root = [1,2,3], voyage = [1,3,2]
 <strong>输出：</strong>[1]
 </pre> 
   <p><strong>示例 3：</strong></p> 
-  <p><strong><img style="height: 120px; width: 127px;" src="/aliyun-lc-upload/uploads/2019/01/05/1219-02.png" alt=""></strong></p> 
+  <p><strong><img style="height: 120px; width: 127px;" src="../aliyun-lc-upload/uploads/2019/01/05/1219-02.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>root = [1,2,3], voyage = [1,2,3]
 <strong>输出：</strong>[]
 </pre> 

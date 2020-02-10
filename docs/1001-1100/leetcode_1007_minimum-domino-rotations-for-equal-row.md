@@ -12,7 +12,7 @@
   <p>如果无法做到，返回&nbsp;<code>-1</code>.</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 161px; width: 200px;" src="/aliyun-lc-upload/uploads/2019/03/08/domino.png" alt=""></p> 
+  <p><img style="height: 161px; width: 200px;" src="../aliyun-lc-upload/uploads/2019/03/08/domino.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>A = [2,1,2,4,2,2], B = [5,2,6,2,3,2]
 <strong>输出：</strong>2
 <strong>解释：</strong>

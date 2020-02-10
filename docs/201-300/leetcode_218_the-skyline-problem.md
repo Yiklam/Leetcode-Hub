@@ -7,7 +7,7 @@
 <div class="content__1Y2H">
  <div class="notranslate">
   <p>城市的天际线是从远处观看该城市中所有建筑物形成的轮廓的外部轮廓。现在，假设您获得了城市风光照片（图A）上<strong>显示的所有建筑物的位置和高度</strong>，请编写一个程序以输出由这些建筑物<strong>形成的天际线</strong>（图B）。</p> 
-  <p><a href="/static/images/problemset/skyline1.jpg"><img style="width: 300px;" src="/aliyun-lc-upload/uploads/2018/10/22/skyline1.png" alt="Buildings"> </a> <a href="/static/images/problemset/skyline2.jpg"> <img style="width: 300px;" src="/aliyun-lc-upload/uploads/2018/10/22/skyline2.png" alt="Skyline Contour"> </a></p> 
+  <p><a href="/static/images/problemset/skyline1.jpg"><img style="width: 300px;" src="../aliyun-lc-upload/uploads/2018/10/22/skyline1.png" alt="Buildings"> </a> <a href="/static/images/problemset/skyline2.jpg"> <img style="width: 300px;" src="../aliyun-lc-upload/uploads/2018/10/22/skyline2.png" alt="Skyline Contour"> </a></p> 
   <p>每个建筑物的几何信息用三元组&nbsp;<code>[Li，Ri，Hi]</code> 表示，其中 <code>Li</code> 和 <code>Ri</code> 分别是第 i 座建筑物左右边缘的 x 坐标，<code>Hi</code> 是其高度。可以保证&nbsp;<code>0 ≤ Li, Ri ≤ INT_MAX</code>,&nbsp;<code>0 &lt; Hi ≤ INT_MAX</code> 和 <code>Ri - Li &gt; 0</code>。您可以假设所有建筑物都是在绝对平坦且高度为 0 的表面上的完美矩形。</p> 
   <p>例如，图A中所有建筑物的尺寸记录为：<code>[ [2 9 10], [3 7 15], [5 12 12], [15 20 10], [19 24 8] ] </code>。</p> 
   <p>输出是以&nbsp;<code>[ [x1,y1], [x2, y2], [x3, y3], ... ]</code> 格式的“<strong>关键点</strong>”（图B中的红点）的列表，它们唯一地定义了天际线。<strong>关键点是水平线段的左端点</strong>。请注意，最右侧建筑物的最后一个关键点仅用于标记天际线的终点，并始终为零高度。此外，任何两个相邻建筑物之间的地面都应被视为天际线轮廓的一部分。</p> 

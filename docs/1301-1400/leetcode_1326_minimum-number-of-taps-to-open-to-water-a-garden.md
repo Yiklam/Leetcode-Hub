@@ -12,7 +12,7 @@
   <p>请你返回可以灌溉整个花园的&nbsp;<strong>最少水龙头数目</strong>&nbsp;。如果花园始终存在无法灌溉到的地方，请你返回&nbsp;<strong>-1</strong>&nbsp;。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="width: 530px;" src="/aliyun-lc-upload/uploads/2020/01/19/1685_example_1.png" alt=""></p> 
+  <p><img style="width: 530px;" src="../aliyun-lc-upload/uploads/2020/01/19/1685_example_1.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>n = 5, ranges = [3,4,1,1,0,0]
 <strong>输出：</strong>1
 <strong>解释：

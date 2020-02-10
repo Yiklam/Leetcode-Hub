@@ -10,7 +10,7 @@
   <p>调用 <code>next()</code> 将返回二叉搜索树中的下一个最小的数。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例：</strong></p> 
-  <p><strong><img style="height: 178px; width: 189px;" src="/aliyun-lc-upload/uploads/2018/12/25/bst-tree.png" alt=""></strong></p> 
+  <p><strong><img style="height: 178px; width: 189px;" src="../aliyun-lc-upload/uploads/2018/12/25/bst-tree.png" alt=""></strong></p> 
   <pre class="language-text">BSTIterator iterator = new BSTIterator(root);
 iterator.next();    // 返回 3
 iterator.next();    // 返回 7

@@ -15,7 +15,7 @@
   <p>以这种方式布置书架，返回书架整体可能的最小高度。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例：</strong></p> 
-  <p><img style="width: 150px;" src="/aliyun-lc-upload/uploads/2019/06/28/shelves.png" alt=""></p> 
+  <p><img style="width: 150px;" src="../aliyun-lc-upload/uploads/2019/06/28/shelves.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>books = [[1,1],[2,3],[2,3],[1,1],[1,1],[1,1],[1,2]], shelf_width = 4
 <strong>输出：</strong>6
 <strong>解释：</strong>

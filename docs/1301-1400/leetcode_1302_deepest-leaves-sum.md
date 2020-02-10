@@ -9,7 +9,7 @@
   <p>给你一棵二叉树，请你返回层数最深的叶子节点的和。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例：</strong></p> 
-  <p><strong><img style="height: 265px; width: 273px;" src="/aliyun-lc-upload/uploads/2019/12/28/1483_ex1.png" alt=""></strong></p> 
+  <p><strong><img style="height: 265px; width: 273px;" src="../aliyun-lc-upload/uploads/2019/12/28/1483_ex1.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>root = [1,2,3,4,5,null,6,7,null,null,null,null,8]
 <strong>输出：</strong>15
 </pre> 

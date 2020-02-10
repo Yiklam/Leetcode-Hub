@@ -13,7 +13,7 @@
   <p>请你以任意顺序返回该集群内的所有 「关键连接」。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="width: 150px;" src="/aliyun-lc-upload/original_images/critical-connections-in-a-network.png" alt=""></strong></p> 
+  <p><strong><img style="width: 150px;" src="../aliyun-lc-upload/original_images/critical-connections-in-a-network.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>n = 4, connections = [[0,1],[1,2],[2,0],[1,3]]
 <strong>输出：</strong>[[1,3]]
 <strong>解释：</strong>[[3,1]] 也是正确的。</pre> 

@@ -13,14 +13,14 @@
   <p>如果没有办法做到学完全部这些课程的话，就返回&nbsp;<code>-1</code>。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="height: 101px; width: 126px;" src="/aliyun-lc-upload/uploads/2019/07/27/1316_ex1.png" alt=""></strong></p> 
+  <p><strong><img style="height: 101px; width: 126px;" src="../aliyun-lc-upload/uploads/2019/07/27/1316_ex1.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>N = 3, relations = [[1,3],[2,3]]
 <strong>输出：</strong>2
 <strong>解释：</strong>
 在第一个学期学习课程 1 和 2，在第二个学期学习课程 3。
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img style="height: 101px; width: 126px;" src="/aliyun-lc-upload/uploads/2019/07/27/1316_ex2.png" alt=""></strong></p> 
+  <p><strong><img style="height: 101px; width: 126px;" src="../aliyun-lc-upload/uploads/2019/07/27/1316_ex2.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>N = 3, relations = [[1,2],[2,3],[3,1]]
 <strong>输出：</strong>-1
 <strong>解释：</strong>

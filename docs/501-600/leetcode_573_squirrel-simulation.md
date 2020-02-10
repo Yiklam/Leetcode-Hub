@@ -16,7 +16,7 @@
 坚果 : [[3,0], [2,5]]
 <strong>输出:</strong> 12
 <strong>解释:</strong>
-<img style="width: 40%;" src="/uploads/2018/10/22/squirrel_simulation.png">​​​​​
+<img style="width: 40%;" src="../uploads/2018/10/22/squirrel_simulation.png">​​​​​
 </pre> 
   <p><strong>注意:</strong></p> 
   <ol> 

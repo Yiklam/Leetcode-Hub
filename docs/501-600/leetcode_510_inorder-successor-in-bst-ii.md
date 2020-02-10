@@ -11,7 +11,7 @@
   <p>你可以直接访问结点，但无法直接访问树。每个节点都会有其父节点的引用。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1:</strong></p> 
-  <p><img style="height: 117px; width: 122px;" src="/uploads/2019/01/23/285_example_1.PNG" alt=""></p> 
+  <p><img style="height: 117px; width: 122px;" src="../uploads/2019/01/23/285_example_1.PNG" alt=""></p> 
   <pre class="language-text"><strong>输入: </strong>
 root = {"$id":"1","left":{"$id":"2","left":null,"parent":{"$ref":"1"},"right":null,"val":1},"parent":null,"right":{"$id":"3","left":null,"parent":{"$ref":"1"},"right":null,"val":3},"val":2}
 p = 1
@@ -19,7 +19,7 @@ p = 1
 <strong>解析: </strong>1的中序后继结点是2。注意p和返回值都是Node类型的。
 </pre> 
   <p><strong>示例 2:</strong></p> 
-  <p><img style="height: 229px; width: 246px;" src="/uploads/2019/01/23/285_example_2.PNG" alt=""></p> 
+  <p><img style="height: 229px; width: 246px;" src="../uploads/2019/01/23/285_example_2.PNG" alt=""></p> 
   <pre class="language-text"><strong>输入: </strong>
 root = {"$id":"1","left":{"$id":"2","left":{"$id":"3","left":{"$id":"4","left":null,"parent":{"$ref":"3"},"right":null,"val":1},"parent":{"$ref":"2"},"right":null,"val":2},"parent":{"$ref":"1"},"right":{"$id":"5","left":null,"parent":{"$ref":"2"},"right":null,"val":4},"val":3},"parent":null,"right":{"$id":"6","left":null,"parent":{"$ref":"1"},"right":null,"val":6},"val":5}
 p = 6
@@ -27,14 +27,14 @@ p = 6
 <strong>解析: </strong>该结点没有中序后继，因此返回<code>null。</code>
 </pre> 
   <p><strong>示例&nbsp;3:</strong></p> 
-  <p><img style="height: 335px; width: 438px;" src="/uploads/2019/02/02/285_example_34.PNG" alt=""></p> 
+  <p><img style="height: 335px; width: 438px;" src="../uploads/2019/02/02/285_example_34.PNG" alt=""></p> 
   <pre class="language-text"><strong>输入: </strong>
 root = {"$id":"1","left":{"$id":"2","left":{"$id":"3","left":{"$id":"4","left":null,"parent":{"$ref":"3"},"right":null,"val":2},"parent":{"$ref":"2"},"right":{"$id":"5","left":null,"parent":{"$ref":"3"},"right":null,"val":4},"val":3},"parent":{"$ref":"1"},"right":{"$id":"6","left":null,"parent":{"$ref":"2"},"right":{"$id":"7","left":{"$id":"8","left":null,"parent":{"$ref":"7"},"right":null,"val":9},"parent":{"$ref":"6"},"right":null,"val":13},"val":7},"val":6},"parent":null,"right":{"$id":"9","left":{"$id":"10","left":null,"parent":{"$ref":"9"},"right":null,"val":17},"parent":{"$ref":"1"},"right":{"$id":"11","left":null,"parent":{"$ref":"9"},"right":null,"val":20},"val":18},"val":15}
 p = 15
 <strong>输出: </strong>17
 </pre> 
   <p><strong>示例&nbsp;4:</strong></p> 
-  <p><img style="height: 335px; width: 438px;" src="/uploads/2019/02/02/285_example_34.PNG" alt=""></p> 
+  <p><img style="height: 335px; width: 438px;" src="../uploads/2019/02/02/285_example_34.PNG" alt=""></p> 
   <pre class="language-text"><strong>输入: </strong>
 root = {"$id":"1","left":{"$id":"2","left":{"$id":"3","left":{"$id":"4","left":null,"parent":{"$ref":"3"},"right":null,"val":2},"parent":{"$ref":"2"},"right":{"$id":"5","left":null,"parent":{"$ref":"3"},"right":null,"val":4},"val":3},"parent":{"$ref":"1"},"right":{"$id":"6","left":null,"parent":{"$ref":"2"},"right":{"$id":"7","left":{"$id":"8","left":null,"parent":{"$ref":"7"},"right":null,"val":9},"parent":{"$ref":"6"},"right":null,"val":13},"val":7},"val":6},"parent":null,"right":{"$id":"9","left":{"$id":"10","left":null,"parent":{"$ref":"9"},"right":null,"val":17},"parent":{"$ref":"1"},"right":{"$id":"11","left":null,"parent":{"$ref":"9"},"right":null,"val":20},"val":18},"val":15}
 p = 13

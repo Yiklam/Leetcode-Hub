@@ -11,7 +11,7 @@
   <p>注意，连接城市 <em><strong>i</strong></em> 和 <em><strong>j</strong></em> 的路径的距离等于沿该路径的所有边的权重之和。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 225px; width: 300px;" src="/aliyun-lc-upload/uploads/2020/01/26/find_the_city_01.png" alt=""></p> 
+  <p><img style="height: 225px; width: 300px;" src="../aliyun-lc-upload/uploads/2020/01/26/find_the_city_01.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>n = 4, edges = [[0,1,3],[1,2,1],[1,3,4],[2,3,1]], distanceThreshold = 4
 <strong>输出：</strong>3
 <strong>解释：</strong>城市分布图如上。
@@ -23,7 +23,7 @@
 城市 0 和 3 在阈值距离 4 以内都有 2 个邻居城市，但是我们必须返回城市 3，因为它的编号最大。
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img style="height: 225px; width: 300px;" src="/aliyun-lc-upload/uploads/2020/01/26/find_the_city_02.png" alt=""></strong></p> 
+  <p><strong><img style="height: 225px; width: 300px;" src="../aliyun-lc-upload/uploads/2020/01/26/find_the_city_02.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>n = 5, edges = [[0,1,2],[0,4,8],[1,2,3],[1,4,2],[2,3,1],[3,4,1]], distanceThreshold = 2
 <strong>输出：</strong>0
 <strong>解释：</strong>城市分布图如上。&nbsp;

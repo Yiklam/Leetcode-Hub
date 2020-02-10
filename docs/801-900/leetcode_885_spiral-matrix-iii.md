@@ -17,14 +17,14 @@
   <pre class="language-text"><strong>输入：</strong>R = 1, C = 4, r0 = 0, c0 = 0
 <strong>输出：</strong>[[0,0],[0,1],[0,2],[0,3]]
 
-<img style="height: 99px; width: 174px;" src="/aliyun-lc-upload/uploads/2018/08/24/example_1.png" alt="">
+<img style="height: 99px; width: 174px;" src="../aliyun-lc-upload/uploads/2018/08/24/example_1.png" alt="">
 </pre> 
   <p>&nbsp;</p> 
   <p><strong>示例 2：</strong></p> 
   <pre class="language-text"><strong>输入：</strong>R = 5, C = 6, r0 = 1, c0 = 4
 <strong>输出：</strong>[[1,4],[1,5],[2,5],[2,4],[2,3],[1,3],[0,3],[0,4],[0,5],[3,5],[3,4],[3,3],[3,2],[2,2],[1,2],[0,2],[4,5],[4,4],[4,3],[4,2],[4,1],[3,1],[2,1],[1,1],[0,1],[4,0],[3,0],[2,0],[1,0],[0,0]]
 
-<img style="height: 142px; width: 202px;" src="/aliyun-lc-upload/uploads/2018/08/24/example_2.png" alt="">
+<img style="height: 142px; width: 202px;" src="../aliyun-lc-upload/uploads/2018/08/24/example_2.png" alt="">
 </pre> 
   <p>&nbsp;</p> 
   <p><strong>提示：</strong></p> 

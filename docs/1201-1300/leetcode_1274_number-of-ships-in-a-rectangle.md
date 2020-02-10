@@ -13,7 +13,7 @@
   <p>调用函数&nbsp;<code>hasShips</code>&nbsp;<strong>超过400次&nbsp;</strong>的提交将被判为&nbsp;<em>错误答案（Wrong Answer）</em>&nbsp;。同时，任何尝试绕过评测系统的行为都将被取消比赛资格。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例：</strong></p> 
-  <p><img style="height: 404px; width: 400px;" src="/aliyun-lc-upload/uploads/2019/11/30/1445_example_1.png" alt=""></p> 
+  <p><img style="height: 404px; width: 400px;" src="../aliyun-lc-upload/uploads/2019/11/30/1445_example_1.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>
 ships = [[1,1],[2,2],[3,3],[5,5]], topRight = [4,4], bottomLeft = [0,0]
 <strong>输出：</strong>3

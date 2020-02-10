@@ -12,19 +12,19 @@
   <p>请你帮设计师计算一下，最少需要用到多少块方形瓷砖？</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 106px; width: 154px;" src="/aliyun-lc-upload/uploads/2019/10/25/sample_11_1592.png" alt=""></p> 
+  <p><img style="height: 106px; width: 154px;" src="../aliyun-lc-upload/uploads/2019/10/25/sample_11_1592.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>n = 2, m = 3
 <strong>输出：</strong>3
 <code><strong>解释：</strong>3</code> 块地砖就可以铺满卧室。
 <code>     2</code> 块 <code>1x1 地砖</code>
 <code>     1</code> 块 <code>2x2 地砖</code></pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><img style="height: 126px; width: 224px;" src="/aliyun-lc-upload/uploads/2019/10/25/sample_22_1592.png" alt=""></p> 
+  <p><img style="height: 126px; width: 224px;" src="../aliyun-lc-upload/uploads/2019/10/25/sample_22_1592.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>n = 5, m = 8
 <strong>输出：</strong>5
 </pre> 
   <p><strong>示例 3：</strong></p> 
-  <p><img style="height: 189px; width: 224px;" src="/aliyun-lc-upload/uploads/2019/10/25/sample_33_1592.png" alt=""></p> 
+  <p><img style="height: 189px; width: 224px;" src="../aliyun-lc-upload/uploads/2019/10/25/sample_33_1592.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>n = 11, m = 13
 <strong>输出：</strong>6
 </pre> 

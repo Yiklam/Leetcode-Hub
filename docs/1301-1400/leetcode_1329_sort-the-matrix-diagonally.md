@@ -9,7 +9,7 @@
   <p>给你一个&nbsp;<code>m * n</code>&nbsp;的整数矩阵&nbsp;<code>mat</code>&nbsp;，请你将同一条对角线上的元素（从左上到右下）按升序排序后，返回排好序的矩阵。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 198px; width: 500px;" src="/aliyun-lc-upload/uploads/2020/01/25/1482_example_1_2.png" alt=""></p> 
+  <p><img style="height: 198px; width: 500px;" src="../aliyun-lc-upload/uploads/2020/01/25/1482_example_1_2.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>mat = [[3,3,1,1],[2,2,1,2],[1,1,1,2]]
 <strong>输出：</strong>[[1,1,1,1],[1,2,2,2],[1,2,3,3]]
 </pre> 

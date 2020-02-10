@@ -11,7 +11,7 @@
   <p><em>（形式上，闭区间&nbsp;<code>[a, b]</code>（其中&nbsp;<code>a &lt;= b</code>）表示实数&nbsp;<code>x</code>&nbsp;的集合，而&nbsp;<code>a &lt;= x &lt;= b</code>。两个闭区间的交集是一组实数，要么为空集，要么为闭区间。例如，[1, 3] 和 [2, 4] 的交集为 [2, 3]。）</em></p> 
   <p>&nbsp;</p> 
   <p><strong>示例：</strong></p> 
-  <p><strong><img style="height: 140px; width: 506px;" src="/aliyun-lc-upload/uploads/2019/02/02/interval1.png" alt=""></strong></p> 
+  <p><strong><img style="height: 140px; width: 506px;" src="../aliyun-lc-upload/uploads/2019/02/02/interval1.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>A = [[0,2],[5,10],[13,23],[24,25]], B = [[1,5],[8,12],[15,24],[25,26]]
 <strong>输出：</strong>[[1,2],[5,5],[8,10],[15,23],[24,24],[25,25]]
 <strong>注意：</strong>输入和所需的输出都是区间对象组成的列表，而不是数组或列表。

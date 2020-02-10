@@ -14,19 +14,19 @@
 <strong>输出：</strong>true
 <strong>解释：</strong>链表中有一个环，其尾部连接到第二个节点。
 </pre> 
-  <p><img style="height: 97px; width: 300px;" src="/aliyun-lc-upload/uploads/2018/12/07/circularlinkedlist.png" alt=""></p> 
+  <p><img style="height: 97px; width: 300px;" src="../aliyun-lc-upload/uploads/2018/12/07/circularlinkedlist.png" alt=""></p> 
   <p><strong>示例&nbsp;2：</strong></p> 
   <pre class="language-text"><strong>输入：</strong>head = [1,2], pos = 0
 <strong>输出：</strong>true
 <strong>解释：</strong>链表中有一个环，其尾部连接到第一个节点。
 </pre> 
-  <p><img style="height: 74px; width: 141px;" src="/aliyun-lc-upload/uploads/2018/12/07/circularlinkedlist_test2.png" alt=""></p> 
+  <p><img style="height: 74px; width: 141px;" src="../aliyun-lc-upload/uploads/2018/12/07/circularlinkedlist_test2.png" alt=""></p> 
   <p><strong>示例 3：</strong></p> 
   <pre class="language-text"><strong>输入：</strong>head = [1], pos = -1
 <strong>输出：</strong>false
 <strong>解释：</strong>链表中没有环。
 </pre> 
-  <p><img style="height: 45px; width: 45px;" src="/aliyun-lc-upload/uploads/2018/12/07/circularlinkedlist_test3.png" alt=""></p> 
+  <p><img style="height: 45px; width: 45px;" src="../aliyun-lc-upload/uploads/2018/12/07/circularlinkedlist_test3.png" alt=""></p> 
   <p>&nbsp;</p> 
   <p><strong>进阶：</strong></p> 
   <p>你能用 <em>O(1)</em>（即，常量）内存解决此问题吗？</p> 

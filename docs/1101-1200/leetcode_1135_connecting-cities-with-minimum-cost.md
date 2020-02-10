@@ -11,14 +11,14 @@
   <p>返回使得每对城市间都存在将它们连接在一起的连通路径（可能长度为 1 的）最小成本。该最小成本应该是所用全部连接代价的综合。如果根据已知条件无法完成该项任务，则请你返回&nbsp;-1。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 141px; width: 161px;" src="/aliyun-lc-upload/uploads/2019/07/27/1314_ex2.png" alt=""></p> 
+  <p><img style="height: 141px; width: 161px;" src="../aliyun-lc-upload/uploads/2019/07/27/1314_ex2.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>N = 3, conections = [[1,2,5],[1,3,6],[2,3,1]]
 <strong>输出：</strong>6
 <strong>解释：</strong>
 选出任意 2 条边都可以连接所有城市，我们从中选取成本最小的 2 条。
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><img style="height: 91px; width: 136px;" src="/aliyun-lc-upload/uploads/2019/07/27/1314_ex1.png" alt=""></p> 
+  <p><img style="height: 91px; width: 136px;" src="../aliyun-lc-upload/uploads/2019/07/27/1314_ex1.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>N = 4, conections = [[1,2,3],[3,4,4]]
 <strong>输出：</strong>-1
 <strong>解释： </strong>

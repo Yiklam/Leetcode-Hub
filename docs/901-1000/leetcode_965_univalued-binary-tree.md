@@ -10,12 +10,12 @@
   <p>只有给定的树是单值二叉树时，才返回&nbsp;<code>true</code>；否则返回 <code>false</code>。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 159px; width: 200px;" src="/aliyun-lc-upload/uploads/2018/12/29/screen-shot-2018-12-25-at-50104-pm.png" alt=""></p> 
+  <p><img style="height: 159px; width: 200px;" src="../aliyun-lc-upload/uploads/2018/12/29/screen-shot-2018-12-25-at-50104-pm.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>[1,1,1,1,1,null,1]
 <strong>输出：</strong>true
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><img style="height: 158px; width: 200px;" src="/aliyun-lc-upload/uploads/2018/12/29/screen-shot-2018-12-25-at-50050-pm.png" alt=""></p> 
+  <p><img style="height: 158px; width: 200px;" src="../aliyun-lc-upload/uploads/2018/12/29/screen-shot-2018-12-25-at-50050-pm.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>[2,2,2,5,2]
 <strong>输出：</strong>false
 </pre> 

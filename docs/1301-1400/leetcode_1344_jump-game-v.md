@@ -16,7 +16,7 @@
   <p>请注意，任何时刻你都不能跳到数组的外面。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 419px; width: 633px;" src="/aliyun-lc-upload/uploads/2020/02/02/meta-chart.jpeg" alt=""></p> 
+  <p><img style="height: 419px; width: 633px;" src="../aliyun-lc-upload/uploads/2020/02/02/meta-chart.jpeg" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>arr = [6,4,14,6,8,13,9,7,10,6,12], d = 2
 <strong>输出：</strong>4
 <strong>解释：</strong>你可以从下标 10 出发，然后如上图依次经过 10 --&gt; 8 --&gt; 6 --&gt; 7 。

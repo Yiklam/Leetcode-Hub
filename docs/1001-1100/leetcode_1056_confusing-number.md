@@ -13,28 +13,28 @@
   <p>易混淆数&nbsp;(confusing number) 在旋转180°以后，可以得到和原来<strong>不同</strong>的数，且新数字的每一位都是有效的。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 90px; width: 180px;" src="/uploads/2019/03/23/1268_1.png" alt=""></p> 
+  <p><img style="height: 90px; width: 180px;" src="../uploads/2019/03/23/1268_1.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>6
 <strong>输出：</strong>true
 <strong>解释： 
 </strong>把 6 旋转 180° 以后得到 9，9 是有效数字且 9!=6 。
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><img style="height: 90px; width: 180px;" src="/uploads/2019/03/23/1268_2.png" alt=""></p> 
+  <p><img style="height: 90px; width: 180px;" src="../uploads/2019/03/23/1268_2.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>89
 <strong>输出：</strong>true
 <strong>解释: 
 </strong>把 89 旋转 180° 以后得到 68，<code>86</code> 是有效数字且 86!=89 。
 </pre> 
   <p><strong>示例 3：</strong></p> 
-  <p><img style="height: 121px; width: 301px;" src="/uploads/2019/03/26/1268_3.png" alt=""></p> 
+  <p><img style="height: 121px; width: 301px;" src="../uploads/2019/03/26/1268_3.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>11
 <strong>输出：</strong>false
 <strong>解释：
 </strong>把 11 旋转 180° 以后得到 11，11 是有效数字但是值保持不变，所以 11 不是易混淆数字。 
 </pre> 
   <p><strong>示例 4：</strong></p> 
-  <p><img style="height: 90px; width: 180px;" src="/uploads/2019/03/23/1268_4.png" alt=""></p> 
+  <p><img style="height: 90px; width: 180px;" src="../uploads/2019/03/23/1268_4.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>25
 <strong>输出：</strong>false
 <strong>解释：</strong>

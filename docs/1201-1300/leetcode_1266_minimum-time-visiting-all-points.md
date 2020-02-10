@@ -14,7 +14,7 @@
   </ul> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 428px; width: 500px;" src="/aliyun-lc-upload/uploads/2019/11/24/1626_example_1.png" alt=""></p> 
+  <p><img style="height: 428px; width: 500px;" src="../aliyun-lc-upload/uploads/2019/11/24/1626_example_1.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>points = [[1,1],[3,4],[-1,0]]
 <strong>输出：</strong>7
 <strong>解释：</strong>一条最佳的访问路径是： <strong>[1,1]</strong> -&gt; [2,2] -&gt; [3,3] -&gt; <strong>[3,4] </strong>-&gt; [2,3] -&gt; [1,2] -&gt; [0,1] -&gt; <strong>[-1,0]</strong>   

@@ -12,7 +12,7 @@
   <p>返回整个工作计划的 <strong>最小难度</strong> 。如果无法制定工作计划，则返回&nbsp;<strong>-1&nbsp;</strong>。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 304px; width: 365px;" src="/aliyun-lc-upload/uploads/2020/01/26/untitled.png" alt=""></p> 
+  <p><img style="height: 304px; width: 365px;" src="../aliyun-lc-upload/uploads/2020/01/26/untitled.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>jobDifficulty = [6,5,4,3,2,1], d = 2
 <strong>输出：</strong>7
 <strong>解释：</strong>第一天，您可以完成前 5 项工作，总难度 = 6.

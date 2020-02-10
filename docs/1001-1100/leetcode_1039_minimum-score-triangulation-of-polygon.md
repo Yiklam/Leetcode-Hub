@@ -17,7 +17,7 @@
 <strong>解释：</strong>多边形已经三角化，唯一三角形的分数为 6。
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><img style="height: 150px; width: 253px;" src="/aliyun-lc-upload/uploads/2019/05/03/minimum-score-triangulation-of-polygon-1.png" alt=""></p> 
+  <p><img style="height: 150px; width: 253px;" src="../aliyun-lc-upload/uploads/2019/05/03/minimum-score-triangulation-of-polygon-1.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>[3,7,4,5]
 <strong>输出：</strong>144
 <strong>解释：</strong>有两种三角剖分，可能得分分别为：3*7*5 + 4*5*7 = 245，或 3*4*5 + 3*4*7 = 144。最低分数为 144。

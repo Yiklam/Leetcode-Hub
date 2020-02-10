@@ -15,14 +15,14 @@
   <pre class="language-text"><strong>输入：</strong>n = 2, m = 3, broken = [[1, 0], [1, 1]]
 <strong>输出：</strong>2
 <strong>解释：</strong>我们最多可以放两块骨牌：[[0, 0], [0, 1]]以及[[0, 2], [1, 2]]。（见下图）</pre> 
-  <p><img style="height: 204px; width: 304px;" src="/aliyun-lc-upload/uploads/2019/09/09/domino_example_1.jpg" alt=""></p> 
+  <p><img style="height: 204px; width: 304px;" src="../aliyun-lc-upload/uploads/2019/09/09/domino_example_1.jpg" alt=""></p> 
   <p>&nbsp;</p> 
   <p><strong>示例 2：</strong></p> 
   <pre class="language-text"><strong>输入：</strong>n = 3, m = 3, broken = []
 <strong>输出：</strong>4
 <strong>解释：</strong>下图是其中一种可行的摆放方式
 </pre> 
-  <p><img style="height: 304px; width: 304px;" src="/aliyun-lc-upload/uploads/2019/09/09/domino_example_2.jpg" alt=""></p> 
+  <p><img style="height: 304px; width: 304px;" src="../aliyun-lc-upload/uploads/2019/09/09/domino_example_2.jpg" alt=""></p> 
   <p>&nbsp;</p> 
   <p><strong>限制：</strong></p> 
   <ol> 

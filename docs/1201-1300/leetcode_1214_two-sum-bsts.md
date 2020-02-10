@@ -10,13 +10,13 @@
   <p>如果可以找到返回&nbsp;<code>True</code>，否则返回&nbsp;<code>False</code>。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="height: 140px; width: 150px;" src="/aliyun-lc-upload/uploads/2019/06/21/1368_1_a2.png" alt=""><img style="height: 136px; width: 150px;" src="/aliyun-lc-upload/uploads/2019/06/21/1368_1_b.png" alt=""></strong></p> 
+  <p><strong><img style="height: 140px; width: 150px;" src="../aliyun-lc-upload/uploads/2019/06/21/1368_1_a2.png" alt=""><img style="height: 136px; width: 150px;" src="../aliyun-lc-upload/uploads/2019/06/21/1368_1_b.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>root1 = [2,1,4], root2 = [1,0,3], target = 5
 <strong>输出：</strong>true
 <strong>解释：</strong>2 加 3 和为 5 。
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img style="height: 137px; width: 150px;" src="/aliyun-lc-upload/uploads/2019/06/21/1368_2_a.png" alt=""><img style="height: 168px; width: 150px;" src="/aliyun-lc-upload/uploads/2019/06/21/1368_2_b.png" alt=""></strong></p> 
+  <p><strong><img style="height: 137px; width: 150px;" src="../aliyun-lc-upload/uploads/2019/06/21/1368_2_a.png" alt=""><img style="height: 168px; width: 150px;" src="../aliyun-lc-upload/uploads/2019/06/21/1368_2_b.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>root1 = [0,-10,10], root2 = [5,1,7,0,2], target = 18
 <strong>输出：</strong>false</pre> 
   <p>&nbsp;</p> 

@@ -11,14 +11,14 @@
   <p>如果我们的地图上只有陆地或者海洋，请返回&nbsp;<code>-1</code>。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="height: 87px; width: 185px;" src="/aliyun-lc-upload/uploads/2019/08/17/1336_ex1.jpeg" alt=""></strong></p> 
+  <p><strong><img style="height: 87px; width: 185px;" src="../aliyun-lc-upload/uploads/2019/08/17/1336_ex1.jpeg" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>[[1,0,1],[0,0,0],[1,0,1]]
 <strong>输出：</strong>2
 <strong>解释： </strong>
 海洋区域 (1, 1) 和所有陆地区域之间的距离都达到最大，最大距离为 2。
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img style="height: 87px; width: 184px;" src="/aliyun-lc-upload/uploads/2019/08/17/1336_ex2.jpeg" alt=""></strong></p> 
+  <p><strong><img style="height: 87px; width: 184px;" src="../aliyun-lc-upload/uploads/2019/08/17/1336_ex2.jpeg" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>[[1,0,0],[0,0,0],[0,0,0]]
 <strong>输出：</strong>4
 <strong>解释： </strong>

@@ -13,17 +13,17 @@
   <ol> 
   </ol> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="height: 107px; width: 160px;" src="/aliyun-lc-upload/uploads/2019/02/02/tree1.png" alt=""></strong></p> 
+  <p><strong><img style="height: 107px; width: 160px;" src="../aliyun-lc-upload/uploads/2019/02/02/tree1.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>[0,1,2,3,4,3,4]
 <strong>输出：</strong>"dba"
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img style="height: 107px; width: 160px;" src="/aliyun-lc-upload/uploads/2019/02/02/tree2.png" alt=""></strong></p> 
+  <p><strong><img style="height: 107px; width: 160px;" src="../aliyun-lc-upload/uploads/2019/02/02/tree2.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>[25,1,3,1,3,0,2]
 <strong>输出：</strong>"adz"
 </pre> 
   <p><strong>示例 3：</strong></p> 
-  <p><strong><img style="height: 180px; width: 172px;" src="/aliyun-lc-upload/uploads/2019/02/02/tree3.png" alt=""></strong></p> 
+  <p><strong><img style="height: 180px; width: 172px;" src="../aliyun-lc-upload/uploads/2019/02/02/tree3.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>[2,2,1,null,1,0,null,0]
 <strong>输出：</strong>"abc"
 </pre> 

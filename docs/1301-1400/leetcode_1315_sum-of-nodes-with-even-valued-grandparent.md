@@ -13,7 +13,7 @@
   <p>如果不存在祖父节点值为偶数的节点，那么返回&nbsp;<code>0</code> 。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例：</strong></p> 
-  <p><strong><img style="height: 214px; width: 350px;" src="/aliyun-lc-upload/uploads/2020/01/10/1473_ex1.png" alt=""></strong></p> 
+  <p><strong><img style="height: 214px; width: 350px;" src="../aliyun-lc-upload/uploads/2020/01/10/1473_ex1.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>root = [6,7,8,2,7,1,3,9,null,1,4,null,null,null,5]
 <strong>输出：</strong>18
 <strong>解释：</strong>图中红色节点的祖父节点的值为偶数，蓝色节点为这些红色节点的祖父节点。

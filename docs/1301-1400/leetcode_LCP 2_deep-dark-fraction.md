@@ -7,7 +7,7 @@
 <div class="content__1Y2H">
  <div class="notranslate">
   <p>有一个同学在学习分式。他需要将一个连分数化成最简分数，你能帮助他吗？</p> 
-  <p><img style="height: 195px; width: 480px;" src="/aliyun-lc-upload/uploads/2019/09/09/fraction_example_1.jpg" alt=""></p> 
+  <p><img style="height: 195px; width: 480px;" src="../aliyun-lc-upload/uploads/2019/09/09/fraction_example_1.jpg" alt=""></p> 
   <p>连分数是形如上图的分式。在本题中，所有系数都是大于等于0的整数。</p> 
   <p>&nbsp;</p> 
   <p>输入的<code>cont</code>代表连分数的系数（<code>cont[0]</code>代表上图的<code>a<sub>0</sub></code>，以此类推）。返回一个长度为2的数组<code>[n, m]</code>，使得连分数的值等于<code>n / m</code>，且<code>n, m</code>最大公约数为1。</p> 

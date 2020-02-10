@@ -14,7 +14,7 @@
    <li>同一个链接最多只爬取一次</li> 
    <li>只输出&nbsp;<strong>域名&nbsp;</strong>与<strong>&nbsp;</strong><code>startUrl</code>&nbsp;<strong>相同&nbsp;</strong>的链接集合</li> 
   </ul> 
-  <p><img style="height: 164px; width: 600px;" src="/uploads/2019/08/13/urlhostname.png" alt=""></p> 
+  <p><img style="height: 164px; width: 600px;" src="../uploads/2019/08/13/urlhostname.png" alt=""></p> 
   <p>如上所示的一个链接，其域名为&nbsp;<code>example.org</code>。简单起见，你可以假设所有的链接都采用&nbsp;<strong>http协议&nbsp;</strong>并没有指定&nbsp;<strong>端口</strong>。例如，链接&nbsp;<code>http://leetcode.com/problems</code>&nbsp;和&nbsp;<code>http://leetcode.com/contest</code>&nbsp;是同一个域名下的，而链接<code>http://example.org/test</code>&nbsp;和&nbsp;<code>http://example.com/abc</code> 是不在同一域名下的。</p> 
   <p><code>HtmlParser</code> 接口定义如下：&nbsp;</p> 
   <pre class="language-text">interface HtmlParser {
@@ -24,7 +24,7 @@
   <p>下面是两个实例，用以解释该问题的设计功能，对于自定义测试，你可以使用三个变量&nbsp;&nbsp;<code>urls</code>,&nbsp;<code>edges</code>&nbsp;和&nbsp;<code>startUrl</code>。注意在代码实现中，你只可以访问&nbsp;<code>startUrl</code>&nbsp;，而&nbsp;<code>urls</code>&nbsp;和&nbsp;<code>edges</code>&nbsp;不可以在你的代码中被直接访问。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 300px; width: 610px;" src="/uploads/2019/10/23/sample_2_1497.png" alt=""></p> 
+  <p><img style="height: 300px; width: 610px;" src="../uploads/2019/10/23/sample_2_1497.png" alt=""></p> 
   <pre class="language-text"><strong>输入：
 </strong>urls = [
 &nbsp; "http://news.yahoo.com",
@@ -43,7 +43,7 @@ startUrl = "http://news.yahoo.com/news/topics/"
 ]
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img style="height: 270px; width: 540px;" src="/uploads/2019/10/23/sample_3_1497.png" alt=""></strong></p> 
+  <p><strong><img style="height: 270px; width: 540px;" src="../uploads/2019/10/23/sample_3_1497.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>
 urls = [
 &nbsp; "http://news.yahoo.com",

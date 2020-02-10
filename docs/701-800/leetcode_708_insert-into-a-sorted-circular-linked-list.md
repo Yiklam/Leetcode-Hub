@@ -11,9 +11,9 @@
   <p>如果列表为空（给定的节点是 <code>null</code>），你需要创建一个循环有序列表并返回这个点。否则。请返回原先给定的节点。</p> 
   <p>下面的例子可以帮你更好的理解这个问题：</p> 
   <p>&nbsp;</p> 
-  <p><img style="height: 149px; width: 250px;" src="/uploads/2019/01/19/example_1_before_65p.jpg" alt=""><br> <br> <small>在上图中，有一个包含三个元素的循环有序列表，你获得值为 3 的节点的指针，我们需要向表中插入元素 2。</small></p> 
+  <p><img style="height: 149px; width: 250px;" src="../uploads/2019/01/19/example_1_before_65p.jpg" alt=""><br> <br> <small>在上图中，有一个包含三个元素的循环有序列表，你获得值为 3 的节点的指针，我们需要向表中插入元素 2。</small></p> 
   <p>&nbsp;</p> 
-  <p><img style="height: 149px; width: 250px;" src="/uploads/2019/01/19/example_1_after_65p.jpg" alt=""><br> &nbsp;</p> 
+  <p><img style="height: 149px; width: 250px;" src="../uploads/2019/01/19/example_1_after_65p.jpg" alt=""><br> &nbsp;</p> 
   <p><small>新插入的节点应该在 1 和 3 之间，插入之后，整个列表如上图所示，最后返回节点 3。</small></p> 
  </div>
 </div>

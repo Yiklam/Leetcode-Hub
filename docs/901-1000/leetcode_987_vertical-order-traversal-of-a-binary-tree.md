@@ -13,7 +13,7 @@
   <p>按&nbsp;<code>X</code>&nbsp;坐标顺序返回非空报告的列表。每个报告都有一个结点值列表。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 186px; width: 201px;" src="/aliyun-lc-upload/uploads/2019/02/02/1236_example_1.PNG" alt=""></p> 
+  <p><img style="height: 186px; width: 201px;" src="../aliyun-lc-upload/uploads/2019/02/02/1236_example_1.PNG" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>[3,9,20,null,null,15,7]
 <strong>输出：</strong>[[9],[3,15],[20],[7]]
 <strong>解释： </strong>
@@ -24,7 +24,7 @@
 值为 7 的结点出现在 (2, -2)。
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img style="height: 150px; width: 236px;" src="/aliyun-lc-upload/uploads/2019/02/23/tree2.png" alt=""></strong></p> 
+  <p><strong><img style="height: 150px; width: 236px;" src="../aliyun-lc-upload/uploads/2019/02/23/tree2.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>[1,2,3,4,5,6,7]
 <strong>输出：</strong>[[4],[2],[1,5,6],[3],[7]]
 <strong>解释：</strong>

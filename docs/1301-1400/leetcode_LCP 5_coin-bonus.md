@@ -42,7 +42,7 @@
 第一次查询时，每个成员得到的LeetCoin的数量分别为（按编号顺序）：500, 50, 50, 0, 50, 0;
 第二次查询时，每个成员得到的LeetCoin的数量分别为（按编号顺序）：500, 50, 50, 0, 50, 15.
 </pre> 
-  <p><img style="height: 344px; width: 300px;" src="/aliyun-lc-upload/uploads/2019/09/09/coin_example_1.jpg" alt=""></p> 
+  <p><img style="height: 344px; width: 300px;" src="../aliyun-lc-upload/uploads/2019/09/09/coin_example_1.jpg" alt=""></p> 
   <p>&nbsp;</p> 
   <p><strong>限制：</strong></p> 
   <ol> 

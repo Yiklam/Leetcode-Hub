@@ -12,7 +12,7 @@
   <p><strong>示例：</strong></p> 
   <pre class="language-text"><strong>输入：</strong>[8,5,1,7,10,12]
 <strong>输出：</strong>[8,5,10,1,7,null,12]
-<img style="height: 200px; width: 306px;" src="/aliyun-lc-upload/uploads/2019/03/08/1266.png" alt="">
+<img style="height: 200px; width: 306px;" src="../aliyun-lc-upload/uploads/2019/03/08/1266.png" alt="">
 </pre> 
   <p>&nbsp;</p> 
   <p><strong>提示：</strong></p> 

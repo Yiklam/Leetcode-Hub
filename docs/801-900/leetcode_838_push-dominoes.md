@@ -8,7 +8,7 @@
  <div class="notranslate">
   <p>一行中有 <code>N</code> 张多米诺骨牌，我们将每张多米诺骨牌垂直竖立。</p> 
   <p>在开始时，我们同时把一些多米诺骨牌向左或向右推。</p> 
-  <p><img style="height: 160px; width: 418px;" src="/aliyun-lc-upload/uploads/2018/05/19/domino.png" alt=""></p> 
+  <p><img style="height: 160px; width: 418px;" src="../aliyun-lc-upload/uploads/2018/05/19/domino.png" alt=""></p> 
   <p>每过一秒，倒向左边的多米诺骨牌会推动其左侧相邻的多米诺骨牌。</p> 
   <p>同样地，倒向右边的多米诺骨牌也会推动竖立在其右侧的相邻多米诺骨牌。</p> 
   <p>如果同时有多米诺骨牌落在一张垂直竖立的多米诺骨牌的两边，由于受力平衡， 该骨牌仍然保持不变。</p> 

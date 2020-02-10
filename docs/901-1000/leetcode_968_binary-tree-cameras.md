@@ -11,13 +11,13 @@
   <p>计算监控树的所有节点所需的最小摄像头数量。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 163px; width: 138px;" src="/aliyun-lc-upload/uploads/2018/12/29/bst_cameras_01.png" alt=""></p> 
+  <p><img style="height: 163px; width: 138px;" src="../aliyun-lc-upload/uploads/2018/12/29/bst_cameras_01.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>[0,0,null,0,0]
 <strong>输出：</strong>1
 <strong>解释：</strong>如图所示，一台摄像头足以监控所有节点。
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><img style="height: 312px; width: 139px;" src="/aliyun-lc-upload/uploads/2018/12/29/bst_cameras_02.png" alt=""></p> 
+  <p><img style="height: 312px; width: 139px;" src="../aliyun-lc-upload/uploads/2018/12/29/bst_cameras_02.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>[0,0,null,0,null,0,null,null,0]
 <strong>输出：</strong>2
 <strong>解释：</strong>需要至少两个摄像头来监视树的所有节点。 上图显示了摄像头放置的有效位置之一。

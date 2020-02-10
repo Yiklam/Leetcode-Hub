@@ -12,13 +12,13 @@
   <pre class="language-text"><strong>输入: </strong>m = 2, n = 2, N = 2, i = 0, j = 0
 <strong>输出:</strong> 6
 <strong>解释:</strong>
-<img style="width: 100%; max-width: 400px" src="/aliyun-lc-upload/uploads/2018/10/12/out_of_boundary_paths_1.png">
+<img style="width: 100%; max-width: 400px" src="../aliyun-lc-upload/uploads/2018/10/12/out_of_boundary_paths_1.png">
 </pre> 
   <p><strong>示例 2：</strong></p> 
   <pre class="language-text"><strong>输入: </strong>m = 1, n = 3, N = 3, i = 0, j = 1
 <strong>输出:</strong> 12
 <strong>解释:</strong>
-<img style="width: 100%; max-width: 400px" src="/aliyun-lc-upload/uploads/2018/10/12/out_of_boundary_paths_2.png">
+<img style="width: 100%; max-width: 400px" src="../aliyun-lc-upload/uploads/2018/10/12/out_of_boundary_paths_2.png">
 </pre> 
   <p>&nbsp;</p> 
   <p><strong>说明:</strong></p> 

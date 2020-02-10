@@ -10,7 +10,7 @@
   <p>设计一个序列化和反序列化 N 叉树的算法。一个 N 叉树是指每个节点都有不超过 N 个孩子节点的有根树。序列化 / 反序列化算法的算法实现没有限制。你只需要保证 N 叉树可以被序列化为一个字符串并且该字符串可以被反序列化成原树结构即可。</p> 
   <p>例如，你需要序列化下面的 <code>3-叉</code> 树。</p> 
   <p>&nbsp;</p> 
-  <p><img style="width: 250px;" src="/uploads/2018/10/12/narytreeexample.png"></p> 
+  <p><img style="width: 250px;" src="../uploads/2018/10/12/narytreeexample.png"></p> 
   <p>&nbsp;</p> 
   <p>为&nbsp;<code>[1 [3[5 6] 2 4]]</code>。你不需要以这种形式完成，你可以自己创造和实现不同的方法。</p> 
   <p>&nbsp;</p> 

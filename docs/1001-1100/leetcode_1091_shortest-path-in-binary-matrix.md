@@ -18,15 +18,15 @@
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
   <pre class="language-text"><strong>输入：</strong>[[0,1],[1,0]]
-<img style="height: 151px; width: 150px;" src="/aliyun-lc-upload/uploads/2019/06/16/example1_1.png" alt="">
+<img style="height: 151px; width: 150px;" src="../aliyun-lc-upload/uploads/2019/06/16/example1_1.png" alt="">
 <strong>输出：</strong>2
-<img style="height: 151px; width: 150px;" src="/aliyun-lc-upload/uploads/2019/06/16/example1_2.png" alt="">
+<img style="height: 151px; width: 150px;" src="../aliyun-lc-upload/uploads/2019/06/16/example1_2.png" alt="">
 </pre> 
   <p><strong>示例 2：</strong></p> 
   <pre class="language-text"><strong>输入：</strong>[[0,0,0],[1,1,0],[1,1,0]]
-<img style="height: 146px; width: 150px;" src="/aliyun-lc-upload/uploads/2019/06/16/example2_1.png" alt="">
+<img style="height: 146px; width: 150px;" src="../aliyun-lc-upload/uploads/2019/06/16/example2_1.png" alt="">
 <strong>输出：</strong>4
-<img style="height: 151px; width: 150px;" src="/aliyun-lc-upload/uploads/2019/06/16/example2_2.png" alt="">
+<img style="height: 151px; width: 150px;" src="../aliyun-lc-upload/uploads/2019/06/16/example2_2.png" alt="">
 </pre> 
   <p>&nbsp;</p> 
   <p><strong>提示：</strong></p> 

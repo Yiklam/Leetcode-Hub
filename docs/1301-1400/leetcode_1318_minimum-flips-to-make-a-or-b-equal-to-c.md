@@ -11,7 +11,7 @@
   <p>「位翻转操作」是指将一个数的二进制表示任何单个位上的 1 变成 0 或者 0 变成 1 。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 87px; width: 260px;" src="/aliyun-lc-upload/uploads/2020/01/11/sample_3_1676.png" alt=""></p> 
+  <p><img style="height: 87px; width: 260px;" src="../aliyun-lc-upload/uploads/2020/01/11/sample_3_1676.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>a = 2, b = 6, c = 5
 <strong>输出：</strong>3
 <strong>解释：</strong>翻转后 a = 1 , b = 4 , c = 5 使得 <code>a</code> OR <code>b</code> == <code>c</code></pre> 
