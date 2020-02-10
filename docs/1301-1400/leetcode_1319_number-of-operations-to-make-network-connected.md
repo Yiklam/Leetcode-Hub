@@ -11,13 +11,13 @@
   <p>给你这个计算机网络的初始布线&nbsp;<code>connections</code>，你可以拔开任意两台直连计算机之间的线缆，并用它连接一对未直连的计算机。请你计算并返回使所有计算机都连通所需的最少操作次数。如果不可能，则返回&nbsp;-1 。&nbsp;</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="height: 167px; width: 570px;" src="../aliyun-lc-upload/uploads/2020/01/11/sample_1_1677.png" alt=""></strong></p> 
+  <p><strong><img style="height: 167px; width: 570px;" src="/aliyun-lc-upload/uploads/2020/01/11/sample_1_1677.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>n = 4, connections = [[0,1],[0,2],[1,2]]
 <strong>输出：</strong>1
 <strong>解释：</strong>拔下计算机 1 和 2 之间的线缆，并将它插到计算机 1 和 3 上。
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img style="height: 175px; width: 660px;" src="../aliyun-lc-upload/uploads/2020/01/11/sample_2_1677.png" alt=""></strong></p> 
+  <p><strong><img style="height: 175px; width: 660px;" src="/aliyun-lc-upload/uploads/2020/01/11/sample_2_1677.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>n = 6, connections = [[0,1],[0,2],[0,3],[1,2],[1,3]]
 <strong>输出：</strong>2
 </pre> 

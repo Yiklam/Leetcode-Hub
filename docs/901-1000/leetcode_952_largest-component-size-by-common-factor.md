@@ -18,17 +18,17 @@
   <p><strong>示例 1：</strong></p> 
   <pre class="language-text"><strong>输入：</strong>[4,6,15,35]
 <strong>输出：</strong>4
-<img style="height: 37px; width: 255px;" src="../aliyun-lc-uploads/uploads/2018/12/01/ex1.png" alt=""><img style="height: 50px; width: 257px;" src="../aliyun-lc-upload/uploads/2018/12/01/ex1.png" alt="">
+<img style="height: 37px; width: 255px;" src="/aliyun-lc-uploads/uploads/2018/12/01/ex1.png" alt=""><img style="height: 50px; width: 257px;" src="/aliyun-lc-upload/uploads/2018/12/01/ex1.png" alt="">
 </pre> 
   <p><strong>示例 2：</strong></p> 
   <pre class="language-text"><strong>输入：</strong>[20,50,9,63]
 <strong>输出：</strong>2
-<img style="height: 50px; width: 293px;" src="../aliyun-lc-upload/uploads/2018/12/01/ex2.png" alt="">
+<img style="height: 50px; width: 293px;" src="/aliyun-lc-upload/uploads/2018/12/01/ex2.png" alt="">
 </pre> 
   <p><strong>示例 3：</strong></p> 
   <pre class="language-text"><strong>输入：</strong>[2,3,6,7,4,12,21,39]
 <strong>输出：</strong>8
-<img style="height: 180px; width: 346px;" src="../aliyun-lc-upload/uploads/2018/12/01/ex3.png" alt="">
+<img style="height: 180px; width: 346px;" src="/aliyun-lc-upload/uploads/2018/12/01/ex3.png" alt="">
 </pre> 
   <p>&nbsp;</p> 
   <p><strong>提示：</strong></p> 

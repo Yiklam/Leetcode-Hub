@@ -10,12 +10,12 @@
   <p>请你来判断，这些点是否在该坐标系中属于同一条直线上，是则返回 <code>true</code>，否则请返回 <code>false</code>。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 336px; width: 336px;" src="../aliyun-lc-upload/uploads/2019/10/19/untitled-diagram-2.jpg" alt=""></p> 
+  <p><img style="height: 336px; width: 336px;" src="/aliyun-lc-upload/uploads/2019/10/19/untitled-diagram-2.jpg" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>coordinates = [[1,2],[2,3],[3,4],[4,5],[5,6],[6,7]]
 <strong>输出：</strong>true
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img style="height: 336px; width: 348px;" src="../aliyun-lc-upload/uploads/2019/10/19/untitled-diagram-1.jpg" alt=""></strong></p> 
+  <p><strong><img style="height: 336px; width: 348px;" src="/aliyun-lc-upload/uploads/2019/10/19/untitled-diagram-1.jpg" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>coordinates = [[1,1],[2,2],[3,4],[4,5],[5,6],[7,7]]
 <strong>输出：</strong>false
 </pre> 

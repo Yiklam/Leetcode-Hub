@@ -11,7 +11,7 @@
   <p>也就是说，你需要重复此过程直到不能继续删除。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="height: 120px; width: 550px;" src="../aliyun-lc-upload/uploads/2020/01/16/sample_1_1684.png" alt=""></strong></p> 
+  <p><strong><img style="height: 120px; width: 550px;" src="/aliyun-lc-upload/uploads/2020/01/16/sample_1_1684.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>root = [1,2,3,2,null,2,4], target = 2
 <strong>输出：</strong>[1,null,3,null,4]
 <strong>解释：
@@ -19,12 +19,12 @@
 有一个新的节点变成了叶子节点且它的值与 target 相同，所以将再次进行删除，从而得到最右边的图。
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img style="height: 120px; width: 300px;" src="../aliyun-lc-upload/uploads/2020/01/16/sample_2_1684.png" alt=""></strong></p> 
+  <p><strong><img style="height: 120px; width: 300px;" src="/aliyun-lc-upload/uploads/2020/01/16/sample_2_1684.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>root = [1,3,3,3,2], target = 3
 <strong>输出：</strong>[1,3,null,null,2]
 </pre> 
   <p><strong>示例 3：</strong></p> 
-  <p><strong><img style="width: 450px;" src="../aliyun-lc-upload/uploads/2020/01/16/sample_3_1684.png" alt=""></strong></p> 
+  <p><strong><img style="width: 450px;" src="/aliyun-lc-upload/uploads/2020/01/16/sample_3_1684.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>root = [1,2,null,2,null,2], target = 2
 <strong>输出：</strong>[1]
 <strong>解释：</strong>每一步都删除一个绿色的叶子节点（值为 2）。</pre> 

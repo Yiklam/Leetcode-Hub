@@ -12,14 +12,14 @@
   <p>返回每个工人与分配到的自行车之间的曼哈顿距离的最小可能总和。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 264px; width: 264px;" src="../aliyun-lc-upload/uploads/2019/06/01/1261_example_1_v2.png" alt=""></p> 
+  <p><img style="height: 264px; width: 264px;" src="/aliyun-lc-upload/uploads/2019/06/01/1261_example_1_v2.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>workers = [[0,0],[2,1]], bikes = [[1,2],[3,3]]
 <strong>输出：</strong>6
 <strong>解释：</strong>
 自行车 0 分配给工人 0，自行车 1 分配给工人 1 。分配得到的曼哈顿距离都是 3, 所以输出为 6 。
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><img style="height: 264px; width: 264px;" src="../aliyun-lc-upload/uploads/2019/06/01/1261_example_2_v2.png" alt=""></p> 
+  <p><img style="height: 264px; width: 264px;" src="/aliyun-lc-upload/uploads/2019/06/01/1261_example_2_v2.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>workers = [[0,0],[1,1],[2,0]], bikes = [[1,0],[2,2],[2,1]]
 <strong>输出：</strong>4
 <strong>解释：</strong>

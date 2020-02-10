@@ -11,7 +11,7 @@
   <p>以<strong>&nbsp;<code>10^9 + 7</code></strong>&nbsp;为<strong>模</strong>，返回这些数字之和。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例：</strong></p> 
-  <p><img style="height: 200px; width: 304px;" src="../aliyun-lc-upload/uploads/2019/04/05/sum-of-root-to-leaf-binary-numbers.png" alt=""></p> 
+  <p><img style="height: 200px; width: 304px;" src="/aliyun-lc-upload/uploads/2019/04/05/sum-of-root-to-leaf-binary-numbers.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>[1,0,1,0,1,0,1]
 <strong>输出：</strong>22
 <strong>解释：</strong>(100) + (101) + (110) + (111) = 4 + 5 + 6 + 7 = 22

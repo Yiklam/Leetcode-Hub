@@ -12,14 +12,14 @@
   <ul> 
    <li>如果没有障碍，则向右移动一个单元格。并仍然保持身体的水平／竖直状态。</li> 
    <li>如果没有障碍，则向下移动一个单元格。并仍然保持身体的水平／竖直状态。</li> 
-   <li>如果它处于水平状态并且其下面的两个单元都是空的，就顺时针旋转 90 度。蛇从（<code>(r, c)</code>、<code>(r, c+1)</code>）移动到 （<code>(r, c)</code>、<code>(r+1, c)</code>）。<br> <img style="height: 134px; width: 300px;" src="../aliyun-lc-upload/uploads/2019/09/28/image-2.png" alt=""></li> 
-   <li>如果它处于竖直状态并且其右面的两个单元都是空的，就逆时针旋转 90 度。蛇从（<code>(r, c)</code>、<code>(r+1, c)</code>）移动到（<code>(r, c)</code>、<code>(r, c+1)</code>）。<br> <img style="height: 121px; width: 300px;" src="../aliyun-lc-upload/uploads/2019/09/28/image-1.png" alt=""></li> 
+   <li>如果它处于水平状态并且其下面的两个单元都是空的，就顺时针旋转 90 度。蛇从（<code>(r, c)</code>、<code>(r, c+1)</code>）移动到 （<code>(r, c)</code>、<code>(r+1, c)</code>）。<br> <img style="height: 134px; width: 300px;" src="/aliyun-lc-upload/uploads/2019/09/28/image-2.png" alt=""></li> 
+   <li>如果它处于竖直状态并且其右面的两个单元都是空的，就逆时针旋转 90 度。蛇从（<code>(r, c)</code>、<code>(r+1, c)</code>）移动到（<code>(r, c)</code>、<code>(r, c+1)</code>）。<br> <img style="height: 121px; width: 300px;" src="/aliyun-lc-upload/uploads/2019/09/28/image-1.png" alt=""></li> 
   </ul> 
   <p>返回蛇抵达目的地所需的最少移动次数。</p> 
   <p>如果无法到达目的地，请返回&nbsp;<code>-1</code>。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="height: 439px; width: 400px;" src="../aliyun-lc-upload/uploads/2019/09/28/image.png" alt=""></strong></p> 
+  <p><strong><img style="height: 439px; width: 400px;" src="/aliyun-lc-upload/uploads/2019/09/28/image.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>grid = [[0,0,0,0,0,1],
                [1,1,0,0,1,0],
 &nbsp;              [0,0,0,0,1,1],

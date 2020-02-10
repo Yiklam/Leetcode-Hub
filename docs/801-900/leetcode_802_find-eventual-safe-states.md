@@ -16,7 +16,7 @@
 这里是上图的示意图。
 
 </pre> 
-  <p><img style="height:86px; width:300px" src="../uploads/2018/03/17/picture1.png" alt="Illustration of graph"></p> 
+  <p><img style="height:86px; width:300px" src="/uploads/2018/03/17/picture1.png" alt="Illustration of graph"></p> 
   <p><strong>提示：</strong></p> 
   <ul> 
    <li><code>graph</code> 节点数不超过 <code>10000</code>.</li> 

@@ -12,7 +12,7 @@
   <p>给定你的&nbsp;<code>id</code>&nbsp; 和一个&nbsp;<code>level</code>&nbsp;值，请你找出所有指定 <code>level</code> 的视频，并将它们按观看频率升序返回。如果有频率相同的视频，请将它们按字母顺序从小到大排列。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="height: 179px; width: 129px;" src="../aliyun-lc-upload/uploads/2020/01/03/leetcode_friends_1.png" alt=""></strong></p> 
+  <p><strong><img style="height: 179px; width: 129px;" src="/aliyun-lc-upload/uploads/2020/01/03/leetcode_friends_1.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>watchedVideos = [["A","B"],["C"],["B","C"],["D"]], friends = [[1,2],[0,3],[0,3],[1,2]], id = 0, level = 1
 <strong>输出：</strong>["B","C"] 
 <strong>解释：</strong>
@@ -24,7 +24,7 @@ B -&gt; 1&nbsp;
 C -&gt; 2
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img style="height: 179px; width: 129px;" src="../aliyun-lc-upload/uploads/2020/01/03/leetcode_friends_2.png" alt=""></strong></p> 
+  <p><strong><img style="height: 179px; width: 129px;" src="/aliyun-lc-upload/uploads/2020/01/03/leetcode_friends_2.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>watchedVideos = [["A","B"],["C"],["B","C"],["D"]], friends = [[1,2],[0,3],[0,3],[1,2]], id = 0, level = 2
 <strong>输出：</strong>["D"]
 <strong>解释：</strong>

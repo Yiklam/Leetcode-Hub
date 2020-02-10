@@ -13,7 +13,7 @@
   <p>全零矩阵是所有格子都为 0 的矩阵。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例&nbsp;1：</strong></p> 
-  <p><img style="height: 86px; width: 409px;" src="../aliyun-lc-upload/uploads/2019/12/13/matrix.png" alt=""></p> 
+  <p><img style="height: 86px; width: 409px;" src="/aliyun-lc-upload/uploads/2019/12/13/matrix.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>mat = [[0,0],[0,1]]
 <strong>输出：</strong>3
 <strong>解释：</strong>一个可能的解是反转 (1, 0)，然后 (0, 1) ，最后是 (1, 1) 。

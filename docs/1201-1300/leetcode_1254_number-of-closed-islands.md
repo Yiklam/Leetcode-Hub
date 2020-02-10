@@ -12,13 +12,13 @@
   <p>请返回封闭岛屿的数目。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img src="../aliyun-lc-upload/uploads/2019/11/07/sample_3_1610.png"></p> 
+  <p><img src="/aliyun-lc-upload/uploads/2019/11/07/sample_3_1610.png"></p> 
   <pre class="language-text"><strong>输入：</strong>grid = [[1,1,1,1,1,1,1,0],[1,0,0,0,0,1,1,0],[1,0,1,0,1,1,1,0],[1,0,0,0,0,1,0,1],[1,1,1,1,1,1,1,0]]
 <strong>输出：</strong>2
 <strong>解释：</strong>
 灰色区域的岛屿是封闭岛屿，因为这座岛屿完全被水域包围（即被 1 区域包围）。</pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><img src="../aliyun-lc-upload/uploads/2019/11/07/sample_4_1610.png"></p> 
+  <p><img src="/aliyun-lc-upload/uploads/2019/11/07/sample_4_1610.png"></p> 
   <pre class="language-text"><strong>输入：</strong>grid = [[0,0,1,0,0],[0,1,0,1,0],[0,1,1,1,0]]
 <strong>输出：</strong>1
 </pre> 

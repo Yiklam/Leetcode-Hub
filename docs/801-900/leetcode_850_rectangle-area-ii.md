@@ -8,7 +8,7 @@
  <div class="notranslate">
   <p>我们给出了一个（轴对齐的）矩形列表&nbsp;<code>rectangles</code>&nbsp;。 对于&nbsp;<code>rectangle[i] = [x1, y1, x2, y2]</code>，其中（x1，y1）是矩形&nbsp;<code>i</code>&nbsp;左下角的坐标，（x2，y2）是该矩形右上角的坐标。</p> 
   <p>找出平面中所有矩形叠加覆盖后的总面积。 由于答案可能太大，<strong>请返回它对 10 ^ 9 + 7 取模的结果</strong>。</p> 
-  <p><img style="height: 360px; width: 480px;" src="../uploads/2018/06/06/rectangle_area_ii_pic.png" alt=""></p> 
+  <p><img style="height: 360px; width: 480px;" src="/uploads/2018/06/06/rectangle_area_ii_pic.png" alt=""></p> 
   <p><strong>示例 1：</strong></p> 
   <pre class="language-text"><strong>输入：</strong>[[0,0,2,2],[1,0,2,3],[1,0,3,1]]
 <strong>输出：</strong>6

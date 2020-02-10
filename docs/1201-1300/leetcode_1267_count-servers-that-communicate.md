@@ -11,18 +11,18 @@
   <p>请你统计并返回能够与至少一台其他服务器进行通信的服务器的数量。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 203px; width: 202px;" src="../aliyun-lc-upload/uploads/2019/11/24/untitled-diagram-6.jpg" alt=""></p> 
+  <p><img style="height: 203px; width: 202px;" src="/aliyun-lc-upload/uploads/2019/11/24/untitled-diagram-6.jpg" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>grid = [[1,0],[0,1]]
 <strong>输出：</strong>0
 <strong>解释：</strong>没有一台服务器能与其他服务器进行通信。</pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img style="height: 203px; width: 203px;" src="../aliyun-lc-upload/uploads/2019/11/24/untitled-diagram-4-1.jpg" alt=""></strong></p> 
+  <p><strong><img style="height: 203px; width: 203px;" src="/aliyun-lc-upload/uploads/2019/11/24/untitled-diagram-4-1.jpg" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>grid = [[1,0],[1,1]]
 <strong>输出：</strong>3
 <strong>解释：</strong>所有这些服务器都至少可以与一台别的服务器进行通信。
 </pre> 
   <p><strong>示例 3：</strong></p> 
-  <p><img style="height: 443px; width: 443px;" src="../aliyun-lc-upload/uploads/2019/11/24/untitled-diagram-1-3.jpg" alt=""></p> 
+  <p><img style="height: 443px; width: 443px;" src="/aliyun-lc-upload/uploads/2019/11/24/untitled-diagram-1-3.jpg" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>grid = [[1,1,0,0],[0,0,1,0],[0,0,1,0],[0,0,0,1]]
 <strong>输出：</strong>4
 <strong>解释：</strong>第一行的两台服务器互相通信，第三列的两台服务器互相通信，但右下角的服务器无法与其他服务器通信。

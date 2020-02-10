@@ -15,17 +15,17 @@
   </ul> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 138px; width: 680px;" src="../aliyun-lc-upload/uploads/2020/01/09/e1.png" alt=""></p> 
+  <p><img style="height: 138px; width: 680px;" src="/aliyun-lc-upload/uploads/2020/01/09/e1.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>head = [[7,null],[13,0],[11,4],[10,2],[1,0]]
 <strong>输出：</strong>[[7,null],[13,0],[11,4],[10,2],[1,0]]
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><img style="height: 111px; width: 680px;" src="../aliyun-lc-upload/uploads/2020/01/09/e2.png" alt=""></p> 
+  <p><img style="height: 111px; width: 680px;" src="/aliyun-lc-upload/uploads/2020/01/09/e2.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>head = [[1,1],[2,1]]
 <strong>输出：</strong>[[1,1],[2,1]]
 </pre> 
   <p><strong>示例 3：</strong></p> 
-  <p><strong><img style="height: 119px; width: 680px;" src="../aliyun-lc-upload/uploads/2020/01/09/e3.png" alt=""></strong></p> 
+  <p><strong><img style="height: 119px; width: 680px;" src="/aliyun-lc-upload/uploads/2020/01/09/e3.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>head = [[3,null],[3,0],[3,null]]
 <strong>输出：</strong>[[3,null],[3,0],[3,null]]
 </pre> 

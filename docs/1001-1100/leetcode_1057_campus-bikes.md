@@ -12,14 +12,14 @@
   <p>返回长度为 <code>n</code> 的向量 <code>ans</code>，其中 <code>a[i]</code>&nbsp;是第 <code>i</code>&nbsp;位工人分配到的自行车的索引（从 0 开始）。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 264px; width: 264px;" src="../aliyun-lc-upload/uploads/2019/03/16/1261_example_1_v2.png" alt=""></p> 
+  <p><img style="height: 264px; width: 264px;" src="/aliyun-lc-upload/uploads/2019/03/16/1261_example_1_v2.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>workers = [[0,0],[2,1]], bikes = [[1,2],[3,3]]
 <strong>输出：</strong>[1,0]
 <strong>解释：</strong>
 工人 1 分配到自行车 0，因为他们最接近且不存在冲突，工人 0 分配到自行车 1 。所以输出是 [1,0]。
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><img style="height: 264px; width: 264px;" src="../aliyun-lc-upload/uploads/2019/03/16/1261_example_2_v2.png" alt=""></p> 
+  <p><img style="height: 264px; width: 264px;" src="/aliyun-lc-upload/uploads/2019/03/16/1261_example_2_v2.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>workers = [[0,0],[1,1],[2,0]], bikes = [[1,0],[2,2],[2,1]]
 <strong>输出：</strong>[0,2,1]
 <strong>解释：</strong>

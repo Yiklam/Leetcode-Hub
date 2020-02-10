@@ -13,7 +13,7 @@
 <strong>解释:</strong> 
 这五个点如下图所示。组成的橙色三角形是最大的，面积为2。
 </pre> 
-  <p><img style="height:328px; width:400px" src="../uploads/2018/04/04/1027.png" alt=""></p> 
+  <p><img style="height:328px; width:400px" src="/uploads/2018/04/04/1027.png" alt=""></p> 
   <p><strong>注意: </strong></p> 
   <ul> 
    <li><code>3 &lt;= points.length &lt;= 50</code>.</li> 

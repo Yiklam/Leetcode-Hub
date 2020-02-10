@@ -15,7 +15,7 @@
    <li>不要抓取相同的链接两次。</li> 
    <li>仅浏览与&nbsp;<code>startUrl</code>&nbsp;<strong>相同主机名&nbsp;</strong>的链接。</li> 
   </ul> 
-  <p><img src="https://user-gold-cdn.xitu.io/2019/11/7/16e463265c7086cb?w=975&amp;h=266&amp;f=png&amp;s=24624" alt=""><img style="height:164px; width:600px" src="../aliyun-lc-upload/uploads/2019/11/09/urlhostname.png" alt=""></p> 
+  <p><img src="https://user-gold-cdn.xitu.io/2019/11/7/16e463265c7086cb?w=975&amp;h=266&amp;f=png&amp;s=24624" alt=""><img style="height:164px; width:600px" src="/aliyun-lc-upload/uploads/2019/11/09/urlhostname.png" alt=""></p> 
   <p>如上图所示，主机名是&nbsp;<code>example.org</code>&nbsp;。简单起见，你可以假设所有链接都采用&nbsp;<strong>http 协议</strong>，并且没有指定&nbsp;<strong>端口号</strong>。举个例子，链接&nbsp;<code>http://leetcode.com/problems</code> 和链接&nbsp;<code>http://leetcode.com/contest</code> 属于同一个&nbsp;<strong>主机名</strong>， 而&nbsp;<code>http://example.org/test</code>&nbsp;与&nbsp;<code>http://example.com/abc</code> 并不属于同一个&nbsp;<strong>主机名</strong>。</p> 
   <p><code>HtmlParser</code> 的接口定义如下：</p> 
   <pre class="language-text">interface HtmlParser {
@@ -34,7 +34,7 @@
   </ol> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height:287px; width:600px" src="../aliyun-lc-upload/uploads/2019/11/09/sample_2_1497.png" alt=""><img src="https://user-gold-cdn.xitu.io/2019/11/7/16e46559da0c446a?w=875&amp;h=418&amp;f=png&amp;s=43518" alt=""></p> 
+  <p><img style="height:287px; width:600px" src="/aliyun-lc-upload/uploads/2019/11/09/sample_2_1497.png" alt=""><img src="https://user-gold-cdn.xitu.io/2019/11/7/16e46559da0c446a?w=875&amp;h=418&amp;f=png&amp;s=43518" alt=""></p> 
   <pre class="language-text"><strong>输入：
 </strong>urls = [
 &nbsp; "http://news.yahoo.com",
@@ -53,7 +53,7 @@ startUrl = "http://news.yahoo.com/news/topics/"
 ]
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img src="https://user-gold-cdn.xitu.io/2019/11/7/16e4657b399a5fd2?w=654&amp;h=431&amp;f=png&amp;s=33838" alt=""><img style="height:395px; width:530px" src="../aliyun-lc-upload/uploads/2019/11/09/sample_3_1497.png" alt=""></strong></p> 
+  <p><strong><img src="https://user-gold-cdn.xitu.io/2019/11/7/16e4657b399a5fd2?w=654&amp;h=431&amp;f=png&amp;s=33838" alt=""><img style="height:395px; width:530px" src="/aliyun-lc-upload/uploads/2019/11/09/sample_3_1497.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>
 urls = [
 &nbsp; "http://news.yahoo.com",

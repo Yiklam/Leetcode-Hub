@@ -13,7 +13,7 @@
   <p>如果你选择的工作在时间&nbsp;<code>X</code>&nbsp;结束，那么你可以立刻进行在时间&nbsp;<code>X</code>&nbsp;开始的下一份工作。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="width: 300px;" src="../aliyun-lc-upload/uploads/2019/10/19/sample1_1584.png" alt=""></strong></p> 
+  <p><strong><img style="width: 300px;" src="/aliyun-lc-upload/uploads/2019/10/19/sample1_1584.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>startTime = [1,2,3,3], endTime = [3,4,5,6], profit = [50,10,40,70]
 <strong>输出：</strong>120
 <strong>解释：
@@ -21,7 +21,7 @@
 时间范围是 [1-3]+[3-6]，共获得报酬 120 = 50 + 70。
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img style="height: 112px; width: 600px;" src="../aliyun-lc-upload/uploads/2019/10/19/sample22_1584.png" alt=""> </strong></p> 
+  <p><strong><img style="height: 112px; width: 600px;" src="/aliyun-lc-upload/uploads/2019/10/19/sample22_1584.png" alt=""> </strong></p> 
   <pre class="language-text"><strong>输入：</strong>startTime = [1,2,3,4,6], endTime = [3,5,10,6,9], profit = [20,20,100,70,60]
 <strong>输出：</strong>150
 <strong>解释：
@@ -29,7 +29,7 @@
 共获得报酬 150 = 20 + 70 + 60。
 </pre> 
   <p><strong>示例 3：</strong></p> 
-  <p><strong><img style="height: 112px; width: 400px;" src="../aliyun-lc-upload/uploads/2019/10/19/sample3_1584.png" alt=""></strong></p> 
+  <p><strong><img style="height: 112px; width: 400px;" src="/aliyun-lc-upload/uploads/2019/10/19/sample3_1584.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>startTime = [1,1,1], endTime = [2,3,4], profit = [5,6,4]
 <strong>输出：</strong>6
 </pre> 

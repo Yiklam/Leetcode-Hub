@@ -7,7 +7,7 @@
 <div class="content__1Y2H">
  <div class="notranslate">
   <p>对链表进行插入排序。</p> 
-  <p><img src="../wikipedia/commons/0/0f/Insertion-sort-example-300px.gif" alt=""><br> <small>插入排序的动画演示如上。从第一个元素开始，该链表可以被认为已经部分排序（用黑色表示）。<br> 每次迭代时，从输入数据中移除一个元素（用红色表示），并原地将其插入到已排好序的链表中。</small></p> 
+  <p><img src="/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif" alt=""><br> <small>插入排序的动画演示如上。从第一个元素开始，该链表可以被认为已经部分排序（用黑色表示）。<br> 每次迭代时，从输入数据中移除一个元素（用红色表示），并原地将其插入到已排好序的链表中。</small></p> 
   <p>&nbsp;</p> 
   <p><strong>插入排序算法：</strong></p> 
   <ol> 

@@ -14,9 +14,9 @@
    <li>数字&nbsp;<code>1-9</code>&nbsp;在每一个以粗实线分隔的&nbsp;<code>3x3</code>&nbsp;宫内只能出现一次。</li> 
   </ol> 
   <p>空白格用&nbsp;<code>'.'</code>&nbsp;表示。</p> 
-  <p><img src="../wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/250px-Sudoku-by-L2G-20050714.svg.png"></p> 
+  <p><img src="/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/250px-Sudoku-by-L2G-20050714.svg.png"></p> 
   <p><small>一个数独。</small></p> 
-  <p><img src="../wikipedia/commons/thumb/3/31/Sudoku-by-L2G-20050714_solution.svg/250px-Sudoku-by-L2G-20050714_solution.svg.png"></p> 
+  <p><img src="/wikipedia/commons/thumb/3/31/Sudoku-by-L2G-20050714_solution.svg/250px-Sudoku-by-L2G-20050714_solution.svg.png"></p> 
   <p><small>答案被标成红色。</small></p> 
   <p><strong>Note:</strong></p> 
   <ul> 

@@ -12,13 +12,13 @@
   <pre class="language-text"><strong>输入:</strong> [[1,1],[2,2],[2,0],[2,4],[3,3],[4,2]]
 <strong>输出:</strong> [[1,1],[2,0],[4,2],[3,3],[2,4]]
 <strong>解释:</strong>
-<img style="width: 100%; max-width: 320px" src="../aliyun-lc-upload/uploads/2018/10/12/erect_the_fence_1.png">
+<img style="width: 100%; max-width: 320px" src="/aliyun-lc-upload/uploads/2018/10/12/erect_the_fence_1.png">
 </pre> 
   <p><strong>示例 2:</strong></p> 
   <pre class="language-text"><strong>输入:</strong> [[1,2],[2,2],[4,2]]
 <strong>输出:</strong> [[1,2],[2,2],[4,2]]
 <strong>解释:</strong>
-<img style="width: 100%; max-width: 320px" src="../aliyun-lc-upload/uploads/2018/10/12/erect_the_fence_2.png">
+<img style="width: 100%; max-width: 320px" src="/aliyun-lc-upload/uploads/2018/10/12/erect_the_fence_2.png">
 即使树都在一条直线上，你也需要先用绳子包围它们。
 </pre> 
   <p>&nbsp;</p> 

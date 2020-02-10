@@ -10,7 +10,7 @@
   <p>（如果 A 的任何子节点之一为 B，或者 A 的任何子节点是 B 的祖先，那么我们认为 A 是 B 的祖先）</p> 
   <p>&nbsp;</p> 
   <p><strong>示例：</strong></p> 
-  <p><img style="height: 230px; width: 300px;" src="../aliyun-lc-upload/uploads/2019/04/12/2whqcep.jpg" alt=""></p> 
+  <p><img style="height: 230px; width: 300px;" src="/aliyun-lc-upload/uploads/2019/04/12/2whqcep.jpg" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>[8,3,10,1,6,null,14,null,null,4,7,13]
 <strong>输出：</strong>7
 <strong>解释： </strong>

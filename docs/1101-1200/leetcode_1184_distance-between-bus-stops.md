@@ -11,20 +11,20 @@
   <p>返回乘客从出发点&nbsp;<code>start</code>&nbsp;到目的地&nbsp;<code>destination</code>&nbsp;之间的最短距离。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 240px; width: 388px;" src="../aliyun-lc-upload/uploads/2019/09/08/untitled-diagram-1.jpg" alt=""></p> 
+  <p><img style="height: 240px; width: 388px;" src="/aliyun-lc-upload/uploads/2019/09/08/untitled-diagram-1.jpg" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>distance = [1,2,3,4], start = 0, destination = 1
 <strong>输出：</strong>1
 <strong>解释：</strong>公交站 0 和 1 之间的距离是 1 或 9，最小值是 1。</pre> 
   <p>&nbsp;</p> 
   <p><strong>示例 2：</strong></p> 
-  <p><img style="height: 240px; width: 388px;" src="../aliyun-lc-upload/uploads/2019/09/08/untitled-diagram-1-1.jpg" alt=""></p> 
+  <p><img style="height: 240px; width: 388px;" src="/aliyun-lc-upload/uploads/2019/09/08/untitled-diagram-1-1.jpg" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>distance = [1,2,3,4], start = 0, destination = 2
 <strong>输出：</strong>3
 <strong>解释：</strong>公交站 0 和 2 之间的距离是 3 或 7，最小值是 3。
 </pre> 
   <p>&nbsp;</p> 
   <p><strong>示例 3：</strong></p> 
-  <p><img style="height: 240px; width: 388px;" src="../aliyun-lc-upload/uploads/2019/09/08/untitled-diagram-1-2.jpg" alt=""></p> 
+  <p><img style="height: 240px; width: 388px;" src="/aliyun-lc-upload/uploads/2019/09/08/untitled-diagram-1-2.jpg" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>distance = [1,2,3,4], start = 0, destination = 3
 <strong>输出：</strong>4
 <strong>解释：</strong>公交站 0 和 3 之间的距离是 6 或 4，最小值是 4。

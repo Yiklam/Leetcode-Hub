@@ -10,21 +10,21 @@
   <p>车按国际象棋中的规则移动：它选择四个基本方向中的一个（北，东，西和南），然后朝那个方向移动，直到它选择停止、到达棋盘的边缘或移动到同一方格来捕获该方格上颜色相反的卒。另外，车不能与其他友方（白色）象进入同一个方格。</p> 
   <p>返回车能够在一次移动中捕获到的卒的数量。<br> &nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 305px; width: 300px;" src="../aliyun-lc-upload/uploads/2019/02/23/1253_example_1_improved.PNG" alt=""></p> 
+  <p><img style="height: 305px; width: 300px;" src="/aliyun-lc-upload/uploads/2019/02/23/1253_example_1_improved.PNG" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>[[".",".",".",".",".",".",".","."],[".",".",".","p",".",".",".","."],[".",".",".","R",".",".",".","p"],[".",".",".",".",".",".",".","."],[".",".",".",".",".",".",".","."],[".",".",".","p",".",".",".","."],[".",".",".",".",".",".",".","."],[".",".",".",".",".",".",".","."]]
 <strong>输出：</strong>3
 <strong>解释：
 </strong>在本例中，车能够捕获所有的卒。
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><img style="height: 306px; width: 300px;" src="../aliyun-lc-upload/uploads/2019/02/23/1253_example_2_improved.PNG" alt=""></p> 
+  <p><img style="height: 306px; width: 300px;" src="/aliyun-lc-upload/uploads/2019/02/23/1253_example_2_improved.PNG" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>[[".",".",".",".",".",".",".","."],[".","p","p","p","p","p",".","."],[".","p","p","B","p","p",".","."],[".","p","B","R","B","p",".","."],[".","p","p","B","p","p",".","."],[".","p","p","p","p","p",".","."],[".",".",".",".",".",".",".","."],[".",".",".",".",".",".",".","."]]
 <strong>输出：</strong>0
 <strong>解释：
 </strong>象阻止了车捕获任何卒。
 </pre> 
   <p><strong>示例 3：</strong></p> 
-  <p><img style="height: 305px; width: 300px;" src="../aliyun-lc-upload/uploads/2019/02/23/1253_example_3_improved.PNG" alt=""></p> 
+  <p><img style="height: 305px; width: 300px;" src="/aliyun-lc-upload/uploads/2019/02/23/1253_example_3_improved.PNG" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>[[".",".",".",".",".",".",".","."],[".",".",".","p",".",".",".","."],[".",".",".","p",".",".",".","."],["p","p",".","R",".","p","B","."],[".",".",".",".",".",".",".","."],[".",".",".","B",".",".",".","."],[".",".",".","p",".",".",".","."],[".",".",".",".",".",".",".","."]]
 <strong>输出：</strong>3
 <strong>解释： </strong>

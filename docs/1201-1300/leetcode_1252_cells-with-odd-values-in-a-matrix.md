@@ -12,7 +12,7 @@
   <p>请你在执行完所有&nbsp;<code>indices</code>&nbsp;指定的增量操作后，返回矩阵中 「奇数值单元格」 的数目。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 118px; width: 600px;" src="../aliyun-lc-upload/uploads/2019/11/06/e1.png" alt=""></p> 
+  <p><img style="height: 118px; width: 600px;" src="/aliyun-lc-upload/uploads/2019/11/06/e1.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>n = 2, m = 3, indices = [[0,1],[1,1]]
 <strong>输出：</strong>6
 <strong>解释：</strong>最开始的矩阵是 [[0,0,0],[0,0,0]]。
@@ -20,7 +20,7 @@
 最后的矩阵是 [[1,3,1],[1,3,1]]，里面有 6 个奇数。
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><img style="height: 150px; width: 600px;" src="../aliyun-lc-upload/uploads/2019/11/06/e2.png" alt=""></p> 
+  <p><img style="height: 150px; width: 600px;" src="/aliyun-lc-upload/uploads/2019/11/06/e2.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>n = 2, m = 2, indices = [[1,1],[0,0]]
 <strong>输出：</strong>0
 <strong>解释：</strong>最后的矩阵是 [[2,2],[2,2]]，里面没有奇数。

@@ -10,7 +10,7 @@
   <p>最大深度是指从根节点到最远叶子节点的最长路径上的节点总数。</p> 
   <p>例如，给定一个&nbsp;<code>3叉树</code>&nbsp;:</p> 
   <p>&nbsp;</p> 
-  <p><img style="width: 100%; max-width: 300px;" src="../aliyun-lc-upload/uploads/2018/10/12/narytreeexample.png"></p> 
+  <p><img style="width: 100%; max-width: 300px;" src="/aliyun-lc-upload/uploads/2018/10/12/narytreeexample.png"></p> 
   <p>&nbsp;</p> 
   <p>我们应返回其最大深度，3。</p> 
   <p><strong>说明:</strong></p> 

@@ -8,7 +8,7 @@
  <div class="notranslate">
   <p>请编写一个函数，使其可以删除某个链表中给定的（非末尾）节点，你将只被给定要求被删除的节点。</p> 
   <p>现有一个链表 --&nbsp;head =&nbsp;[4,5,1,9]，它可以表示为:</p> 
-  <p><img style="height: 49px; width: 300px;" src="../aliyun-lc-upload/uploads/2019/01/19/237_example.png" alt=""></p> 
+  <p><img style="height: 49px; width: 300px;" src="/aliyun-lc-upload/uploads/2019/01/19/237_example.png" alt=""></p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1:</strong></p> 
   <pre class="language-text"><strong>输入:</strong> head = [4,5,1,9], node = 5

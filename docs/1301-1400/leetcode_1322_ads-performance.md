@@ -27,7 +27,7 @@ The action column is an ENUM type of ('Clicked', 'Viewed', 'Ignored').
   <p>&nbsp;</p> 
   <p>A company is running Ads and wants to calculate the performance of each Ad.</p> 
   <p>Performance of the Ad is measured using&nbsp;Click-Through Rate (CTR) where:</p> 
-  <p><img style="width: 600px; height: 75px;" src="../uploads/2020/01/17/sql1.png" alt=""></p> 
+  <p><img style="width: 600px; height: 75px;" src="/uploads/2020/01/17/sql1.png" alt=""></p> 
   <p>Write an SQL query to find the <code>ctr</code> of each Ad.</p> 
   <p><strong>Round</strong> <code>ctr</code>&nbsp;to 2 decimal points. <strong>Order</strong> the result table by <code>ctr</code>&nbsp;in descending order&nbsp;and by&nbsp;<code>ad_id</code>&nbsp;in ascending order in case of a tie.</p> 
   <p>The query result format is in the following example:</p> 

@@ -20,7 +20,7 @@
   </ul> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="height: 119px; width: 320px;" src="../aliyun-lc-upload/uploads/2019/11/16/untitled-diagram-4-1.jpg" alt=""></strong></p> 
+  <p><strong><img style="height: 119px; width: 320px;" src="/aliyun-lc-upload/uploads/2019/11/16/untitled-diagram-4-1.jpg" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>
 ["FindElements","find","find"]
 [[[-1,null,-1]],[1],[2]]
@@ -31,7 +31,7 @@ FindElements findElements = new FindElements([-1,null,-1]);
 findElements.find(1); // return False 
 findElements.find(2); // return True </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img style="height: 198px; width: 400px;" src="../aliyun-lc-upload/uploads/2019/11/16/untitled-diagram-4.jpg" alt=""></strong></p> 
+  <p><strong><img style="height: 198px; width: 400px;" src="/aliyun-lc-upload/uploads/2019/11/16/untitled-diagram-4.jpg" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>
 ["FindElements","find","find","find"]
 [[[-1,-1,-1,-1,-1]],[1],[3],[5]]
@@ -43,7 +43,7 @@ findElements.find(1); // return True
 findElements.find(3); // return True
 findElements.find(5); // return False</pre> 
   <p><strong>示例 3：</strong></p> 
-  <p><strong><img style="height: 274px; width: 306px;" src="../aliyun-lc-upload/uploads/2019/11/16/untitled-diagram-4-1-1.jpg" alt=""></strong></p> 
+  <p><strong><img style="height: 274px; width: 306px;" src="/aliyun-lc-upload/uploads/2019/11/16/untitled-diagram-4-1-1.jpg" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>
 ["FindElements","find","find","find","find"]
 [[[-1,null,-1,-1,null,-1]],[2],[3],[4],[5]]

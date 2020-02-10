@@ -10,7 +10,7 @@
   <p>请你返回一个列表，其中包含&nbsp;<strong>两棵树&nbsp;</strong>中的所有整数并按 <strong>升序</strong> 排序。.</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img src="../aliyun-lc-upload/uploads/2019/12/29/q2-e1.png" alt=""></p> 
+  <p><img src="/aliyun-lc-upload/uploads/2019/12/29/q2-e1.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>root1 = [2,1,4], root2 = [1,0,3]
 <strong>输出：</strong>[0,1,1,2,3,4]
 </pre> 
@@ -27,7 +27,7 @@
 <strong>输出：</strong>[-10,0,10]
 </pre> 
   <p><strong>示例 5：</strong></p> 
-  <p><img src="../aliyun-lc-upload/uploads/2019/12/29/q2-e5-.png" alt=""></p> 
+  <p><img src="/aliyun-lc-upload/uploads/2019/12/29/q2-e5-.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>root1 = [1,null,8], root2 = [8,1]
 <strong>输出：</strong>[1,1,8,8]
 </pre> 

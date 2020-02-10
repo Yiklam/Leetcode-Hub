@@ -16,7 +16,7 @@
   <p>返回直到单元格中没有新鲜橘子为止所必须经过的最小分钟数。如果不可能，返回&nbsp;<code>-1</code>。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="height: 150px; width: 712px;" src="../aliyun-lc-upload/uploads/2019/02/16/oranges.png" alt=""></strong></p> 
+  <p><strong><img style="height: 150px; width: 712px;" src="/aliyun-lc-upload/uploads/2019/02/16/oranges.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>[[2,1,1],[1,1,0],[0,1,1]]
 <strong>输出：</strong>4
 </pre> 

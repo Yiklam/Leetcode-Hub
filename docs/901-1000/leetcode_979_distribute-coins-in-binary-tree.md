@@ -11,24 +11,24 @@
   <p>返回使每个结点上只有一枚硬币所需的移动次数。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><strong><img style="height: 142px; width: 150px;" src="../aliyun-lc-upload/uploads/2019/01/19/tree1.png" alt=""></strong></p> 
+  <p><strong><img style="height: 142px; width: 150px;" src="/aliyun-lc-upload/uploads/2019/01/19/tree1.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>[3,0,0]
 <strong>输出：</strong>2
 <strong>解释：</strong>从树的根结点开始，我们将一枚硬币移到它的左子结点上，一枚硬币移到它的右子结点上。
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><strong><img style="height: 142px; width: 150px;" src="../aliyun-lc-upload/uploads/2019/01/19/tree2.png" alt=""></strong></p> 
+  <p><strong><img style="height: 142px; width: 150px;" src="/aliyun-lc-upload/uploads/2019/01/19/tree2.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>[0,3,0]
 <strong>输出：</strong>3
 <strong>解释：</strong>从根结点的左子结点开始，我们将两枚硬币移到根结点上 [移动两次]。然后，我们把一枚硬币从根结点移到右子结点上。
 </pre> 
   <p><strong>示例 3：</strong></p> 
-  <p><strong><img style="height: 142px; width: 150px;" src="../aliyun-lc-upload/uploads/2019/01/19/tree3.png" alt=""></strong></p> 
+  <p><strong><img style="height: 142px; width: 150px;" src="/aliyun-lc-upload/uploads/2019/01/19/tree3.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>[1,0,2]
 <strong>输出：</strong>2
 </pre> 
   <p><strong>示例 4：</strong></p> 
-  <p><strong><img style="height: 156px; width: 155px;" src="../aliyun-lc-upload/uploads/2019/01/19/tree4.png" alt=""></strong></p> 
+  <p><strong><img style="height: 156px; width: 155px;" src="/aliyun-lc-upload/uploads/2019/01/19/tree4.png" alt=""></strong></p> 
   <pre class="language-text"><strong>输入：</strong>[1,0,0,null,3]
 <strong>输出：</strong>4
 </pre> 

@@ -11,14 +11,14 @@
   <p>树上的节点都已经用&nbsp;<code>{0, 1, ..., edges.length}</code>&nbsp;中的数做了标记，每个节点上的标记都是独一无二的。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1：</strong></p> 
-  <p><img style="height: 233px; width: 226px;" src="../aliyun-lc-upload/uploads/2019/10/31/1397_example_1.png" alt=""></p> 
+  <p><img style="height: 233px; width: 226px;" src="/aliyun-lc-upload/uploads/2019/10/31/1397_example_1.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>edges = [[0,1],[0,2]]
 <strong>输出：</strong>2
 <strong>解释：</strong>
 这棵树上最长的路径是 1 - 0 - 2，边数为 2。
 </pre> 
   <p><strong>示例 2：</strong></p> 
-  <p><img style="height: 316px; width: 350px;" src="../aliyun-lc-upload/uploads/2019/10/31/1397_example_2.png" alt=""></p> 
+  <p><img style="height: 316px; width: 350px;" src="/aliyun-lc-upload/uploads/2019/10/31/1397_example_2.png" alt=""></p> 
   <pre class="language-text"><strong>输入：</strong>edges = [[0,1],[1,2],[2,3],[1,4],[4,5]]
 <strong>输出：</strong>4
 <strong>解释： </strong>

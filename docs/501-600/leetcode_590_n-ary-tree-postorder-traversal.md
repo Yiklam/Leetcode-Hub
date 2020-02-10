@@ -9,7 +9,7 @@
   <p>给定一个 N 叉树，返回其节点值的<em>后序遍历</em>。</p> 
   <p>例如，给定一个&nbsp;<code>3叉树</code>&nbsp;:</p> 
   <p>&nbsp;</p> 
-  <p><img style="width: 100%; max-width: 300px;" src="../aliyun-lc-upload/uploads/2018/10/12/narytreeexample.png"></p> 
+  <p><img style="width: 100%; max-width: 300px;" src="/aliyun-lc-upload/uploads/2018/10/12/narytreeexample.png"></p> 
   <p>&nbsp;</p> 
   <p>返回其后序遍历: <code>[5,6,3,2,4,1]</code>.</p> 
   <p>&nbsp;</p> 

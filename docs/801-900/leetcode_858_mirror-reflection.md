@@ -14,7 +14,7 @@
   <pre class="language-text"><strong>输入： </strong>p = 2, q = 1
 <strong>输出： </strong>2
 <strong>解释： </strong>这条光线在第一次被反射回左边的墙时就遇到了接收器 2 。
-<img src="https://ibb.co/mYSFJT" alt=""><img style="height: 217px; width: 218px;" src="../aliyun-lc-upload/uploads/2018/06/22/reflection.png" alt=""></pre> 
+<img src="https://ibb.co/mYSFJT" alt=""><img style="height: 217px; width: 218px;" src="/aliyun-lc-upload/uploads/2018/06/22/reflection.png" alt=""></pre> 
   <p>&nbsp;</p> 
   <p><strong>提示：</strong></p> 
   <ol> 

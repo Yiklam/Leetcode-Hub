@@ -30,7 +30,7 @@
 <strong>输出：</strong>17
 <strong>解释：</strong>
 这里有该形体在三个轴对齐平面上的三个投影(“阴影部分”)。
-<img style="height: 200px; width: 749px;" src="../uploads/2018/08/02/shadow.png" alt="">
+<img style="height: 200px; width: 749px;" src="/uploads/2018/08/02/shadow.png" alt="">
 </pre> 
   <p><strong>示例 3：</strong></p> 
   <pre class="language-text"><strong>输入：</strong>[[1,0],[0,2]]

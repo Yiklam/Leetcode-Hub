@@ -21,7 +21,7 @@
 
 <strong>解释:</strong> 它的周长是下面图片中的 16 个黄色的边：
 
-<img src="../aliyun-lc-upload/uploads/2018/10/12/island.png">
+<img src="/aliyun-lc-upload/uploads/2018/10/12/island.png">
 </pre> 
  </div>
 </div>
