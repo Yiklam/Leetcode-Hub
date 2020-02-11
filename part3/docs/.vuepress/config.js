@@ -32,7 +32,7 @@ function getNav() {
     {
       text: "801-1200",
       link:
-        "http://gdut_yy.gitee.io/doc3-leetcode/801-900/leetcode_801_minimum-swaps-to-make-sequences-increasing.html"
+        "/801-900/leetcode_801_minimum-swaps-to-make-sequences-increasing.html"
     },
     {
       text: "1201-1600",

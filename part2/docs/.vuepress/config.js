@@ -27,7 +27,7 @@ function getNav() {
     {
       text: "401-800",
       link:
-        "http://gdut_yy.gitee.io/doc2-leetcode/401-500/leetcode_401_binary-watch.html"
+        "/401-500/leetcode_401_binary-watch.html"
     },
     {
       text: "801-1200",

@@ -18,11 +18,25 @@ footer: Copyright © 2018-present gdut-yy
 ## 本地开发 & 阅读
 
 ```sh
-# vuepress
+# 全局安装 vuepress
 yarn global add vuepress
 
-# 本地开发
+# 克隆仓库
 git clone https://github.com/gdut-yy/Leetcode-Hub.git
 cd Leetcode-Hub/
+mkdir assets/
+cd assets/
+git clone https://gitee.com/gdut_yy/aliyun-lc-upload.git
+git clone https://gitee.com/gdut_yy/uploads.git
+git clone https://gitee.com/gdut_yy/wikipedia.git
+
+# 复制文件到目录
+cp -r . ../part1/docs/.vuepress/public/
+cp -r . ../part2/docs/.vuepress/public/
+cp -r . ../part3/docs/.vuepress/public/
+cp -r . ../part4/docs/.vuepress/public/
+
+# 本地编译开发（以 part 1 为例）
+cd ../part1/
 yarn docs:dev
 ```

@@ -37,7 +37,7 @@ function getNav() {
     {
       text: "1201-1600",
       link:
-        "http://gdut_yy.gitee.io/doc4-leetcode/1201-1300/leetcode_1201_ugly-number-iii.html"
+        "/1201-1300/leetcode_1201_ugly-number-iii.html"
     },
     {
       text: "题集",

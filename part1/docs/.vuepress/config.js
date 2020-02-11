@@ -22,7 +22,7 @@ function getNav() {
     {
       text: "001-400",
       link:
-        "http://gdut_yy.gitee.io/doc1-leetcode/001-100/leetcode_1_two-sum.html"
+        "/001-100/leetcode_1_two-sum.html"
     },
     {
       text: "401-800",

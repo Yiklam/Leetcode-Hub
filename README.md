@@ -2,13 +2,19 @@
 
 Leetcode 题解 In Java。
 
-在线阅读：[http://gdut_yy.gitee.io/doc-leetcode/](http://gdut_yy.gitee.io/doc-leetcode/)
+在线阅读：[http://gdut_yy.gitee.io/doc1-leetcode/](http://gdut_yy.gitee.io/doc1-leetcode/)
 
-![](./docs/.vuepress/public/leetcode.jpg)
+![](./part1/docs/.vuepress/public/leetcode.jpg)
 
 ## 介绍
 
-多年后，后人提起今日：己亥末，庚子春，荆楚大疫，染者数万计，众惶恐，举国防，皆闭户，南山镇守江南都，率白衣郎中数万抗之，且九州一心，月余，疫尽去，国泰民安。
+世界上并没有完美的程序，但我们并不因此而沮丧，因为写程序本来就是一个不断追求完美的过程。
+
+## 静态资源仓库（GITEE.COM）
+
+- [https://gitee.com/gdut_yy/aliyun-lc-upload](https://gitee.com/gdut_yy/aliyun-lc-upload)
+- [https://gitee.com/gdut_yy/uploads](https://gitee.com/gdut_yy/uploads)
+- [https://gitee.com/gdut_yy/wikipedia](https://gitee.com/gdut_yy/wikipedia)
 
 ## 本地开发 & 阅读
 
@@ -17,12 +23,26 @@ Leetcode 题解 In Java。
 依赖于 `node.js`、`yarn`、`vuepress` 等环境
 
 ```sh
-# vuepress
+# 全局安装 vuepress
 yarn global add vuepress
 
-# 本地开发
+# 克隆仓库
 git clone https://github.com/gdut-yy/Leetcode-Hub.git
 cd Leetcode-Hub/
+mkdir assets/
+cd assets/
+git clone https://gitee.com/gdut_yy/aliyun-lc-upload.git
+git clone https://gitee.com/gdut_yy/uploads.git
+git clone https://gitee.com/gdut_yy/wikipedia.git
+
+# 复制文件到目录
+cp -r . ../part1/docs/.vuepress/public/
+cp -r . ../part2/docs/.vuepress/public/
+cp -r . ../part3/docs/.vuepress/public/
+cp -r . ../part4/docs/.vuepress/public/
+
+# 本地编译开发（以 part 1 为例）
+cd ../part1/
 yarn docs:dev
 ```
 
