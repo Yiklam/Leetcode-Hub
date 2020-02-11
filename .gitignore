@@ -1,3 +1,10 @@
 node_modules/
 docs/.vuepress/dist/
+*/node_modules/
+*/docs/.vuepress/dist/
 generator/
+assets/
+*/docs/.vuepress/public/aliyun-lc-upload
+*/docs/.vuepress/public/uploads
+*/docs/.vuepress/public/wikipedia
+*/docs/.vuepress/public/leetcode.jpg
