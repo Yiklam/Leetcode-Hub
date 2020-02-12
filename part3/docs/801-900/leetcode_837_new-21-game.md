@@ -33,8 +33,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public double new21Game(int N, int K, int W) {
+        
+    }
+}
 ```

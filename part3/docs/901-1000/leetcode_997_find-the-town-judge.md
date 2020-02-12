@@ -49,8 +49,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int findJudge(int N, int[][] trust) {
+        
+    }
+}
 ```

@@ -50,8 +50,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean hasGroupsSizeX(int[] deck) {
+        
+    }
+}
 ```

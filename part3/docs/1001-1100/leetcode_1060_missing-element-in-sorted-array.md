@@ -38,8 +38,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int missingElement(int[] nums, int k) {
+        
+    }
+}
 ```

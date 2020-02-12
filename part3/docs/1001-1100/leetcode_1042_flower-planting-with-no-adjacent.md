@@ -37,8 +37,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] gardenNoAdj(int N, int[][] paths) {
+        
+    }
+}
 ```

@@ -32,8 +32,10 @@ push(5), pop() -&gt; 5, pop() -&gt; 3, pop() -&gt; 2, pop() -&gt; 1
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean validateStackSequences(int[] pushed, int[] popped) {
+        
+    }
+}
 ```

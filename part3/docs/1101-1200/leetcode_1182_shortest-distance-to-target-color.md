@@ -39,8 +39,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<Integer> shortestDistanceColor(int[] colors, int[][] queries) {
+        
+    }
+}
 ```

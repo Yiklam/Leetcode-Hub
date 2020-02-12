@@ -44,8 +44,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] shortestAlternatingPaths(int n, int[][] red_edges, int[][] blue_edges) {
+        
+    }
+}
 ```

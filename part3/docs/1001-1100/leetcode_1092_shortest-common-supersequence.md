@@ -28,8 +28,10 @@ str2 = "cab" 是 "cabac" 的一个子串，因为我们可以删去 "cabac" 末�
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String shortestCommonSupersequence(String str1, String str2) {
+        
+    }
+}
 ```

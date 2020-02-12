@@ -26,8 +26,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int maxProfitAssignment(int[] difficulty, int[] profit, int[] worker) {
+        
+    }
+}
 ```

@@ -27,8 +27,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int subarraysDivByK(int[] A, int K) {
+        
+    }
+}
 ```

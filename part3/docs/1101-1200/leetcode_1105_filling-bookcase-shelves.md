@@ -34,8 +34,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minHeightShelves(int[][] books, int shelf_width) {
+        
+    }
+}
 ```

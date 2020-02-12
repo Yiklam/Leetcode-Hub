@@ -36,8 +36,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minDominoRotations(int[] A, int[] B) {
+        
+    }
+}
 ```

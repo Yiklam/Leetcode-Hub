@@ -35,8 +35,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int countCharacters(String[] words, String chars) {
+        
+    }
+}
 ```

@@ -46,8 +46,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int mergeStones(int[] stones, int K) {
+        
+    }
+}
 ```

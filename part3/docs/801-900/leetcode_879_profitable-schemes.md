@@ -40,8 +40,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int profitableSchemes(int G, int P, int[] group, int[] profit) {
+        
+    }
+}
 ```

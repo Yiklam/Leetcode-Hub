@@ -39,8 +39,10 @@ A[i] = 1，A[j] = A[k] = 2 出现 12 次：
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int threeSumMulti(int[] A, int target) {
+        
+    }
+}
 ```

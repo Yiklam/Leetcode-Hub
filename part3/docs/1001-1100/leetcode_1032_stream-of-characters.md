@@ -40,8 +40,21 @@ streamChecker.query('l');          // 返回 true，因为 'kl' 在字词表中�
 
 ---
 
-**AC 代码：**
-
 ```java
+class StreamChecker {
 
+    public StreamChecker(String[] words) {
+        
+    }
+    
+    public boolean query(char letter) {
+        
+    }
+}
+
+/**
+ * Your StreamChecker object will be instantiated and called as such:
+ * StreamChecker obj = new StreamChecker(words);
+ * boolean param_1 = obj.query(letter);
+ */
 ```

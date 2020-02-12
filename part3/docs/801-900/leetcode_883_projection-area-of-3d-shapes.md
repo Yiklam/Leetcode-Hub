@@ -55,8 +55,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int projectionArea(int[][] grid) {
+        
+    }
+}
 ```

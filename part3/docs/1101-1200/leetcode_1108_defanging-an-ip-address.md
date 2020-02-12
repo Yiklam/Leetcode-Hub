@@ -27,8 +27,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String defangIPaddr(String address) {
+        
+    }
+}
 ```

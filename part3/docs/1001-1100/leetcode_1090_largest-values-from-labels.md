@@ -46,8 +46,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int largestValsFromLabels(int[] values, int[] labels, int num_wanted, int use_limit) {
+        
+    }
+}
 ```

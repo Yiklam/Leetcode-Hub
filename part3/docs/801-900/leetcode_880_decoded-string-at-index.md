@@ -46,8 +46,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String decodeAtIndex(String S, int K) {
+        
+    }
+}
 ```

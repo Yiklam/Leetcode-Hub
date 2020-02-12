@@ -39,8 +39,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String findReplaceString(String S, int[] indexes, String[] sources, String[] targets) {
+        
+    }
+}
 ```

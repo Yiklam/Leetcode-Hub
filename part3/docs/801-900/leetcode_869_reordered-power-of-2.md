@@ -41,8 +41,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean reorderedPowerOf2(int N) {
+        
+    }
+}
 ```

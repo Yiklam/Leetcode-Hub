@@ -45,8 +45,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int brokenCalc(int X, int Y) {
+        
+    }
+}
 ```

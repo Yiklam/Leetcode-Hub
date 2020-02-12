@@ -32,8 +32,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean isNStraightHand(int[] hand, int W) {
+        
+    }
+}
 ```

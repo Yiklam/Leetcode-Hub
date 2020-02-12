@@ -35,8 +35,10 @@ queries[4] :&nbsp;子串 = "abcda"，可以变成回文的 "abcba"。
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<Boolean> canMakePaliQueries(String s, int[][] queries) {
+        
+    }
+}
 ```

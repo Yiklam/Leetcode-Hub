@@ -29,8 +29,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int flipgame(int[] fronts, int[] backs) {
+        
+    }
+}
 ```

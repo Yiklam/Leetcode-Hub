@@ -48,8 +48,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String[] spellchecker(String[] wordlist, String[] queries) {
+        
+    }
+}
 ```

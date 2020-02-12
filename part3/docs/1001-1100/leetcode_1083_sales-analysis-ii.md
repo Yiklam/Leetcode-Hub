@@ -71,8 +71,6 @@ id 为 1 的买家购买了一部 S8，但是却没有购买 iPhone，而 id 为
 
 ---
 
-**AC 代码：**
-
-```java
-
+```sh
+# Write your MySQL query statement below
 ```

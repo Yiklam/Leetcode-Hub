@@ -46,8 +46,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<String> wordSubsets(String[] A, String[] B) {
+        
+    }
+}
 ```

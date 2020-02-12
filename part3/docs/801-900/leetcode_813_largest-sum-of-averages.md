@@ -30,8 +30,10 @@ A 的最优分组是[9], [1, 2, 3], [9]. 得到的分数是 9 + (1 + 2 + 3) / 3 
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public double largestSumOfAverages(int[] A, int K) {
+        
+    }
+}
 ```

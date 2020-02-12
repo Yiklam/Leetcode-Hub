@@ -26,8 +26,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int mirrorReflection(int p, int q) {
+        
+    }
+}
 ```

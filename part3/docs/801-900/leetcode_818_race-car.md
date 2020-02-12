@@ -37,8 +37,10 @@ target = 6
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int racecar(int target) {
+        
+    }
+}
 ```

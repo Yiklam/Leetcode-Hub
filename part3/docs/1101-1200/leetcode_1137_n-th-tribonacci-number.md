@@ -32,8 +32,10 @@ T_4 = 1 + 1 + 2 = 4
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int tribonacci(int n) {
+        
+    }
+}
 ```

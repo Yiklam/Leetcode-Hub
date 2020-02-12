@@ -40,8 +40,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[][] allCellsDistOrder(int R, int C, int r0, int c0) {
+        
+    }
+}
 ```

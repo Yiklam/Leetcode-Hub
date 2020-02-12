@@ -38,8 +38,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minCostToSupplyWater(int n, int[] wells, int[][] pipes) {
+        
+    }
+}
 ```

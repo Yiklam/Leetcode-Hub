@@ -31,8 +31,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int digitsCount(int d, int low, int high) {
+        
+    }
+}
 ```

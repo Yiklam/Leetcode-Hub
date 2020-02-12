@@ -36,8 +36,10 @@ banned = ["hit"]
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String mostCommonWord(String paragraph, String[] banned) {
+        
+    }
+}
 ```

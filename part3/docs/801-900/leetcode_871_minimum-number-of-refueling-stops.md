@@ -45,8 +45,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minRefuelStops(int target, int startFuel, int[][] stations) {
+        
+    }
+}
 ```

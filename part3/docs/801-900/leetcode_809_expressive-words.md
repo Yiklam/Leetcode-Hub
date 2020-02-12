@@ -33,8 +33,10 @@ words = ["hello", "hi", "helo"]
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int expressiveWords(String S, String[] words) {
+        
+    }
+}
 ```

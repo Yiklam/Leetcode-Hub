@@ -42,8 +42,10 @@ puzzles = ["aboveyz","abrodyz","abslute","absoryz","actresz","gaswxyz"]
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<Integer> findNumOfValidWords(String[] words, String[] puzzles) {
+        
+    }
+}
 ```

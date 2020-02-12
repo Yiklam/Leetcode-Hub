@@ -27,8 +27,10 @@ A = [1, 3, 5, 7] ， B = [1, 2, 3, 4]
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minSwap(int[] A, int[] B) {
+        
+    }
+}
 ```

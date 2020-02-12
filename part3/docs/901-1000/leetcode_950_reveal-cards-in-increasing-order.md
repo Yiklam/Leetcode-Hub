@@ -44,8 +44,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] deckRevealedIncreasing(int[] deck) {
+        
+    }
+}
 ```

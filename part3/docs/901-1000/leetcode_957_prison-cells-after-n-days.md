@@ -49,8 +49,10 @@ Day 7: [0, 0, 1, 1, 0, 0, 0, 0]
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] prisonAfterNDays(int[] cells, int N) {
+        
+    }
+}
 ```

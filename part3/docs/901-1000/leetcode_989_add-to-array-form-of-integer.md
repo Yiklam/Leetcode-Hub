@@ -44,8 +44,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<Integer> addToArrayForm(int[] A, int K) {
+        
+    }
+}
 ```

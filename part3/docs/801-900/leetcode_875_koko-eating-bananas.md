@@ -37,8 +37,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minEatingSpeed(int[] piles, int H) {
+        
+    }
+}
 ```

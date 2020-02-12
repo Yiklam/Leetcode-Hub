@@ -40,8 +40,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int numRollsToTarget(int d, int f, int target) {
+        
+    }
+}
 ```

@@ -42,8 +42,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<String> ambiguousCoordinates(String S) {
+        
+    }
+}
 ```

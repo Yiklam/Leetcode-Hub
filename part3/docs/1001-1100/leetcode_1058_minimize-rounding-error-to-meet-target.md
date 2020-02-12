@@ -32,8 +32,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String minimizeError(String[] prices, int target) {
+        
+    }
+}
 ```

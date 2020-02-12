@@ -47,8 +47,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean carPooling(int[][] trips, int capacity) {
+        
+    }
+}
 ```

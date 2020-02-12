@@ -34,8 +34,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int numRescueBoats(int[] people, int limit) {
+        
+    }
+}
 ```

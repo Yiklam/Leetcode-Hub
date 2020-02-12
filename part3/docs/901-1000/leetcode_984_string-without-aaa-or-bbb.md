@@ -33,8 +33,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String strWithout3a3b(int A, int B) {
+        
+    }
+}
 ```

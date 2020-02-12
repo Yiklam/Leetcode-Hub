@@ -34,8 +34,26 @@ seat() -&gt; 5，学生最后坐在 5 号座位上。
 
 ---
 
-**AC 代码：**
-
 ```java
+class ExamRoom {
 
+    public ExamRoom(int N) {
+        
+    }
+    
+    public int seat() {
+        
+    }
+    
+    public void leave(int p) {
+        
+    }
+}
+
+/**
+ * Your ExamRoom object will be instantiated and called as such:
+ * ExamRoom obj = new ExamRoom(N);
+ * int param_1 = obj.seat();
+ * obj.leave(p);
+ */
 ```

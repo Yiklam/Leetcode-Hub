@@ -32,8 +32,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int numSimilarGroups(String[] A) {
+        
+    }
+}
 ```

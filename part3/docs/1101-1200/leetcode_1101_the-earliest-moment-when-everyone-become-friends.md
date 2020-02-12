@@ -39,8 +39,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int earliestAcq(int[][] logs, int N) {
+        
+    }
+}
 ```

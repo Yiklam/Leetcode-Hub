@@ -31,8 +31,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean canConvert(String str1, String str2) {
+        
+    }
+}
 ```

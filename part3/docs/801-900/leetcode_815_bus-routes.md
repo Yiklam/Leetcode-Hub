@@ -28,8 +28,10 @@ T = 6
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int numBusesToDestination(int[][] routes, int S, int T) {
+        
+    }
+}
 ```

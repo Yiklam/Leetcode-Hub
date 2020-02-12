@@ -38,8 +38,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int numMusicPlaylists(int N, int L, int K) {
+        
+    }
+}
 ```

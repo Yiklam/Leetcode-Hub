@@ -46,8 +46,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean isRationalEqual(String S, String T) {
+        
+    }
+}
 ```

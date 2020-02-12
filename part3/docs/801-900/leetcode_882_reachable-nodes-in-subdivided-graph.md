@@ -42,8 +42,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int reachableNodes(int[][] edges, int M, int N) {
+        
+    }
+}
 ```

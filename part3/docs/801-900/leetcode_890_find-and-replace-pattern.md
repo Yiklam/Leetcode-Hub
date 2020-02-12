@@ -30,8 +30,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<String> findAndReplacePattern(String[] words, String pattern) {
+        
+    }
+}
 ```

@@ -22,8 +22,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] shortestToChar(String S, char C) {
+        
+    }
+}
 ```

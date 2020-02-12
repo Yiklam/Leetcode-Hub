@@ -33,8 +33,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int numPairsDivisibleBy60(int[] time) {
+        
+    }
+}
 ```

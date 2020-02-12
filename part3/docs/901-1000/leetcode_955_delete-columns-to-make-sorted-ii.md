@@ -46,8 +46,10 @@ A 的列已经是按字典序排列了，所以我们不需要删除任何东西
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minDeletionSize(String[] A) {
+        
+    }
+}
 ```

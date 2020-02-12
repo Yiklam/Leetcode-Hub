@@ -42,8 +42,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int distanceBetweenBusStops(int[] distance, int start, int destination) {
+        
+    }
+}
 ```
