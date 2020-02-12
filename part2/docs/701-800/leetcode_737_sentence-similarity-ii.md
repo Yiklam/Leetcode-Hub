@@ -24,8 +24,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean areSentencesSimilarTwo(String[] words1, String[] words2, List<List<String>> pairs) {
+        
+    }
+}
 ```

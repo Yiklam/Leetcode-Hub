@@ -34,8 +34,10 @@ dict = ["aaa","aab","bc"]
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String addBoldTag(String s, String[] dict) {
+        
+    }
+}
 ```

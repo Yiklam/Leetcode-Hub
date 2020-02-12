@@ -30,8 +30,21 @@ MyCalendar.book(20, 30); // returns true
 
 ---
 
-**AC 代码：**
-
 ```java
+class MyCalendar {
 
+    public MyCalendar() {
+        
+    }
+    
+    public boolean book(int start, int end) {
+        
+    }
+}
+
+/**
+ * Your MyCalendar object will be instantiated and called as such:
+ * MyCalendar obj = new MyCalendar();
+ * boolean param_1 = obj.book(start,end);
+ */
 ```

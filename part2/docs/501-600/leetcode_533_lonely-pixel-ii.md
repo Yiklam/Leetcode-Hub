@@ -45,8 +45,10 @@ N = 3
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int findBlackPixel(char[][] picture, int N) {
+        
+    }
+}
 ```

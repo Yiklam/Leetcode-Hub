@@ -37,8 +37,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean circularArrayLoop(int[] nums) {
+        
+    }
+}
 ```

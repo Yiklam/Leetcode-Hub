@@ -37,8 +37,10 @@ F(N) = F(N - 1) + F(N - 2), 其中 N &gt; 1.
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int fib(int N) {
+        
+    }
+}
 ```

@@ -39,8 +39,10 @@ A，B，C的价格分别为¥2，¥3，¥4.
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int shoppingOffers(List<Integer> price, List<List<Integer>> special, List<Integer> needs) {
+        
+    }
+}
 ```

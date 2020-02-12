@@ -28,8 +28,10 @@ S = "abcdebdde", T = "bde"
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String minWindow(String S, String T) {
+        
+    }
+}
 ```

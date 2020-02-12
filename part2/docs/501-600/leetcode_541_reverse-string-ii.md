@@ -21,8 +21,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String reverseStr(String s, int k) {
+        
+    }
+}
 ```

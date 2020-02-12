@@ -44,8 +44,10 @@ target = [1, 0]
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean escapeGhosts(int[][] ghosts, int[] target) {
+        
+    }
+}
 ```

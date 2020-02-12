@@ -33,8 +33,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean reachingPoints(int sx, int sy, int tx, int ty) {
+        
+    }
+}
 ```

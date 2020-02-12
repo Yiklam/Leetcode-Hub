@@ -8,8 +8,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String findShortestWay(int[][] maze, int[] ball, int[] hole) {
+        
+    }
+}
 ```

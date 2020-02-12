@@ -53,8 +53,6 @@ CandidateId 是 Candidate 表中的 id.
 
 ---
 
-**AC 代码：**
-
-```java
-
+```sh
+# Write your MySQL query statement below
 ```

@@ -32,8 +32,10 @@ sr = 1, sc = 1, newColor = 2
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[][] floodFill(int[][] image, int sr, int sc, int newColor) {
+        
+    }
+}
 ```

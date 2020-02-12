@@ -41,8 +41,18 @@ root = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], k = 3
 
 ---
 
-**AC 代码：**
-
 ```java
-
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public ListNode[] splitListToParts(ListNode root, int k) {
+        
+    }
+}
 ```

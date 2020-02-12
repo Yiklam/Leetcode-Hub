@@ -27,8 +27,10 @@ sentence(句子) = "the cattle was rattled by the battery"
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String replaceWords(List<String> dict, String sentence) {
+        
+    }
+}
 ```

@@ -43,8 +43,10 @@ r = 2, c = 4
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[][] matrixReshape(int[][] nums, int r, int c) {
+        
+    }
+}
 ```

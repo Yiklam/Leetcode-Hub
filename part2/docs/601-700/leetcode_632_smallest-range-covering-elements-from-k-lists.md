@@ -28,8 +28,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] smallestRange(List<List<Integer>> nums) {
+        
+    }
+}
 ```

@@ -47,8 +47,6 @@ empId 是这张表单的主关键字
 
 ---
 
-**AC 代码：**
-
-```java
-
+```sh
+# Write your MySQL query statement below
 ```

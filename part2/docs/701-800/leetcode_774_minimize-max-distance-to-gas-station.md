@@ -24,8 +24,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public double minmaxGasDist(int[] stations, int K) {
+        
+    }
+}
 ```

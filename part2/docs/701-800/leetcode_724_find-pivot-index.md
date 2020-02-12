@@ -33,8 +33,10 @@ nums = [1, 2, 3]
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int pivotIndex(int[] nums) {
+        
+    }
+}
 ```

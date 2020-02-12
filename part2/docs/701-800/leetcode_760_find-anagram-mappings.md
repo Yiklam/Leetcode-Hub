@@ -30,8 +30,10 @@ B = [50, 12, 32, 46, 28]
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] anagramMappings(int[] A, int[] B) {
+        
+    }
+}
 ```

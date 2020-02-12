@@ -39,8 +39,10 @@ A, A, A, Ctrl A, Ctrl C, Ctrl V, Ctrl V
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int maxA(int N) {
+        
+    }
+}
 ```

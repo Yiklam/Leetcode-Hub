@@ -38,8 +38,10 @@ logs =
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] exclusiveTime(int n, List<String> logs) {
+        
+    }
+}
 ```

@@ -26,8 +26,10 @@ R = 3
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int numSubarrayBoundedMax(int[] A, int L, int R) {
+        
+    }
+}
 ```

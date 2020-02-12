@@ -31,8 +31,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int findRadius(int[] houses, int[] heaters) {
+        
+    }
+}
 ```

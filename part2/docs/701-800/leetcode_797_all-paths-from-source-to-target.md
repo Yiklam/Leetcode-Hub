@@ -28,8 +28,10 @@ v    v
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<List<Integer>> allPathsSourceTarget(int[][] graph) {
+        
+    }
+}
 ```

@@ -38,8 +38,10 @@ v   v
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] findRedundantDirectedConnection(int[][] edges) {
+        
+    }
+}
 ```

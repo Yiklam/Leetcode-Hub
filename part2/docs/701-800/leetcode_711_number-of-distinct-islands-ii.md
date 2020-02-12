@@ -52,8 +52,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int numDistinctIslands2(int[][] grid) {
+        
+    }
+}
 ```

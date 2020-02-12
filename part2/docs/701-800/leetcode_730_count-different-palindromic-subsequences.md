@@ -38,8 +38,10 @@ S = 'abcdabcdabcdabcdabcdabcdabcdabcddcbadcbadcbadcbadcbadcbadcbadcba'
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int countPalindromicSubsequences(String S) {
+        
+    }
+}
 ```

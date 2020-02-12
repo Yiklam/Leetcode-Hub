@@ -47,8 +47,10 @@ matrix = [
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean isToeplitzMatrix(int[][] matrix) {
+        
+    }
+}
 ```

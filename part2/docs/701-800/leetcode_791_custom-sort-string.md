@@ -29,8 +29,10 @@ S中出现了字符 "a", "b", "c", 所以 "a", "b", "c" 的顺序应该是 "c", 
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String customSortString(String S, String T) {
+        
+    }
+}
 ```

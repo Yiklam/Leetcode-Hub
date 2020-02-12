@@ -34,8 +34,10 @@ sum(k + 1, n - 1) = sum(6, 6) = 1
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean splitArray(int[] nums) {
+        
+    }
+}
 ```

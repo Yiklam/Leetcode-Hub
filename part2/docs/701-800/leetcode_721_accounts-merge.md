@@ -31,8 +31,10 @@ accounts = [["John", "johnsmith@mail.com", "john00@mail.com"], ["John", "johnnyb
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<List<String>> accountsMerge(List<List<String>> accounts) {
+        
+    }
+}
 ```

@@ -37,8 +37,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<String> topKFrequent(String[] words, int k) {
+        
+    }
+}
 ```

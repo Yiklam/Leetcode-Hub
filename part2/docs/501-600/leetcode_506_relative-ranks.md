@@ -23,8 +23,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String[] findRelativeRanks(int[] nums) {
+        
+    }
+}
 ```

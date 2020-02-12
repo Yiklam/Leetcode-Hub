@@ -35,8 +35,21 @@ MyCalendarThree.book(25, 55); // returns 3
 
 ---
 
-**AC 代码：**
-
 ```java
+class MyCalendarThree {
 
+    public MyCalendarThree() {
+        
+    }
+    
+    public int book(int start, int end) {
+        
+    }
+}
+
+/**
+ * Your MyCalendarThree object will be instantiated and called as such:
+ * MyCalendarThree obj = new MyCalendarThree();
+ * int param_1 = obj.book(start,end);
+ */
 ```

@@ -23,8 +23,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public double findMaxAverage(int[] nums, int k) {
+        
+    }
+}
 ```

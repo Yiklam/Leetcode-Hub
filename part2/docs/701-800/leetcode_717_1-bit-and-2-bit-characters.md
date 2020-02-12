@@ -32,8 +32,10 @@ bits = [1, 1, 1, 0]
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean isOneBitCharacter(int[] bits) {
+        
+    }
+}
 ```

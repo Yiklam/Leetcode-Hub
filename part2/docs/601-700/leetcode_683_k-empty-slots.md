@@ -37,8 +37,10 @@ k: 1
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int kEmptySlots(int[] bulbs, int K) {
+        
+    }
+}
 ```

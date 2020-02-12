@@ -44,8 +44,10 @@ formula = "K4(ON(SO3)2)2"
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String countOfAtoms(String formula) {
+        
+    }
+}
 ```

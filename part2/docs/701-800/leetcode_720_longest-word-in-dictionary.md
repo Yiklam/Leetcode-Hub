@@ -33,8 +33,10 @@ words = ["a", "banana", "app", "appl", "ap", "apply", "apple"]
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String longestWord(String[] words) {
+        
+    }
+}
 ```

@@ -26,8 +26,10 @@ words = ["a", "bb", "acd", "ace"]
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int numMatchingSubseq(String S, String[] words) {
+        
+    }
+}
 ```

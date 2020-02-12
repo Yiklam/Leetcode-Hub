@@ -21,8 +21,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int networkDelayTime(int[][] times, int N, int K) {
+        
+    }
+}
 ```

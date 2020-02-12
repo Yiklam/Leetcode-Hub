@@ -38,8 +38,10 @@ A 无论怎么变化总是有 3 分。
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int bestRotation(int[] A) {
+        
+    }
+}
 ```

@@ -35,8 +35,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public double knightProbability(int N, int K, int r, int c) {
+        
+    }
+}
 ```

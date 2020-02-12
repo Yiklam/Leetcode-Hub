@@ -8,8 +8,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean find132pattern(int[] nums) {
+        
+    }
+}
 ```

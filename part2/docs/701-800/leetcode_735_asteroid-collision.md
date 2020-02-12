@@ -48,8 +48,10 @@ asteroids = [-2, -1, 1, 2]
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] asteroidCollision(int[] asteroids) {
+        
+    }
+}
 ```

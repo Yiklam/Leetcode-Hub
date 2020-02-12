@@ -33,8 +33,26 @@ retrieve("2016:01:01:01:01:01","2017:01:01:23:00:00","Hour"); // 返回值 [1,2]
 
 ---
 
-**AC 代码：**
-
 ```java
+class LogSystem {
 
+    public LogSystem() {
+        
+    }
+    
+    public void put(int id, String timestamp) {
+        
+    }
+    
+    public List<Integer> retrieve(String s, String e, String gra) {
+        
+    }
+}
+
+/**
+ * Your LogSystem object will be instantiated and called as such:
+ * LogSystem obj = new LogSystem();
+ * obj.put(id,timestamp);
+ * List<Integer> param_2 = obj.retrieve(s,e,gra);
+ */
 ```

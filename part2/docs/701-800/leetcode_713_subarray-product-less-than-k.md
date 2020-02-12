@@ -25,8 +25,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int numSubarrayProductLessThanK(int[] nums, int k) {
+        
+    }
+}
 ```

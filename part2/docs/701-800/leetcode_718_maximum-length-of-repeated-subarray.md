@@ -25,8 +25,10 @@ B: [3,2,1,4,7]
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int findLength(int[] A, int[] B) {
+        
+    }
+}
 ```

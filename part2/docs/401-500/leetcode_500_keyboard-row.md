@@ -25,8 +25,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String[] findWords(String[] words) {
+        
+    }
+}
 ```
