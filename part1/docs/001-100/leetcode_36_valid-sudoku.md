@@ -12,7 +12,7 @@
    <li>数字&nbsp;<code>1-9</code>&nbsp;在每一列只能出现一次。</li> 
    <li>数字&nbsp;<code>1-9</code>&nbsp;在每一个以粗实线分隔的&nbsp;<code>3x3</code>&nbsp;宫内只能出现一次。</li> 
   </ol> 
-  <p><img style="height: 250px; width: 250px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/250px-Sudoku-by-L2G-20050714.svg.png"></p> 
+  <p><img style="height: 250px; width: 250px;" src="/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/250px-Sudoku-by-L2G-20050714.svg.png"></p> 
   <p><small>上图是一个部分填充的有效的数独。</small></p> 
   <p>数独部分空格内已填入了数字，空白格用&nbsp;<code>'.'</code>&nbsp;表示。</p> 
   <p><strong>示例&nbsp;1:</strong></p> 
