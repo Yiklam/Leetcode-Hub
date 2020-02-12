@@ -20,8 +20,10 @@ s = "2[abc]3[cd]ef", 返回 "abcabccdcdcdef".
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String decodeString(String s) {
+        
+    }
+}
 ```

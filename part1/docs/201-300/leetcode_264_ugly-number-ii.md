@@ -22,8 +22,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int nthUglyNumber(int n) {
+        
+    }
+}
 ```

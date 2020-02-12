@@ -9,7 +9,7 @@
   <p>一个机器人位于一个 <em>m x n </em>网格的左上角 （起始点在下图中标记为“Start” ）。</p> 
   <p>机器人每次只能向下或者向右移动一步。机器人试图达到网格的右下角（在下图中标记为“Finish”）。</p> 
   <p>问总共有多少条不同的路径？</p> 
-  <p><img src="/aliyun-lc-upload/uploads/2018/10/22/robot_maze.png"></p> 
+  <p><img src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/22/robot_maze.png"></p> 
   <p><small>例如，上图是一个7 x 3 的网格。有多少可能的路径？</small></p> 
   <p><strong>说明：</strong><em>m</em>&nbsp;和 <em>n </em>的值均不超过 100。</p> 
   <p><strong>示例&nbsp;1:</strong></p> 
@@ -29,8 +29,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int uniquePaths(int m, int n) {
+        
+    }
+}
 ```

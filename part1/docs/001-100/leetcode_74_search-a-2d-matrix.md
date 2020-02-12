@@ -35,8 +35,10 @@ target = 13
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean searchMatrix(int[][] matrix, int target) {
+        
+    }
+}
 ```

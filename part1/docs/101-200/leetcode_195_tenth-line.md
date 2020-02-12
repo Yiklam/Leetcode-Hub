@@ -29,8 +29,6 @@ Line 10
 
 ---
 
-**AC 代码：**
-
-```java
-
+```sh
+# Read from the file file.txt and output the tenth line to stdout.
 ```

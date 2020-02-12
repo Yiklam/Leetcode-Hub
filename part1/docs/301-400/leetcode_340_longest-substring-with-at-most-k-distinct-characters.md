@@ -21,8 +21,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int lengthOfLongestSubstringKDistinct(String s, int k) {
+        
+    }
+}
 ```

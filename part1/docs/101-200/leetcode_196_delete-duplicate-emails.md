@@ -35,8 +35,6 @@ Id 是这个表的主键。
 
 ---
 
-**AC 代码：**
-
-```java
-
+```sh
+# Write your MySQL query statement below
 ```

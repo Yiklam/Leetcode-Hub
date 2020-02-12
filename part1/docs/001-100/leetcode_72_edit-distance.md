@@ -36,8 +36,10 @@ exection -&gt; execution (插入 'u')
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minDistance(String word1, String word2) {
+        
+    }
+}
 ```

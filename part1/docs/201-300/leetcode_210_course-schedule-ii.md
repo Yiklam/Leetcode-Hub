@@ -36,8 +36,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] findOrder(int numCourses, int[][] prerequisites) {
+        
+    }
+}
 ```

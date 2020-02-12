@@ -20,8 +20,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean canAttendMeetings(int[][] intervals) {
+        
+    }
+}
 ```

@@ -33,8 +33,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] maxSlidingWindow(int[] nums, int k) {
+        
+    }
+}
 ```

@@ -46,8 +46,10 @@ wordDict = ["cats", "dog", "sand", "and", "cat"]
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<String> wordBreak(String s, List<String> wordDict) {
+        
+    }
+}
 ```

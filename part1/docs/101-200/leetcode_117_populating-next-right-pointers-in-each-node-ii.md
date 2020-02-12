@@ -23,7 +23,7 @@
   </ul> 
   <p>&nbsp;</p> 
   <p><strong>示例：</strong></p> 
-  <p><img style="height: 218px; width: 640px;" src="/aliyun-lc-upload/uploads/2019/02/15/117_sample.png" alt=""></p> 
+  <p><img style="height: 218px; width: 640px;" src="https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/02/15/117_sample.png" alt=""></p> 
   <pre class="language-text"><strong>输入</strong>：root = [1,2,3,4,5,null,7]
 <strong>输出：</strong>[1,#,2,3,#,4,5,7,#]
 <strong>解释：</strong>给定二叉树如图 A 所示，你的函数应该填充它的每个 next 指针，以指向其下一个右侧节点，如图 B 所示。</pre> 
@@ -41,8 +41,32 @@
 
 ---
 
-**AC 代码：**
-
 ```java
+/*
+// Definition for a Node.
+class Node {
+    public int val;
+    public Node left;
+    public Node right;
+    public Node next;
 
+    public Node() {}
+    
+    public Node(int _val) {
+        val = _val;
+    }
+
+    public Node(int _val, Node _left, Node _right, Node _next) {
+        val = _val;
+        left = _left;
+        right = _right;
+        next = _next;
+    }
+};
+*/
+class Solution {
+    public Node connect(Node root) {
+        
+    }
+}
 ```

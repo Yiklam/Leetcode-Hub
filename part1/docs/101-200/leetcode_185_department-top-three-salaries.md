@@ -49,8 +49,6 @@
 
 ---
 
-**AC 代码：**
-
-```java
-
+```sh
+# Write your MySQL query statement below
 ```

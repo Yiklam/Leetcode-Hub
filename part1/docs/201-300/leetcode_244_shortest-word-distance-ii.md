@@ -19,8 +19,21 @@
 
 ---
 
-**AC 代码：**
-
 ```java
+class WordDistance {
 
+    public WordDistance(String[] words) {
+        
+    }
+    
+    public int shortest(String word1, String word2) {
+        
+    }
+}
+
+/**
+ * Your WordDistance object will be instantiated and called as such:
+ * WordDistance obj = new WordDistance(words);
+ * int param_1 = obj.shortest(word1,word2);
+ */
 ```

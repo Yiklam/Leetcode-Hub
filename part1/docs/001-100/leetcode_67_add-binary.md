@@ -19,8 +19,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String addBinary(String a, String b) {
+        
+    }
+}
 ```

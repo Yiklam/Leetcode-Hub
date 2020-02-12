@@ -54,8 +54,10 @@ p = "mis*is*p*."
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean isMatch(String s, String p) {
+        
+    }
+}
 ```

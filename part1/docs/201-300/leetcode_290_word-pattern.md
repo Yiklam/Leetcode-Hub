@@ -26,8 +26,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean wordPattern(String pattern, String str) {
+        
+    }
+}
 ```

@@ -23,8 +23,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int search(int[] nums, int target) {
+        
+    }
+}
 ```

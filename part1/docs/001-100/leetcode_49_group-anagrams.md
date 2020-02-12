@@ -25,8 +25,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<List<String>> groupAnagrams(String[] strs) {
+        
+    }
+}
 ```

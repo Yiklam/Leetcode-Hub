@@ -19,8 +19,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int getSum(int a, int b) {
+        
+    }
+}
 ```

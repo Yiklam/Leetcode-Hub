@@ -27,8 +27,10 @@ X O X X
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public void solve(char[][] board) {
+        
+    }
+}
 ```

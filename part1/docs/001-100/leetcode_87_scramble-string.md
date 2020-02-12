@@ -50,8 +50,10 @@ r   g  ta  e
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean isScramble(String s1, String s2) {
+        
+    }
+}
 ```

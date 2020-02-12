@@ -15,8 +15,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<Integer> lexicalOrder(int n) {
+        
+    }
+}
 ```

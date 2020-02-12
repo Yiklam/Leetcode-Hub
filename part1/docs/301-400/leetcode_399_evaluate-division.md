@@ -20,8 +20,10 @@ queries(问题方程式) = [ ["a", "c"], ["b", "a"], ["a", "e"], ["a", "a"], ["x
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public double[] calcEquation(List<List<String>> equations, double[] values, List<List<String>> queries) {
+        
+    }
+}
 ```

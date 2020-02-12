@@ -26,8 +26,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<String> findItinerary(List<List<String>> tickets) {
+        
+    }
+}
 ```

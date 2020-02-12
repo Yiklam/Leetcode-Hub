@@ -19,8 +19,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String shortestPalindrome(String s) {
+        
+    }
+}
 ```

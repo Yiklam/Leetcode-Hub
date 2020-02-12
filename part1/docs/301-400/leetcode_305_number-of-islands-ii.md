@@ -48,8 +48,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<Integer> numIslands2(int m, int n, int[][] positions) {
+        
+    }
+}
 ```

@@ -31,8 +31,10 @@ INF  -1 INF  -1
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public void wallsAndGates(int[][] rooms) {
+        
+    }
+}
 ```

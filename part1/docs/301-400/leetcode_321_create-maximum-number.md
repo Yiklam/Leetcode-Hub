@@ -35,8 +35,10 @@ k = <code>3</code>
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] maxNumber(int[] nums1, int[] nums2, int k) {
+        
+    }
+}
 ```

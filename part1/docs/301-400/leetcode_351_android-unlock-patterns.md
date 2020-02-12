@@ -17,7 +17,7 @@
    <li>经过点的顺序不同则表示为不同的解锁手势。</li> 
   </ol> 
   <p>&nbsp;</p> 
-  <pre class="language-text"><img style="height: 128px; width: 418px;" src="/uploads/2018/10/12/android-unlock.png"></pre> 
+  <pre class="language-text"><img style="height: 128px; width: 418px;" src="https://assets.leetcode.com/uploads/2018/10/12/android-unlock.png"></pre> 
   <p>&nbsp;</p> 
   <p><strong>解释:</strong></p> 
   <pre class="language-text">| 1 | 2 | 3 |
@@ -37,8 +37,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int numberOfPatterns(int m, int n) {
+        
+    }
+}
 ```

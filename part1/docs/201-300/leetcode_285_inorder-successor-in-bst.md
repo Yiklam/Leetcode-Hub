@@ -10,13 +10,13 @@
   <p>结点&nbsp;<code>p</code>&nbsp;的后继是值比&nbsp;<code>p.val</code>&nbsp;大的结点中键值最小的结点。</p> 
   <p>&nbsp;</p> 
   <p><strong>示例 1:</strong></p> 
-  <p><img style="height: 117px; width: 122px;" src="/uploads/2019/01/23/285_example_1.PNG" alt=""></p> 
+  <p><img style="height: 117px; width: 122px;" src="https://assets.leetcode.com/uploads/2019/01/23/285_example_1.PNG" alt=""></p> 
   <pre class="language-text"><strong>输入: </strong>root = [2,1,3], p = 1
 <strong>输出: </strong>2
 <strong>解析: </strong>这里 1 的顺序后继是 2。请注意 p 和返回值都应是 TreeNode 类型。
 </pre> 
   <p><strong>示例&nbsp;2:</strong></p> 
-  <p><img style="height: 229px; width: 246px;" src="/uploads/2019/01/23/285_example_2.PNG" alt=""></p> 
+  <p><img style="height: 229px; width: 246px;" src="https://assets.leetcode.com/uploads/2019/01/23/285_example_2.PNG" alt=""></p> 
   <pre class="language-text"><strong>输入: </strong>root = [5,3,6,2,4,null,null,1], p = 6
 <strong>输出: </strong>null
 <strong>解析: </strong>因为给出的结点没有顺序后继，所以答案就返回 <code>null 了。</code>
@@ -32,8 +32,19 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public TreeNode inorderSuccessor(TreeNode root, TreeNode p) {
+        
+    }
+}
 ```

@@ -21,8 +21,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int findKthLargest(int[] nums, int k) {
+        
+    }
+}
 ```

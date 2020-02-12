@@ -19,8 +19,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<String> generatePalindromes(String s) {
+        
+    }
+}
 ```

@@ -30,8 +30,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public void solveSudoku(char[][] board) {
+        
+    }
+}
 ```

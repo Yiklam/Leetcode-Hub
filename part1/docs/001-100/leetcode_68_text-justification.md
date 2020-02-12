@@ -61,8 +61,10 @@ maxWidth = 20
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<String> fullJustify(String[] words, int maxWidth) {
+        
+    }
+}
 ```

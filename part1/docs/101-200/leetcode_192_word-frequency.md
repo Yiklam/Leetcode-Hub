@@ -34,8 +34,11 @@ day 1
 
 ---
 
-**AC 代码：**
-
 ```java
-
+public class Solution {
+    // you need to treat n as an unsigned value
+    public int hammingWeight(int n) {
+        
+    }
+}
 ```

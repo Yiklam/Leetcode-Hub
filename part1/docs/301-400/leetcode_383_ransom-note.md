@@ -19,8 +19,10 @@ canConstruct("aa", "aab") -&gt; true
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean canConstruct(String ransomNote, String magazine) {
+        
+    }
+}
 ```
