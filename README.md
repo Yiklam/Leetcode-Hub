@@ -10,12 +10,6 @@ Leetcode 题解 In Java。
 
 世界上并没有完美的程序，但我们并不因此而沮丧，因为写程序本来就是一个不断追求完美的过程。
 
-## 静态资源仓库（GITEE.COM）
-
-- [https://gitee.com/gdut_yy/aliyun-lc-upload](https://gitee.com/gdut_yy/aliyun-lc-upload)
-- [https://gitee.com/gdut_yy/uploads](https://gitee.com/gdut_yy/uploads)
-- [https://gitee.com/gdut_yy/wikipedia](https://gitee.com/gdut_yy/wikipedia)
-
 ## 本地开发 & 阅读
 
 本项目基于 vuepress 进行开发，以提供比 github mardown 更佳的阅读体验
@@ -45,25 +39,6 @@ cp -r . ../part4/docs/.vuepress/public/
 cd ../part1/
 yarn docs:dev
 ```
-
-## Contributors
-
-<table>
-  <tr>
-    <td align="center"><a href="https://gdut-yy.github.io/"><img src="https://avatars2.githubusercontent.com/u/33390928?s=460&v=4" width="100px;" /><br /><sub><b>gdut-yy</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/OpenSample"><img src="https://avatars3.githubusercontent.com/u/42914174?s=460&v=4" width="100px;" /><br /><sub><b>OpenSample</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/RxGirlz"><img src="https://avatars3.githubusercontent.com/u/51844789?s=460&v=4" width="100px;" /><br /><sub><b>RxGirlz</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/RxSQL"><img src="https://avatars2.githubusercontent.com/u/51400106?s=460&v=4" width="100px;" /><br /><sub><b>Nezha</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/MerchantOnline"><img src="https://avatars2.githubusercontent.com/u/51402172?s=460&v=4" width="100px;" /><br /><sub><b>MerchantOnline</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/csstdg4"><img src="https://avatars0.githubusercontent.com/u/57406972?s=460&v=4" width="100px;" /><br /><sub><b>huangmei</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/GeoQuiz-dev"><img src="https://avatars1.githubusercontent.com/u/47241483?s=460&v=4" width="100px;" /><br /><sub><b>GeoQuiz-dev</b></sub></a><br /></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/OpenJoinpay"><img src="https://avatars1.githubusercontent.com/u/57326067?s=460&v=4" width="100px;" /><br /><sub><b>Sahar</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Rxboyz"><img src="https://avatars0.githubusercontent.com/u/59510390?s=460&v=4" width="100px;" /><br /><sub><b>PeachA</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/OpenLuban"><img src="https://avatars0.githubusercontent.com/u/57326671?s=460&v=4" width="100px;" /><br /><sub><b>Ujia</b></sub></a><br /></td>
-  </tr>
-</table>
 
 ## License
 
