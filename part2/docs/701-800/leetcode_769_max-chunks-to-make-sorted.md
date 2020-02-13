@@ -1,4 +1,4 @@
-# 769. 最多能完成排序的块
+# 769. [中等] 最多能完成排序的块
 
 **题目链接：**[https://leetcode-cn.com/problems/max-chunks-to-make-sorted](https://leetcode-cn.com/problems/max-chunks-to-make-sorted)
 

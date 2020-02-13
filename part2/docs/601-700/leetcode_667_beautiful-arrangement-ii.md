@@ -1,4 +1,4 @@
-# 667. 优美的排列 II
+# 667. [中等] 优美的排列 II
 
 **题目链接：**[https://leetcode-cn.com/problems/beautiful-arrangement-ii](https://leetcode-cn.com/problems/beautiful-arrangement-ii)
 

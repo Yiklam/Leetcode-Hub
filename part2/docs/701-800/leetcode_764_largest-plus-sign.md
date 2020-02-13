@@ -1,4 +1,4 @@
-# 764. 最大加号标志
+# 764. [中等] 最大加号标志
 
 **题目链接：**[https://leetcode-cn.com/problems/largest-plus-sign](https://leetcode-cn.com/problems/largest-plus-sign)
 

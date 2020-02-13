@@ -1,4 +1,4 @@
-# 731. 我的日程安排表 II
+# 731. [中等] 我的日程安排表 II
 
 **题目链接：**[https://leetcode-cn.com/problems/my-calendar-ii](https://leetcode-cn.com/problems/my-calendar-ii)
 

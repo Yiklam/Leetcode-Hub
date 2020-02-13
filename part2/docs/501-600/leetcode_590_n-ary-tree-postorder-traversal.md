@@ -1,4 +1,4 @@
-# 590. N叉树的后序遍历
+# 590. [简单] N叉树的后序遍历
 
 **题目链接：**[https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal)
 

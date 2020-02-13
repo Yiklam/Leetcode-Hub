@@ -1,4 +1,4 @@
-# 491. 递增子序列
+# 491. [中等] 递增子序列
 
 **题目链接：**[https://leetcode-cn.com/problems/increasing-subsequences](https://leetcode-cn.com/problems/increasing-subsequences)
 

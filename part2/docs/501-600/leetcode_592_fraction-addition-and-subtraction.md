@@ -1,4 +1,4 @@
-# 592. 分数加减运算
+# 592. [中等] 分数加减运算
 
 **题目链接：**[https://leetcode-cn.com/problems/fraction-addition-and-subtraction](https://leetcode-cn.com/problems/fraction-addition-and-subtraction)
 

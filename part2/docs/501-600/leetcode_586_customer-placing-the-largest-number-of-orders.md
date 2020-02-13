@@ -1,4 +1,4 @@
-# $586. 订单最多的客户
+# $586. [简单] 订单最多的客户
 
 **题目链接：**[https://leetcode-cn.com/problems/customer-placing-the-largest-number-of-orders](https://leetcode-cn.com/problems/customer-placing-the-largest-number-of-orders)
 
@@ -48,6 +48,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

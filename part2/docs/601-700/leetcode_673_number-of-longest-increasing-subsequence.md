@@ -1,4 +1,4 @@
-# 673. 最长递增子序列的个数
+# 673. [中等] 最长递增子序列的个数
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence)
 

@@ -1,4 +1,4 @@
-# 636. 函数的独占时间
+# 636. [中等] 函数的独占时间
 
 **题目链接：**[https://leetcode-cn.com/problems/exclusive-time-of-functions](https://leetcode-cn.com/problems/exclusive-time-of-functions)
 

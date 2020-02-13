@@ -1,4 +1,4 @@
-# 546. 移除盒子
+# 546. [困难] 移除盒子
 
 **题目链接：**[https://leetcode-cn.com/problems/remove-boxes](https://leetcode-cn.com/problems/remove-boxes)
 

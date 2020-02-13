@@ -1,4 +1,4 @@
-# 754. 到达终点数字
+# 754. [中等] 到达终点数字
 
 **题目链接：**[https://leetcode-cn.com/problems/reach-a-number](https://leetcode-cn.com/problems/reach-a-number)
 

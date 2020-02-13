@@ -1,4 +1,4 @@
-# 595. 大的国家
+# 595. [简单] 大的国家
 
 **题目链接：**[https://leetcode-cn.com/problems/big-countries](https://leetcode-cn.com/problems/big-countries)
 
@@ -38,6 +38,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

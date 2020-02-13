@@ -1,4 +1,4 @@
-# 637. 二叉树的层平均值
+# 637. [简单] 二叉树的层平均值
 
 **题目链接：**[https://leetcode-cn.com/problems/average-of-levels-in-binary-tree](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree)
 

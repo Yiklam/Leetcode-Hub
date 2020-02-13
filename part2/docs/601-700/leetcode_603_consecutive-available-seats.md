@@ -1,4 +1,4 @@
-# $603. 连续空余座位
+# $603. [简单] 连续空余座位
 
 **题目链接：**[https://leetcode-cn.com/problems/consecutive-available-seats](https://leetcode-cn.com/problems/consecutive-available-seats)
 
@@ -41,6 +41,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

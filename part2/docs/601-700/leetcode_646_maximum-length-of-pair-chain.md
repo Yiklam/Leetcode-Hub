@@ -1,4 +1,4 @@
-# 646. 最长数对链
+# 646. [中等] 最长数对链
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-length-of-pair-chain](https://leetcode-cn.com/problems/maximum-length-of-pair-chain)
 

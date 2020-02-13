@@ -1,4 +1,4 @@
-# 638. 大礼包
+# 638. [中等] 大礼包
 
 **题目链接：**[https://leetcode-cn.com/problems/shopping-offers](https://leetcode-cn.com/problems/shopping-offers)
 

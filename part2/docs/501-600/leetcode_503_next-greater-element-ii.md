@@ -1,4 +1,4 @@
-# 503. 下一个更大元素 II
+# 503. [中等] 下一个更大元素 II
 
 **题目链接：**[https://leetcode-cn.com/problems/next-greater-element-ii](https://leetcode-cn.com/problems/next-greater-element-ii)
 

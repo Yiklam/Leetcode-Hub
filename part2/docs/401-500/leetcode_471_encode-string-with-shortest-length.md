@@ -1,4 +1,4 @@
-# $471. 编码最短长度的字符串
+# $471. [困难] 编码最短长度的字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/encode-string-with-shortest-length](https://leetcode-cn.com/problems/encode-string-with-shortest-length)
 

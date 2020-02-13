@@ -1,4 +1,4 @@
-# 789. 逃脱阻碍者
+# 789. [中等] 逃脱阻碍者
 
 **题目链接：**[https://leetcode-cn.com/problems/escape-the-ghosts](https://leetcode-cn.com/problems/escape-the-ghosts)
 

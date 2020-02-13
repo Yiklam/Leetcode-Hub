@@ -1,4 +1,4 @@
-# 497. 非重叠矩形中的随机点
+# 497. [中等] 非重叠矩形中的随机点
 
 **题目链接：**[https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles](https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles)
 

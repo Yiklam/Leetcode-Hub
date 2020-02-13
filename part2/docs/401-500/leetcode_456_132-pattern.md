@@ -1,4 +1,4 @@
-# 456. 132模式
+# 456. [中等] 132模式
 
 **题目链接：**[https://leetcode-cn.com/problems/132-pattern](https://leetcode-cn.com/problems/132-pattern)
 

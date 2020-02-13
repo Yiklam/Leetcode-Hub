@@ -1,4 +1,4 @@
-# $428. 序列化和反序列化 N 叉树
+# $428. [困难] 序列化和反序列化 N 叉树
 
 **题目链接：**[https://leetcode-cn.com/problems/serialize-and-deserialize-n-ary-tree](https://leetcode-cn.com/problems/serialize-and-deserialize-n-ary-tree)
 

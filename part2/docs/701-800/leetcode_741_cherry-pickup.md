@@ -1,4 +1,4 @@
-# 741. 摘樱桃
+# 741. [困难] 摘樱桃
 
 **题目链接：**[https://leetcode-cn.com/problems/cherry-pickup](https://leetcode-cn.com/problems/cherry-pickup)
 

@@ -1,4 +1,4 @@
-# 730. 统计不同回文子字符串
+# 730. [困难] 统计不同回文子字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/count-different-palindromic-subsequences](https://leetcode-cn.com/problems/count-different-palindromic-subsequences)
 

@@ -1,4 +1,4 @@
-# 466. 统计重复个数
+# 466. [困难] 统计重复个数
 
 **题目链接：**[https://leetcode-cn.com/problems/count-the-repetitions](https://leetcode-cn.com/problems/count-the-repetitions)
 

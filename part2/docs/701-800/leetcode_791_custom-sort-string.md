@@ -1,4 +1,4 @@
-# 791. 自定义字符串排序
+# 791. [中等] 自定义字符串排序
 
 **题目链接：**[https://leetcode-cn.com/problems/custom-sort-string](https://leetcode-cn.com/problems/custom-sort-string)
 

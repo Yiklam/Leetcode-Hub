@@ -1,4 +1,4 @@
-# 476. 数字的补数
+# 476. [简单] 数字的补数
 
 **题目链接：**[https://leetcode-cn.com/problems/number-complement](https://leetcode-cn.com/problems/number-complement)
 

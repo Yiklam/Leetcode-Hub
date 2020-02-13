@@ -1,4 +1,4 @@
-# $582. 杀死进程
+# $582. [中等] 杀死进程
 
 **题目链接：**[https://leetcode-cn.com/problems/kill-process](https://leetcode-cn.com/problems/kill-process)
 

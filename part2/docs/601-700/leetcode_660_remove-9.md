@@ -1,4 +1,4 @@
-# $660. 移除 9
+# $660. [困难] 移除 9
 
 **题目链接：**[https://leetcode-cn.com/problems/remove-9](https://leetcode-cn.com/problems/remove-9)
 

@@ -1,4 +1,4 @@
-# 684. 冗余连接
+# 684. [中等] 冗余连接
 
 **题目链接：**[https://leetcode-cn.com/problems/redundant-connection](https://leetcode-cn.com/problems/redundant-connection)
 

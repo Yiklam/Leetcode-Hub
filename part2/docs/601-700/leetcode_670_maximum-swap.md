@@ -1,4 +1,4 @@
-# 670. 最大交换
+# 670. [中等] 最大交换
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-swap](https://leetcode-cn.com/problems/maximum-swap)
 

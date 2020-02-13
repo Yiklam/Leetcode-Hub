@@ -1,4 +1,4 @@
-# 594. 最长和谐子序列
+# 594. [简单] 最长和谐子序列
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-harmonious-subsequence](https://leetcode-cn.com/problems/longest-harmonious-subsequence)
 

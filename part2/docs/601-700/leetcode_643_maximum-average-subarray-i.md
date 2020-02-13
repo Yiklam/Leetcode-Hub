@@ -1,4 +1,4 @@
-# 643. 子数组最大平均数 I
+# 643. [简单] 子数组最大平均数 I
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-average-subarray-i](https://leetcode-cn.com/problems/maximum-average-subarray-i)
 

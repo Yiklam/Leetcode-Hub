@@ -1,4 +1,4 @@
-# 704. 二分查找
+# 704. [简单] 二分查找
 
 **题目链接：**[https://leetcode-cn.com/problems/binary-search](https://leetcode-cn.com/problems/binary-search)
 

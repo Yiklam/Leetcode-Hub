@@ -1,4 +1,4 @@
-# 679. 24 点游戏
+# 679. [困难] 24 点游戏
 
 **题目链接：**[https://leetcode-cn.com/problems/24-game](https://leetcode-cn.com/problems/24-game)
 

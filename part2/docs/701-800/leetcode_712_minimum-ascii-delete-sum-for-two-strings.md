@@ -1,4 +1,4 @@
-# 712. 两个字符串的最小ASCII删除和
+# 712. [中等] 两个字符串的最小ASCII删除和
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings)
 

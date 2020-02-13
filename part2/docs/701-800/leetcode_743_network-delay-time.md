@@ -1,4 +1,4 @@
-# 743. 网络延迟时间
+# 743. [中等] 网络延迟时间
 
 **题目链接：**[https://leetcode-cn.com/problems/network-delay-time](https://leetcode-cn.com/problems/network-delay-time)
 

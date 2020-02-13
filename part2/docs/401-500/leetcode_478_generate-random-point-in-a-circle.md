@@ -1,4 +1,4 @@
-# 478. 在圆内随机生成点
+# 478. [中等] 在圆内随机生成点
 
 **题目链接：**[https://leetcode-cn.com/problems/generate-random-point-in-a-circle](https://leetcode-cn.com/problems/generate-random-point-in-a-circle)
 

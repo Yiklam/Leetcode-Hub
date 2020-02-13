@@ -1,4 +1,4 @@
-# 483. 最小好进制
+# 483. [困难] 最小好进制
 
 **题目链接：**[https://leetcode-cn.com/problems/smallest-good-base](https://leetcode-cn.com/problems/smallest-good-base)
 

@@ -1,4 +1,4 @@
-# 540. 有序数组中的单一元素
+# 540. [中等] 有序数组中的单一元素
 
 **题目链接：**[https://leetcode-cn.com/problems/single-element-in-a-sorted-array](https://leetcode-cn.com/problems/single-element-in-a-sorted-array)
 

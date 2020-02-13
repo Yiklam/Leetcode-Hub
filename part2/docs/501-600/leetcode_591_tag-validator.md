@@ -1,4 +1,4 @@
-# 591. 标签验证器
+# 591. [困难] 标签验证器
 
 **题目链接：**[https://leetcode-cn.com/problems/tag-validator](https://leetcode-cn.com/problems/tag-validator)
 

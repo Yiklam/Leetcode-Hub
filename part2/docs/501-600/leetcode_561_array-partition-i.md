@@ -1,4 +1,4 @@
-# 561. 数组拆分 I
+# 561. [简单] 数组拆分 I
 
 **题目链接：**[https://leetcode-cn.com/problems/array-partition-i](https://leetcode-cn.com/problems/array-partition-i)
 

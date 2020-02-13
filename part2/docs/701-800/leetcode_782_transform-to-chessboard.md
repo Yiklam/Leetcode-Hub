@@ -1,4 +1,4 @@
-# 782. 变为棋盘
+# 782. [困难] 变为棋盘
 
 **题目链接：**[https://leetcode-cn.com/problems/transform-to-chessboard](https://leetcode-cn.com/problems/transform-to-chessboard)
 

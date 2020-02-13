@@ -1,4 +1,4 @@
-# 609. 在系统中查找重复文件
+# 609. [中等] 在系统中查找重复文件
 
 **题目链接：**[https://leetcode-cn.com/problems/find-duplicate-file-in-system](https://leetcode-cn.com/problems/find-duplicate-file-in-system)
 

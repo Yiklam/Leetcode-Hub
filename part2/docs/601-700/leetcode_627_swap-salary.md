@@ -1,4 +1,4 @@
-# 627. 交换工资
+# 627. [简单] 交换工资
 
 **题目链接：**[https://leetcode-cn.com/problems/swap-salary](https://leetcode-cn.com/problems/swap-salary)
 
@@ -35,6 +35,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

@@ -1,4 +1,4 @@
-# 589. N叉树的前序遍历
+# 589. [简单] N叉树的前序遍历
 
 **题目链接：**[https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal)
 

@@ -1,4 +1,4 @@
-# 781. 森林中的兔子
+# 781. [中等] 森林中的兔子
 
 **题目链接：**[https://leetcode-cn.com/problems/rabbits-in-forest](https://leetcode-cn.com/problems/rabbits-in-forest)
 

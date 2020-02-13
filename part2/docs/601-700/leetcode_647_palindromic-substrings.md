@@ -1,4 +1,4 @@
-# 647. 回文子串
+# 647. [中等] 回文子串
 
 **题目链接：**[https://leetcode-cn.com/problems/palindromic-substrings](https://leetcode-cn.com/problems/palindromic-substrings)
 

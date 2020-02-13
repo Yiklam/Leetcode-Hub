@@ -1,4 +1,4 @@
-# 566. 重塑矩阵
+# 566. [简单] 重塑矩阵
 
 **题目链接：**[https://leetcode-cn.com/problems/reshape-the-matrix](https://leetcode-cn.com/problems/reshape-the-matrix)
 

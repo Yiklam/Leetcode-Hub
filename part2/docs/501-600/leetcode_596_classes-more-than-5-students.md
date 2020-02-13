@@ -1,4 +1,4 @@
-# 596. 超过5名学生的课
+# 596. [简单] 超过5名学生的课
 
 **题目链接：**[https://leetcode-cn.com/problems/classes-more-than-5-students](https://leetcode-cn.com/problems/classes-more-than-5-students)
 
@@ -42,6 +42,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

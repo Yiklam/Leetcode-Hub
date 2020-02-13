@@ -1,4 +1,4 @@
-# 542. 01 矩阵
+# 542. [中等] 01 矩阵
 
 **题目链接：**[https://leetcode-cn.com/problems/01-matrix](https://leetcode-cn.com/problems/01-matrix)
 

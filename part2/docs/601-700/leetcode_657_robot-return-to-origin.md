@@ -1,4 +1,4 @@
-# 657. 机器人能否返回原点
+# 657. [简单] 机器人能否返回原点
 
 **题目链接：**[https://leetcode-cn.com/problems/robot-return-to-origin](https://leetcode-cn.com/problems/robot-return-to-origin)
 

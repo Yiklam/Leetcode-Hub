@@ -1,4 +1,4 @@
-# $708. 循环有序列表的插入
+# $708. [中等] 循环有序列表的插入
 
 **题目链接：**[https://leetcode-cn.com/problems/insert-into-a-sorted-circular-linked-list](https://leetcode-cn.com/problems/insert-into-a-sorted-circular-linked-list)
 

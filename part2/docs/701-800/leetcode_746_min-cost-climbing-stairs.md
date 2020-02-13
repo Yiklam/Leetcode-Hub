@@ -1,4 +1,4 @@
-# 746. 使用最小花费爬楼梯
+# 746. [简单] 使用最小花费爬楼梯
 
 **题目链接：**[https://leetcode-cn.com/problems/min-cost-climbing-stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs)
 

@@ -1,4 +1,4 @@
-# 409. 最长回文串
+# 409. [简单] 最长回文串
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-palindrome](https://leetcode-cn.com/problems/longest-palindrome)
 

@@ -1,4 +1,4 @@
-# 676. 实现一个魔法字典
+# 676. [中等] 实现一个魔法字典
 
 **题目链接：**[https://leetcode-cn.com/problems/implement-magic-dictionary](https://leetcode-cn.com/problems/implement-magic-dictionary)
 

@@ -1,4 +1,4 @@
-# 678. 有效的括号字符串
+# 678. [中等] 有效的括号字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/valid-parenthesis-string](https://leetcode-cn.com/problems/valid-parenthesis-string)
 

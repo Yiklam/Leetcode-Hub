@@ -1,4 +1,4 @@
-# 543. 二叉树的直径
+# 543. [简单] 二叉树的直径
 
 **题目链接：**[https://leetcode-cn.com/problems/diameter-of-binary-tree](https://leetcode-cn.com/problems/diameter-of-binary-tree)
 

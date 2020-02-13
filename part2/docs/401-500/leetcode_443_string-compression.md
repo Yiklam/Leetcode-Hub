@@ -1,4 +1,4 @@
-# 443. 压缩字符串
+# 443. [简单] 压缩字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/string-compression](https://leetcode-cn.com/problems/string-compression)
 

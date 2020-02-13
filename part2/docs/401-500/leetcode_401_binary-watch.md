@@ -1,4 +1,4 @@
-# 401. 二进制手表
+# 401. [简单] 二进制手表
 
 **题目链接：**[https://leetcode-cn.com/problems/binary-watch](https://leetcode-cn.com/problems/binary-watch)
 

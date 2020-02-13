@@ -1,4 +1,4 @@
-# 641. 设计循环双端队列
+# 641. [中等] 设计循环双端队列
 
 **题目链接：**[https://leetcode-cn.com/problems/design-circular-deque](https://leetcode-cn.com/problems/design-circular-deque)
 

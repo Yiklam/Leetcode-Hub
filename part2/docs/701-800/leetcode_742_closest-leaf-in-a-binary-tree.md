@@ -1,4 +1,4 @@
-# $742. 二叉树最近的叶节点
+# $742. [中等] 二叉树最近的叶节点
 
 **题目链接：**[https://leetcode-cn.com/problems/closest-leaf-in-a-binary-tree](https://leetcode-cn.com/problems/closest-leaf-in-a-binary-tree)
 

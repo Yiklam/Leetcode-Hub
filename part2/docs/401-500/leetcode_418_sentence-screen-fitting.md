@@ -1,4 +1,4 @@
-# $418. 屏幕可显示句子的数量
+# $418. [中等] 屏幕可显示句子的数量
 
 **题目链接：**[https://leetcode-cn.com/problems/sentence-screen-fitting](https://leetcode-cn.com/problems/sentence-screen-fitting)
 

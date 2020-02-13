@@ -1,4 +1,4 @@
-# 419. 甲板上的战舰
+# 419. [中等] 甲板上的战舰
 
 **题目链接：**[https://leetcode-cn.com/problems/battleships-in-a-board](https://leetcode-cn.com/problems/battleships-in-a-board)
 

@@ -1,4 +1,4 @@
-# 763. 划分字母区间
+# 763. [中等] 划分字母区间
 
 **题目链接：**[https://leetcode-cn.com/problems/partition-labels](https://leetcode-cn.com/problems/partition-labels)
 

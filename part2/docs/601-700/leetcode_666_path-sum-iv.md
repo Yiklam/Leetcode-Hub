@@ -1,4 +1,4 @@
-# $666. 路径和 IV
+# $666. [中等] 路径和 IV
 
 **题目链接：**[https://leetcode-cn.com/problems/path-sum-iv](https://leetcode-cn.com/problems/path-sum-iv)
 

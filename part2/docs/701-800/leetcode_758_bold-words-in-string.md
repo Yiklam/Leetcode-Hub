@@ -1,4 +1,4 @@
-# $758. 字符串中的加粗单词
+# $758. [简单] 字符串中的加粗单词
 
 **题目链接：**[https://leetcode-cn.com/problems/bold-words-in-string](https://leetcode-cn.com/problems/bold-words-in-string)
 

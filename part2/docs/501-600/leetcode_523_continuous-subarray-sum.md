@@ -1,4 +1,4 @@
-# 523. 连续的子数组和
+# 523. [中等] 连续的子数组和
 
 **题目链接：**[https://leetcode-cn.com/problems/continuous-subarray-sum](https://leetcode-cn.com/problems/continuous-subarray-sum)
 

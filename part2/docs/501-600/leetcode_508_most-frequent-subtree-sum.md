@@ -1,4 +1,4 @@
-# 508. 出现次数最多的子树元素和
+# 508. [中等] 出现次数最多的子树元素和
 
 **题目链接：**[https://leetcode-cn.com/problems/most-frequent-subtree-sum](https://leetcode-cn.com/problems/most-frequent-subtree-sum)
 

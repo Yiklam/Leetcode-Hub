@@ -1,4 +1,4 @@
-# 739. 每日温度
+# 739. [中等] 每日温度
 
 **题目链接：**[https://leetcode-cn.com/problems/daily-temperatures](https://leetcode-cn.com/problems/daily-temperatures)
 

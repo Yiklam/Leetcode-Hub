@@ -1,4 +1,4 @@
-# 775. 全局倒置与局部倒置
+# 775. [中等] 全局倒置与局部倒置
 
 **题目链接：**[https://leetcode-cn.com/problems/global-and-local-inversions](https://leetcode-cn.com/problems/global-and-local-inversions)
 

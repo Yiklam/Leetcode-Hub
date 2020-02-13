@@ -1,4 +1,4 @@
-# 601. 体育馆的人流量
+# 601. [困难] 体育馆的人流量
 
 **题目链接：**[https://leetcode-cn.com/problems/human-traffic-of-stadium](https://leetcode-cn.com/problems/human-traffic-of-stadium)
 
@@ -45,6 +45,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

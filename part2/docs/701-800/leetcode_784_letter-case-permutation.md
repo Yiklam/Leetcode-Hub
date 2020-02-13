@@ -1,4 +1,4 @@
-# 784. 字母大小写全排列
+# 784. [简单] 字母大小写全排列
 
 **题目链接：**[https://leetcode-cn.com/problems/letter-case-permutation](https://leetcode-cn.com/problems/letter-case-permutation)
 

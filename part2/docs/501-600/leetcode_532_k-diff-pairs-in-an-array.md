@@ -1,4 +1,4 @@
-# 532. 数组中的K-diff数对
+# 532. [简单] 数组中的K-diff数对
 
 **题目链接：**[https://leetcode-cn.com/problems/k-diff-pairs-in-an-array](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array)
 

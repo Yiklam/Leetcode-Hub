@@ -1,4 +1,4 @@
-# 706. 设计哈希映射
+# 706. [简单] 设计哈希映射
 
 **题目链接：**[https://leetcode-cn.com/problems/design-hashmap](https://leetcode-cn.com/problems/design-hashmap)
 

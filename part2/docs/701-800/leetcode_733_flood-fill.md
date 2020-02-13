@@ -1,4 +1,4 @@
-# 733. 图像渲染
+# 733. [简单] 图像渲染
 
 **题目链接：**[https://leetcode-cn.com/problems/flood-fill](https://leetcode-cn.com/problems/flood-fill)
 

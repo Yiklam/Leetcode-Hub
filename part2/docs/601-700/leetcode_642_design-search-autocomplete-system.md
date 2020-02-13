@@ -1,4 +1,4 @@
-# $642. 设计搜索自动补全系统
+# $642. [困难] 设计搜索自动补全系统
 
 **题目链接：**[https://leetcode-cn.com/problems/design-search-autocomplete-system](https://leetcode-cn.com/problems/design-search-autocomplete-system)
 

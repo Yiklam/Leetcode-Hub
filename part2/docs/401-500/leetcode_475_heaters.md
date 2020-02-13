@@ -1,4 +1,4 @@
-# 475. 供暖器
+# 475. [简单] 供暖器
 
 **题目链接：**[https://leetcode-cn.com/problems/heaters](https://leetcode-cn.com/problems/heaters)
 

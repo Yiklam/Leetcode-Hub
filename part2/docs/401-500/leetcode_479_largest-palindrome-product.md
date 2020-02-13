@@ -1,4 +1,4 @@
-# 479. 最大回文数乘积
+# 479. [困难] 最大回文数乘积
 
 **题目链接：**[https://leetcode-cn.com/problems/largest-palindrome-product](https://leetcode-cn.com/problems/largest-palindrome-product)
 

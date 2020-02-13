@@ -1,4 +1,4 @@
-# 447. 回旋镖的数量
+# 447. [简单] 回旋镖的数量
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-boomerangs](https://leetcode-cn.com/problems/number-of-boomerangs)
 

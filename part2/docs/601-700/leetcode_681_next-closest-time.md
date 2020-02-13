@@ -1,4 +1,4 @@
-# $681. 最近时刻
+# $681. [中等] 最近时刻
 
 **题目链接：**[https://leetcode-cn.com/problems/next-closest-time](https://leetcode-cn.com/problems/next-closest-time)
 

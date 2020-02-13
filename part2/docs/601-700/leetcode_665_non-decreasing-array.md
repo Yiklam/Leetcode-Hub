@@ -1,4 +1,4 @@
-# 665. 非递减数列
+# 665. [简单] 非递减数列
 
 **题目链接：**[https://leetcode-cn.com/problems/non-decreasing-array](https://leetcode-cn.com/problems/non-decreasing-array)
 

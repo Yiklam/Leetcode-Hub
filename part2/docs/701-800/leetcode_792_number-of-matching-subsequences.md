@@ -1,4 +1,4 @@
-# 792. 匹配子序列的单词数
+# 792. [中等] 匹配子序列的单词数
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-matching-subsequences](https://leetcode-cn.com/problems/number-of-matching-subsequences)
 

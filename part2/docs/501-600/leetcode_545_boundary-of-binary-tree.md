@@ -1,4 +1,4 @@
-# $545. 二叉树的边界
+# $545. [中等] 二叉树的边界
 
 **题目链接：**[https://leetcode-cn.com/problems/boundary-of-binary-tree](https://leetcode-cn.com/problems/boundary-of-binary-tree)
 

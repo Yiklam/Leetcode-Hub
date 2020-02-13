@@ -1,4 +1,4 @@
-# 736. Lisp 语法解析
+# 736. [困难] Lisp 语法解析
 
 **题目链接：**[https://leetcode-cn.com/problems/parse-lisp-expression](https://leetcode-cn.com/problems/parse-lisp-expression)
 

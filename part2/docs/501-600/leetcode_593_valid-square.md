@@ -1,4 +1,4 @@
-# 593. 有效的正方形
+# 593. [中等] 有效的正方形
 
 **题目链接：**[https://leetcode-cn.com/problems/valid-square](https://leetcode-cn.com/problems/valid-square)
 

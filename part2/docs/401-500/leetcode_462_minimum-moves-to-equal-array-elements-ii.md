@@ -1,4 +1,4 @@
-# 462. 最少移动次数使数组元素相等 II
+# 462. [中等] 最少移动次数使数组元素相等 II
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii)
 

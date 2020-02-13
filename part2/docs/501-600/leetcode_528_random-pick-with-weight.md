@@ -1,4 +1,4 @@
-# 528. 按权重随机选择
+# 528. [中等] 按权重随机选择
 
 **题目链接：**[https://leetcode-cn.com/problems/random-pick-with-weight](https://leetcode-cn.com/problems/random-pick-with-weight)
 

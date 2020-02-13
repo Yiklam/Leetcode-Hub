@@ -1,4 +1,4 @@
-# $618. 学生地理信息报告
+# $618. [困难] 学生地理信息报告
 
 **题目链接：**[https://leetcode-cn.com/problems/students-report-by-geography](https://leetcode-cn.com/problems/students-report-by-geography)
 
@@ -39,6 +39,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

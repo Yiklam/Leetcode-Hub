@@ -1,4 +1,4 @@
-# 554. 砖墙
+# 554. [中等] 砖墙
 
 **题目链接：**[https://leetcode-cn.com/problems/brick-wall](https://leetcode-cn.com/problems/brick-wall)
 

@@ -1,4 +1,4 @@
-# $571. 给定数字的频率查询中位数
+# $571. [困难] 给定数字的频率查询中位数
 
 **题目链接：**[https://leetcode-cn.com/problems/find-median-given-frequency-of-numbers](https://leetcode-cn.com/problems/find-median-given-frequency-of-numbers)
 
@@ -35,6 +35,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

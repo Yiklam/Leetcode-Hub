@@ -1,4 +1,4 @@
-# 695. 岛屿的最大面积
+# 695. [中等] 岛屿的最大面积
 
 **题目链接：**[https://leetcode-cn.com/problems/max-area-of-island](https://leetcode-cn.com/problems/max-area-of-island)
 

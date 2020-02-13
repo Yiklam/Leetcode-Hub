@@ -1,4 +1,4 @@
-# 525. 连续数组
+# 525. [中等] 连续数组
 
 **题目链接：**[https://leetcode-cn.com/problems/contiguous-array](https://leetcode-cn.com/problems/contiguous-array)
 

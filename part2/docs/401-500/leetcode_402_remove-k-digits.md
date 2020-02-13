@@ -1,4 +1,4 @@
-# 402. 移掉K位数字
+# 402. [中等] 移掉K位数字
 
 **题目链接：**[https://leetcode-cn.com/problems/remove-k-digits](https://leetcode-cn.com/problems/remove-k-digits)
 

@@ -1,4 +1,4 @@
-# 495. 提莫攻击
+# 495. [中等] 提莫攻击
 
 **题目链接：**[https://leetcode-cn.com/problems/teemo-attacking](https://leetcode-cn.com/problems/teemo-attacking)
 

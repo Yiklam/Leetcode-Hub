@@ -1,4 +1,4 @@
-# 724. 寻找数组的中心索引
+# 724. [简单] 寻找数组的中心索引
 
 **题目链接：**[https://leetcode-cn.com/problems/find-pivot-index](https://leetcode-cn.com/problems/find-pivot-index)
 

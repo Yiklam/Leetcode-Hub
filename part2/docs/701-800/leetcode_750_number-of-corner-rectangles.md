@@ -1,4 +1,4 @@
-# $750. 角矩形的数量
+# $750. [中等] 角矩形的数量
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-corner-rectangles](https://leetcode-cn.com/problems/number-of-corner-rectangles)
 

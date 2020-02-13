@@ -1,4 +1,4 @@
-# 526. 优美的排列
+# 526. [中等] 优美的排列
 
 **题目链接：**[https://leetcode-cn.com/problems/beautiful-arrangement](https://leetcode-cn.com/problems/beautiful-arrangement)
 

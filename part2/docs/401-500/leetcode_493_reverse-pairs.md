@@ -1,4 +1,4 @@
-# 493. 翻转对
+# 493. [困难] 翻转对
 
 **题目链接：**[https://leetcode-cn.com/problems/reverse-pairs](https://leetcode-cn.com/problems/reverse-pairs)
 

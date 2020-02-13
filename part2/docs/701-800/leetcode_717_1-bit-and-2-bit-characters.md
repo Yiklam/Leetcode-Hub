@@ -1,4 +1,4 @@
-# 717. 1比特与2比特字符
+# 717. [简单] 1比特与2比特字符
 
 **题目链接：**[https://leetcode-cn.com/problems/1-bit-and-2-bit-characters](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters)
 

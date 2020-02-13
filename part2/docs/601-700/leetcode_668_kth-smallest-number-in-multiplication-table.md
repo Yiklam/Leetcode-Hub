@@ -1,4 +1,4 @@
-# 668. 乘法表中第k小的数
+# 668. [困难] 乘法表中第k小的数
 
 **题目链接：**[https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table)
 

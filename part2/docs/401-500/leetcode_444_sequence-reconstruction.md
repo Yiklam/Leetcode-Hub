@@ -1,4 +1,4 @@
-# $444. 序列重建
+# $444. [中等] 序列重建
 
 **题目链接：**[https://leetcode-cn.com/problems/sequence-reconstruction](https://leetcode-cn.com/problems/sequence-reconstruction)
 

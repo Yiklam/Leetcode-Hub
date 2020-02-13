@@ -1,4 +1,4 @@
-# 576. 出界的路径数
+# 576. [中等] 出界的路径数
 
 **题目链接：**[https://leetcode-cn.com/problems/out-of-boundary-paths](https://leetcode-cn.com/problems/out-of-boundary-paths)
 

@@ -1,4 +1,4 @@
-# 501. 二叉搜索树中的众数
+# 501. [简单] 二叉搜索树中的众数
 
 **题目链接：**[https://leetcode-cn.com/problems/find-mode-in-binary-search-tree](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree)
 

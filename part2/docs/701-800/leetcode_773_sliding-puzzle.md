@@ -1,4 +1,4 @@
-# 773. 滑动谜题
+# 773. [困难] 滑动谜题
 
 **题目链接：**[https://leetcode-cn.com/problems/sliding-puzzle](https://leetcode-cn.com/problems/sliding-puzzle)
 

@@ -1,4 +1,4 @@
-# 659. 分割数组为连续子序列
+# 659. [中等] 分割数组为连续子序列
 
 **题目链接：**[https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences)
 

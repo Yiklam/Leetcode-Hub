@@ -1,4 +1,4 @@
-# 628. 三个数的最大乘积
+# 628. [简单] 三个数的最大乘积
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-product-of-three-numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers)
 

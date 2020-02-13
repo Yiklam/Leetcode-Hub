@@ -1,4 +1,4 @@
-# $772. 基本计算器 III
+# $772. [困难] 基本计算器 III
 
 **题目链接：**[https://leetcode-cn.com/problems/basic-calculator-iii](https://leetcode-cn.com/problems/basic-calculator-iii)
 

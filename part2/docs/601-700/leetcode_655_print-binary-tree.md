@@ -1,4 +1,4 @@
-# 655. 输出二叉树
+# 655. [中等] 输出二叉树
 
 **题目链接：**[https://leetcode-cn.com/problems/print-binary-tree](https://leetcode-cn.com/problems/print-binary-tree)
 

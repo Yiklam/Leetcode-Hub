@@ -1,4 +1,4 @@
-# 707. 设计链表
+# 707. [中等] 设计链表
 
 **题目链接：**[https://leetcode-cn.com/problems/design-linked-list](https://leetcode-cn.com/problems/design-linked-list)
 

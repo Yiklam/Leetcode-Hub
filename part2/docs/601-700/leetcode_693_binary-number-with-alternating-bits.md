@@ -1,4 +1,4 @@
-# 693. 交替位二进制数
+# 693. [简单] 交替位二进制数
 
 **题目链接：**[https://leetcode-cn.com/problems/binary-number-with-alternating-bits](https://leetcode-cn.com/problems/binary-number-with-alternating-bits)
 

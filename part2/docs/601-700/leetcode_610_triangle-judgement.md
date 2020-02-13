@@ -1,4 +1,4 @@
-# $610. 判断三角形
+# $610. [简单] 判断三角形
 
 **题目链接：**[https://leetcode-cn.com/problems/triangle-judgement](https://leetcode-cn.com/problems/triangle-judgement)
 
@@ -34,6 +34,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

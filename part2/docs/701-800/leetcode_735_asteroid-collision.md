@@ -1,4 +1,4 @@
-# 735. 行星碰撞
+# 735. [中等] 行星碰撞
 
 **题目链接：**[https://leetcode-cn.com/problems/asteroid-collision](https://leetcode-cn.com/problems/asteroid-collision)
 

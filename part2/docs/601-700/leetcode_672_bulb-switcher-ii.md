@@ -1,4 +1,4 @@
-# 672. 灯泡开关 Ⅱ
+# 672. [中等] 灯泡开关 Ⅱ
 
 **题目链接：**[https://leetcode-cn.com/problems/bulb-switcher-ii](https://leetcode-cn.com/problems/bulb-switcher-ii)
 

@@ -1,4 +1,4 @@
-# 748. 最短完整词
+# 748. [简单] 最短完整词
 
 **题目链接：**[https://leetcode-cn.com/problems/shortest-completing-word](https://leetcode-cn.com/problems/shortest-completing-word)
 

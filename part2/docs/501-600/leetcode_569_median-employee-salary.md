@@ -1,4 +1,4 @@
-# $569. 员工薪水中位数
+# $569. [困难] 员工薪水中位数
 
 **题目链接：**[https://leetcode-cn.com/problems/median-employee-salary](https://leetcode-cn.com/problems/median-employee-salary)
 
@@ -51,6 +51,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

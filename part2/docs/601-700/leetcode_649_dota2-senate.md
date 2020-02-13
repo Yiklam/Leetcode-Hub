@@ -1,4 +1,4 @@
-# 649. Dota2 参议院
+# 649. [中等] Dota2 参议院
 
 **题目链接：**[https://leetcode-cn.com/problems/dota2-senate](https://leetcode-cn.com/problems/dota2-senate)
 

@@ -1,4 +1,4 @@
-# $635. 设计日志存储系统
+# $635. [中等] 设计日志存储系统
 
 **题目链接：**[https://leetcode-cn.com/problems/design-log-storage-system](https://leetcode-cn.com/problems/design-log-storage-system)
 

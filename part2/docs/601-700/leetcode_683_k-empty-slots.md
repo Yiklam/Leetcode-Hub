@@ -1,4 +1,4 @@
-# $683. K 个空花盆
+# $683. [困难] K 个空花盆
 
 **题目链接：**[https://leetcode-cn.com/problems/k-empty-slots](https://leetcode-cn.com/problems/k-empty-slots)
 

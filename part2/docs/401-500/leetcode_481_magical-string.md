@@ -1,4 +1,4 @@
-# 481. 神奇字符串
+# 481. [中等] 神奇字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/magical-string](https://leetcode-cn.com/problems/magical-string)
 

@@ -1,4 +1,4 @@
-# 600. 不含连续1的非负整数
+# 600. [困难] 不含连续1的非负整数
 
 **题目链接：**[https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones)
 

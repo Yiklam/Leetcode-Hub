@@ -1,4 +1,4 @@
-# 556. 下一个更大元素 III
+# 556. [中等] 下一个更大元素 III
 
 **题目链接：**[https://leetcode-cn.com/problems/next-greater-element-iii](https://leetcode-cn.com/problems/next-greater-element-iii)
 

@@ -1,4 +1,4 @@
-# $607. 销售员
+# $607. [简单] 销售员
 
 **题目链接：**[https://leetcode-cn.com/problems/sales-person](https://leetcode-cn.com/problems/sales-person)
 
@@ -66,6 +66,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

@@ -1,4 +1,4 @@
-# 622. 设计循环队列
+# 622. [中等] 设计循环队列
 
 **题目链接：**[https://leetcode-cn.com/problems/design-circular-queue](https://leetcode-cn.com/problems/design-circular-queue)
 

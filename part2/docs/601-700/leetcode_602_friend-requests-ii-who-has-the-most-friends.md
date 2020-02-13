@@ -1,4 +1,4 @@
-# $602. 好友申请 II ：谁有最多的好友
+# $602. [中等] 好友申请 II ：谁有最多的好友
 
 **题目链接：**[https://leetcode-cn.com/problems/friend-requests-ii-who-has-the-most-friends](https://leetcode-cn.com/problems/friend-requests-ii-who-has-the-most-friends)
 
@@ -44,6 +44,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

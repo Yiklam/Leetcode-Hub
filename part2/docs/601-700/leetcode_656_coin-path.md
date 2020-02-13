@@ -1,4 +1,4 @@
-# $656. 金币路径
+# $656. [困难] 金币路径
 
 **题目链接：**[https://leetcode-cn.com/problems/coin-path](https://leetcode-cn.com/problems/coin-path)
 

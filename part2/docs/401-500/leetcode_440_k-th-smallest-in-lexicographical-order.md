@@ -1,4 +1,4 @@
-# 440. 字典序的第K小数字
+# 440. [困难] 字典序的第K小数字
 
 **题目链接：**[https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order)
 

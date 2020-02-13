@@ -1,4 +1,4 @@
-# $585. 2016年的投资
+# $585. [中等] 2016年的投资
 
 **题目链接：**[https://leetcode-cn.com/problems/investments-in-2016](https://leetcode-cn.com/problems/investments-in-2016)
 
@@ -8,6 +8,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

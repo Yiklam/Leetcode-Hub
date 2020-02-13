@@ -1,4 +1,4 @@
-# $570. 至少有5名直接下属的经理
+# $570. [中等] 至少有5名直接下属的经理
 
 **题目链接：**[https://leetcode-cn.com/problems/managers-with-at-least-5-direct-reports](https://leetcode-cn.com/problems/managers-with-at-least-5-direct-reports)
 
@@ -37,6 +37,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

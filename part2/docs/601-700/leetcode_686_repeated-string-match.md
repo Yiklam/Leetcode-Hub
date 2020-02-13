@@ -1,4 +1,4 @@
-# 686. 重复叠加字符串匹配
+# 686. [简单] 重复叠加字符串匹配
 
 **题目链接：**[https://leetcode-cn.com/problems/repeated-string-match](https://leetcode-cn.com/problems/repeated-string-match)
 

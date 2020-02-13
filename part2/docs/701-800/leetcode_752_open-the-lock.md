@@ -1,4 +1,4 @@
-# 752. 打开转盘锁
+# 752. [中等] 打开转盘锁
 
 **题目链接：**[https://leetcode-cn.com/problems/open-the-lock](https://leetcode-cn.com/problems/open-the-lock)
 

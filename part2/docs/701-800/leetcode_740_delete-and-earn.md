@@ -1,4 +1,4 @@
-# 740. 删除与获得点数
+# 740. [中等] 删除与获得点数
 
 **题目链接：**[https://leetcode-cn.com/problems/delete-and-earn](https://leetcode-cn.com/problems/delete-and-earn)
 

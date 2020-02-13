@@ -1,4 +1,4 @@
-# 498. 对角线遍历
+# 498. [中等] 对角线遍历
 
 **题目链接：**[https://leetcode-cn.com/problems/diagonal-traverse](https://leetcode-cn.com/problems/diagonal-traverse)
 

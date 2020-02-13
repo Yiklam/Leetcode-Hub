@@ -1,4 +1,4 @@
-# 728. 自除数
+# 728. [简单] 自除数
 
 **题目链接：**[https://leetcode-cn.com/problems/self-dividing-numbers](https://leetcode-cn.com/problems/self-dividing-numbers)
 

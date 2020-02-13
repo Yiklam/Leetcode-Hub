@@ -1,4 +1,4 @@
-# 729. 我的日程安排表 I
+# 729. [中等] 我的日程安排表 I
 
 **题目链接：**[https://leetcode-cn.com/problems/my-calendar-i](https://leetcode-cn.com/problems/my-calendar-i)
 

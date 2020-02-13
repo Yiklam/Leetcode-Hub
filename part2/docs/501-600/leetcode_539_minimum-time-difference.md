@@ -1,4 +1,4 @@
-# 539. 最小时间差
+# 539. [中等] 最小时间差
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-time-difference](https://leetcode-cn.com/problems/minimum-time-difference)
 

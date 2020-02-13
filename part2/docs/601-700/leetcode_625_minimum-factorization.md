@@ -1,4 +1,4 @@
-# $625. 最小因式分解
+# $625. [中等] 最小因式分解
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-factorization](https://leetcode-cn.com/problems/minimum-factorization)
 

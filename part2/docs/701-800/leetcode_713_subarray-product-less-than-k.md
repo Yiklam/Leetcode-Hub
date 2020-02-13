@@ -1,4 +1,4 @@
-# 713. 乘积小于K的子数组
+# 713. [中等] 乘积小于K的子数组
 
 **题目链接：**[https://leetcode-cn.com/problems/subarray-product-less-than-k](https://leetcode-cn.com/problems/subarray-product-less-than-k)
 

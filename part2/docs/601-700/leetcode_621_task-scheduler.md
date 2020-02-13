@@ -1,4 +1,4 @@
-# 621. 任务调度器
+# 621. [中等] 任务调度器
 
 **题目链接：**[https://leetcode-cn.com/problems/task-scheduler](https://leetcode-cn.com/problems/task-scheduler)
 

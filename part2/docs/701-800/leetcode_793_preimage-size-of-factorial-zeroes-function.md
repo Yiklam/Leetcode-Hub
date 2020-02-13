@@ -1,4 +1,4 @@
-# 793. 阶乘函数后K个零
+# 793. [困难] 阶乘函数后K个零
 
 **题目链接：**[https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function](https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function)
 

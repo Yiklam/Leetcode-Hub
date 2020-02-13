@@ -1,4 +1,4 @@
-# 560. 和为K的子数组
+# 560. [中等] 和为K的子数组
 
 **题目链接：**[https://leetcode-cn.com/problems/subarray-sum-equals-k](https://leetcode-cn.com/problems/subarray-sum-equals-k)
 

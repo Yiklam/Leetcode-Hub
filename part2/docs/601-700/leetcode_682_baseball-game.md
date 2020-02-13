@@ -1,4 +1,4 @@
-# 682. 棒球比赛
+# 682. [简单] 棒球比赛
 
 **题目链接：**[https://leetcode-cn.com/problems/baseball-game](https://leetcode-cn.com/problems/baseball-game)
 

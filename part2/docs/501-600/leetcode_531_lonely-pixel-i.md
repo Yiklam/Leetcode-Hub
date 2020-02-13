@@ -1,4 +1,4 @@
-# $531. 孤独像素 I
+# $531. [中等] 孤独像素 I
 
 **题目链接：**[https://leetcode-cn.com/problems/lonely-pixel-i](https://leetcode-cn.com/problems/lonely-pixel-i)
 

@@ -1,4 +1,4 @@
-# 756. 金字塔转换矩阵
+# 756. [中等] 金字塔转换矩阵
 
 **题目链接：**[https://leetcode-cn.com/problems/pyramid-transition-matrix](https://leetcode-cn.com/problems/pyramid-transition-matrix)
 

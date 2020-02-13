@@ -1,4 +1,4 @@
-# 632. 最小区间
+# 632. [困难] 最小区间
 
 **题目链接：**[https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists)
 

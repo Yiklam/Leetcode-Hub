@@ -1,4 +1,4 @@
-# 520. 检测大写字母
+# 520. [简单] 检测大写字母
 
 **题目链接：**[https://leetcode-cn.com/problems/detect-capital](https://leetcode-cn.com/problems/detect-capital)
 

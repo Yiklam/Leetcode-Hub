@@ -1,4 +1,4 @@
-# $577. 员工奖金
+# $577. [简单] 员工奖金
 
 **题目链接：**[https://leetcode-cn.com/problems/employee-bonus](https://leetcode-cn.com/problems/employee-bonus)
 
@@ -47,6 +47,6 @@ empId 是这张表单的主关键字
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

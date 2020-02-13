@@ -1,4 +1,4 @@
-# 437. 路径总和 III
+# 437. [简单] 路径总和 III
 
 **题目链接：**[https://leetcode-cn.com/problems/path-sum-iii](https://leetcode-cn.com/problems/path-sum-iii)
 

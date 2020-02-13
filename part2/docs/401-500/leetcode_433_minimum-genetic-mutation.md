@@ -1,4 +1,4 @@
-# 433. 最小基因变化
+# 433. [中等] 最小基因变化
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-genetic-mutation](https://leetcode-cn.com/problems/minimum-genetic-mutation)
 

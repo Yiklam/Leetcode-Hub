@@ -1,4 +1,4 @@
-# 427. 建立四叉树
+# 427. [中等] 建立四叉树
 
 **题目链接：**[https://leetcode-cn.com/problems/construct-quad-tree](https://leetcode-cn.com/problems/construct-quad-tree)
 

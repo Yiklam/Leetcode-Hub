@@ -1,4 +1,4 @@
-# 658. 找到 K 个最接近的元素
+# 658. [中等] 找到 K 个最接近的元素
 
 **题目链接：**[https://leetcode-cn.com/problems/find-k-closest-elements](https://leetcode-cn.com/problems/find-k-closest-elements)
 

@@ -1,4 +1,4 @@
-# 473. 火柴拼正方形
+# 473. [中等] 火柴拼正方形
 
 **题目链接：**[https://leetcode-cn.com/problems/matchsticks-to-square](https://leetcode-cn.com/problems/matchsticks-to-square)
 

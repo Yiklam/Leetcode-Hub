@@ -1,4 +1,4 @@
-# 412. Fizz Buzz
+# 412. [简单] Fizz Buzz
 
 **题目链接：**[https://leetcode-cn.com/problems/fizz-buzz](https://leetcode-cn.com/problems/fizz-buzz)
 

@@ -1,4 +1,4 @@
-# 420. 强密码检验器
+# 420. [困难] 强密码检验器
 
 **题目链接：**[https://leetcode-cn.com/problems/strong-password-checker](https://leetcode-cn.com/problems/strong-password-checker)
 

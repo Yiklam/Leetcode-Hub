@@ -1,4 +1,4 @@
-# 416. 分割等和子集
+# 416. [中等] 分割等和子集
 
 **题目链接：**[https://leetcode-cn.com/problems/partition-equal-subset-sum](https://leetcode-cn.com/problems/partition-equal-subset-sum)
 

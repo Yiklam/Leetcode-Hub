@@ -1,4 +1,4 @@
-# $751. IP 到 CIDR
+# $751. [简单] IP 到 CIDR
 
 **题目链接：**[https://leetcode-cn.com/problems/ip-to-cidr](https://leetcode-cn.com/problems/ip-to-cidr)
 

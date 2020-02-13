@@ -1,4 +1,4 @@
-# 799. 香槟塔
+# 799. [中等] 香槟塔
 
 **题目链接：**[https://leetcode-cn.com/problems/champagne-tower](https://leetcode-cn.com/problems/champagne-tower)
 

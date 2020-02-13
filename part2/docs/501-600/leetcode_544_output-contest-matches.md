@@ -1,4 +1,4 @@
-# $544. 输出比赛匹配对
+# $544. [中等] 输出比赛匹配对
 
 **题目链接：**[https://leetcode-cn.com/problems/output-contest-matches](https://leetcode-cn.com/problems/output-contest-matches)
 

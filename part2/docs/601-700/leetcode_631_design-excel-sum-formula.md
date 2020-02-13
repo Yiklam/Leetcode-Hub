@@ -1,4 +1,4 @@
-# $631. 设计 Excel 求和公式
+# $631. [困难] 设计 Excel 求和公式
 
 **题目链接：**[https://leetcode-cn.com/problems/design-excel-sum-formula](https://leetcode-cn.com/problems/design-excel-sum-formula)
 

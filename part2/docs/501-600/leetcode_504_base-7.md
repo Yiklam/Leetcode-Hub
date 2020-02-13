@@ -1,4 +1,4 @@
-# 504. 七进制数
+# 504. [简单] 七进制数
 
 **题目链接：**[https://leetcode-cn.com/problems/base-7](https://leetcode-cn.com/problems/base-7)
 

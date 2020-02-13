@@ -1,4 +1,4 @@
-# 620. 有趣的电影
+# 620. [简单] 有趣的电影
 
 **题目链接：**[https://leetcode-cn.com/problems/not-boring-movies](https://leetcode-cn.com/problems/not-boring-movies)
 
@@ -40,6 +40,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

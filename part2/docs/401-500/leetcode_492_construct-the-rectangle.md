@@ -1,4 +1,4 @@
-# 492. 构造矩形
+# 492. [简单] 构造矩形
 
 **题目链接：**[https://leetcode-cn.com/problems/construct-the-rectangle](https://leetcode-cn.com/problems/construct-the-rectangle)
 

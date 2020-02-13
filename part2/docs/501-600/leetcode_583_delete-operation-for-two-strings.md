@@ -1,4 +1,4 @@
-# 583. 两个字符串的删除操作
+# 583. [中等] 两个字符串的删除操作
 
 **题目链接：**[https://leetcode-cn.com/problems/delete-operation-for-two-strings](https://leetcode-cn.com/problems/delete-operation-for-two-strings)
 

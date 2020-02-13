@@ -1,4 +1,4 @@
-# 648. 单词替换
+# 648. [中等] 单词替换
 
 **题目链接：**[https://leetcode-cn.com/problems/replace-words](https://leetcode-cn.com/problems/replace-words)
 

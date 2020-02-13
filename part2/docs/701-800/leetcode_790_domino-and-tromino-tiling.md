@@ -1,4 +1,4 @@
-# 790. 多米诺和托米诺平铺
+# 790. [中等] 多米诺和托米诺平铺
 
 **题目链接：**[https://leetcode-cn.com/problems/domino-and-tromino-tiling](https://leetcode-cn.com/problems/domino-and-tromino-tiling)
 

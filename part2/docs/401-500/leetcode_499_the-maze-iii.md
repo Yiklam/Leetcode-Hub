@@ -1,4 +1,4 @@
-# $499. 迷宫 III
+# $499. [困难] 迷宫 III
 
 **题目链接：**[https://leetcode-cn.com/problems/the-maze-iii](https://leetcode-cn.com/problems/the-maze-iii)
 

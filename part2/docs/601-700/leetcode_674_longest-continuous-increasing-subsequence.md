@@ -1,4 +1,4 @@
-# 674. 最长连续递增序列
+# 674. [简单] 最长连续递增序列
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence)
 

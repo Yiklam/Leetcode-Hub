@@ -1,4 +1,4 @@
-# 677. 键值映射
+# 677. [中等] 键值映射
 
 **题目链接：**[https://leetcode-cn.com/problems/map-sum-pairs](https://leetcode-cn.com/problems/map-sum-pairs)
 

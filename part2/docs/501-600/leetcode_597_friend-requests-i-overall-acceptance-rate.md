@@ -1,4 +1,4 @@
-# $597. 好友申请 I ：总体通过率
+# $597. [简单] 好友申请 I ：总体通过率
 
 **题目链接：**[https://leetcode-cn.com/problems/friend-requests-i-overall-acceptance-rate](https://leetcode-cn.com/problems/friend-requests-i-overall-acceptance-rate)
 
@@ -62,6 +62,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

@@ -1,4 +1,4 @@
-# 709. 转换成小写字母
+# 709. [简单] 转换成小写字母
 
 **题目链接：**[https://leetcode-cn.com/problems/to-lower-case](https://leetcode-cn.com/problems/to-lower-case)
 

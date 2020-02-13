@@ -1,4 +1,4 @@
-# $727. 最小窗口子序列
+# $727. [困难] 最小窗口子序列
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-window-subsequence](https://leetcode-cn.com/problems/minimum-window-subsequence)
 

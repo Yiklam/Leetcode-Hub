@@ -1,4 +1,4 @@
-# 558. 四叉树交集
+# 558. [简单] 四叉树交集
 
 **题目链接：**[https://leetcode-cn.com/problems/quad-tree-intersection](https://leetcode-cn.com/problems/quad-tree-intersection)
 

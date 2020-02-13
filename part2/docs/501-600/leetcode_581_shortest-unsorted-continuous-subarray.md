@@ -1,4 +1,4 @@
-# 581. 最短无序连续子数组
+# 581. [简单] 最短无序连续子数组
 
 **题目链接：**[https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray)
 

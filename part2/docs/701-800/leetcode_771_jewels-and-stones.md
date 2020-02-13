@@ -1,4 +1,4 @@
-# 771. 宝石与石头
+# 771. [简单] 宝石与石头
 
 **题目链接：**[https://leetcode-cn.com/problems/jewels-and-stones](https://leetcode-cn.com/problems/jewels-and-stones)
 

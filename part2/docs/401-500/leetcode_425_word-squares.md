@@ -1,4 +1,4 @@
-# $425. 单词方块
+# $425. [困难] 单词方块
 
 **题目链接：**[https://leetcode-cn.com/problems/word-squares](https://leetcode-cn.com/problems/word-squares)
 

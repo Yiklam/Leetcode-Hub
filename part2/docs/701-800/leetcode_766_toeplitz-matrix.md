@@ -1,4 +1,4 @@
-# 766. 托普利茨矩阵
+# 766. [简单] 托普利茨矩阵
 
 **题目链接：**[https://leetcode-cn.com/problems/toeplitz-matrix](https://leetcode-cn.com/problems/toeplitz-matrix)
 

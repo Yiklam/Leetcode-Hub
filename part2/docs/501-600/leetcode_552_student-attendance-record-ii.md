@@ -1,4 +1,4 @@
-# 552. 学生出勤记录 II
+# 552. [困难] 学生出勤记录 II
 
 **题目链接：**[https://leetcode-cn.com/problems/student-attendance-record-ii](https://leetcode-cn.com/problems/student-attendance-record-ii)
 

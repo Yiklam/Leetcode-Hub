@@ -1,4 +1,4 @@
-# 611. 有效三角形的个数
+# 611. [中等] 有效三角形的个数
 
 **题目链接：**[https://leetcode-cn.com/problems/valid-triangle-number](https://leetcode-cn.com/problems/valid-triangle-number)
 

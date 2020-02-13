@@ -1,4 +1,4 @@
-# 745. 前缀和后缀搜索
+# 745. [困难] 前缀和后缀搜索
 
 **题目链接：**[https://leetcode-cn.com/problems/prefix-and-suffix-search](https://leetcode-cn.com/problems/prefix-and-suffix-search)
 

@@ -1,4 +1,4 @@
-# 726. 原子的数量
+# 726. [困难] 原子的数量
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-atoms](https://leetcode-cn.com/problems/number-of-atoms)
 

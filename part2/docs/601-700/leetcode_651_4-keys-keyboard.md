@@ -1,4 +1,4 @@
-# $651. 4键键盘
+# $651. [中等] 4键键盘
 
 **题目链接：**[https://leetcode-cn.com/problems/4-keys-keyboard](https://leetcode-cn.com/problems/4-keys-keyboard)
 

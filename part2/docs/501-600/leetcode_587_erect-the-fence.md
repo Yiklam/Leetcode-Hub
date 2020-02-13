@@ -1,4 +1,4 @@
-# 587. 安装栅栏
+# 587. [困难] 安装栅栏
 
 **题目链接：**[https://leetcode-cn.com/problems/erect-the-fence](https://leetcode-cn.com/problems/erect-the-fence)
 

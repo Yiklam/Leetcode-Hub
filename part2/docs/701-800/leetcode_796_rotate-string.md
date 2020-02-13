@@ -1,4 +1,4 @@
-# 796. 旋转字符串
+# 796. [简单] 旋转字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/rotate-string](https://leetcode-cn.com/problems/rotate-string)
 

@@ -1,4 +1,4 @@
-# $549. 二叉树中最长的连续序列
+# $549. [中等] 二叉树中最长的连续序列
 
 **题目链接：**[https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence-ii](https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence-ii)
 

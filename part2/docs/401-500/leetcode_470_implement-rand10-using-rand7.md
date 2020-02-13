@@ -1,4 +1,4 @@
-# 470. 用 Rand7() 实现 Rand10()
+# 470. [中等] 用 Rand7() 实现 Rand10()
 
 **题目链接：**[https://leetcode-cn.com/problems/implement-rand10-using-rand7](https://leetcode-cn.com/problems/implement-rand10-using-rand7)
 

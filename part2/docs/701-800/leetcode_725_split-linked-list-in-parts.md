@@ -1,4 +1,4 @@
-# 725. 分隔链表
+# 725. [中等] 分隔链表
 
 **题目链接：**[https://leetcode-cn.com/problems/split-linked-list-in-parts](https://leetcode-cn.com/problems/split-linked-list-in-parts)
 

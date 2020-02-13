@@ -1,4 +1,4 @@
-# $634. 寻找数组的错位排列
+# $634. [中等] 寻找数组的错位排列
 
 **题目链接：**[https://leetcode-cn.com/problems/find-the-derangement-of-an-array](https://leetcode-cn.com/problems/find-the-derangement-of-an-array)
 

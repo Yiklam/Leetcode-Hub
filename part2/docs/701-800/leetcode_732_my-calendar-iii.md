@@ -1,4 +1,4 @@
-# 732. 我的日程安排表 III
+# 732. [困难] 我的日程安排表 III
 
 **题目链接：**[https://leetcode-cn.com/problems/my-calendar-iii](https://leetcode-cn.com/problems/my-calendar-iii)
 

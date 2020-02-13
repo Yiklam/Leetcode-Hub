@@ -1,4 +1,4 @@
-# $737. 句子相似性 II
+# $737. [中等] 句子相似性 II
 
 **题目链接：**[https://leetcode-cn.com/problems/sentence-similarity-ii](https://leetcode-cn.com/problems/sentence-similarity-ii)
 

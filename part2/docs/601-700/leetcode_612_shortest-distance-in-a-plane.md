@@ -1,4 +1,4 @@
-# $612. 平面上的最近距离
+# $612. [中等] 平面上的最近距离
 
 **题目链接：**[https://leetcode-cn.com/problems/shortest-distance-in-a-plane](https://leetcode-cn.com/problems/shortest-distance-in-a-plane)
 
@@ -37,6 +37,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

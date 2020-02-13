@@ -1,4 +1,4 @@
-# $580. 统计各专业学生人数
+# $580. [中等] 统计各专业学生人数
 
 **题目链接：**[https://leetcode-cn.com/problems/count-student-number-in-departments](https://leetcode-cn.com/problems/count-student-number-in-departments)
 
@@ -57,6 +57,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

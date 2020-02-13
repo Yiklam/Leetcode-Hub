@@ -1,4 +1,4 @@
-# 738. 单调递增的数字
+# 738. [中等] 单调递增的数字
 
 **题目链接：**[https://leetcode-cn.com/problems/monotone-increasing-digits](https://leetcode-cn.com/problems/monotone-increasing-digits)
 

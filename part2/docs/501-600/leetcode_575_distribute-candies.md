@@ -1,4 +1,4 @@
-# 575. 分糖果
+# 575. [简单] 分糖果
 
 **题目链接：**[https://leetcode-cn.com/problems/distribute-candies](https://leetcode-cn.com/problems/distribute-candies)
 

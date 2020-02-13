@@ -1,4 +1,4 @@
-# 480. 滑动窗口中位数
+# 480. [困难] 滑动窗口中位数
 
 **题目链接：**[https://leetcode-cn.com/problems/sliding-window-median](https://leetcode-cn.com/problems/sliding-window-median)
 

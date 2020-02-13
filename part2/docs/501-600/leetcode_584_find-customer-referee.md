@@ -1,4 +1,4 @@
-# $584. 寻找用户推荐人
+# $584. [简单] 寻找用户推荐人
 
 **题目链接：**[https://leetcode-cn.com/problems/find-customer-referee](https://leetcode-cn.com/problems/find-customer-referee)
 
@@ -40,6 +40,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

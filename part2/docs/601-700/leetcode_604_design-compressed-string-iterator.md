@@ -1,4 +1,4 @@
-# $604. 迭代压缩字符串
+# $604. [简单] 迭代压缩字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/design-compressed-string-iterator](https://leetcode-cn.com/problems/design-compressed-string-iterator)
 

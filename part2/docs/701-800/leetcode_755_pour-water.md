@@ -1,4 +1,4 @@
-# $755. 倒水
+# $755. [中等] 倒水
 
 **题目链接：**[https://leetcode-cn.com/problems/pour-water](https://leetcode-cn.com/problems/pour-water)
 

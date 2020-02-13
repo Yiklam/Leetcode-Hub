@@ -1,4 +1,4 @@
-# 551. 学生出勤记录 I
+# 551. [简单] 学生出勤记录 I
 
 **题目链接：**[https://leetcode-cn.com/problems/student-attendance-record-i](https://leetcode-cn.com/problems/student-attendance-record-i)
 

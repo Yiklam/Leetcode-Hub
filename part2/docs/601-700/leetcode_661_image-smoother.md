@@ -1,4 +1,4 @@
-# 661. 图片平滑器
+# 661. [简单] 图片平滑器
 
 **题目链接：**[https://leetcode-cn.com/problems/image-smoother](https://leetcode-cn.com/problems/image-smoother)
 

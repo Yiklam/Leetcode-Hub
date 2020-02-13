@@ -1,4 +1,4 @@
-# $573. 松鼠模拟
+# $573. [中等] 松鼠模拟
 
 **题目链接：**[https://leetcode-cn.com/problems/squirrel-simulation](https://leetcode-cn.com/problems/squirrel-simulation)
 

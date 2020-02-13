@@ -1,4 +1,4 @@
-# $548. 将数组分割成和相等的子数组
+# $548. [中等] 将数组分割成和相等的子数组
 
 **题目链接：**[https://leetcode-cn.com/problems/split-array-with-equal-sum](https://leetcode-cn.com/problems/split-array-with-equal-sum)
 

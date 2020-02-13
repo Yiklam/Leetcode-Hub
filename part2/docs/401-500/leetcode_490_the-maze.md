@@ -1,4 +1,4 @@
-# $490. 迷宫
+# $490. [中等] 迷宫
 
 **题目链接：**[https://leetcode-cn.com/problems/the-maze](https://leetcode-cn.com/problems/the-maze)
 

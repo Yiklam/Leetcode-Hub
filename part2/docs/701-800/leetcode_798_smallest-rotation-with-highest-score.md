@@ -1,4 +1,4 @@
-# 798. 得分最高的最小轮调
+# 798. [困难] 得分最高的最小轮调
 
 **题目链接：**[https://leetcode-cn.com/problems/smallest-rotation-with-highest-score](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score)
 

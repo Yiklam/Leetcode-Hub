@@ -1,4 +1,4 @@
-# $512. 游戏玩法分析 II
+# $512. [简单] 游戏玩法分析 II
 
 **题目链接：**[https://leetcode-cn.com/problems/game-play-analysis-ii](https://leetcode-cn.com/problems/game-play-analysis-ii)
 
@@ -8,6 +8,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

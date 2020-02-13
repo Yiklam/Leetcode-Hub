@@ -1,4 +1,4 @@
-# 567. 字符串的排列
+# 567. [中等] 字符串的排列
 
 **题目链接：**[https://leetcode-cn.com/problems/permutation-in-string](https://leetcode-cn.com/problems/permutation-in-string)
 

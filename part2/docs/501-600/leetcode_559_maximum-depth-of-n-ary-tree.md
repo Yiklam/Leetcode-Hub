@@ -1,4 +1,4 @@
-# 559. N叉树的最大深度
+# 559. [简单] N叉树的最大深度
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree)
 

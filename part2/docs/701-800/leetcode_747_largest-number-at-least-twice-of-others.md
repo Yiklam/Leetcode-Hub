@@ -1,4 +1,4 @@
-# 747. 至少是其他数字两倍的最大数
+# 747. [简单] 至少是其他数字两倍的最大数
 
 **题目链接：**[https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others)
 

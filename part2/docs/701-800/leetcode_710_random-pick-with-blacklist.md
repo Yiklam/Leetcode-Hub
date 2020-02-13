@@ -1,4 +1,4 @@
-# 710. 黑名单中的随机数
+# 710. [困难] 黑名单中的随机数
 
 **题目链接：**[https://leetcode-cn.com/problems/random-pick-with-blacklist](https://leetcode-cn.com/problems/random-pick-with-blacklist)
 

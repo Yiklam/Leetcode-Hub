@@ -1,4 +1,4 @@
-# $619. 只出现一次的最大数字
+# $619. [简单] 只出现一次的最大数字
 
 **题目链接：**[https://leetcode-cn.com/problems/biggest-single-number](https://leetcode-cn.com/problems/biggest-single-number)
 
@@ -40,6 +40,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

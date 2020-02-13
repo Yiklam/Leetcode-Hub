@@ -1,4 +1,4 @@
-# $484. 寻找排列
+# $484. [中等] 寻找排列
 
 **题目链接：**[https://leetcode-cn.com/problems/find-permutation](https://leetcode-cn.com/problems/find-permutation)
 

@@ -1,4 +1,4 @@
-# 680. 验证回文字符串 Ⅱ
+# 680. [简单] 验证回文字符串 Ⅱ
 
 **题目链接：**[https://leetcode-cn.com/problems/valid-palindrome-ii](https://leetcode-cn.com/problems/valid-palindrome-ii)
 

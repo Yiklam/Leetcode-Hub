@@ -1,4 +1,4 @@
-# 547. 朋友圈
+# 547. [中等] 朋友圈
 
 **题目链接：**[https://leetcode-cn.com/problems/friend-circles](https://leetcode-cn.com/problems/friend-circles)
 

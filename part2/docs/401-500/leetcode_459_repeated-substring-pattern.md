@@ -1,4 +1,4 @@
-# 459. 重复的子字符串
+# 459. [简单] 重复的子字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/repeated-substring-pattern](https://leetcode-cn.com/problems/repeated-substring-pattern)
 

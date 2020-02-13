@@ -1,4 +1,4 @@
-# $510. 二叉搜索树中的中序后继 II
+# $510. [中等] 二叉搜索树中的中序后继 II
 
 **题目链接：**[https://leetcode-cn.com/problems/inorder-successor-in-bst-ii](https://leetcode-cn.com/problems/inorder-successor-in-bst-ii)
 

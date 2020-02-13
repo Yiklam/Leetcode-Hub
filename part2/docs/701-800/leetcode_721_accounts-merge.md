@@ -1,4 +1,4 @@
-# 721. 账户合并
+# 721. [中等] 账户合并
 
 **题目链接：**[https://leetcode-cn.com/problems/accounts-merge](https://leetcode-cn.com/problems/accounts-merge)
 

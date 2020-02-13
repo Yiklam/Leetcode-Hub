@@ -1,4 +1,4 @@
-# $663. 均匀树划分
+# $663. [中等] 均匀树划分
 
 **题目链接：**[https://leetcode-cn.com/problems/equal-tree-partition](https://leetcode-cn.com/problems/equal-tree-partition)
 

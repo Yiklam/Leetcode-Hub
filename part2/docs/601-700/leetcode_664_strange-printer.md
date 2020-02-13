@@ -1,4 +1,4 @@
-# 664. 奇怪的打印机
+# 664. [困难] 奇怪的打印机
 
 **题目链接：**[https://leetcode-cn.com/problems/strange-printer](https://leetcode-cn.com/problems/strange-printer)
 

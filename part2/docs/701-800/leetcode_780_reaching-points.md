@@ -1,4 +1,4 @@
-# 780. 到达终点
+# 780. [困难] 到达终点
 
 **题目链接：**[https://leetcode-cn.com/problems/reaching-points](https://leetcode-cn.com/problems/reaching-points)
 

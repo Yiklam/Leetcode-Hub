@@ -1,4 +1,4 @@
-# 404. 左叶子之和
+# 404. [简单] 左叶子之和
 
 **题目链接：**[https://leetcode-cn.com/problems/sum-of-left-leaves](https://leetcode-cn.com/problems/sum-of-left-leaves)
 

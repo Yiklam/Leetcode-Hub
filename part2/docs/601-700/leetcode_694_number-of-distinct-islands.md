@@ -1,4 +1,4 @@
-# $694. 不同岛屿的数量
+# $694. [中等] 不同岛屿的数量
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-distinct-islands](https://leetcode-cn.com/problems/number-of-distinct-islands)
 

@@ -1,4 +1,4 @@
-# 640. 求解方程
+# 640. [中等] 求解方程
 
 **题目链接：**[https://leetcode-cn.com/problems/solve-the-equation](https://leetcode-cn.com/problems/solve-the-equation)
 

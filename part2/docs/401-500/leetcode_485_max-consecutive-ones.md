@@ -1,4 +1,4 @@
-# 485. 最大连续1的个数
+# 485. [简单] 最大连续1的个数
 
 **题目链接：**[https://leetcode-cn.com/problems/max-consecutive-ones](https://leetcode-cn.com/problems/max-consecutive-ones)
 

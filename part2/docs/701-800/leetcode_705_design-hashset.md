@@ -1,4 +1,4 @@
-# 705. 设计哈希集合
+# 705. [简单] 设计哈希集合
 
 **题目链接：**[https://leetcode-cn.com/problems/design-hashset](https://leetcode-cn.com/problems/design-hashset)
 

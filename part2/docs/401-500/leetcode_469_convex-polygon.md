@@ -1,4 +1,4 @@
-# $469. 凸多边形
+# $469. [中等] 凸多边形
 
 **题目链接：**[https://leetcode-cn.com/problems/convex-polygon](https://leetcode-cn.com/problems/convex-polygon)
 

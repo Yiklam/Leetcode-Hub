@@ -1,4 +1,4 @@
-# 599. 两个列表的最小索引总和
+# 599. [简单] 两个列表的最小索引总和
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists)
 

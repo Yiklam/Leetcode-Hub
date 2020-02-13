@@ -1,4 +1,4 @@
-# $411. 最短特异单词缩写
+# $411. [困难] 最短特异单词缩写
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-unique-word-abbreviation](https://leetcode-cn.com/problems/minimum-unique-word-abbreviation)
 

@@ -1,4 +1,4 @@
-# 553. 最优除法
+# 553. [中等] 最优除法
 
 **题目链接：**[https://leetcode-cn.com/problems/optimal-division](https://leetcode-cn.com/problems/optimal-division)
 

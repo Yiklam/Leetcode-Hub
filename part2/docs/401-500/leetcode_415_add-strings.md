@@ -1,4 +1,4 @@
-# 415. 字符串相加
+# 415. [简单] 字符串相加
 
 **题目链接：**[https://leetcode-cn.com/problems/add-strings](https://leetcode-cn.com/problems/add-strings)
 

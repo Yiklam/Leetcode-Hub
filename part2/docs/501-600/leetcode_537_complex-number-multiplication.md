@@ -1,4 +1,4 @@
-# 537. 复数乘法
+# 537. [中等] 复数乘法
 
 **题目链接：**[https://leetcode-cn.com/problems/complex-number-multiplication](https://leetcode-cn.com/problems/complex-number-multiplication)
 

@@ -1,4 +1,4 @@
-# 502. IPO
+# 502. [困难] IPO
 
 **题目链接：**[https://leetcode-cn.com/problems/ipo](https://leetcode-cn.com/problems/ipo)
 

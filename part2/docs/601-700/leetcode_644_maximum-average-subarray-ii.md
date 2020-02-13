@@ -1,4 +1,4 @@
-# $644. 最大平均子段和 II
+# $644. [困难] 最大平均子段和 II
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-average-subarray-ii](https://leetcode-cn.com/problems/maximum-average-subarray-ii)
 

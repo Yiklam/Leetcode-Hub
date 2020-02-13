@@ -1,4 +1,4 @@
-# 434. 字符串中的单词数
+# 434. [简单] 字符串中的单词数
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-segments-in-a-string](https://leetcode-cn.com/problems/number-of-segments-in-a-string)
 

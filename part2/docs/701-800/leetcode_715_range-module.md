@@ -1,4 +1,4 @@
-# 715. Range 模块
+# 715. [困难] Range 模块
 
 **题目链接：**[https://leetcode-cn.com/problems/range-module](https://leetcode-cn.com/problems/range-module)
 

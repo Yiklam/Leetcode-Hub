@@ -1,4 +1,4 @@
-# $426. 将二叉搜索树转化为排序的双向链表
+# $426. [中等] 将二叉搜索树转化为排序的双向链表
 
 **题目链接：**[https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list)
 

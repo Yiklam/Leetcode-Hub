@@ -1,4 +1,4 @@
-# $465. 最优账单平衡
+# $465. [困难] 最优账单平衡
 
 **题目链接：**[https://leetcode-cn.com/problems/optimal-account-balancing](https://leetcode-cn.com/problems/optimal-account-balancing)
 

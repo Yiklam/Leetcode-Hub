@@ -1,4 +1,4 @@
-# $579. 查询员工的累计薪水
+# $579. [困难] 查询员工的累计薪水
 
 **题目链接：**[https://leetcode-cn.com/problems/find-cumulative-salary-of-an-employee](https://leetcode-cn.com/problems/find-cumulative-salary-of-an-employee)
 
@@ -66,6 +66,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

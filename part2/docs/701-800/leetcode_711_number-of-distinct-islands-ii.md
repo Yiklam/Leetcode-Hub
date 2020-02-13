@@ -1,4 +1,4 @@
-# $711. 不同岛屿的数量 II
+# $711. [困难] 不同岛屿的数量 II
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-distinct-islands-ii](https://leetcode-cn.com/problems/number-of-distinct-islands-ii)
 

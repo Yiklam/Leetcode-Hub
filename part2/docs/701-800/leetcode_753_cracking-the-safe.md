@@ -1,4 +1,4 @@
-# 753. 破解保险箱
+# 753. [困难] 破解保险箱
 
 **题目链接：**[https://leetcode-cn.com/problems/cracking-the-safe](https://leetcode-cn.com/problems/cracking-the-safe)
 

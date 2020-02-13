@@ -1,4 +1,4 @@
-# 513. 找树左下角的值
+# 513. [中等] 找树左下角的值
 
 **题目链接：**[https://leetcode-cn.com/problems/find-bottom-left-tree-value](https://leetcode-cn.com/problems/find-bottom-left-tree-value)
 

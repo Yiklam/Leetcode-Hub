@@ -1,4 +1,4 @@
-# $555. 分割连接字符串
+# $555. [中等] 分割连接字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/split-concatenated-strings](https://leetcode-cn.com/problems/split-concatenated-strings)
 

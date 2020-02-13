@@ -1,4 +1,4 @@
-# $760. 找出变位映射
+# $760. [简单] 找出变位映射
 
 **题目链接：**[https://leetcode-cn.com/problems/find-anagram-mappings](https://leetcode-cn.com/problems/find-anagram-mappings)
 

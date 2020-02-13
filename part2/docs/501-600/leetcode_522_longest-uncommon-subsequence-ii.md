@@ -1,4 +1,4 @@
-# 522. 最长特殊序列 II
+# 522. [中等] 最长特殊序列 II
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii)
 

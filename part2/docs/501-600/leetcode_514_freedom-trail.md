@@ -1,4 +1,4 @@
-# 514. 自由之路
+# 514. [困难] 自由之路
 
 **题目链接：**[https://leetcode-cn.com/problems/freedom-trail](https://leetcode-cn.com/problems/freedom-trail)
 

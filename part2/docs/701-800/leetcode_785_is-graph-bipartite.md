@@ -1,4 +1,4 @@
-# 785. 判断二分图
+# 785. [中等] 判断二分图
 
 **题目链接：**[https://leetcode-cn.com/problems/is-graph-bipartite](https://leetcode-cn.com/problems/is-graph-bipartite)
 

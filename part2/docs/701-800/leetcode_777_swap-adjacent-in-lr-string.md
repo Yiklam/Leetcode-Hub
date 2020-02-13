@@ -1,4 +1,4 @@
-# 777. 在LR字符串中交换相邻字符
+# 777. [中等] 在LR字符串中交换相邻字符
 
 **题目链接：**[https://leetcode-cn.com/problems/swap-adjacent-in-lr-string](https://leetcode-cn.com/problems/swap-adjacent-in-lr-string)
 

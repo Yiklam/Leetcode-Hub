@@ -1,4 +1,4 @@
-# 563. 二叉树的坡度
+# 563. [简单] 二叉树的坡度
 
 **题目链接：**[https://leetcode-cn.com/problems/binary-tree-tilt](https://leetcode-cn.com/problems/binary-tree-tilt)
 

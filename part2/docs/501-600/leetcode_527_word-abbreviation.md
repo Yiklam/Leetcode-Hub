@@ -1,4 +1,4 @@
-# $527. 单词缩写
+# $527. [困难] 单词缩写
 
 **题目链接：**[https://leetcode-cn.com/problems/word-abbreviation](https://leetcode-cn.com/problems/word-abbreviation)
 

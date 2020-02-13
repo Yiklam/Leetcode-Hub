@@ -1,4 +1,4 @@
-# 691. 贴纸拼词
+# 691. [困难] 贴纸拼词
 
 **题目链接：**[https://leetcode-cn.com/problems/stickers-to-spell-word](https://leetcode-cn.com/problems/stickers-to-spell-word)
 

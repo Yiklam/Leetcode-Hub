@@ -1,4 +1,4 @@
-# 650. 只有两个键的键盘
+# 650. [中等] 只有两个键的键盘
 
 **题目链接：**[https://leetcode-cn.com/problems/2-keys-keyboard](https://leetcode-cn.com/problems/2-keys-keyboard)
 

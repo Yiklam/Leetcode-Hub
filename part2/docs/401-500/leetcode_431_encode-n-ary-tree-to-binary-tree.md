@@ -1,4 +1,4 @@
-# $431. 将 N 叉树编码为二叉树
+# $431. [困难] 将 N 叉树编码为二叉树
 
 **题目链接：**[https://leetcode-cn.com/problems/encode-n-ary-tree-to-binary-tree](https://leetcode-cn.com/problems/encode-n-ary-tree-to-binary-tree)
 

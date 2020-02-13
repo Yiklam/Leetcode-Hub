@@ -1,4 +1,4 @@
-# $723. 粉碎糖果
+# $723. [中等] 粉碎糖果
 
 **题目链接：**[https://leetcode-cn.com/problems/candy-crush](https://leetcode-cn.com/problems/candy-crush)
 

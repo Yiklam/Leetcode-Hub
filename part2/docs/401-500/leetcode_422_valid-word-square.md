@@ -1,4 +1,4 @@
-# $422. 有效的单词方块
+# $422. [简单] 有效的单词方块
 
 **题目链接：**[https://leetcode-cn.com/problems/valid-word-square](https://leetcode-cn.com/problems/valid-word-square)
 

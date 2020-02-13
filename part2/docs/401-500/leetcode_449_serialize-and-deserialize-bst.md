@@ -1,4 +1,4 @@
-# 449. 序列化和反序列化二叉搜索树
+# 449. [中等] 序列化和反序列化二叉搜索树
 
 **题目链接：**[https://leetcode-cn.com/problems/serialize-and-deserialize-bst](https://leetcode-cn.com/problems/serialize-and-deserialize-bst)
 

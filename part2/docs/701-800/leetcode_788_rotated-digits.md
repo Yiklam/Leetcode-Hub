@@ -1,4 +1,4 @@
-# 788. 旋转数字
+# 788. [简单] 旋转数字
 
 **题目链接：**[https://leetcode-cn.com/problems/rotated-digits](https://leetcode-cn.com/problems/rotated-digits)
 

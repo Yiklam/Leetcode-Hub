@@ -1,4 +1,4 @@
-# 500. 键盘行
+# 500. [简单] 键盘行
 
 **题目链接：**[https://leetcode-cn.com/problems/keyboard-row](https://leetcode-cn.com/problems/keyboard-row)
 

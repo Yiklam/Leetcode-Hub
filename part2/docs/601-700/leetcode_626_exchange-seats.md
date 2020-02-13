@@ -1,4 +1,4 @@
-# 626. 换座位
+# 626. [中等] 换座位
 
 **题目链接：**[https://leetcode-cn.com/problems/exchange-seats](https://leetcode-cn.com/problems/exchange-seats)
 
@@ -45,6 +45,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

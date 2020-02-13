@@ -1,4 +1,4 @@
-# 639. 解码方法 2
+# 639. [困难] 解码方法 2
 
 **题目链接：**[https://leetcode-cn.com/problems/decode-ways-ii](https://leetcode-cn.com/problems/decode-ways-ii)
 

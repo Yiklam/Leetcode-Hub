@@ -1,4 +1,4 @@
-# 630. 课程表 III
+# 630. [困难] 课程表 III
 
 **题目链接：**[https://leetcode-cn.com/problems/course-schedule-iii](https://leetcode-cn.com/problems/course-schedule-iii)
 

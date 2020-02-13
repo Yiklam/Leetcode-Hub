@@ -1,4 +1,4 @@
-# $774. 最小化去加油站的最大距离
+# $774. [困难] 最小化去加油站的最大距离
 
 **题目链接：**[https://leetcode-cn.com/problems/minimize-max-distance-to-gas-station](https://leetcode-cn.com/problems/minimize-max-distance-to-gas-station)
 

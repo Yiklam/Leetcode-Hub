@@ -1,4 +1,4 @@
-# 698. 划分为k个相等的子集
+# 698. [中等] 划分为k个相等的子集
 
 **题目链接：**[https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets)
 

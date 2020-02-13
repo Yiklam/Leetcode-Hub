@@ -1,4 +1,4 @@
-# 767. 重构字符串
+# 767. [中等] 重构字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/reorganize-string](https://leetcode-cn.com/problems/reorganize-string)
 

@@ -1,4 +1,4 @@
-# 521. 最长特殊序列 Ⅰ
+# 521. [简单] 最长特殊序列 Ⅰ
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-uncommon-subsequence-i](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i)
 

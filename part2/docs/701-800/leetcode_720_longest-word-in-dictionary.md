@@ -1,4 +1,4 @@
-# 720. 词典中最长的单词
+# 720. [简单] 词典中最长的单词
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-word-in-dictionary](https://leetcode-cn.com/problems/longest-word-in-dictionary)
 

@@ -1,4 +1,4 @@
-# 633. 平方数之和
+# 633. [简单] 平方数之和
 
 **题目链接：**[https://leetcode-cn.com/problems/sum-of-square-numbers](https://leetcode-cn.com/problems/sum-of-square-numbers)
 

@@ -1,4 +1,4 @@
-# 506. 相对名次
+# 506. [简单] 相对名次
 
 **题目链接：**[https://leetcode-cn.com/problems/relative-ranks](https://leetcode-cn.com/problems/relative-ranks)
 

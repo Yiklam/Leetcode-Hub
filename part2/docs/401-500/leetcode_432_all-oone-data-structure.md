@@ -1,4 +1,4 @@
-# 432. 全 O(1) 的数据结构
+# 432. [困难] 全 O(1) 的数据结构
 
 **题目链接：**[https://leetcode-cn.com/problems/all-oone-data-structure](https://leetcode-cn.com/problems/all-oone-data-structure)
 

@@ -1,4 +1,4 @@
-# $578. 查询回答率最高的问题
+# $578. [中等] 查询回答率最高的问题
 
 **题目链接：**[https://leetcode-cn.com/problems/get-highest-answer-rate-question](https://leetcode-cn.com/problems/get-highest-answer-rate-question)
 
@@ -41,6 +41,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

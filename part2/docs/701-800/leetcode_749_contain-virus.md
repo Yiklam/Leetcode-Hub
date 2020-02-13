@@ -1,4 +1,4 @@
-# 749. 隔离病毒
+# 749. [困难] 隔离病毒
 
 **题目链接：**[https://leetcode-cn.com/problems/contain-virus](https://leetcode-cn.com/problems/contain-virus)
 

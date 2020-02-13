@@ -1,4 +1,4 @@
-# 509. 斐波那契数
+# 509. [简单] 斐波那契数
 
 **题目链接：**[https://leetcode-cn.com/problems/fibonacci-number](https://leetcode-cn.com/problems/fibonacci-number)
 

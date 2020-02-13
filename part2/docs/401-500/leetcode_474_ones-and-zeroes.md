@@ -1,4 +1,4 @@
-# 474. 一和零
+# 474. [中等] 一和零
 
 **题目链接：**[https://leetcode-cn.com/problems/ones-and-zeroes](https://leetcode-cn.com/problems/ones-and-zeroes)
 

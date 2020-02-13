@@ -1,4 +1,4 @@
-# 671. 二叉树中第二小的节点
+# 671. [简单] 二叉树中第二小的节点
 
 **题目链接：**[https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree)
 

@@ -1,4 +1,4 @@
-# 605. 种花问题
+# 605. [简单] 种花问题
 
 **题目链接：**[https://leetcode-cn.com/problems/can-place-flowers](https://leetcode-cn.com/problems/can-place-flowers)
 

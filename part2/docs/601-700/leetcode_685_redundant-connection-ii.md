@@ -1,4 +1,4 @@
-# 685. 冗余连接 II
+# 685. [困难] 冗余连接 II
 
 **题目链接：**[https://leetcode-cn.com/problems/redundant-connection-ii](https://leetcode-cn.com/problems/redundant-connection-ii)
 

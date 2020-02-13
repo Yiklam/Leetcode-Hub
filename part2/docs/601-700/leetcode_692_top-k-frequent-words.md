@@ -1,4 +1,4 @@
-# 692. 前K个高频单词
+# 692. [中等] 前K个高频单词
 
 **题目链接：**[https://leetcode-cn.com/problems/top-k-frequent-words](https://leetcode-cn.com/problems/top-k-frequent-words)
 

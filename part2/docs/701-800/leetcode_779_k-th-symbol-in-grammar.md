@@ -1,4 +1,4 @@
-# 779. 第K个语法符号
+# 779. [中等] 第K个语法符号
 
 **题目链接：**[https://leetcode-cn.com/problems/k-th-symbol-in-grammar](https://leetcode-cn.com/problems/k-th-symbol-in-grammar)
 

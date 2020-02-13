@@ -1,4 +1,4 @@
-# 645. 错误的集合
+# 645. [简单] 错误的集合
 
 **题目链接：**[https://leetcode-cn.com/problems/set-mismatch](https://leetcode-cn.com/problems/set-mismatch)
 

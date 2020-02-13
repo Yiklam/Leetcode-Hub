@@ -1,4 +1,4 @@
-# 507. 完美数
+# 507. [简单] 完美数
 
 **题目链接：**[https://leetcode-cn.com/problems/perfect-number](https://leetcode-cn.com/problems/perfect-number)
 

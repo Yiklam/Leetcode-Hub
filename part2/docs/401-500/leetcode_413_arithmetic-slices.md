@@ -1,4 +1,4 @@
-# 413. 等差数列划分
+# 413. [中等] 等差数列划分
 
 **题目链接：**[https://leetcode-cn.com/problems/arithmetic-slices](https://leetcode-cn.com/problems/arithmetic-slices)
 

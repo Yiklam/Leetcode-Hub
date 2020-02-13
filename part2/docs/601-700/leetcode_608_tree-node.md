@@ -1,4 +1,4 @@
-# $608. 树节点
+# $608. [中等] 树节点
 
 **题目链接：**[https://leetcode-cn.com/problems/tree-node](https://leetcode-cn.com/problems/tree-node)
 
@@ -61,6 +61,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

@@ -1,4 +1,4 @@
-# $439. 三元表达式解析器
+# $439. [中等] 三元表达式解析器
 
 **题目链接：**[https://leetcode-cn.com/problems/ternary-expression-parser](https://leetcode-cn.com/problems/ternary-expression-parser)
 

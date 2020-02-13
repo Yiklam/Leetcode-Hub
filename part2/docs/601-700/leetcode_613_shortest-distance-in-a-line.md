@@ -1,4 +1,4 @@
-# $613. 直线上的最近距离
+# $613. [简单] 直线上的最近距离
 
 **题目链接：**[https://leetcode-cn.com/problems/shortest-distance-in-a-line](https://leetcode-cn.com/problems/shortest-distance-in-a-line)
 
@@ -39,6 +39,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

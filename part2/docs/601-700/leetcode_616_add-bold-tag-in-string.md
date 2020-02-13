@@ -1,4 +1,4 @@
-# $616. 给字符串添加加粗标签
+# $616. [中等] 给字符串添加加粗标签
 
 **题目链接：**[https://leetcode-cn.com/problems/add-bold-tag-in-string](https://leetcode-cn.com/problems/add-bold-tag-in-string)
 

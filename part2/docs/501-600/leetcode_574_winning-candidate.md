@@ -1,4 +1,4 @@
-# $574. 当选者
+# $574. [中等] 当选者
 
 **题目链接：**[https://leetcode-cn.com/problems/winning-candidate](https://leetcode-cn.com/problems/winning-candidate)
 
@@ -53,6 +53,6 @@ CandidateId 是 Candidate 表中的 id.
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

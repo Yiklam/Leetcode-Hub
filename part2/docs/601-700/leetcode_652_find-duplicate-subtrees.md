@@ -1,4 +1,4 @@
-# 652. 寻找重复的子树
+# 652. [中等] 寻找重复的子树
 
 **题目链接：**[https://leetcode-cn.com/problems/find-duplicate-subtrees](https://leetcode-cn.com/problems/find-duplicate-subtrees)
 

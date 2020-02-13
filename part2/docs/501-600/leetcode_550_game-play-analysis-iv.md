@@ -1,4 +1,4 @@
-# $550. 游戏玩法分析 IV
+# $550. [中等] 游戏玩法分析 IV
 
 **题目链接：**[https://leetcode-cn.com/problems/game-play-analysis-iv](https://leetcode-cn.com/problems/game-play-analysis-iv)
 
@@ -8,6 +8,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

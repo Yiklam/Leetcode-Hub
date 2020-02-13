@@ -1,4 +1,4 @@
-# 486. 预测赢家
+# 486. [中等] 预测赢家
 
 **题目链接：**[https://leetcode-cn.com/problems/predict-the-winner](https://leetcode-cn.com/problems/predict-the-winner)
 

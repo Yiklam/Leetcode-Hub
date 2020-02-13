@@ -1,4 +1,4 @@
-# 529. 扫雷游戏
+# 529. [中等] 扫雷游戏
 
 **题目链接：**[https://leetcode-cn.com/problems/minesweeper](https://leetcode-cn.com/problems/minesweeper)
 

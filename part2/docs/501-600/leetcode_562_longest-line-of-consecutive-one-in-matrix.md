@@ -1,4 +1,4 @@
-# $562. 矩阵中最长的连续1线段
+# $562. [中等] 矩阵中最长的连续1线段
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-line-of-consecutive-one-in-matrix](https://leetcode-cn.com/problems/longest-line-of-consecutive-one-in-matrix)
 

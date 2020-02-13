@@ -1,4 +1,4 @@
-# 697. 数组的度
+# 697. [简单] 数组的度
 
 **题目链接：**[https://leetcode-cn.com/problems/degree-of-an-array](https://leetcode-cn.com/problems/degree-of-an-array)
 

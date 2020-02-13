@@ -1,4 +1,4 @@
-# $800. 相似 RGB 颜色
+# $800. [简单] 相似 RGB 颜色
 
 **题目链接：**[https://leetcode-cn.com/problems/similar-rgb-color](https://leetcode-cn.com/problems/similar-rgb-color)
 

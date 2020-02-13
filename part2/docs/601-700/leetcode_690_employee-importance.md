@@ -1,4 +1,4 @@
-# 690. 员工的重要性
+# 690. [简单] 员工的重要性
 
 **题目链接：**[https://leetcode-cn.com/problems/employee-importance](https://leetcode-cn.com/problems/employee-importance)
 

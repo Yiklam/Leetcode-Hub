@@ -1,4 +1,4 @@
-# $533. 孤独像素 II
+# $533. [中等] 孤独像素 II
 
 **题目链接：**[https://leetcode-cn.com/problems/lonely-pixel-ii](https://leetcode-cn.com/problems/lonely-pixel-ii)
 

@@ -1,4 +1,4 @@
-# $624. 数组列表中的最大距离
+# $624. [简单] 数组列表中的最大距离
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-distance-in-arrays](https://leetcode-cn.com/problems/maximum-distance-in-arrays)
 

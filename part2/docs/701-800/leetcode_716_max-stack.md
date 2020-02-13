@@ -1,4 +1,4 @@
-# $716. 最大栈
+# $716. [简单] 最大栈
 
 **题目链接：**[https://leetcode-cn.com/problems/max-stack](https://leetcode-cn.com/problems/max-stack)
 

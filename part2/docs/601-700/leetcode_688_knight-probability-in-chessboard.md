@@ -1,4 +1,4 @@
-# 688. “马”在棋盘上的概率
+# 688. [中等] “马”在棋盘上的概率
 
 **题目链接：**[https://leetcode-cn.com/problems/knight-probability-in-chessboard](https://leetcode-cn.com/problems/knight-probability-in-chessboard)
 

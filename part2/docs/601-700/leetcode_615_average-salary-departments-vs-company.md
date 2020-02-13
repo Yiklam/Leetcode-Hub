@@ -1,4 +1,4 @@
-# $615. 平均工资：部门与公司比较
+# $615. [困难] 平均工资：部门与公司比较
 
 **题目链接：**[https://leetcode-cn.com/problems/average-salary-departments-vs-company](https://leetcode-cn.com/problems/average-salary-departments-vs-company)
 
@@ -59,6 +59,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

@@ -1,4 +1,4 @@
-# $614. 二级关注者
+# $614. [中等] 二级关注者
 
 **题目链接：**[https://leetcode-cn.com/problems/second-degree-follower](https://leetcode-cn.com/problems/second-degree-follower)
 
@@ -42,6 +42,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

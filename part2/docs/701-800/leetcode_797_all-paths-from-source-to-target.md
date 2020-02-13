@@ -1,4 +1,4 @@
-# 797. 所有可能的路径
+# 797. [中等] 所有可能的路径
 
 **题目链接：**[https://leetcode-cn.com/problems/all-paths-from-source-to-target](https://leetcode-cn.com/problems/all-paths-from-source-to-target)
 

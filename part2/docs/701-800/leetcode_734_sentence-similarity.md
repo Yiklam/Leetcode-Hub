@@ -1,4 +1,4 @@
-# $734. 句子相似性
+# $734. [简单] 句子相似性
 
 **题目链接：**[https://leetcode-cn.com/problems/sentence-similarity](https://leetcode-cn.com/problems/sentence-similarity)
 
