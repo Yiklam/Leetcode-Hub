@@ -1,4 +1,4 @@
-# 1033. 移动石子直到连续
+# 1033. [简单] 移动石子直到连续
 
 **题目链接：**[https://leetcode-cn.com/problems/moving-stones-until-consecutive](https://leetcode-cn.com/problems/moving-stones-until-consecutive)
 

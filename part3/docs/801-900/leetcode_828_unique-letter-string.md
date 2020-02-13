@@ -1,4 +1,4 @@
-# 828. 独特字符串
+# 828. [困难] 独特字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/unique-letter-string](https://leetcode-cn.com/problems/unique-letter-string)
 

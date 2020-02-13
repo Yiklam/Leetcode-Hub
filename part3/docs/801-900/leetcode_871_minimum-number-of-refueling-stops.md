@@ -1,4 +1,4 @@
-# 871. 最低加油次数
+# 871. [困难] 最低加油次数
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-number-of-refueling-stops](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops)
 

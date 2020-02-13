@@ -1,4 +1,4 @@
-# $1127. 用户购买平台
+# $1127. [困难] 用户购买平台
 
 **题目链接：**[https://leetcode-cn.com/problems/user-purchase-platform](https://leetcode-cn.com/problems/user-purchase-platform)
 
@@ -8,6 +8,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

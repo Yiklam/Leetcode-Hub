@@ -1,4 +1,4 @@
-# 808. 分汤
+# 808. [中等] 分汤
 
 **题目链接：**[https://leetcode-cn.com/problems/soup-servings](https://leetcode-cn.com/problems/soup-servings)
 

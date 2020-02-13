@@ -1,4 +1,4 @@
-# 1006. 笨阶乘
+# 1006. [中等] 笨阶乘
 
 **题目链接：**[https://leetcode-cn.com/problems/clumsy-factorial](https://leetcode-cn.com/problems/clumsy-factorial)
 

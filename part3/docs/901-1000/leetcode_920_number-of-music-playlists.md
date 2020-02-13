@@ -1,4 +1,4 @@
-# 920. 播放列表的数量
+# 920. [困难] 播放列表的数量
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-music-playlists](https://leetcode-cn.com/problems/number-of-music-playlists)
 

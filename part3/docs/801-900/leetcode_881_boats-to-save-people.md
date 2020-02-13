@@ -1,4 +1,4 @@
-# 881. 救生艇
+# 881. [中等] 救生艇
 
 **题目链接：**[https://leetcode-cn.com/problems/boats-to-save-people](https://leetcode-cn.com/problems/boats-to-save-people)
 

@@ -1,4 +1,4 @@
-# 1073. 负二进制数相加
+# 1073. [中等] 负二进制数相加
 
 **题目链接：**[https://leetcode-cn.com/problems/adding-two-negabinary-numbers](https://leetcode-cn.com/problems/adding-two-negabinary-numbers)
 

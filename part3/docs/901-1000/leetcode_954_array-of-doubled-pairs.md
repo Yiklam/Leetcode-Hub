@@ -1,4 +1,4 @@
-# 954. 二倍数对数组
+# 954. [中等] 二倍数对数组
 
 **题目链接：**[https://leetcode-cn.com/problems/array-of-doubled-pairs](https://leetcode-cn.com/problems/array-of-doubled-pairs)
 

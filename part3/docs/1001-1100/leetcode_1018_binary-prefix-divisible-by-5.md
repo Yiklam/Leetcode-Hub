@@ -1,4 +1,4 @@
-# 1018. 可被 5 整除的二进制前缀
+# 1018. [简单] 可被 5 整除的二进制前缀
 
 **题目链接：**[https://leetcode-cn.com/problems/binary-prefix-divisible-by-5](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5)
 

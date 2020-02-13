@@ -1,4 +1,4 @@
-# 891. 子序列宽度之和
+# 891. [困难] 子序列宽度之和
 
 **题目链接：**[https://leetcode-cn.com/problems/sum-of-subsequence-widths](https://leetcode-cn.com/problems/sum-of-subsequence-widths)
 

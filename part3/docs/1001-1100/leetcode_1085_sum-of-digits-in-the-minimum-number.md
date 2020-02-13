@@ -1,4 +1,4 @@
-# $1085. 最小元素各数位之和
+# $1085. [简单] 最小元素各数位之和
 
 **题目链接：**[https://leetcode-cn.com/problems/sum-of-digits-in-the-minimum-number](https://leetcode-cn.com/problems/sum-of-digits-in-the-minimum-number)
 

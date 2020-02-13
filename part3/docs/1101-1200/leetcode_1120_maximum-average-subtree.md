@@ -1,4 +1,4 @@
-# $1120. 子树的最大平均值
+# $1120. [中等] 子树的最大平均值
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-average-subtree](https://leetcode-cn.com/problems/maximum-average-subtree)
 

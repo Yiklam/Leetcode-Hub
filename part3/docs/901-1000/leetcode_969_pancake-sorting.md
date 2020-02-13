@@ -1,4 +1,4 @@
-# 969. 煎饼排序
+# 969. [中等] 煎饼排序
 
 **题目链接：**[https://leetcode-cn.com/problems/pancake-sorting](https://leetcode-cn.com/problems/pancake-sorting)
 

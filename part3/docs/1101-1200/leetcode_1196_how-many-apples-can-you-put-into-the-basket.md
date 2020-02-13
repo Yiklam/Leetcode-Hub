@@ -1,4 +1,4 @@
-# $1196. 最多可以买到的苹果数量
+# $1196. [简单] 最多可以买到的苹果数量
 
 **题目链接：**[https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket](https://leetcode-cn.com/problems/how-many-apples-can-you-put-into-the-basket)
 

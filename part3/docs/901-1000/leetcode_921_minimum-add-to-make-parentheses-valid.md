@@ -1,4 +1,4 @@
-# 921. 使括号有效的最少添加
+# 921. [中等] 使括号有效的最少添加
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid)
 

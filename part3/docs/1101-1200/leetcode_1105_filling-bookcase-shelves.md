@@ -1,4 +1,4 @@
-# 1105. 填充书架
+# 1105. [中等] 填充书架
 
 **题目链接：**[https://leetcode-cn.com/problems/filling-bookcase-shelves](https://leetcode-cn.com/problems/filling-bookcase-shelves)
 

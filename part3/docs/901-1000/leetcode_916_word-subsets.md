@@ -1,4 +1,4 @@
-# 916. 单词子集
+# 916. [中等] 单词子集
 
 **题目链接：**[https://leetcode-cn.com/problems/word-subsets](https://leetcode-cn.com/problems/word-subsets)
 

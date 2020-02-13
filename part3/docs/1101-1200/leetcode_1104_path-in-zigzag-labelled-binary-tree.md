@@ -1,4 +1,4 @@
-# 1104. 二叉树寻路
+# 1104. [中等] 二叉树寻路
 
 **题目链接：**[https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree)
 

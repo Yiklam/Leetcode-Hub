@@ -1,4 +1,4 @@
-# 946. 验证栈序列
+# 946. [中等] 验证栈序列
 
 **题目链接：**[https://leetcode-cn.com/problems/validate-stack-sequences](https://leetcode-cn.com/problems/validate-stack-sequences)
 

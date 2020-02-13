@@ -1,4 +1,4 @@
-# 1170. 比较字符串最小字母出现频次
+# 1170. [简单] 比较字符串最小字母出现频次
 
 **题目链接：**[https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character](https://leetcode-cn.com/problems/compare-strings-by-frequency-of-the-smallest-character)
 

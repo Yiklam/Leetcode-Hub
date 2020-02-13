@@ -1,4 +1,4 @@
-# $1198. 找出所有行中最小公共元素
+# $1198. [中等] 找出所有行中最小公共元素
 
 **题目链接：**[https://leetcode-cn.com/problems/find-smallest-common-element-in-all-rows](https://leetcode-cn.com/problems/find-smallest-common-element-in-all-rows)
 

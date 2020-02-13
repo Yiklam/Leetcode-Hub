@@ -1,4 +1,4 @@
-# 901. 股票价格跨度
+# 901. [中等] 股票价格跨度
 
 **题目链接：**[https://leetcode-cn.com/problems/online-stock-span](https://leetcode-cn.com/problems/online-stock-span)
 

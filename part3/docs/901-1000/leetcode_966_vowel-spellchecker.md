@@ -1,4 +1,4 @@
-# 966. 元音拼写检查器
+# 966. [中等] 元音拼写检查器
 
 **题目链接：**[https://leetcode-cn.com/problems/vowel-spellchecker](https://leetcode-cn.com/problems/vowel-spellchecker)
 

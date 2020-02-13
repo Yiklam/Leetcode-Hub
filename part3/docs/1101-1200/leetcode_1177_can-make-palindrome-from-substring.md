@@ -1,4 +1,4 @@
-# 1177. 构建回文串检测
+# 1177. [中等] 构建回文串检测
 
 **题目链接：**[https://leetcode-cn.com/problems/can-make-palindrome-from-substring](https://leetcode-cn.com/problems/can-make-palindrome-from-substring)
 

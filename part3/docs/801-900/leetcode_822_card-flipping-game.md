@@ -1,4 +1,4 @@
-# 822. 翻转卡片游戏
+# 822. [中等] 翻转卡片游戏
 
 **题目链接：**[https://leetcode-cn.com/problems/card-flipping-game](https://leetcode-cn.com/problems/card-flipping-game)
 

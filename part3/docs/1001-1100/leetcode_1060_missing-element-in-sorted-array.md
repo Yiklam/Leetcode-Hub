@@ -1,4 +1,4 @@
-# $1060. 有序数组中的缺失元素
+# $1060. [中等] 有序数组中的缺失元素
 
 **题目链接：**[https://leetcode-cn.com/problems/missing-element-in-sorted-array](https://leetcode-cn.com/problems/missing-element-in-sorted-array)
 

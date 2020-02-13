@@ -1,4 +1,4 @@
-# $1132. 报告的记录 II
+# $1132. [中等] 报告的记录 II
 
 **题目链接：**[https://leetcode-cn.com/problems/reported-posts-ii](https://leetcode-cn.com/problems/reported-posts-ii)
 
@@ -8,6 +8,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

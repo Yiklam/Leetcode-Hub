@@ -1,4 +1,4 @@
-# $1188. 设计有限阻塞队列
+# $1188. [中等] 设计有限阻塞队列
 
 **题目链接：**[https://leetcode-cn.com/problems/design-bounded-blocking-queue](https://leetcode-cn.com/problems/design-bounded-blocking-queue)
 

@@ -1,4 +1,4 @@
-# 847. 访问所有节点的最短路径
+# 847. [困难] 访问所有节点的最短路径
 
 **题目链接：**[https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes)
 

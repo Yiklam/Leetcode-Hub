@@ -1,4 +1,4 @@
-# 902. 最大为 N 的数字组合
+# 902. [困难] 最大为 N 的数字组合
 
 **题目链接：**[https://leetcode-cn.com/problems/numbers-at-most-n-given-digit-set](https://leetcode-cn.com/problems/numbers-at-most-n-given-digit-set)
 

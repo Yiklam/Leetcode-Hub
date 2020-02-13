@@ -1,4 +1,4 @@
-# $1152. 用户网站访问行为分析
+# $1152. [中等] 用户网站访问行为分析
 
 **题目链接：**[https://leetcode-cn.com/problems/analyze-user-website-visit-pattern](https://leetcode-cn.com/problems/analyze-user-website-visit-pattern)
 

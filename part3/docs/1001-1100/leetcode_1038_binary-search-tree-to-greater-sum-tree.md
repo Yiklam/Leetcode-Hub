@@ -1,4 +1,4 @@
-# 1038. 从二叉搜索树到更大和树
+# 1038. [中等] 从二叉搜索树到更大和树
 
 **题目链接：**[https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree)
 

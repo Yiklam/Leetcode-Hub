@@ -1,4 +1,4 @@
-# 1156. 单字符重复子串的最大长度
+# 1156. [中等] 单字符重复子串的最大长度
 
 **题目链接：**[https://leetcode-cn.com/problems/swap-for-longest-repeated-character-substring](https://leetcode-cn.com/problems/swap-for-longest-repeated-character-substring)
 

@@ -1,4 +1,4 @@
-# 998. 最大二叉树 II
+# 998. [中等] 最大二叉树 II
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-binary-tree-ii](https://leetcode-cn.com/problems/maximum-binary-tree-ii)
 

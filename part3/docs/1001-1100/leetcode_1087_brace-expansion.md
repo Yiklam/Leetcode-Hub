@@ -1,4 +1,4 @@
-# $1087. 字母切换
+# $1087. [中等] 字母切换
 
 **题目链接：**[https://leetcode-cn.com/problems/brace-expansion](https://leetcode-cn.com/problems/brace-expansion)
 

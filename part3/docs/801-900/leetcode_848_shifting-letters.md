@@ -1,4 +1,4 @@
-# 848. 字母移位
+# 848. [中等] 字母移位
 
 **题目链接：**[https://leetcode-cn.com/problems/shifting-letters](https://leetcode-cn.com/problems/shifting-letters)
 

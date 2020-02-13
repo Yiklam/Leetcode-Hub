@@ -1,4 +1,4 @@
-# 1026. 节点与其祖先之间的最大差值
+# 1026. [中等] 节点与其祖先之间的最大差值
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor](https://leetcode-cn.com/problems/maximum-difference-between-node-and-ancestor)
 

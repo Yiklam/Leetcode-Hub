@@ -1,4 +1,4 @@
-# 1022. 从根到叶的二进制数之和
+# 1022. [简单] 从根到叶的二进制数之和
 
 **题目链接：**[https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers](https://leetcode-cn.com/problems/sum-of-root-to-leaf-binary-numbers)
 

@@ -1,4 +1,4 @@
-# 1137. 第 N 个泰波那契数
+# 1137. [简单] 第 N 个泰波那契数
 
 **题目链接：**[https://leetcode-cn.com/problems/n-th-tribonacci-number](https://leetcode-cn.com/problems/n-th-tribonacci-number)
 

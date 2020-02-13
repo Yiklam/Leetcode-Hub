@@ -1,4 +1,4 @@
-# 1053. 交换一次的先前排列
+# 1053. [中等] 交换一次的先前排列
 
 **题目链接：**[https://leetcode-cn.com/problems/previous-permutation-with-one-swap](https://leetcode-cn.com/problems/previous-permutation-with-one-swap)
 

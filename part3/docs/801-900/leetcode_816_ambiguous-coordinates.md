@@ -1,4 +1,4 @@
-# 816. 模糊坐标
+# 816. [中等] 模糊坐标
 
 **题目链接：**[https://leetcode-cn.com/problems/ambiguous-coordinates](https://leetcode-cn.com/problems/ambiguous-coordinates)
 

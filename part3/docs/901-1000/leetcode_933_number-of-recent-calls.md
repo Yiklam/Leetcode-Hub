@@ -1,4 +1,4 @@
-# 933. 最近的请求次数
+# 933. [简单] 最近的请求次数
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-recent-calls](https://leetcode-cn.com/problems/number-of-recent-calls)
 

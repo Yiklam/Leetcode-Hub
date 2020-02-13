@@ -1,4 +1,4 @@
-# 981. 基于时间的键值存储
+# 981. [中等] 基于时间的键值存储
 
 **题目链接：**[https://leetcode-cn.com/problems/time-based-key-value-store](https://leetcode-cn.com/problems/time-based-key-value-store)
 

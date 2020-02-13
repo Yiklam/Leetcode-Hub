@@ -1,4 +1,4 @@
-# 814. 二叉树剪枝
+# 814. [中等] 二叉树剪枝
 
 **题目链接：**[https://leetcode-cn.com/problems/binary-tree-pruning](https://leetcode-cn.com/problems/binary-tree-pruning)
 

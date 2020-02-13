@@ -1,4 +1,4 @@
-# 1116. 打印零与奇偶数
+# 1116. [中等] 打印零与奇偶数
 
 **题目链接：**[https://leetcode-cn.com/problems/print-zero-even-odd](https://leetcode-cn.com/problems/print-zero-even-odd)
 

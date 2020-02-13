@@ -1,4 +1,4 @@
-# 970. 强整数
+# 970. [简单] 强整数
 
 **题目链接：**[https://leetcode-cn.com/problems/powerful-integers](https://leetcode-cn.com/problems/powerful-integers)
 

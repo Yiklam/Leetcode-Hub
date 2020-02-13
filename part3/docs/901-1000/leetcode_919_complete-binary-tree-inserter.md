@@ -1,4 +1,4 @@
-# 919. 完全二叉树插入器
+# 919. [中等] 完全二叉树插入器
 
 **题目链接：**[https://leetcode-cn.com/problems/complete-binary-tree-inserter](https://leetcode-cn.com/problems/complete-binary-tree-inserter)
 

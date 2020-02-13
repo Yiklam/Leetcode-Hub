@@ -1,4 +1,4 @@
-# 826. 安排工作以达到最大收益
+# 826. [中等] 安排工作以达到最大收益
 
 **题目链接：**[https://leetcode-cn.com/problems/most-profit-assigning-work](https://leetcode-cn.com/problems/most-profit-assigning-work)
 

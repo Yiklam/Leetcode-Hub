@@ -1,4 +1,4 @@
-# 1078. Bigram 分词
+# 1078. [简单] Bigram 分词
 
 **题目链接：**[https://leetcode-cn.com/problems/occurrences-after-bigram](https://leetcode-cn.com/problems/occurrences-after-bigram)
 

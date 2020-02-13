@@ -1,4 +1,4 @@
-# 972. 相等的有理数
+# 972. [困难] 相等的有理数
 
 **题目链接：**[https://leetcode-cn.com/problems/equal-rational-numbers](https://leetcode-cn.com/problems/equal-rational-numbers)
 

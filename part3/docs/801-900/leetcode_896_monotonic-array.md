@@ -1,4 +1,4 @@
-# 896. 单调数列
+# 896. [简单] 单调数列
 
 **题目链接：**[https://leetcode-cn.com/problems/monotonic-array](https://leetcode-cn.com/problems/monotonic-array)
 

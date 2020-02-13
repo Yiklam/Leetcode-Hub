@@ -1,4 +1,4 @@
-# 803. 打砖块
+# 803. [困难] 打砖块
 
 **题目链接：**[https://leetcode-cn.com/problems/bricks-falling-when-hit](https://leetcode-cn.com/problems/bricks-falling-when-hit)
 

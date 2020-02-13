@@ -1,4 +1,4 @@
-# 1146. 快照数组
+# 1146. [中等] 快照数组
 
 **题目链接：**[https://leetcode-cn.com/problems/snapshot-array](https://leetcode-cn.com/problems/snapshot-array)
 

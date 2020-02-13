@@ -1,4 +1,4 @@
-# 1122. 数组的相对排序
+# 1122. [简单] 数组的相对排序
 
 **题目链接：**[https://leetcode-cn.com/problems/relative-sort-array](https://leetcode-cn.com/problems/relative-sort-array)
 

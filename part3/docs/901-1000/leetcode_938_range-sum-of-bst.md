@@ -1,4 +1,4 @@
-# 938. 二叉搜索树的范围和
+# 938. [简单] 二叉搜索树的范围和
 
 **题目链接：**[https://leetcode-cn.com/problems/range-sum-of-bst](https://leetcode-cn.com/problems/range-sum-of-bst)
 

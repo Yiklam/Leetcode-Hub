@@ -1,4 +1,4 @@
-# 1129. 颜色交替的最短路径
+# 1129. [中等] 颜色交替的最短路径
 
 **题目链接：**[https://leetcode-cn.com/problems/shortest-path-with-alternating-colors](https://leetcode-cn.com/problems/shortest-path-with-alternating-colors)
 

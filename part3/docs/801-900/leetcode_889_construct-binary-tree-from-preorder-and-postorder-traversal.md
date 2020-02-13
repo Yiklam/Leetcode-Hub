@@ -1,4 +1,4 @@
-# 889. 根据前序和后序遍历构造二叉树
+# 889. [中等] 根据前序和后序遍历构造二叉树
 
 **题目链接：**[https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal)
 

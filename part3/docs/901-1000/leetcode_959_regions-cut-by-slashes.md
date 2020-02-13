@@ -1,4 +1,4 @@
-# 959. 由斜杠划分区域
+# 959. [中等] 由斜杠划分区域
 
 **题目链接：**[https://leetcode-cn.com/problems/regions-cut-by-slashes](https://leetcode-cn.com/problems/regions-cut-by-slashes)
 

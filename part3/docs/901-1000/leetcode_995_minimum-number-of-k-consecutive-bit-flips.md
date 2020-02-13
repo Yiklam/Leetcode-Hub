@@ -1,4 +1,4 @@
-# 995. K 连续位的最小翻转次数
+# 995. [困难] K 连续位的最小翻转次数
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips)
 

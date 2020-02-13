@@ -1,4 +1,4 @@
-# 1049. 最后一块石头的重量 II
+# 1049. [中等] 最后一块石头的重量 II
 
 **题目链接：**[https://leetcode-cn.com/problems/last-stone-weight-ii](https://leetcode-cn.com/problems/last-stone-weight-ii)
 

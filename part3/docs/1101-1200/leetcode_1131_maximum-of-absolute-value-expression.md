@@ -1,4 +1,4 @@
-# 1131. 绝对值表达式的最大值
+# 1131. [中等] 绝对值表达式的最大值
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-of-absolute-value-expression](https://leetcode-cn.com/problems/maximum-of-absolute-value-expression)
 

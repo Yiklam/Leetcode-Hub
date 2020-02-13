@@ -1,4 +1,4 @@
-# 805. 数组的均值分割
+# 805. [困难] 数组的均值分割
 
 **题目链接：**[https://leetcode-cn.com/problems/split-array-with-same-average](https://leetcode-cn.com/problems/split-array-with-same-average)
 

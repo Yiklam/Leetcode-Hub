@@ -1,4 +1,4 @@
-# $1064. 不动点
+# $1064. [简单] 不动点
 
 **题目链接：**[https://leetcode-cn.com/problems/fixed-point](https://leetcode-cn.com/problems/fixed-point)
 

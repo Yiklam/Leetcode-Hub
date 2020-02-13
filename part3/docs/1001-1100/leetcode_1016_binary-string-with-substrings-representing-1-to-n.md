@@ -1,4 +1,4 @@
-# 1016. 子串能表示从 1 到 N 数字的二进制串
+# 1016. [中等] 子串能表示从 1 到 N 数字的二进制串
 
 **题目链接：**[https://leetcode-cn.com/problems/binary-string-with-substrings-representing-1-to-n](https://leetcode-cn.com/problems/binary-string-with-substrings-representing-1-to-n)
 

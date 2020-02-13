@@ -1,4 +1,4 @@
-# 1111. 有效括号的嵌套深度
+# 1111. [中等] 有效括号的嵌套深度
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings)
 

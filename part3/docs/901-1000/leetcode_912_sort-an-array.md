@@ -1,4 +1,4 @@
-# 912. 排序数组
+# 912. [中等] 排序数组
 
 **题目链接：**[https://leetcode-cn.com/problems/sort-an-array](https://leetcode-cn.com/problems/sort-an-array)
 

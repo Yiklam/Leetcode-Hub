@@ -1,4 +1,4 @@
-# 1200. 最小绝对差
+# 1200. [简单] 最小绝对差
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-absolute-difference](https://leetcode-cn.com/problems/minimum-absolute-difference)
 

@@ -1,4 +1,4 @@
-# 908. 最小差值 I
+# 908. [简单] 最小差值 I
 
 **题目链接：**[https://leetcode-cn.com/problems/smallest-range-i](https://leetcode-cn.com/problems/smallest-range-i)
 

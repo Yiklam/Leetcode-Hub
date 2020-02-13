@@ -1,4 +1,4 @@
-# 1103. 分糖果 II
+# 1103. [简单] 分糖果 II
 
 **题目链接：**[https://leetcode-cn.com/problems/distribute-candies-to-people](https://leetcode-cn.com/problems/distribute-candies-to-people)
 

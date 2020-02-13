@@ -1,4 +1,4 @@
-# 1042. 不邻接植花
+# 1042. [简单] 不邻接植花
 
 **题目链接：**[https://leetcode-cn.com/problems/flower-planting-with-no-adjacent](https://leetcode-cn.com/problems/flower-planting-with-no-adjacent)
 

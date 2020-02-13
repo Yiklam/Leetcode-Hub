@@ -1,4 +1,4 @@
-# 1081. 不同字符的最小子序列
+# 1081. [中等] 不同字符的最小子序列
 
 **题目链接：**[https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters)
 

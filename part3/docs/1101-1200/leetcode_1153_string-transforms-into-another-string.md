@@ -1,4 +1,4 @@
-# $1153. 字符串转化
+# $1153. [困难] 字符串转化
 
 **题目链接：**[https://leetcode-cn.com/problems/string-transforms-into-another-string](https://leetcode-cn.com/problems/string-transforms-into-another-string)
 

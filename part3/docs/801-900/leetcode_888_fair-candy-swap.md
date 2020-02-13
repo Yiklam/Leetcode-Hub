@@ -1,4 +1,4 @@
-# 888. 公平的糖果交换
+# 888. [简单] 公平的糖果交换
 
 **题目链接：**[https://leetcode-cn.com/problems/fair-candy-swap](https://leetcode-cn.com/problems/fair-candy-swap)
 

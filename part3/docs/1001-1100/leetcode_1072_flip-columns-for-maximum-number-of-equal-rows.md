@@ -1,4 +1,4 @@
-# 1072. 按列翻转得到最大值等行数
+# 1072. [中等] 按列翻转得到最大值等行数
 
 **题目链接：**[https://leetcode-cn.com/problems/flip-columns-for-maximum-number-of-equal-rows](https://leetcode-cn.com/problems/flip-columns-for-maximum-number-of-equal-rows)
 

@@ -1,4 +1,4 @@
-# $1062. 最长重复子串
+# $1062. [中等] 最长重复子串
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-repeating-substring](https://leetcode-cn.com/problems/longest-repeating-substring)
 

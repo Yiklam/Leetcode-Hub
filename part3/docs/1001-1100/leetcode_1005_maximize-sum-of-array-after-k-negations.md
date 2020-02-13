@@ -1,4 +1,4 @@
-# 1005. K 次取反后最大化的数组和
+# 1005. [简单] K 次取反后最大化的数组和
 
 **题目链接：**[https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations)
 

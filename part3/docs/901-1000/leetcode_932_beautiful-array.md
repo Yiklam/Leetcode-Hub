@@ -1,4 +1,4 @@
-# 932. 漂亮数组
+# 932. [中等] 漂亮数组
 
 **题目链接：**[https://leetcode-cn.com/problems/beautiful-array](https://leetcode-cn.com/problems/beautiful-array)
 

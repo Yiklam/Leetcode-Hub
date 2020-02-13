@@ -1,4 +1,4 @@
-# 874. 模拟行走机器人
+# 874. [简单] 模拟行走机器人
 
 **题目链接：**[https://leetcode-cn.com/problems/walking-robot-simulation](https://leetcode-cn.com/problems/walking-robot-simulation)
 

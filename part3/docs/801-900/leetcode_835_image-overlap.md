@@ -1,4 +1,4 @@
-# 835. 图像重叠
+# 835. [中等] 图像重叠
 
 **题目链接：**[https://leetcode-cn.com/problems/image-overlap](https://leetcode-cn.com/problems/image-overlap)
 

@@ -1,4 +1,4 @@
-# 1096. 花括号展开 II
+# 1096. [困难] 花括号展开 II
 
 **题目链接：**[https://leetcode-cn.com/problems/brace-expansion-ii](https://leetcode-cn.com/problems/brace-expansion-ii)
 

@@ -1,4 +1,4 @@
-# 810. 黑板异或游戏
+# 810. [困难] 黑板异或游戏
 
 **题目链接：**[https://leetcode-cn.com/problems/chalkboard-xor-game](https://leetcode-cn.com/problems/chalkboard-xor-game)
 

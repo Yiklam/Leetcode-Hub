@@ -1,4 +1,4 @@
-# 958. 二叉树的完全性检验
+# 958. [中等] 二叉树的完全性检验
 
 **题目链接：**[https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree)
 

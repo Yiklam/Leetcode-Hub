@@ -1,4 +1,4 @@
-# 831. 隐藏个人信息
+# 831. [中等] 隐藏个人信息
 
 **题目链接：**[https://leetcode-cn.com/problems/masking-personal-information](https://leetcode-cn.com/problems/masking-personal-information)
 

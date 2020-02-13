@@ -1,4 +1,4 @@
-# 806. 写字符串需要的行数
+# 806. [简单] 写字符串需要的行数
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-lines-to-write-string](https://leetcode-cn.com/problems/number-of-lines-to-write-string)
 

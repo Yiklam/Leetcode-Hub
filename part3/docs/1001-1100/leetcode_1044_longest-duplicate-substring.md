@@ -1,4 +1,4 @@
-# 1044. 最长重复子串
+# 1044. [困难] 最长重复子串
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-duplicate-substring](https://leetcode-cn.com/problems/longest-duplicate-substring)
 

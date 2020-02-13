@@ -1,4 +1,4 @@
-# 993. 二叉树的堂兄弟节点
+# 993. [简单] 二叉树的堂兄弟节点
 
 **题目链接：**[https://leetcode-cn.com/problems/cousins-in-binary-tree](https://leetcode-cn.com/problems/cousins-in-binary-tree)
 

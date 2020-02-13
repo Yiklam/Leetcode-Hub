@@ -1,4 +1,4 @@
-# 939. 最小面积矩形
+# 939. [中等] 最小面积矩形
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-area-rectangle](https://leetcode-cn.com/problems/minimum-area-rectangle)
 

@@ -1,4 +1,4 @@
-# 1040. 移动石子直到连续 II
+# 1040. [中等] 移动石子直到连续 II
 
 **题目链接：**[https://leetcode-cn.com/problems/moving-stones-until-consecutive-ii](https://leetcode-cn.com/problems/moving-stones-until-consecutive-ii)
 

@@ -1,4 +1,4 @@
-# 1161. 最大层内元素和
+# 1161. [中等] 最大层内元素和
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree](https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree)
 

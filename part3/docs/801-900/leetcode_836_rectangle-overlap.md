@@ -1,4 +1,4 @@
-# 836. 矩形重叠
+# 836. [简单] 矩形重叠
 
 **题目链接：**[https://leetcode-cn.com/problems/rectangle-overlap](https://leetcode-cn.com/problems/rectangle-overlap)
 

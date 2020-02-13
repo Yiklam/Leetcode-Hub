@@ -1,4 +1,4 @@
-# 922. 按奇偶排序数组 II
+# 922. [简单] 按奇偶排序数组 II
 
 **题目链接：**[https://leetcode-cn.com/problems/sort-array-by-parity-ii](https://leetcode-cn.com/problems/sort-array-by-parity-ii)
 

@@ -1,4 +1,4 @@
-# 1162. 地图分析
+# 1162. [中等] 地图分析
 
 **题目链接：**[https://leetcode-cn.com/problems/as-far-from-land-as-possible](https://leetcode-cn.com/problems/as-far-from-land-as-possible)
 

@@ -1,4 +1,4 @@
-# $1065. 字符串的索引对
+# $1065. [简单] 字符串的索引对
 
 **题目链接：**[https://leetcode-cn.com/problems/index-pairs-of-a-string](https://leetcode-cn.com/problems/index-pairs-of-a-string)
 

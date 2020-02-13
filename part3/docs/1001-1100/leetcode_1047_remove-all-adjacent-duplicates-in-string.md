@@ -1,4 +1,4 @@
-# 1047. 删除字符串中的所有相邻重复项
+# 1047. [简单] 删除字符串中的所有相邻重复项
 
 **题目链接：**[https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string)
 

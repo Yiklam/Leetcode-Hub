@@ -1,4 +1,4 @@
-# 1020. 飞地的数量
+# 1020. [中等] 飞地的数量
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-enclaves](https://leetcode-cn.com/problems/number-of-enclaves)
 

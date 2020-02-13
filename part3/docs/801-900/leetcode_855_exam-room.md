@@ -1,4 +1,4 @@
-# 855. 考场就座
+# 855. [中等] 考场就座
 
 **题目链接：**[https://leetcode-cn.com/problems/exam-room](https://leetcode-cn.com/problems/exam-room)
 

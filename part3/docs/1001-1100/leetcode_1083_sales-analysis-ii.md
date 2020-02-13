@@ -1,4 +1,4 @@
-# $1083. 销售分析 II
+# $1083. [简单] 销售分析 II
 
 **题目链接：**[https://leetcode-cn.com/problems/sales-analysis-ii](https://leetcode-cn.com/problems/sales-analysis-ii)
 
@@ -71,6 +71,6 @@ id 为 1 的买家购买了一部 S8，但是却没有购买 iPhone，而 id 为
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

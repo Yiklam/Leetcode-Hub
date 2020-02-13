@@ -1,4 +1,4 @@
-# 1027. 最长等差数列
+# 1027. [中等] 最长等差数列
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-arithmetic-sequence](https://leetcode-cn.com/problems/longest-arithmetic-sequence)
 

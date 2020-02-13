@@ -1,4 +1,4 @@
-# 947. 移除最多的同行或同列石头
+# 947. [中等] 移除最多的同行或同列石头
 
 **题目链接：**[https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column)
 

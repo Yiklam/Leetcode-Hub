@@ -1,4 +1,4 @@
-# $1176. 健身计划评估
+# $1176. [简单] 健身计划评估
 
 **题目链接：**[https://leetcode-cn.com/problems/diet-plan-performance](https://leetcode-cn.com/problems/diet-plan-performance)
 

@@ -1,4 +1,4 @@
-# 906. 超级回文数
+# 906. [困难] 超级回文数
 
 **题目链接：**[https://leetcode-cn.com/problems/super-palindromes](https://leetcode-cn.com/problems/super-palindromes)
 

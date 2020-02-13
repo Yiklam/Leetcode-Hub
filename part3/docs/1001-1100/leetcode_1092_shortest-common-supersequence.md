@@ -1,4 +1,4 @@
-# 1092. 最短公共超序列
+# 1092. [困难] 最短公共超序列
 
 **题目链接：**[https://leetcode-cn.com/problems/shortest-common-supersequence](https://leetcode-cn.com/problems/shortest-common-supersequence)
 

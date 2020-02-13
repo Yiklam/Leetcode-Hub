@@ -1,4 +1,4 @@
-# $1135. 最低成本联通所有城市
+# $1135. [中等] 最低成本联通所有城市
 
 **题目链接：**[https://leetcode-cn.com/problems/connecting-cities-with-minimum-cost](https://leetcode-cn.com/problems/connecting-cities-with-minimum-cost)
 

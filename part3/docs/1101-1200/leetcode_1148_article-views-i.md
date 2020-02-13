@@ -1,4 +1,4 @@
-# $1148. 文章浏览 I
+# $1148. [简单] 文章浏览 I
 
 **题目链接：**[https://leetcode-cn.com/problems/article-views-i](https://leetcode-cn.com/problems/article-views-i)
 
@@ -8,6 +8,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

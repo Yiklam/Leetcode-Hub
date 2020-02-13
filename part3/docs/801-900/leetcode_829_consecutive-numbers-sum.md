@@ -1,4 +1,4 @@
-# 829. 连续整数求和
+# 829. [困难] 连续整数求和
 
 **题目链接：**[https://leetcode-cn.com/problems/consecutive-numbers-sum](https://leetcode-cn.com/problems/consecutive-numbers-sum)
 

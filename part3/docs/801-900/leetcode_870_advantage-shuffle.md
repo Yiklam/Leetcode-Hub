@@ -1,4 +1,4 @@
-# 870. 优势洗牌
+# 870. [中等] 优势洗牌
 
 **题目链接：**[https://leetcode-cn.com/problems/advantage-shuffle](https://leetcode-cn.com/problems/advantage-shuffle)
 

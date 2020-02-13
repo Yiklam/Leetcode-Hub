@@ -1,4 +1,4 @@
-# 1002. 查找常用字符
+# 1002. [简单] 查找常用字符
 
 **题目链接：**[https://leetcode-cn.com/problems/find-common-characters](https://leetcode-cn.com/problems/find-common-characters)
 

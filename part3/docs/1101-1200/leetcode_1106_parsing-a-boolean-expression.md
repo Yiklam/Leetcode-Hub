@@ -1,4 +1,4 @@
-# 1106. 解析布尔表达式
+# 1106. [困难] 解析布尔表达式
 
 **题目链接：**[https://leetcode-cn.com/problems/parsing-a-boolean-expression](https://leetcode-cn.com/problems/parsing-a-boolean-expression)
 

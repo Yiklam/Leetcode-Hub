@@ -1,4 +1,4 @@
-# 960. 删列造序 III
+# 960. [困难] 删列造序 III
 
 **题目链接：**[https://leetcode-cn.com/problems/delete-columns-to-make-sorted-iii](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-iii)
 

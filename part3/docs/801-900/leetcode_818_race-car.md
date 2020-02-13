@@ -1,4 +1,4 @@
-# 818. 赛车
+# 818. [困难] 赛车
 
 **题目链接：**[https://leetcode-cn.com/problems/race-car](https://leetcode-cn.com/problems/race-car)
 

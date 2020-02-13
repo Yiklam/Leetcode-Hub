@@ -1,4 +1,4 @@
-# 887. 鸡蛋掉落
+# 887. [困难] 鸡蛋掉落
 
 **题目链接：**[https://leetcode-cn.com/problems/super-egg-drop](https://leetcode-cn.com/problems/super-egg-drop)
 

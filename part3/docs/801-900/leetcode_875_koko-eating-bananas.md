@@ -1,4 +1,4 @@
-# 875. 爱吃香蕉的珂珂
+# 875. [中等] 爱吃香蕉的珂珂
 
 **题目链接：**[https://leetcode-cn.com/problems/koko-eating-bananas](https://leetcode-cn.com/problems/koko-eating-bananas)
 

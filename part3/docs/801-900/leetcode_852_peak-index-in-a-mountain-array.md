@@ -1,4 +1,4 @@
-# 852. 山脉数组的峰顶索引
+# 852. [简单] 山脉数组的峰顶索引
 
 **题目链接：**[https://leetcode-cn.com/problems/peak-index-in-a-mountain-array](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array)
 

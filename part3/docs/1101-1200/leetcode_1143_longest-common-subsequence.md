@@ -1,4 +1,4 @@
-# 1143. 最长公共子序列
+# 1143. [中等] 最长公共子序列
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-common-subsequence](https://leetcode-cn.com/problems/longest-common-subsequence)
 

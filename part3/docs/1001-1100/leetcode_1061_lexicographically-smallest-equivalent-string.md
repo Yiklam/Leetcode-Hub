@@ -1,4 +1,4 @@
-# $1061. 按字典序排列最小的等效字符串
+# $1061. [中等] 按字典序排列最小的等效字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/lexicographically-smallest-equivalent-string](https://leetcode-cn.com/problems/lexicographically-smallest-equivalent-string)
 

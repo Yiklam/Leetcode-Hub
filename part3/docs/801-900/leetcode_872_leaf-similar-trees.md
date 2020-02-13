@@ -1,4 +1,4 @@
-# 872. 叶子相似的树
+# 872. [简单] 叶子相似的树
 
 **题目链接：**[https://leetcode-cn.com/problems/leaf-similar-trees](https://leetcode-cn.com/problems/leaf-similar-trees)
 

@@ -1,4 +1,4 @@
-# 935. 骑士拨号器
+# 935. [中等] 骑士拨号器
 
 **题目链接：**[https://leetcode-cn.com/problems/knight-dialer](https://leetcode-cn.com/problems/knight-dialer)
 

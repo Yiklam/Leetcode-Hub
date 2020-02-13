@@ -1,4 +1,4 @@
-# 1163. 按字典序排在最后的子串
+# 1163. [困难] 按字典序排在最后的子串
 
 **题目链接：**[https://leetcode-cn.com/problems/last-substring-in-lexicographical-order](https://leetcode-cn.com/problems/last-substring-in-lexicographical-order)
 

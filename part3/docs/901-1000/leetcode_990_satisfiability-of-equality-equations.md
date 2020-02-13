@@ -1,4 +1,4 @@
-# 990. 等式方程的可满足性
+# 990. [中等] 等式方程的可满足性
 
 **题目链接：**[https://leetcode-cn.com/problems/satisfiability-of-equality-equations](https://leetcode-cn.com/problems/satisfiability-of-equality-equations)
 

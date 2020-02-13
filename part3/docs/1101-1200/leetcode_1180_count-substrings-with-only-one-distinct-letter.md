@@ -1,4 +1,4 @@
-# $1180. 统计只含单一字母的子串
+# $1180. [简单] 统计只含单一字母的子串
 
 **题目链接：**[https://leetcode-cn.com/problems/count-substrings-with-only-one-distinct-letter](https://leetcode-cn.com/problems/count-substrings-with-only-one-distinct-letter)
 

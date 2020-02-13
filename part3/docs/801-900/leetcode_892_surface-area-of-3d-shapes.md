@@ -1,4 +1,4 @@
-# 892. 三维形体的表面积
+# 892. [简单] 三维形体的表面积
 
 **题目链接：**[https://leetcode-cn.com/problems/surface-area-of-3d-shapes](https://leetcode-cn.com/problems/surface-area-of-3d-shapes)
 

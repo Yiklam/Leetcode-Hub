@@ -1,4 +1,4 @@
-# $1058. 最小化舍入误差以满足目标
+# $1058. [中等] 最小化舍入误差以满足目标
 
 **题目链接：**[https://leetcode-cn.com/problems/minimize-rounding-error-to-meet-target](https://leetcode-cn.com/problems/minimize-rounding-error-to-meet-target)
 

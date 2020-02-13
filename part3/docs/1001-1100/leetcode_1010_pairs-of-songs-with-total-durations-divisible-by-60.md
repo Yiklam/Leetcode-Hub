@@ -1,4 +1,4 @@
-# 1010. 总持续时间可被 60 整除的歌曲
+# 1010. [简单] 总持续时间可被 60 整除的歌曲
 
 **题目链接：**[https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60](https://leetcode-cn.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)
 

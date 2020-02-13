@@ -1,4 +1,4 @@
-# 823. 带因子的二叉树
+# 823. [中等] 带因子的二叉树
 
 **题目链接：**[https://leetcode-cn.com/problems/binary-trees-with-factors](https://leetcode-cn.com/problems/binary-trees-with-factors)
 

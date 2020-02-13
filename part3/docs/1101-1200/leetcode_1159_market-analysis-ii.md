@@ -1,4 +1,4 @@
-# $1159. Market Analysis II
+# $1159. [困难] Market Analysis II
 
 **题目链接：**[https://leetcode-cn.com/problems/market-analysis-ii](https://leetcode-cn.com/problems/market-analysis-ii)
 
@@ -8,6 +8,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

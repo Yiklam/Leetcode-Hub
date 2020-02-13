@@ -1,4 +1,4 @@
-# 1074. 元素和为目标值的子矩阵数量
+# 1074. [困难] 元素和为目标值的子矩阵数量
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target)
 

@@ -1,4 +1,4 @@
-# 898. 子数组按位或操作
+# 898. [中等] 子数组按位或操作
 
 **题目链接：**[https://leetcode-cn.com/problems/bitwise-ors-of-subarrays](https://leetcode-cn.com/problems/bitwise-ors-of-subarrays)
 

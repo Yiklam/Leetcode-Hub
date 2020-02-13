@@ -1,4 +1,4 @@
-# 1039. 多边形三角剖分的最低得分
+# 1039. [中等] 多边形三角剖分的最低得分
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-score-triangulation-of-polygon](https://leetcode-cn.com/problems/minimum-score-triangulation-of-polygon)
 

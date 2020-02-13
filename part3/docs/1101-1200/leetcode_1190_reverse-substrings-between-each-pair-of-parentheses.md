@@ -1,4 +1,4 @@
-# 1190. 反转每对括号间的子串
+# 1190. [中等] 反转每对括号间的子串
 
 **题目链接：**[https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses)
 

@@ -1,4 +1,4 @@
-# 986. 区间列表的交集
+# 986. [中等] 区间列表的交集
 
 **题目链接：**[https://leetcode-cn.com/problems/interval-list-intersections](https://leetcode-cn.com/problems/interval-list-intersections)
 

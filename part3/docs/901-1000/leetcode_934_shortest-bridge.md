@@ -1,4 +1,4 @@
-# 934. 最短的桥
+# 934. [中等] 最短的桥
 
 **题目链接：**[https://leetcode-cn.com/problems/shortest-bridge](https://leetcode-cn.com/problems/shortest-bridge)
 

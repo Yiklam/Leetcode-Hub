@@ -1,4 +1,4 @@
-# $1121. 将数组分成几个递增序列
+# $1121. [困难] 将数组分成几个递增序列
 
 **题目链接：**[https://leetcode-cn.com/problems/divide-array-into-increasing-sequences](https://leetcode-cn.com/problems/divide-array-into-increasing-sequences)
 

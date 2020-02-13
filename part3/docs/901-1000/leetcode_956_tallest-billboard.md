@@ -1,4 +1,4 @@
-# 956. 最高的广告牌
+# 956. [困难] 最高的广告牌
 
 **题目链接：**[https://leetcode-cn.com/problems/tallest-billboard](https://leetcode-cn.com/problems/tallest-billboard)
 

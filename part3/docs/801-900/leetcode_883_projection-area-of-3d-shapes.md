@@ -1,4 +1,4 @@
-# 883. 三维形体投影面积
+# 883. [简单] 三维形体投影面积
 
 **题目链接：**[https://leetcode-cn.com/problems/projection-area-of-3d-shapes](https://leetcode-cn.com/problems/projection-area-of-3d-shapes)
 

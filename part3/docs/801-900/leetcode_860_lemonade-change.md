@@ -1,4 +1,4 @@
-# 860. 柠檬水找零
+# 860. [简单] 柠檬水找零
 
 **题目链接：**[https://leetcode-cn.com/problems/lemonade-change](https://leetcode-cn.com/problems/lemonade-change)
 

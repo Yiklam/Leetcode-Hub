@@ -1,4 +1,4 @@
-# 904. 水果成篮
+# 904. [中等] 水果成篮
 
 **题目链接：**[https://leetcode-cn.com/problems/fruit-into-baskets](https://leetcode-cn.com/problems/fruit-into-baskets)
 

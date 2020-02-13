@@ -1,4 +1,4 @@
-# 894. 所有可能的满二叉树
+# 894. [中等] 所有可能的满二叉树
 
 **题目链接：**[https://leetcode-cn.com/problems/all-possible-full-binary-trees](https://leetcode-cn.com/problems/all-possible-full-binary-trees)
 

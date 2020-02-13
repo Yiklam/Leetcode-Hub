@@ -1,4 +1,4 @@
-# 944. 删列造序
+# 944. [简单] 删列造序
 
 **题目链接：**[https://leetcode-cn.com/problems/delete-columns-to-make-sorted](https://leetcode-cn.com/problems/delete-columns-to-make-sorted)
 

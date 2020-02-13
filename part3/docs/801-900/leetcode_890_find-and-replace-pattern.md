@@ -1,4 +1,4 @@
-# 890. 查找和替换模式
+# 890. [中等] 查找和替换模式
 
 **题目链接：**[https://leetcode-cn.com/problems/find-and-replace-pattern](https://leetcode-cn.com/problems/find-and-replace-pattern)
 

@@ -1,4 +1,4 @@
-# 937. 重新排列日志文件
+# 937. [简单] 重新排列日志文件
 
 **题目链接：**[https://leetcode-cn.com/problems/reorder-data-in-log-files](https://leetcode-cn.com/problems/reorder-data-in-log-files)
 

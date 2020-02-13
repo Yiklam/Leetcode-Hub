@@ -1,4 +1,4 @@
-# 820. 单词的压缩编码
+# 820. [中等] 单词的压缩编码
 
 **题目链接：**[https://leetcode-cn.com/problems/short-encoding-of-words](https://leetcode-cn.com/problems/short-encoding-of-words)
 

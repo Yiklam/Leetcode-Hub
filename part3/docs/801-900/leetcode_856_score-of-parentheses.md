@@ -1,4 +1,4 @@
-# 856. 括号的分数
+# 856. [中等] 括号的分数
 
 **题目链接：**[https://leetcode-cn.com/problems/score-of-parentheses](https://leetcode-cn.com/problems/score-of-parentheses)
 

@@ -1,4 +1,4 @@
-# 807. 保持城市天际线
+# 807. [中等] 保持城市天际线
 
 **题目链接：**[https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline)
 

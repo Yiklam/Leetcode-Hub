@@ -1,4 +1,4 @@
-# $1067. 范围内的数字计数
+# $1067. [困难] 范围内的数字计数
 
 **题目链接：**[https://leetcode-cn.com/problems/digit-count-in-range](https://leetcode-cn.com/problems/digit-count-in-range)
 

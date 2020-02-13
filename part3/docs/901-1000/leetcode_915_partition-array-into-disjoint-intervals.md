@@ -1,4 +1,4 @@
-# 915. 分割数组
+# 915. [中等] 分割数组
 
 **题目链接：**[https://leetcode-cn.com/problems/partition-array-into-disjoint-intervals](https://leetcode-cn.com/problems/partition-array-into-disjoint-intervals)
 

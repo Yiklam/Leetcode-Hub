@@ -1,4 +1,4 @@
-# 1008. 先序遍历构造二叉树
+# 1008. [中等] 先序遍历构造二叉树
 
 **题目链接：**[https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal)
 

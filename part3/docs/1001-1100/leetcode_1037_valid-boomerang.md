@@ -1,4 +1,4 @@
-# 1037. 有效的回旋镖
+# 1037. [简单] 有效的回旋镖
 
 **题目链接：**[https://leetcode-cn.com/problems/valid-boomerang](https://leetcode-cn.com/problems/valid-boomerang)
 

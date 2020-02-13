@@ -1,4 +1,4 @@
-# 992. K 个不同整数的子数组
+# 992. [困难] K 个不同整数的子数组
 
 **题目链接：**[https://leetcode-cn.com/problems/subarrays-with-k-different-integers](https://leetcode-cn.com/problems/subarrays-with-k-different-integers)
 

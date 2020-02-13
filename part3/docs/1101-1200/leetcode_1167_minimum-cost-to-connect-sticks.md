@@ -1,4 +1,4 @@
-# $1167. 连接棒材的最低费用
+# $1167. [中等] 连接棒材的最低费用
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-cost-to-connect-sticks](https://leetcode-cn.com/problems/minimum-cost-to-connect-sticks)
 

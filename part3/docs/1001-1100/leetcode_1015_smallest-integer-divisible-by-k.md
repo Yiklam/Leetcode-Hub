@@ -1,4 +1,4 @@
-# 1015. 可被 K 整除的最小整数
+# 1015. [中等] 可被 K 整除的最小整数
 
 **题目链接：**[https://leetcode-cn.com/problems/smallest-integer-divisible-by-k](https://leetcode-cn.com/problems/smallest-integer-divisible-by-k)
 

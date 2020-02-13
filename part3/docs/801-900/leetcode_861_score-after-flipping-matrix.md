@@ -1,4 +1,4 @@
-# 861. 翻转矩阵后的得分
+# 861. [中等] 翻转矩阵后的得分
 
 **题目链接：**[https://leetcode-cn.com/problems/score-after-flipping-matrix](https://leetcode-cn.com/problems/score-after-flipping-matrix)
 

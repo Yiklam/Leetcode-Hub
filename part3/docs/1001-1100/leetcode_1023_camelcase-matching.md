@@ -1,4 +1,4 @@
-# 1023. 驼峰式匹配
+# 1023. [中等] 驼峰式匹配
 
 **题目链接：**[https://leetcode-cn.com/problems/camelcase-matching](https://leetcode-cn.com/problems/camelcase-matching)
 

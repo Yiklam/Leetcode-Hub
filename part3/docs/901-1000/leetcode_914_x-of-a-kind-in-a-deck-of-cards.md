@@ -1,4 +1,4 @@
-# 914. 卡牌分组
+# 914. [简单] 卡牌分组
 
 **题目链接：**[https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards)
 

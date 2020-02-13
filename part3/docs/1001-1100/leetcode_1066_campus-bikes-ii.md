@@ -1,4 +1,4 @@
-# $1066. 校园自行车分配 II
+# $1066. [中等] 校园自行车分配 II
 
 **题目链接：**[https://leetcode-cn.com/problems/campus-bikes-ii](https://leetcode-cn.com/problems/campus-bikes-ii)
 

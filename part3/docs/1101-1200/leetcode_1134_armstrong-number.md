@@ -1,4 +1,4 @@
-# $1134. 阿姆斯特朗数
+# $1134. [简单] 阿姆斯特朗数
 
 **题目链接：**[https://leetcode-cn.com/problems/armstrong-number](https://leetcode-cn.com/problems/armstrong-number)
 

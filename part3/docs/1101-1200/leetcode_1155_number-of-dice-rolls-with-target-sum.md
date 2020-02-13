@@ -1,4 +1,4 @@
-# 1155. 掷骰子的N种方法
+# 1155. [中等] 掷骰子的N种方法
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-dice-rolls-with-target-sum](https://leetcode-cn.com/problems/number-of-dice-rolls-with-target-sum)
 

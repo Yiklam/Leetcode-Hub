@@ -1,4 +1,4 @@
-# 909. 蛇梯棋
+# 909. [中等] 蛇梯棋
 
 **题目链接：**[https://leetcode-cn.com/problems/snakes-and-ladders](https://leetcode-cn.com/problems/snakes-and-ladders)
 

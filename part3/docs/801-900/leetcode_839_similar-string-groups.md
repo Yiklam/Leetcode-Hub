@@ -1,4 +1,4 @@
-# 839. 相似字符串组
+# 839. [困难] 相似字符串组
 
 **题目链接：**[https://leetcode-cn.com/problems/similar-string-groups](https://leetcode-cn.com/problems/similar-string-groups)
 

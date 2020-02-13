@@ -1,4 +1,4 @@
-# 1021. 删除最外层的括号
+# 1021. [简单] 删除最外层的括号
 
 **题目链接：**[https://leetcode-cn.com/problems/remove-outermost-parentheses](https://leetcode-cn.com/problems/remove-outermost-parentheses)
 

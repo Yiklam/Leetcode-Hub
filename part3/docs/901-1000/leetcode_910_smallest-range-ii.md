@@ -1,4 +1,4 @@
-# 910. 最小差值 II
+# 910. [中等] 最小差值 II
 
 **题目链接：**[https://leetcode-cn.com/problems/smallest-range-ii](https://leetcode-cn.com/problems/smallest-range-ii)
 

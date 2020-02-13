@@ -1,4 +1,4 @@
-# 1175. 质数排列
+# 1175. [简单] 质数排列
 
 **题目链接：**[https://leetcode-cn.com/problems/prime-arrangements](https://leetcode-cn.com/problems/prime-arrangements)
 

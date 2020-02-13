@@ -1,4 +1,4 @@
-# $1126. 查询活跃业务
+# $1126. [中等] 查询活跃业务
 
 **题目链接：**[https://leetcode-cn.com/problems/active-businesses](https://leetcode-cn.com/problems/active-businesses)
 
@@ -8,6 +8,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

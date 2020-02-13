@@ -1,4 +1,4 @@
-# 877. 石子游戏
+# 877. [中等] 石子游戏
 
 **题目链接：**[https://leetcode-cn.com/problems/stone-game](https://leetcode-cn.com/problems/stone-game)
 

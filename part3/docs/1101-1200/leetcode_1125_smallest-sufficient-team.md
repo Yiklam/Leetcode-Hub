@@ -1,4 +1,4 @@
-# 1125. 最小的必要团队
+# 1125. [困难] 最小的必要团队
 
 **题目链接：**[https://leetcode-cn.com/problems/smallest-sufficient-team](https://leetcode-cn.com/problems/smallest-sufficient-team)
 

@@ -1,4 +1,4 @@
-# 996. 正方形数组的数目
+# 996. [困难] 正方形数组的数目
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-squareful-arrays](https://leetcode-cn.com/problems/number-of-squareful-arrays)
 

@@ -1,4 +1,4 @@
-# $1133. 最大唯一数
+# $1133. [简单] 最大唯一数
 
 **题目链接：**[https://leetcode-cn.com/problems/largest-unique-number](https://leetcode-cn.com/problems/largest-unique-number)
 

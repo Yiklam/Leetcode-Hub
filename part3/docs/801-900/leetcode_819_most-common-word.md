@@ -1,4 +1,4 @@
-# 819. 最常见的单词
+# 819. [简单] 最常见的单词
 
 **题目链接：**[https://leetcode-cn.com/problems/most-common-word](https://leetcode-cn.com/problems/most-common-word)
 

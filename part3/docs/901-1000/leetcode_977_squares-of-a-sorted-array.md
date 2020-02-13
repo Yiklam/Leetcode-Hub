@@ -1,4 +1,4 @@
-# 977. 有序数组的平方
+# 977. [简单] 有序数组的平方
 
 **题目链接：**[https://leetcode-cn.com/problems/squares-of-a-sorted-array](https://leetcode-cn.com/problems/squares-of-a-sorted-array)
 

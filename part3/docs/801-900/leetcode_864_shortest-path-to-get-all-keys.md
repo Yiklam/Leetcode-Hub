@@ -1,4 +1,4 @@
-# 864. 获取所有钥匙的最短路径
+# 864. [困难] 获取所有钥匙的最短路径
 
 **题目链接：**[https://leetcode-cn.com/problems/shortest-path-to-get-all-keys](https://leetcode-cn.com/problems/shortest-path-to-get-all-keys)
 

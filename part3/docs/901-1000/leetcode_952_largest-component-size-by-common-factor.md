@@ -1,4 +1,4 @@
-# 952. 按公因数计算最大组件大小
+# 952. [困难] 按公因数计算最大组件大小
 
 **题目链接：**[https://leetcode-cn.com/problems/largest-component-size-by-common-factor](https://leetcode-cn.com/problems/largest-component-size-by-common-factor)
 

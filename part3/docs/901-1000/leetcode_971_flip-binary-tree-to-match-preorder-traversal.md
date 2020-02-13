@@ -1,4 +1,4 @@
-# 971. 翻转二叉树以匹配先序遍历
+# 971. [中等] 翻转二叉树以匹配先序遍历
 
 **题目链接：**[https://leetcode-cn.com/problems/flip-binary-tree-to-match-preorder-traversal](https://leetcode-cn.com/problems/flip-binary-tree-to-match-preorder-traversal)
 

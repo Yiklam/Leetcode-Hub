@@ -1,4 +1,4 @@
-# 1114. 按序打印
+# 1114. [简单] 按序打印
 
 **题目链接：**[https://leetcode-cn.com/problems/print-in-order](https://leetcode-cn.com/problems/print-in-order)
 

@@ -1,4 +1,4 @@
-# 824. 山羊拉丁文
+# 824. [简单] 山羊拉丁文
 
 **题目链接：**[https://leetcode-cn.com/problems/goat-latin](https://leetcode-cn.com/problems/goat-latin)
 

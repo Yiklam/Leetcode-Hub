@@ -1,4 +1,4 @@
-# 1028. 从先序遍历还原二叉树
+# 1028. [困难] 从先序遍历还原二叉树
 
 **题目链接：**[https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal](https://leetcode-cn.com/problems/recover-a-tree-from-preorder-traversal)
 

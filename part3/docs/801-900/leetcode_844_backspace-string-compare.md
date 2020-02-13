@@ -1,4 +1,4 @@
-# 844. 比较含退格的字符串
+# 844. [简单] 比较含退格的字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/backspace-string-compare](https://leetcode-cn.com/problems/backspace-string-compare)
 

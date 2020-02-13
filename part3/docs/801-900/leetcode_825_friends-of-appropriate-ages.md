@@ -1,4 +1,4 @@
-# 825. 适龄的朋友
+# 825. [中等] 适龄的朋友
 
 **题目链接：**[https://leetcode-cn.com/problems/friends-of-appropriate-ages](https://leetcode-cn.com/problems/friends-of-appropriate-ages)
 

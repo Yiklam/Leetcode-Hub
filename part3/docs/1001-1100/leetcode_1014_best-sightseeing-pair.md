@@ -1,4 +1,4 @@
-# 1014. 最佳观光组合
+# 1014. [中等] 最佳观光组合
 
 **题目链接：**[https://leetcode-cn.com/problems/best-sightseeing-pair](https://leetcode-cn.com/problems/best-sightseeing-pair)
 

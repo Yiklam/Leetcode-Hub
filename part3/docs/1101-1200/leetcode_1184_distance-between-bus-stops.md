@@ -1,4 +1,4 @@
-# 1184. 公交站间的距离
+# 1184. [简单] 公交站间的距离
 
 **题目链接：**[https://leetcode-cn.com/problems/distance-between-bus-stops](https://leetcode-cn.com/problems/distance-between-bus-stops)
 

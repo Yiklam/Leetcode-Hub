@@ -1,4 +1,4 @@
-# $1101. 彼此熟识的最早时间
+# $1101. [中等] 彼此熟识的最早时间
 
 **题目链接：**[https://leetcode-cn.com/problems/the-earliest-moment-when-everyone-become-friends](https://leetcode-cn.com/problems/the-earliest-moment-when-everyone-become-friends)
 

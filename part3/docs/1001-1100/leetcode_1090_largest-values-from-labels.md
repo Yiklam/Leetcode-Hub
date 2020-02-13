@@ -1,4 +1,4 @@
-# 1090. 受标签影响的最大值
+# 1090. [中等] 受标签影响的最大值
 
 **题目链接：**[https://leetcode-cn.com/problems/largest-values-from-labels](https://leetcode-cn.com/problems/largest-values-from-labels)
 

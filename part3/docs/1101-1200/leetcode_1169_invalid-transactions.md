@@ -1,4 +1,4 @@
-# 1169. 查询无效交易
+# 1169. [中等] 查询无效交易
 
 **题目链接：**[https://leetcode-cn.com/problems/invalid-transactions](https://leetcode-cn.com/problems/invalid-transactions)
 

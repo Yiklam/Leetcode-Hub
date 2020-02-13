@@ -1,4 +1,4 @@
-# 1035. 不相交的线
+# 1035. [中等] 不相交的线
 
 **题目链接：**[https://leetcode-cn.com/problems/uncrossed-lines](https://leetcode-cn.com/problems/uncrossed-lines)
 

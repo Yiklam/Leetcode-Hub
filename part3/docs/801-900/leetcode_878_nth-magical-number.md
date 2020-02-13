@@ -1,4 +1,4 @@
-# 878. 第 N 个神奇数字
+# 878. [困难] 第 N 个神奇数字
 
 **题目链接：**[https://leetcode-cn.com/problems/nth-magical-number](https://leetcode-cn.com/problems/nth-magical-number)
 

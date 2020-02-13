@@ -1,4 +1,4 @@
-# 1160. 拼写单词
+# 1160. [简单] 拼写单词
 
 **题目链接：**[https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters)
 

@@ -1,4 +1,4 @@
-# $1181. 前后拼接
+# $1181. [中等] 前后拼接
 
 **题目链接：**[https://leetcode-cn.com/problems/before-and-after-puzzle](https://leetcode-cn.com/problems/before-and-after-puzzle)
 

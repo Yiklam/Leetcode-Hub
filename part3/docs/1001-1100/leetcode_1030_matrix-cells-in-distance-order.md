@@ -1,4 +1,4 @@
-# 1030. 距离顺序排列矩阵单元格
+# 1030. [简单] 距离顺序排列矩阵单元格
 
 **题目链接：**[https://leetcode-cn.com/problems/matrix-cells-in-distance-order](https://leetcode-cn.com/problems/matrix-cells-in-distance-order)
 

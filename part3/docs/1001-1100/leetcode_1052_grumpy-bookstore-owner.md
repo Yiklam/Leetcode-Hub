@@ -1,4 +1,4 @@
-# 1052. 爱生气的书店老板
+# 1052. [中等] 爱生气的书店老板
 
 **题目链接：**[https://leetcode-cn.com/problems/grumpy-bookstore-owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner)
 

@@ -1,4 +1,4 @@
-# 940. 不同的子序列 II
+# 940. [困难] 不同的子序列 II
 
 **题目链接：**[https://leetcode-cn.com/problems/distinct-subsequences-ii](https://leetcode-cn.com/problems/distinct-subsequences-ii)
 

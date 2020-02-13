@@ -1,4 +1,4 @@
-# 858. 镜面反射
+# 858. [中等] 镜面反射
 
 **题目链接：**[https://leetcode-cn.com/problems/mirror-reflection](https://leetcode-cn.com/problems/mirror-reflection)
 

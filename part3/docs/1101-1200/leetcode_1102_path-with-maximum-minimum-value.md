@@ -1,4 +1,4 @@
-# $1102. 得分最高的路径
+# $1102. [中等] 得分最高的路径
 
 **题目链接：**[https://leetcode-cn.com/problems/path-with-maximum-minimum-value](https://leetcode-cn.com/problems/path-with-maximum-minimum-value)
 

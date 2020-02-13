@@ -1,4 +1,4 @@
-# 1012. 至少有 1 位重复的数字
+# 1012. [困难] 至少有 1 位重复的数字
 
 **题目链接：**[https://leetcode-cn.com/problems/numbers-with-repeated-digits](https://leetcode-cn.com/problems/numbers-with-repeated-digits)
 

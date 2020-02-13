@@ -1,4 +1,4 @@
-# 1029. 两地调度
+# 1029. [简单] 两地调度
 
 **题目链接：**[https://leetcode-cn.com/problems/two-city-scheduling](https://leetcode-cn.com/problems/two-city-scheduling)
 

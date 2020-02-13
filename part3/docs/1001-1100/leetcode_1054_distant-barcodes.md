@@ -1,4 +1,4 @@
-# 1054. 距离相等的条形码
+# 1054. [中等] 距离相等的条形码
 
 **题目链接：**[https://leetcode-cn.com/problems/distant-barcodes](https://leetcode-cn.com/problems/distant-barcodes)
 

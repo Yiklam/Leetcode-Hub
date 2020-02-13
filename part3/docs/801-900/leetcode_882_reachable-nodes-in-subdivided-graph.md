@@ -1,4 +1,4 @@
-# 882. 细分图中的可到达结点
+# 882. [困难] 细分图中的可到达结点
 
 **题目链接：**[https://leetcode-cn.com/problems/reachable-nodes-in-subdivided-graph](https://leetcode-cn.com/problems/reachable-nodes-in-subdivided-graph)
 

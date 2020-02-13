@@ -1,4 +1,4 @@
-# $1098. 小众书籍
+# $1098. [中等] 小众书籍
 
 **题目链接：**[https://leetcode-cn.com/problems/unpopular-books](https://leetcode-cn.com/problems/unpopular-books)
 
@@ -8,6 +8,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

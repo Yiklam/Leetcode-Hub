@@ -1,4 +1,4 @@
-# 1144. 递减元素使数组呈锯齿状
+# 1144. [中等] 递减元素使数组呈锯齿状
 
 **题目链接：**[https://leetcode-cn.com/problems/decrease-elements-to-make-array-zigzag](https://leetcode-cn.com/problems/decrease-elements-to-make-array-zigzag)
 

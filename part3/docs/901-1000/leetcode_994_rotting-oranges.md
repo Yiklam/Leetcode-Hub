@@ -1,4 +1,4 @@
-# 994. 腐烂的橘子
+# 994. [简单] 腐烂的橘子
 
 **题目链接：**[https://leetcode-cn.com/problems/rotting-oranges](https://leetcode-cn.com/problems/rotting-oranges)
 

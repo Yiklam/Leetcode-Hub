@@ -1,4 +1,4 @@
-# 897. 递增顺序查找树
+# 897. [简单] 递增顺序查找树
 
 **题目链接：**[https://leetcode-cn.com/problems/increasing-order-search-tree](https://leetcode-cn.com/problems/increasing-order-search-tree)
 

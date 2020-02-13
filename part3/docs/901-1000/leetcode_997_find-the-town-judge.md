@@ -1,4 +1,4 @@
-# 997. 找到小镇的法官
+# 997. [简单] 找到小镇的法官
 
 **题目链接：**[https://leetcode-cn.com/problems/find-the-town-judge](https://leetcode-cn.com/problems/find-the-town-judge)
 

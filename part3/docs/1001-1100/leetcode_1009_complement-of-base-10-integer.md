@@ -1,4 +1,4 @@
-# 1009. 十进制整数的反码
+# 1009. [简单] 十进制整数的反码
 
 **题目链接：**[https://leetcode-cn.com/problems/complement-of-base-10-integer](https://leetcode-cn.com/problems/complement-of-base-10-integer)
 

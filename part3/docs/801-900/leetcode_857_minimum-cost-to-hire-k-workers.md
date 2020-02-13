@@ -1,4 +1,4 @@
-# 857. 雇佣 K 名工人的最低成本
+# 857. [困难] 雇佣 K 名工人的最低成本
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-cost-to-hire-k-workers](https://leetcode-cn.com/problems/minimum-cost-to-hire-k-workers)
 

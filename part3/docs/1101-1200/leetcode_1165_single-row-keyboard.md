@@ -1,4 +1,4 @@
-# $1165. 单行键盘
+# $1165. [简单] 单行键盘
 
 **题目链接：**[https://leetcode-cn.com/problems/single-row-keyboard](https://leetcode-cn.com/problems/single-row-keyboard)
 

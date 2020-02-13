@@ -1,4 +1,4 @@
-# 895. 最大频率栈
+# 895. [困难] 最大频率栈
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-frequency-stack](https://leetcode-cn.com/problems/maximum-frequency-stack)
 

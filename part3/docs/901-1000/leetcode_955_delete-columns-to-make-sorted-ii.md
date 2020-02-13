@@ -1,4 +1,4 @@
-# 955. 删列造序 II
+# 955. [中等] 删列造序 II
 
 **题目链接：**[https://leetcode-cn.com/problems/delete-columns-to-make-sorted-ii](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-ii)
 

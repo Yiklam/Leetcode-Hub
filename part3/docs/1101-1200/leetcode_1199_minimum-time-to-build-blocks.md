@@ -1,4 +1,4 @@
-# $1199. 建造街区的最短时间
+# $1199. [困难] 建造街区的最短时间
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-time-to-build-blocks](https://leetcode-cn.com/problems/minimum-time-to-build-blocks)
 

@@ -1,4 +1,4 @@
-# 880. 索引处的解码字符串
+# 880. [中等] 索引处的解码字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/decoded-string-at-index](https://leetcode-cn.com/problems/decoded-string-at-index)
 

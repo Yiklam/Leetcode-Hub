@@ -1,4 +1,4 @@
-# 900. RLE 迭代器
+# 900. [中等] RLE 迭代器
 
 **题目链接：**[https://leetcode-cn.com/problems/rle-iterator](https://leetcode-cn.com/problems/rle-iterator)
 

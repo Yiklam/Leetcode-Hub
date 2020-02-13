@@ -1,4 +1,4 @@
-# 1185. 一周中的第几天
+# 1185. [简单] 一周中的第几天
 
 **题目链接：**[https://leetcode-cn.com/problems/day-of-the-week](https://leetcode-cn.com/problems/day-of-the-week)
 

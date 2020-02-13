@@ -1,4 +1,4 @@
-# $1197. 进击的骑士
+# $1197. [中等] 进击的骑士
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-knight-moves](https://leetcode-cn.com/problems/minimum-knight-moves)
 

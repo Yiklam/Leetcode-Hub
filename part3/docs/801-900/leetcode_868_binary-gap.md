@@ -1,4 +1,4 @@
-# 868. 二进制间距
+# 868. [简单] 二进制间距
 
 **题目链接：**[https://leetcode-cn.com/problems/binary-gap](https://leetcode-cn.com/problems/binary-gap)
 

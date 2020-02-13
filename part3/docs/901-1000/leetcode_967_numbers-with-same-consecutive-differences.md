@@ -1,4 +1,4 @@
-# 967. 连续差相同的数字
+# 967. [中等] 连续差相同的数字
 
 **题目链接：**[https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences)
 

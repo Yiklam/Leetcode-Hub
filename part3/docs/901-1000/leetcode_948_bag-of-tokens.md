@@ -1,4 +1,4 @@
-# 948. 令牌放置
+# 948. [中等] 令牌放置
 
 **题目链接：**[https://leetcode-cn.com/problems/bag-of-tokens](https://leetcode-cn.com/problems/bag-of-tokens)
 

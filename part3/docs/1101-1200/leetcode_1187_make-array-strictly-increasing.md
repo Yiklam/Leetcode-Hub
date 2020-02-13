@@ -1,4 +1,4 @@
-# 1187. 使数组严格递增
+# 1187. [困难] 使数组严格递增
 
 **题目链接：**[https://leetcode-cn.com/problems/make-array-strictly-increasing](https://leetcode-cn.com/problems/make-array-strictly-increasing)
 

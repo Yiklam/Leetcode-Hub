@@ -1,4 +1,4 @@
-# 987. 二叉树的垂序遍历
+# 987. [中等] 二叉树的垂序遍历
 
 **题目链接：**[https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree)
 

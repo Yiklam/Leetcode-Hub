@@ -1,4 +1,4 @@
-# 838. 推多米诺
+# 838. [中等] 推多米诺
 
 **题目链接：**[https://leetcode-cn.com/problems/push-dominoes](https://leetcode-cn.com/problems/push-dominoes)
 

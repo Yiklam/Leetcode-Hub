@@ -1,4 +1,4 @@
-# 999. 车的可用捕获量
+# 999. [简单] 车的可用捕获量
 
 **题目链接：**[https://leetcode-cn.com/problems/available-captures-for-rook](https://leetcode-cn.com/problems/available-captures-for-rook)
 

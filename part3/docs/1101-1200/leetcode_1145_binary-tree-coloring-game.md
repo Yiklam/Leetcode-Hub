@@ -1,4 +1,4 @@
-# 1145. 二叉树着色游戏
+# 1145. [中等] 二叉树着色游戏
 
 **题目链接：**[https://leetcode-cn.com/problems/binary-tree-coloring-game](https://leetcode-cn.com/problems/binary-tree-coloring-game)
 

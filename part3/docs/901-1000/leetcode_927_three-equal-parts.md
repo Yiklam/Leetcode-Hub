@@ -1,4 +1,4 @@
-# 927. 三等分
+# 927. [困难] 三等分
 
 **题目链接：**[https://leetcode-cn.com/problems/three-equal-parts](https://leetcode-cn.com/problems/three-equal-parts)
 

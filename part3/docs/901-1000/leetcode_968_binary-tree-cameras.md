@@ -1,4 +1,4 @@
-# 968. 监控二叉树
+# 968. [困难] 监控二叉树
 
 **题目链接：**[https://leetcode-cn.com/problems/binary-tree-cameras](https://leetcode-cn.com/problems/binary-tree-cameras)
 

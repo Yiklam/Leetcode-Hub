@@ -1,4 +1,4 @@
-# $1082. 销售分析 I 
+# $1082. [简单] 销售分析 I 
 
 **题目链接：**[https://leetcode-cn.com/problems/sales-analysis-i](https://leetcode-cn.com/problems/sales-analysis-i)
 
@@ -8,6 +8,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

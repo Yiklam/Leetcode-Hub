@@ -1,4 +1,4 @@
-# 1139. 最大的以 1 为边界的正方形
+# 1139. [中等] 最大的以 1 为边界的正方形
 
 **题目链接：**[https://leetcode-cn.com/problems/largest-1-bordered-square](https://leetcode-cn.com/problems/largest-1-bordered-square)
 

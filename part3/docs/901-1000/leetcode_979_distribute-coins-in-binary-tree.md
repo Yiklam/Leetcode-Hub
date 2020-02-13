@@ -1,4 +1,4 @@
-# 979. 在二叉树中分配硬币
+# 979. [中等] 在二叉树中分配硬币
 
 **题目链接：**[https://leetcode-cn.com/problems/distribute-coins-in-binary-tree](https://leetcode-cn.com/problems/distribute-coins-in-binary-tree)
 

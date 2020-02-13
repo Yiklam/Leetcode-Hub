@@ -1,4 +1,4 @@
-# 837. 新21点
+# 837. [中等] 新21点
 
 **题目链接：**[https://leetcode-cn.com/problems/new-21-game](https://leetcode-cn.com/problems/new-21-game)
 

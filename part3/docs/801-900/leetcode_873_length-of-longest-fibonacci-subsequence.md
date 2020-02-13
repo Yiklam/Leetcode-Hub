@@ -1,4 +1,4 @@
-# 873. 最长的斐波那契子序列的长度
+# 873. [中等] 最长的斐波那契子序列的长度
 
 **题目链接：**[https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence)
 

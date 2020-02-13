@@ -1,4 +1,4 @@
-# 976. 三角形的最大周长
+# 976. [简单] 三角形的最大周长
 
 **题目链接：**[https://leetcode-cn.com/problems/largest-perimeter-triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle)
 

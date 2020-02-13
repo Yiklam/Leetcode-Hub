@@ -1,4 +1,4 @@
-# 1115. 交替打印FooBar
+# 1115. [中等] 交替打印FooBar
 
 **题目链接：**[https://leetcode-cn.com/problems/print-foobar-alternately](https://leetcode-cn.com/problems/print-foobar-alternately)
 

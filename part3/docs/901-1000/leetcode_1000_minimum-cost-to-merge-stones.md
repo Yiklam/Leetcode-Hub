@@ -1,4 +1,4 @@
-# 1000. 合并石头的最低成本
+# 1000. [困难] 合并石头的最低成本
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-cost-to-merge-stones](https://leetcode-cn.com/problems/minimum-cost-to-merge-stones)
 

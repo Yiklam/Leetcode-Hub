@@ -1,4 +1,4 @@
-# 802. 找到最终的安全状态
+# 802. [中等] 找到最终的安全状态
 
 **题目链接：**[https://leetcode-cn.com/problems/find-eventual-safe-states](https://leetcode-cn.com/problems/find-eventual-safe-states)
 

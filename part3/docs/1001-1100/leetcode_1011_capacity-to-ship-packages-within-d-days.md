@@ -1,4 +1,4 @@
-# 1011. 在 D 天内送达包裹的能力
+# 1011. [中等] 在 D 天内送达包裹的能力
 
 **题目链接：**[https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days)
 

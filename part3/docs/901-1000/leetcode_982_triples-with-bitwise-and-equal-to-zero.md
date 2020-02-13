@@ -1,4 +1,4 @@
-# 982. 按位与为零的三元组
+# 982. [困难] 按位与为零的三元组
 
 **题目链接：**[https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero)
 

@@ -1,4 +1,4 @@
-# 1140. 石子游戏 II
+# 1140. [中等] 石子游戏 II
 
 **题目链接：**[https://leetcode-cn.com/problems/stone-game-ii](https://leetcode-cn.com/problems/stone-game-ii)
 

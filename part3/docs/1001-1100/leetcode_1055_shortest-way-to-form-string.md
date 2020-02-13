@@ -1,4 +1,4 @@
-# $1055. 形成字符串的最短路径
+# $1055. [中等] 形成字符串的最短路径
 
 **题目链接：**[https://leetcode-cn.com/problems/shortest-way-to-form-string](https://leetcode-cn.com/problems/shortest-way-to-form-string)
 

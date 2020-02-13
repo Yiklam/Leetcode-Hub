@@ -1,4 +1,4 @@
-# 1048. 最长字符串链
+# 1048. [中等] 最长字符串链
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-string-chain](https://leetcode-cn.com/problems/longest-string-chain)
 

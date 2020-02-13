@@ -1,4 +1,4 @@
-# 961. 重复 N 次的元素
+# 961. [简单] 重复 N 次的元素
 
 **题目链接：**[https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array)
 

@@ -1,4 +1,4 @@
-# 1093. 大样本统计
+# 1093. [中等] 大样本统计
 
 **题目链接：**[https://leetcode-cn.com/problems/statistics-from-a-large-sample](https://leetcode-cn.com/problems/statistics-from-a-large-sample)
 

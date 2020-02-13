@@ -1,4 +1,4 @@
-# 926. 将字符串翻转到单调递增
+# 926. [中等] 将字符串翻转到单调递增
 
 **题目链接：**[https://leetcode-cn.com/problems/flip-string-to-monotone-increasing](https://leetcode-cn.com/problems/flip-string-to-monotone-increasing)
 

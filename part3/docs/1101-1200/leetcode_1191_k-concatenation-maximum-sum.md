@@ -1,4 +1,4 @@
-# 1191. K 次串联后最大子数组之和
+# 1191. [中等] K 次串联后最大子数组之和
 
 **题目链接：**[https://leetcode-cn.com/problems/k-concatenation-maximum-sum](https://leetcode-cn.com/problems/k-concatenation-maximum-sum)
 

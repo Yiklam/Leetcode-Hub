@@ -1,4 +1,4 @@
-# 1001. 网格照明
+# 1001. [困难] 网格照明
 
 **题目链接：**[https://leetcode-cn.com/problems/grid-illumination](https://leetcode-cn.com/problems/grid-illumination)
 

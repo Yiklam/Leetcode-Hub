@@ -1,4 +1,4 @@
-# $1076. 项目员工II
+# $1076. [简单] 项目员工II
 
 **题目链接：**[https://leetcode-cn.com/problems/project-employees-ii](https://leetcode-cn.com/problems/project-employees-ii)
 
@@ -8,6 +8,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

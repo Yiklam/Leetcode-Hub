@@ -1,4 +1,4 @@
-# $1151. 最少交换次数来组合所有的 1
+# $1151. [中等] 最少交换次数来组合所有的 1
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-swaps-to-group-all-1s-together](https://leetcode-cn.com/problems/minimum-swaps-to-group-all-1s-together)
 

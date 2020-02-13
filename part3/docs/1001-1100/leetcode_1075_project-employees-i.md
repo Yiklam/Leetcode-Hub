@@ -1,4 +1,4 @@
-# $1075. 项目员工 I
+# $1075. [简单] 项目员工 I
 
 **题目链接：**[https://leetcode-cn.com/problems/project-employees-i](https://leetcode-cn.com/problems/project-employees-i)
 
@@ -8,6 +8,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

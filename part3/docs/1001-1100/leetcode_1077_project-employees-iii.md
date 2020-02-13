@@ -1,4 +1,4 @@
-# $1077. 项目员工 III
+# $1077. [中等] 项目员工 III
 
 **题目链接：**[https://leetcode-cn.com/problems/project-employees-iii](https://leetcode-cn.com/problems/project-employees-iii)
 
@@ -8,6 +8,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

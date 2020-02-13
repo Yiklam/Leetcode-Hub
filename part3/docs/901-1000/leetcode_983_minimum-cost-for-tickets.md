@@ -1,4 +1,4 @@
-# 983. 最低票价
+# 983. [中等] 最低票价
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-cost-for-tickets](https://leetcode-cn.com/problems/minimum-cost-for-tickets)
 

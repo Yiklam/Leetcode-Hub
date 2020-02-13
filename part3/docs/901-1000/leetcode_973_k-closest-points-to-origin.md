@@ -1,4 +1,4 @@
-# 973. 最接近原点的 K 个点
+# 973. [中等] 最接近原点的 K 个点
 
 **题目链接：**[https://leetcode-cn.com/problems/k-closest-points-to-origin](https://leetcode-cn.com/problems/k-closest-points-to-origin)
 

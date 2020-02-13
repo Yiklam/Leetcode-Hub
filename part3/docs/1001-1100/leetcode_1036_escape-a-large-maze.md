@@ -1,4 +1,4 @@
-# 1036. 逃离大迷宫
+# 1036. [困难] 逃离大迷宫
 
 **题目链接：**[https://leetcode-cn.com/problems/escape-a-large-maze](https://leetcode-cn.com/problems/escape-a-large-maze)
 

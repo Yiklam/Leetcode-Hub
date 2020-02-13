@@ -1,4 +1,4 @@
-# 930. 和相同的二元子数组
+# 930. [中等] 和相同的二元子数组
 
 **题目链接：**[https://leetcode-cn.com/problems/binary-subarrays-with-sum](https://leetcode-cn.com/problems/binary-subarrays-with-sum)
 

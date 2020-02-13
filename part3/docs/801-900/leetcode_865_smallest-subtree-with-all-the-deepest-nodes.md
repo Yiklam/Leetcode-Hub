@@ -1,4 +1,4 @@
-# 865. 具有所有最深结点的最小子树
+# 865. [中等] 具有所有最深结点的最小子树
 
 **题目链接：**[https://leetcode-cn.com/problems/smallest-subtree-with-all-the-deepest-nodes](https://leetcode-cn.com/problems/smallest-subtree-with-all-the-deepest-nodes)
 

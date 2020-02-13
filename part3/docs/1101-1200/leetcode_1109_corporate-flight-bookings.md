@@ -1,4 +1,4 @@
-# 1109. 航班预订统计
+# 1109. [中等] 航班预订统计
 
 **题目链接：**[https://leetcode-cn.com/problems/corporate-flight-bookings](https://leetcode-cn.com/problems/corporate-flight-bookings)
 

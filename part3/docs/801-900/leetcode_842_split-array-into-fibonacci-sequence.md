@@ -1,4 +1,4 @@
-# 842. 将数组拆分成斐波那契序列
+# 842. [中等] 将数组拆分成斐波那契序列
 
 **题目链接：**[https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence)
 

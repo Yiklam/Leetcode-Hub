@@ -1,4 +1,4 @@
-# $1086. 前五科的均分
+# $1086. [简单] 前五科的均分
 
 **题目链接：**[https://leetcode-cn.com/problems/high-five](https://leetcode-cn.com/problems/high-five)
 

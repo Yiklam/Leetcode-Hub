@@ -1,4 +1,4 @@
-# 849. 到最近的人的最大距离
+# 849. [简单] 到最近的人的最大距离
 
 **题目链接：**[https://leetcode-cn.com/problems/maximize-distance-to-closest-person](https://leetcode-cn.com/problems/maximize-distance-to-closest-person)
 

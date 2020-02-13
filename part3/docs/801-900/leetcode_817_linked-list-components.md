@@ -1,4 +1,4 @@
-# 817. 链表组件
+# 817. [中等] 链表组件
 
 **题目链接：**[https://leetcode-cn.com/problems/linked-list-components](https://leetcode-cn.com/problems/linked-list-components)
 

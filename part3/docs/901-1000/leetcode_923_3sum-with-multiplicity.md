@@ -1,4 +1,4 @@
-# 923. 三数之和的多种可能
+# 923. [中等] 三数之和的多种可能
 
 **题目链接：**[https://leetcode-cn.com/problems/3sum-with-multiplicity](https://leetcode-cn.com/problems/3sum-with-multiplicity)
 

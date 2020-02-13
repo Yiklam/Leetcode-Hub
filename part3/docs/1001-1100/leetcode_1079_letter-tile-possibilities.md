@@ -1,4 +1,4 @@
-# 1079. 活字印刷
+# 1079. [中等] 活字印刷
 
 **题目链接：**[https://leetcode-cn.com/problems/letter-tile-possibilities](https://leetcode-cn.com/problems/letter-tile-possibilities)
 

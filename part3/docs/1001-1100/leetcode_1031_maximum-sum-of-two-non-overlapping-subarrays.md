@@ -1,4 +1,4 @@
-# 1031. 两个非重叠子数组的最大和
+# 1031. [中等] 两个非重叠子数组的最大和
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-sum-of-two-non-overlapping-subarrays](https://leetcode-cn.com/problems/maximum-sum-of-two-non-overlapping-subarrays)
 

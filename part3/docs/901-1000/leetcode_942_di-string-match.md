@@ -1,4 +1,4 @@
-# 942. 增减字符串匹配
+# 942. [简单] 增减字符串匹配
 
 **题目链接：**[https://leetcode-cn.com/problems/di-string-match](https://leetcode-cn.com/problems/di-string-match)
 

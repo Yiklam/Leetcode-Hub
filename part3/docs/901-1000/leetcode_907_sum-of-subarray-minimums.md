@@ -1,4 +1,4 @@
-# 907. 子数组的最小值之和
+# 907. [中等] 子数组的最小值之和
 
 **题目链接：**[https://leetcode-cn.com/problems/sum-of-subarray-minimums](https://leetcode-cn.com/problems/sum-of-subarray-minimums)
 

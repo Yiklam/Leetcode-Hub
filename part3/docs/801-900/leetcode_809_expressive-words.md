@@ -1,4 +1,4 @@
-# 809. 情感丰富的文字
+# 809. [中等] 情感丰富的文字
 
 **题目链接：**[https://leetcode-cn.com/problems/expressive-words](https://leetcode-cn.com/problems/expressive-words)
 

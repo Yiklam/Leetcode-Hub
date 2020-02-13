@@ -1,4 +1,4 @@
-# 1007. 行相等的最少多米诺旋转
+# 1007. [中等] 行相等的最少多米诺旋转
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-domino-rotations-for-equal-row](https://leetcode-cn.com/problems/minimum-domino-rotations-for-equal-row)
 

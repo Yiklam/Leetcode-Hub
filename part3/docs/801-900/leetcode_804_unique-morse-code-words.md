@@ -1,4 +1,4 @@
-# 804. 唯一摩尔斯密码词
+# 804. [简单] 唯一摩尔斯密码词
 
 **题目链接：**[https://leetcode-cn.com/problems/unique-morse-code-words](https://leetcode-cn.com/problems/unique-morse-code-words)
 

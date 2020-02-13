@@ -1,4 +1,4 @@
-# 1117. H2O 生成
+# 1117. [中等] H2O 生成
 
 **题目链接：**[https://leetcode-cn.com/problems/building-h2o](https://leetcode-cn.com/problems/building-h2o)
 

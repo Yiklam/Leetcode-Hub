@@ -1,4 +1,4 @@
-# 953. 验证外星语词典
+# 953. [简单] 验证外星语词典
 
 **题目链接：**[https://leetcode-cn.com/problems/verifying-an-alien-dictionary](https://leetcode-cn.com/problems/verifying-an-alien-dictionary)
 

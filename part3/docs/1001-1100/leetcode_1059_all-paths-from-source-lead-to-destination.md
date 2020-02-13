@@ -1,4 +1,4 @@
-# $1059. 从始点到终点的所有路径
+# $1059. [中等] 从始点到终点的所有路径
 
 **题目链接：**[https://leetcode-cn.com/problems/all-paths-from-source-lead-to-destination](https://leetcode-cn.com/problems/all-paths-from-source-lead-to-destination)
 

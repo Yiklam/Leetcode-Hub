@@ -1,4 +1,4 @@
-# 989. 数组形式的整数加法
+# 989. [简单] 数组形式的整数加法
 
 **题目链接：**[https://leetcode-cn.com/problems/add-to-array-form-of-integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer)
 

@@ -1,4 +1,4 @@
-# 859. 亲密字符串
+# 859. [简单] 亲密字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/buddy-strings](https://leetcode-cn.com/problems/buddy-strings)
 

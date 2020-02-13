@@ -1,4 +1,4 @@
-# 854. 相似度为 K 的字符串
+# 854. [困难] 相似度为 K 的字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/k-similar-strings](https://leetcode-cn.com/problems/k-similar-strings)
 

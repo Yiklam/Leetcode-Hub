@@ -1,4 +1,4 @@
-# 869. 重新排序得到 2 的幂
+# 869. [中等] 重新排序得到 2 的幂
 
 **题目链接：**[https://leetcode-cn.com/problems/reordered-power-of-2](https://leetcode-cn.com/problems/reordered-power-of-2)
 

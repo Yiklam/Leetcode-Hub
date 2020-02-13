@@ -1,4 +1,4 @@
-# 1004. 最大连续1的个数 III
+# 1004. [中等] 最大连续1的个数 III
 
 **题目链接：**[https://leetcode-cn.com/problems/max-consecutive-ones-iii](https://leetcode-cn.com/problems/max-consecutive-ones-iii)
 

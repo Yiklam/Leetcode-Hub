@@ -1,4 +1,4 @@
-# $1136. 平行课程
+# $1136. [困难] 平行课程
 
 **题目链接：**[https://leetcode-cn.com/problems/parallel-courses](https://leetcode-cn.com/problems/parallel-courses)
 

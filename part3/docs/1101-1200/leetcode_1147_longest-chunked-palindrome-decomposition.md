@@ -1,4 +1,4 @@
-# 1147. 段式回文
+# 1147. [困难] 段式回文
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-chunked-palindrome-decomposition](https://leetcode-cn.com/problems/longest-chunked-palindrome-decomposition)
 

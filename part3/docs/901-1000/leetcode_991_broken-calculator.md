@@ -1,4 +1,4 @@
-# 991. 坏了的计算器
+# 991. [中等] 坏了的计算器
 
 **题目链接：**[https://leetcode-cn.com/problems/broken-calculator](https://leetcode-cn.com/problems/broken-calculator)
 

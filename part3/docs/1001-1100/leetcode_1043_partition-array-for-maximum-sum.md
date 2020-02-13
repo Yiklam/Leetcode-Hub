@@ -1,4 +1,4 @@
-# 1043. 分隔数组以得到最大和
+# 1043. [中等] 分隔数组以得到最大和
 
 **题目链接：**[https://leetcode-cn.com/problems/partition-array-for-maximum-sum](https://leetcode-cn.com/problems/partition-array-for-maximum-sum)
 

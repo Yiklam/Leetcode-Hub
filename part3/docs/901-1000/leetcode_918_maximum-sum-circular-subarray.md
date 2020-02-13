@@ -1,4 +1,4 @@
-# 918. 环形子数组的最大和
+# 918. [中等] 环形子数组的最大和
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-sum-circular-subarray](https://leetcode-cn.com/problems/maximum-sum-circular-subarray)
 

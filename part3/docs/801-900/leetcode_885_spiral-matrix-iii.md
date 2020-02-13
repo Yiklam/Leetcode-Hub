@@ -1,4 +1,4 @@
-# 885. 螺旋矩阵 III
+# 885. [中等] 螺旋矩阵 III
 
 **题目链接：**[https://leetcode-cn.com/problems/spiral-matrix-iii](https://leetcode-cn.com/problems/spiral-matrix-iii)
 

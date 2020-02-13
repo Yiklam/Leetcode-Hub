@@ -1,4 +1,4 @@
-# 984. 不含 AAA 或 BBB 的字符串
+# 984. [中等] 不含 AAA 或 BBB 的字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/string-without-aaa-or-bbb](https://leetcode-cn.com/problems/string-without-aaa-or-bbb)
 

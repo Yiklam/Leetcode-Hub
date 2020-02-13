@@ -1,4 +1,4 @@
-# 1034. 边框着色
+# 1034. [中等] 边框着色
 
 **题目链接：**[https://leetcode-cn.com/problems/coloring-a-border](https://leetcode-cn.com/problems/coloring-a-border)
 

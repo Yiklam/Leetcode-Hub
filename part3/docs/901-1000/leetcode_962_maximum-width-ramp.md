@@ -1,4 +1,4 @@
-# 962. 最大宽度坡
+# 962. [中等] 最大宽度坡
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-width-ramp](https://leetcode-cn.com/problems/maximum-width-ramp)
 

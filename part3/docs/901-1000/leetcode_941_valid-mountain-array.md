@@ -1,4 +1,4 @@
-# 941. 有效的山脉数组
+# 941. [简单] 有效的山脉数组
 
 **题目链接：**[https://leetcode-cn.com/problems/valid-mountain-array](https://leetcode-cn.com/problems/valid-mountain-array)
 

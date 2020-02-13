@@ -1,4 +1,4 @@
-# 1046. 最后一块石头的重量
+# 1046. [简单] 最后一块石头的重量
 
 **题目链接：**[https://leetcode-cn.com/problems/last-stone-weight](https://leetcode-cn.com/problems/last-stone-weight)
 

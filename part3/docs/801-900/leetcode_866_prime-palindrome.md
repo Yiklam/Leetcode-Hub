@@ -1,4 +1,4 @@
-# 866. 回文素数
+# 866. [中等] 回文素数
 
 **题目链接：**[https://leetcode-cn.com/problems/prime-palindrome](https://leetcode-cn.com/problems/prime-palindrome)
 

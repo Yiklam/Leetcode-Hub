@@ -1,4 +1,4 @@
-# 1051. 高度检查器
+# 1051. [简单] 高度检查器
 
 **题目链接：**[https://leetcode-cn.com/problems/height-checker](https://leetcode-cn.com/problems/height-checker)
 

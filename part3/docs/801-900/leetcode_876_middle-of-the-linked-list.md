@@ -1,4 +1,4 @@
-# 876. 链表的中间结点
+# 876. [简单] 链表的中间结点
 
 **题目链接：**[https://leetcode-cn.com/problems/middle-of-the-linked-list](https://leetcode-cn.com/problems/middle-of-the-linked-list)
 

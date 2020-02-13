@@ -1,4 +1,4 @@
-# 1095. 山脉数组中查找目标值
+# 1095. [困难] 山脉数组中查找目标值
 
 **题目链接：**[https://leetcode-cn.com/problems/find-in-mountain-array](https://leetcode-cn.com/problems/find-in-mountain-array)
 

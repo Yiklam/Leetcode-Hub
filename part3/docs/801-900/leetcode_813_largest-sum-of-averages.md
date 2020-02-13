@@ -1,4 +1,4 @@
-# 813. 最大平均值和的分组
+# 813. [中等] 最大平均值和的分组
 
 **题目链接：**[https://leetcode-cn.com/problems/largest-sum-of-averages](https://leetcode-cn.com/problems/largest-sum-of-averages)
 

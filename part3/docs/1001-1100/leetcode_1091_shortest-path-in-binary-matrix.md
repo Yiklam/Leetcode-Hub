@@ -1,4 +1,4 @@
-# 1091. 二进制矩阵中的最短路径
+# 1091. [中等] 二进制矩阵中的最短路径
 
 **题目链接：**[https://leetcode-cn.com/problems/shortest-path-in-binary-matrix](https://leetcode-cn.com/problems/shortest-path-in-binary-matrix)
 

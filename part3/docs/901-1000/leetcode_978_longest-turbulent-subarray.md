@@ -1,4 +1,4 @@
-# 978. 最长湍流子数组
+# 978. [中等] 最长湍流子数组
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-turbulent-subarray](https://leetcode-cn.com/problems/longest-turbulent-subarray)
 

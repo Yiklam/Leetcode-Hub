@@ -1,4 +1,4 @@
-# 833. 字符串中的查找与替换
+# 833. [中等] 字符串中的查找与替换
 
 **题目链接：**[https://leetcode-cn.com/problems/find-and-replace-in-string](https://leetcode-cn.com/problems/find-and-replace-in-string)
 

@@ -1,4 +1,4 @@
-# 951. 翻转等价二叉树
+# 951. [中等] 翻转等价二叉树
 
 **题目链接：**[https://leetcode-cn.com/problems/flip-equivalent-binary-trees](https://leetcode-cn.com/problems/flip-equivalent-binary-trees)
 

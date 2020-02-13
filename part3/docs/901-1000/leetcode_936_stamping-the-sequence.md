@@ -1,4 +1,4 @@
-# 936. 戳印序列
+# 936. [困难] 戳印序列
 
 **题目链接：**[https://leetcode-cn.com/problems/stamping-the-sequence](https://leetcode-cn.com/problems/stamping-the-sequence)
 

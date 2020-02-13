@@ -1,4 +1,4 @@
-# 905. 按奇偶排序数组
+# 905. [简单] 按奇偶排序数组
 
 **题目链接：**[https://leetcode-cn.com/problems/sort-array-by-parity](https://leetcode-cn.com/problems/sort-array-by-parity)
 

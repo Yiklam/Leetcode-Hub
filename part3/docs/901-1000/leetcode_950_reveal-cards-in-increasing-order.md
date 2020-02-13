@@ -1,4 +1,4 @@
-# 950. 按递增顺序显示卡牌
+# 950. [中等] 按递增顺序显示卡牌
 
 **题目链接：**[https://leetcode-cn.com/problems/reveal-cards-in-increasing-order](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order)
 

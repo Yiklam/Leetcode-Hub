@@ -1,4 +1,4 @@
-# 886. 可能的二分法
+# 886. [中等] 可能的二分法
 
 **题目链接：**[https://leetcode-cn.com/problems/possible-bipartition](https://leetcode-cn.com/problems/possible-bipartition)
 

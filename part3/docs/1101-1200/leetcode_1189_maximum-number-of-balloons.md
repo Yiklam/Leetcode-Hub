@@ -1,4 +1,4 @@
-# 1189. “气球” 的最大数量
+# 1189. [简单] “气球” 的最大数量
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-number-of-balloons](https://leetcode-cn.com/problems/maximum-number-of-balloons)
 

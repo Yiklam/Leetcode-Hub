@@ -1,4 +1,4 @@
-# 931. 下降路径最小和
+# 931. [中等] 下降路径最小和
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-falling-path-sum](https://leetcode-cn.com/problems/minimum-falling-path-sum)
 

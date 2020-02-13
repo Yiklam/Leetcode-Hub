@@ -1,4 +1,4 @@
-# $1119. 删去字符串中的元音
+# $1119. [简单] 删去字符串中的元音
 
 **题目链接：**[https://leetcode-cn.com/problems/remove-vowels-from-a-string](https://leetcode-cn.com/problems/remove-vowels-from-a-string)
 

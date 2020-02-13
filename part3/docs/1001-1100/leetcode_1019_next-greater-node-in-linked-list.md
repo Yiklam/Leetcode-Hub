@@ -1,4 +1,4 @@
-# 1019. 链表中的下一个更大节点
+# 1019. [中等] 链表中的下一个更大节点
 
 **题目链接：**[https://leetcode-cn.com/problems/next-greater-node-in-linked-list](https://leetcode-cn.com/problems/next-greater-node-in-linked-list)
 

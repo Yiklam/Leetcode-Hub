@@ -1,4 +1,4 @@
-# 965. 单值二叉树
+# 965. [简单] 单值二叉树
 
 **题目链接：**[https://leetcode-cn.com/problems/univalued-binary-tree](https://leetcode-cn.com/problems/univalued-binary-tree)
 

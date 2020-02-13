@@ -1,4 +1,4 @@
-# 945. 使数组唯一的最小增量
+# 945. [中等] 使数组唯一的最小增量
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique)
 

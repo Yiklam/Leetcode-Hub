@@ -1,4 +1,4 @@
-# 893. 特殊等价字符串组
+# 893. [简单] 特殊等价字符串组
 
 **题目链接：**[https://leetcode-cn.com/problems/groups-of-special-equivalent-strings](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings)
 

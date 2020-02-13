@@ -1,4 +1,4 @@
-# 1025. 除数博弈
+# 1025. [简单] 除数博弈
 
 **题目链接：**[https://leetcode-cn.com/problems/divisor-game](https://leetcode-cn.com/problems/divisor-game)
 

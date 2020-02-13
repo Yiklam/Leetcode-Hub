@@ -1,4 +1,4 @@
-# 1178. 猜字谜
+# 1178. [困难] 猜字谜
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle)
 

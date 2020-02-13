@@ -1,4 +1,4 @@
-# $1088. 易混淆数 II
+# $1088. [困难] 易混淆数 II
 
 **题目链接：**[https://leetcode-cn.com/problems/confusing-number-ii](https://leetcode-cn.com/problems/confusing-number-ii)
 

@@ -1,4 +1,4 @@
-# 1128. 等价多米诺骨牌对的数量
+# 1128. [简单] 等价多米诺骨牌对的数量
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs)
 

@@ -1,4 +1,4 @@
-# 988. 从叶结点开始的最小字符串
+# 988. [中等] 从叶结点开始的最小字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/smallest-string-starting-from-leaf](https://leetcode-cn.com/problems/smallest-string-starting-from-leaf)
 

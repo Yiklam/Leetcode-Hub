@@ -1,4 +1,4 @@
-# 1071. 字符串的最大公因子
+# 1071. [简单] 字符串的最大公因子
 
 **题目链接：**[https://leetcode-cn.com/problems/greatest-common-divisor-of-strings](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings)
 

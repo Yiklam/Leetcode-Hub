@@ -1,4 +1,4 @@
-# 1017. 负二进制转换
+# 1017. [中等] 负二进制转换
 
 **题目链接：**[https://leetcode-cn.com/problems/convert-to-base-2](https://leetcode-cn.com/problems/convert-to-base-2)
 

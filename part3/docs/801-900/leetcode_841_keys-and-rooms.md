@@ -1,4 +1,4 @@
-# 841. 钥匙和房间
+# 841. [中等] 钥匙和房间
 
 **题目链接：**[https://leetcode-cn.com/problems/keys-and-rooms](https://leetcode-cn.com/problems/keys-and-rooms)
 

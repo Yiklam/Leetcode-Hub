@@ -1,4 +1,4 @@
-# 1195. 交替打印字符串
+# 1195. [中等] 交替打印字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/fizz-buzz-multithreaded](https://leetcode-cn.com/problems/fizz-buzz-multithreaded)
 

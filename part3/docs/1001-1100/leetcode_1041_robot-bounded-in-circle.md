@@ -1,4 +1,4 @@
-# 1041. 困于环中的机器人
+# 1041. [中等] 困于环中的机器人
 
 **题目链接：**[https://leetcode-cn.com/problems/robot-bounded-in-circle](https://leetcode-cn.com/problems/robot-bounded-in-circle)
 
@@ -44,6 +44,6 @@
 
 ---
 
-```sh
+```
 
 ```

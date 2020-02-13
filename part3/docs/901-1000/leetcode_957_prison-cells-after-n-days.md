@@ -1,4 +1,4 @@
-# 957. N 天后的牢房
+# 957. [中等] N 天后的牢房
 
 **题目链接：**[https://leetcode-cn.com/problems/prison-cells-after-n-days](https://leetcode-cn.com/problems/prison-cells-after-n-days)
 

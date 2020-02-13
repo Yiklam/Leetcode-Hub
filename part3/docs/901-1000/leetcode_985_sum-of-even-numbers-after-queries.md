@@ -1,4 +1,4 @@
-# 985. 查询后的偶数和
+# 985. [简单] 查询后的偶数和
 
 **题目链接：**[https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries)
 

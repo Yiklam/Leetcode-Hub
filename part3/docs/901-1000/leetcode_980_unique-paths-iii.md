@@ -1,4 +1,4 @@
-# 980. 不同路径 III
+# 980. [困难] 不同路径 III
 
 **题目链接：**[https://leetcode-cn.com/problems/unique-paths-iii](https://leetcode-cn.com/problems/unique-paths-iii)
 

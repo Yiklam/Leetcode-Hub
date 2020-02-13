@@ -1,4 +1,4 @@
-# $1056. 易混淆数
+# $1056. [简单] 易混淆数
 
 **题目链接：**[https://leetcode-cn.com/problems/confusing-number](https://leetcode-cn.com/problems/confusing-number)
 

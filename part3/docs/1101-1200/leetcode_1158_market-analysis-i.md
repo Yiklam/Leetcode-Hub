@@ -1,4 +1,4 @@
-# $1158. 市场分析 I
+# $1158. [中等] 市场分析 I
 
 **题目链接：**[https://leetcode-cn.com/problems/market-analysis-i](https://leetcode-cn.com/problems/market-analysis-i)
 
@@ -8,6 +8,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

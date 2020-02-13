@@ -1,4 +1,4 @@
-# 879. 盈利计划
+# 879. [困难] 盈利计划
 
 **题目链接：**[https://leetcode-cn.com/problems/profitable-schemes](https://leetcode-cn.com/problems/profitable-schemes)
 

@@ -1,4 +1,4 @@
-# 1124. 表现良好的最长时间段
+# 1124. [中等] 表现良好的最长时间段
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-well-performing-interval](https://leetcode-cn.com/problems/longest-well-performing-interval)
 

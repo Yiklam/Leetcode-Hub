@@ -1,4 +1,4 @@
-# 1032. 字符流
+# 1032. [困难] 字符流
 
 **题目链接：**[https://leetcode-cn.com/problems/stream-of-characters](https://leetcode-cn.com/problems/stream-of-characters)
 

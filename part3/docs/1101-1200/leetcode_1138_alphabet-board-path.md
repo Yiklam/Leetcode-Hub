@@ -1,4 +1,4 @@
-# 1138. 字母板上的路径
+# 1138. [中等] 字母板上的路径
 
 **题目链接：**[https://leetcode-cn.com/problems/alphabet-board-path](https://leetcode-cn.com/problems/alphabet-board-path)
 

@@ -1,4 +1,4 @@
-# 1108. IP 地址无效化
+# 1108. [简单] IP 地址无效化
 
 **题目链接：**[https://leetcode-cn.com/problems/defanging-an-ip-address](https://leetcode-cn.com/problems/defanging-an-ip-address)
 

@@ -1,4 +1,4 @@
-# 1080. 根到叶路径上的不足节点
+# 1080. [中等] 根到叶路径上的不足节点
 
 **题目链接：**[https://leetcode-cn.com/problems/insufficient-nodes-in-root-to-leaf-paths](https://leetcode-cn.com/problems/insufficient-nodes-in-root-to-leaf-paths)
 

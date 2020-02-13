@@ -1,4 +1,4 @@
-# 812. 最大三角形面积
+# 812. [简单] 最大三角形面积
 
 **题目链接：**[https://leetcode-cn.com/problems/largest-triangle-area](https://leetcode-cn.com/problems/largest-triangle-area)
 

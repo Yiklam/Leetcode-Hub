@@ -1,4 +1,4 @@
-# 1154. 一年中的第几天
+# 1154. [简单] 一年中的第几天
 
 **题目链接：**[https://leetcode-cn.com/problems/day-of-the-year](https://leetcode-cn.com/problems/day-of-the-year)
 

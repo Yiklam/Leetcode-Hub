@@ -1,4 +1,4 @@
-# 832. 翻转图像
+# 832. [简单] 翻转图像
 
 **题目链接：**[https://leetcode-cn.com/problems/flipping-an-image](https://leetcode-cn.com/problems/flipping-an-image)
 

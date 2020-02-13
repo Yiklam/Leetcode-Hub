@@ -1,4 +1,4 @@
-# 925. 长按键入
+# 925. [简单] 长按键入
 
 **题目链接：**[https://leetcode-cn.com/problems/long-pressed-name](https://leetcode-cn.com/problems/long-pressed-name)
 

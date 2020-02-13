@@ -1,4 +1,4 @@
-# 974. 和可被 K 整除的子数组
+# 974. [中等] 和可被 K 整除的子数组
 
 **题目链接：**[https://leetcode-cn.com/problems/subarray-sums-divisible-by-k](https://leetcode-cn.com/problems/subarray-sums-divisible-by-k)
 

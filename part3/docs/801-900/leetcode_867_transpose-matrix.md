@@ -1,4 +1,4 @@
-# 867. 转置矩阵
+# 867. [简单] 转置矩阵
 
 **题目链接：**[https://leetcode-cn.com/problems/transpose-matrix](https://leetcode-cn.com/problems/transpose-matrix)
 

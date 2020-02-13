@@ -1,4 +1,4 @@
-# 821. 字符的最短距离
+# 821. [简单] 字符的最短距离
 
 **题目链接：**[https://leetcode-cn.com/problems/shortest-distance-to-a-character](https://leetcode-cn.com/problems/shortest-distance-to-a-character)
 

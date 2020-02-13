@@ -1,4 +1,4 @@
-# $1168. 水资源分配优化
+# $1168. [困难] 水资源分配优化
 
 **题目链接：**[https://leetcode-cn.com/problems/optimize-water-distribution-in-a-village](https://leetcode-cn.com/problems/optimize-water-distribution-in-a-village)
 

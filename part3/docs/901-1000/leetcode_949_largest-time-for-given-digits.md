@@ -1,4 +1,4 @@
-# 949. 给定数字能组成的最大时间
+# 949. [简单] 给定数字能组成的最大时间
 
 **题目链接：**[https://leetcode-cn.com/problems/largest-time-for-given-digits](https://leetcode-cn.com/problems/largest-time-for-given-digits)
 

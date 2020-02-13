@@ -1,4 +1,4 @@
-# 846. 一手顺子
+# 846. [中等] 一手顺子
 
 **题目链接：**[https://leetcode-cn.com/problems/hand-of-straights](https://leetcode-cn.com/problems/hand-of-straights)
 

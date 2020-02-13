@@ -1,4 +1,4 @@
-# 911. 在线选举
+# 911. [中等] 在线选举
 
 **题目链接：**[https://leetcode-cn.com/problems/online-election](https://leetcode-cn.com/problems/online-election)
 

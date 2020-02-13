@@ -1,4 +1,4 @@
-# $1182. 与目标颜色间的最短距离
+# $1182. [中等] 与目标颜色间的最短距离
 
 **题目链接：**[https://leetcode-cn.com/problems/shortest-distance-to-target-color](https://leetcode-cn.com/problems/shortest-distance-to-target-color)
 

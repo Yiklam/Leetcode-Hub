@@ -1,4 +1,4 @@
-# 1110. 删点成林
+# 1110. [中等] 删点成林
 
 **题目链接：**[https://leetcode-cn.com/problems/delete-nodes-and-return-forest](https://leetcode-cn.com/problems/delete-nodes-and-return-forest)
 

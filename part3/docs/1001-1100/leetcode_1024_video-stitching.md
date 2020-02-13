@@ -1,4 +1,4 @@
-# 1024. 视频拼接
+# 1024. [中等] 视频拼接
 
 **题目链接：**[https://leetcode-cn.com/problems/video-stitching](https://leetcode-cn.com/problems/video-stitching)
 

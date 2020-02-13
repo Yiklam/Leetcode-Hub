@@ -1,4 +1,4 @@
-# 1171. 从链表中删去总和值为零的连续节点
+# 1171. [中等] 从链表中删去总和值为零的连续节点
 
 **题目链接：**[https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list)
 

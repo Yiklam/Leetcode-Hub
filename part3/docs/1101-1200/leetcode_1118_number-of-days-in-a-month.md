@@ -1,4 +1,4 @@
-# $1118. 一月有多少天
+# $1118. [简单] 一月有多少天
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-days-in-a-month](https://leetcode-cn.com/problems/number-of-days-in-a-month)
 

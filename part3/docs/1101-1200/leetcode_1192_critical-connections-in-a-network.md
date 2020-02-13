@@ -1,4 +1,4 @@
-# 1192. 查找集群内的「关键连接」
+# 1192. [困难] 查找集群内的「关键连接」
 
 **题目链接：**[https://leetcode-cn.com/problems/critical-connections-in-a-network](https://leetcode-cn.com/problems/critical-connections-in-a-network)
 

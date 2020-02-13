@@ -1,4 +1,4 @@
-# $1099. 小于 K 的两数之和
+# $1099. [简单] 小于 K 的两数之和
 
 **题目链接：**[https://leetcode-cn.com/problems/two-sum-less-than-k](https://leetcode-cn.com/problems/two-sum-less-than-k)
 

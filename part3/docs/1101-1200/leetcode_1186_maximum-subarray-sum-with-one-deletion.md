@@ -1,4 +1,4 @@
-# 1186. 删除一次得到子数组最大和
+# 1186. [中等] 删除一次得到子数组最大和
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-subarray-sum-with-one-deletion](https://leetcode-cn.com/problems/maximum-subarray-sum-with-one-deletion)
 

@@ -1,4 +1,4 @@
-# 862. 和至少为 K 的最短子数组
+# 862. [困难] 和至少为 K 的最短子数组
 
 **题目链接：**[https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k](https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k)
 
