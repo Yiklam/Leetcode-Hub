@@ -1,4 +1,4 @@
-# 73. 矩阵置零
+# 73. [中等] 矩阵置零
 
 **题目链接：**[https://leetcode-cn.com/problems/set-matrix-zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes)
 

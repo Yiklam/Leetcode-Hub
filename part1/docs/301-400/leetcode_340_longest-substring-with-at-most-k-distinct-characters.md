@@ -1,4 +1,4 @@
-# $340. 至多包含 K 个不同字符的最长子串
+# $340. [困难] 至多包含 K 个不同字符的最长子串
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters](https://leetcode-cn.com/problems/longest-substring-with-at-most-k-distinct-characters)
 

@@ -1,4 +1,4 @@
-# 65. 有效数字
+# 65. [困难] 有效数字
 
 **题目链接：**[https://leetcode-cn.com/problems/valid-number](https://leetcode-cn.com/problems/valid-number)
 

@@ -1,4 +1,4 @@
-# 179. 最大数
+# 179. [中等] 最大数
 
 **题目链接：**[https://leetcode-cn.com/problems/largest-number](https://leetcode-cn.com/problems/largest-number)
 

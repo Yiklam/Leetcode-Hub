@@ -1,4 +1,4 @@
-# 287. 寻找重复数
+# 287. [中等] 寻找重复数
 
 **题目链接：**[https://leetcode-cn.com/problems/find-the-duplicate-number](https://leetcode-cn.com/problems/find-the-duplicate-number)
 

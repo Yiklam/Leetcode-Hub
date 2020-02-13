@@ -1,4 +1,4 @@
-# 138. 复制带随机指针的链表
+# 138. [中等] 复制带随机指针的链表
 
 **题目链接：**[https://leetcode-cn.com/problems/copy-list-with-random-pointer](https://leetcode-cn.com/problems/copy-list-with-random-pointer)
 

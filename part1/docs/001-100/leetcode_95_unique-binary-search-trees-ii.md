@@ -1,4 +1,4 @@
-# 95. 不同的二叉搜索树 II
+# 95. [中等] 不同的二叉搜索树 II
 
 **题目链接：**[https://leetcode-cn.com/problems/unique-binary-search-trees-ii](https://leetcode-cn.com/problems/unique-binary-search-trees-ii)
 

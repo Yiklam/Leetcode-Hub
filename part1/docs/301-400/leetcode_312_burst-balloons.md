@@ -1,4 +1,4 @@
-# 312. 戳气球
+# 312. [困难] 戳气球
 
 **题目链接：**[https://leetcode-cn.com/problems/burst-balloons](https://leetcode-cn.com/problems/burst-balloons)
 

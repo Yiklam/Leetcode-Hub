@@ -1,4 +1,4 @@
-# 165. 比较版本号
+# 165. [中等] 比较版本号
 
 **题目链接：**[https://leetcode-cn.com/problems/compare-version-numbers](https://leetcode-cn.com/problems/compare-version-numbers)
 

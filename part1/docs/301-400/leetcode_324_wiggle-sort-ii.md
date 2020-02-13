@@ -1,4 +1,4 @@
-# 324. 摆动排序 II
+# 324. [中等] 摆动排序 II
 
 **题目链接：**[https://leetcode-cn.com/problems/wiggle-sort-ii](https://leetcode-cn.com/problems/wiggle-sort-ii)
 

@@ -1,4 +1,4 @@
-# 347. 前 K 个高频元素
+# 347. [中等] 前 K 个高频元素
 
 **题目链接：**[https://leetcode-cn.com/problems/top-k-frequent-elements](https://leetcode-cn.com/problems/top-k-frequent-elements)
 

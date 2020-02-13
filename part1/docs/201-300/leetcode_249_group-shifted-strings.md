@@ -1,4 +1,4 @@
-# $249. 移位字符串分组
+# $249. [中等] 移位字符串分组
 
 **题目链接：**[https://leetcode-cn.com/problems/group-shifted-strings](https://leetcode-cn.com/problems/group-shifted-strings)
 

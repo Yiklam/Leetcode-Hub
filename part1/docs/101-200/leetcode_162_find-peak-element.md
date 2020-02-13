@@ -1,4 +1,4 @@
-# 162. 寻找峰值
+# 162. [中等] 寻找峰值
 
 **题目链接：**[https://leetcode-cn.com/problems/find-peak-element](https://leetcode-cn.com/problems/find-peak-element)
 

@@ -1,4 +1,4 @@
-# 378. 有序矩阵中第K小的元素
+# 378. [中等] 有序矩阵中第K小的元素
 
 **题目链接：**[https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix)
 

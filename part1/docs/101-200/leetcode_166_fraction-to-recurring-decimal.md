@@ -1,4 +1,4 @@
-# 166. 分数到小数
+# 166. [中等] 分数到小数
 
 **题目链接：**[https://leetcode-cn.com/problems/fraction-to-recurring-decimal](https://leetcode-cn.com/problems/fraction-to-recurring-decimal)
 

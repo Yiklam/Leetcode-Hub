@@ -1,4 +1,4 @@
-# 234. 回文链表
+# 234. [简单] 回文链表
 
 **题目链接：**[https://leetcode-cn.com/problems/palindrome-linked-list](https://leetcode-cn.com/problems/palindrome-linked-list)
 

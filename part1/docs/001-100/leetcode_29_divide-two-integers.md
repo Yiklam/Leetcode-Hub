@@ -1,4 +1,4 @@
-# 29. 两数相除
+# 29. [中等] 两数相除
 
 **题目链接：**[https://leetcode-cn.com/problems/divide-two-integers](https://leetcode-cn.com/problems/divide-two-integers)
 

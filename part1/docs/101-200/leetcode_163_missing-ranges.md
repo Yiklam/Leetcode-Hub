@@ -1,4 +1,4 @@
-# $163. 缺失的区间
+# $163. [中等] 缺失的区间
 
 **题目链接：**[https://leetcode-cn.com/problems/missing-ranges](https://leetcode-cn.com/problems/missing-ranges)
 

@@ -1,4 +1,4 @@
-# 82. 删除排序链表中的重复元素 II
+# 82. [中等] 删除排序链表中的重复元素 II
 
 **题目链接：**[https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)
 

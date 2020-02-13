@@ -1,4 +1,4 @@
-# $291. 单词规律 II
+# $291. [困难] 单词规律 II
 
 **题目链接：**[https://leetcode-cn.com/problems/word-pattern-ii](https://leetcode-cn.com/problems/word-pattern-ii)
 

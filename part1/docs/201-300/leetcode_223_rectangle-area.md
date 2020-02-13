@@ -1,4 +1,4 @@
-# 223. 矩形面积
+# 223. [中等] 矩形面积
 
 **题目链接：**[https://leetcode-cn.com/problems/rectangle-area](https://leetcode-cn.com/problems/rectangle-area)
 

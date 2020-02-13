@@ -1,4 +1,4 @@
-# $296. 最佳的碰头地点
+# $296. [困难] 最佳的碰头地点
 
 **题目链接：**[https://leetcode-cn.com/problems/best-meeting-point](https://leetcode-cn.com/problems/best-meeting-point)
 

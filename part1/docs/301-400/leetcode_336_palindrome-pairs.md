@@ -1,4 +1,4 @@
-# 336. 回文对
+# 336. [困难] 回文对
 
 **题目链接：**[https://leetcode-cn.com/problems/palindrome-pairs](https://leetcode-cn.com/problems/palindrome-pairs)
 

@@ -1,4 +1,4 @@
-# 184. 部门工资最高的员工
+# 184. [中等] 部门工资最高的员工
 
 **题目链接：**[https://leetcode-cn.com/problems/department-highest-salary](https://leetcode-cn.com/problems/department-highest-salary)
 
@@ -43,6 +43,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

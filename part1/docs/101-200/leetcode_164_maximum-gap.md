@@ -1,4 +1,4 @@
-# 164. 最大间距
+# 164. [困难] 最大间距
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-gap](https://leetcode-cn.com/problems/maximum-gap)
 

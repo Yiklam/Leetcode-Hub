@@ -1,4 +1,4 @@
-# 330. 按要求补齐数组
+# 330. [困难] 按要求补齐数组
 
 **题目链接：**[https://leetcode-cn.com/problems/patching-array](https://leetcode-cn.com/problems/patching-array)
 

@@ -1,4 +1,4 @@
-# 68. 文本左右对齐
+# 68. [困难] 文本左右对齐
 
 **题目链接：**[https://leetcode-cn.com/problems/text-justification](https://leetcode-cn.com/problems/text-justification)
 

@@ -1,4 +1,4 @@
-# 88. 合并两个有序数组
+# 88. [简单] 合并两个有序数组
 
 **题目链接：**[https://leetcode-cn.com/problems/merge-sorted-array](https://leetcode-cn.com/problems/merge-sorted-array)
 

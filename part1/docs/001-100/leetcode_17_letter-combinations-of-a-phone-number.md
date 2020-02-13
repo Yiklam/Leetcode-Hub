@@ -1,4 +1,4 @@
-# 17. 电话号码的字母组合
+# 17. [中等] 电话号码的字母组合
 
 **题目链接：**[https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)
 

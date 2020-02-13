@@ -1,4 +1,4 @@
-# $285. 二叉搜索树中的顺序后继
+# $285. [中等] 二叉搜索树中的顺序后继
 
 **题目链接：**[https://leetcode-cn.com/problems/inorder-successor-in-bst](https://leetcode-cn.com/problems/inorder-successor-in-bst)
 

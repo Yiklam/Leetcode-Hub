@@ -1,4 +1,4 @@
-# 233. 数字 1 的个数
+# 233. [困难] 数字 1 的个数
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-digit-one](https://leetcode-cn.com/problems/number-of-digit-one)
 

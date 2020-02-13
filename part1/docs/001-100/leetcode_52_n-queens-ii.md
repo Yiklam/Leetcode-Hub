@@ -1,4 +1,4 @@
-# 52. N皇后 II
+# 52. [困难] N皇后 II
 
 **题目链接：**[https://leetcode-cn.com/problems/n-queens-ii](https://leetcode-cn.com/problems/n-queens-ii)
 

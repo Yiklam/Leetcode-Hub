@@ -1,4 +1,4 @@
-# 355. 设计推特
+# 355. [中等] 设计推特
 
 **题目链接：**[https://leetcode-cn.com/problems/design-twitter](https://leetcode-cn.com/problems/design-twitter)
 

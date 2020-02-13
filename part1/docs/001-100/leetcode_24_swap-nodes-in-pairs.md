@@ -1,4 +1,4 @@
-# 24. 两两交换链表中的节点
+# 24. [中等] 两两交换链表中的节点
 
 **题目链接：**[https://leetcode-cn.com/problems/swap-nodes-in-pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs)
 

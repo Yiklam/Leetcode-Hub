@@ -1,4 +1,4 @@
-# 207. 课程表
+# 207. [中等] 课程表
 
 **题目链接：**[https://leetcode-cn.com/problems/course-schedule](https://leetcode-cn.com/problems/course-schedule)
 

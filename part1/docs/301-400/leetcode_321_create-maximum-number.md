@@ -1,4 +1,4 @@
-# 321. 拼接最大数
+# 321. [困难] 拼接最大数
 
 **题目链接：**[https://leetcode-cn.com/problems/create-maximum-number](https://leetcode-cn.com/problems/create-maximum-number)
 

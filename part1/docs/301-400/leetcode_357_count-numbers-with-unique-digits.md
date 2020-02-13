@@ -1,4 +1,4 @@
-# 357. 计算各个位数不同的数字个数
+# 357. [中等] 计算各个位数不同的数字个数
 
 **题目链接：**[https://leetcode-cn.com/problems/count-numbers-with-unique-digits](https://leetcode-cn.com/problems/count-numbers-with-unique-digits)
 

@@ -1,4 +1,4 @@
-# $348. 判定井字棋胜负
+# $348. [中等] 判定井字棋胜负
 
 **题目链接：**[https://leetcode-cn.com/problems/design-tic-tac-toe](https://leetcode-cn.com/problems/design-tic-tac-toe)
 

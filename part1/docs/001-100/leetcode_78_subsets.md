@@ -1,4 +1,4 @@
-# 78. 子集
+# 78. [中等] 子集
 
 **题目链接：**[https://leetcode-cn.com/problems/subsets](https://leetcode-cn.com/problems/subsets)
 

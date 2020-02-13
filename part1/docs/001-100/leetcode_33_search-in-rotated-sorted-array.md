@@ -1,4 +1,4 @@
-# 33. 搜索旋转排序数组
+# 33. [中等] 搜索旋转排序数组
 
 **题目链接：**[https://leetcode-cn.com/problems/search-in-rotated-sorted-array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)
 

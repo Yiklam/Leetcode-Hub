@@ -1,4 +1,4 @@
-# 54. 螺旋矩阵
+# 54. [中等] 螺旋矩阵
 
 **题目链接：**[https://leetcode-cn.com/problems/spiral-matrix](https://leetcode-cn.com/problems/spiral-matrix)
 

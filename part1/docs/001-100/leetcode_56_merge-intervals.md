@@ -1,4 +1,4 @@
-# 56. 合并区间
+# 56. [中等] 合并区间
 
 **题目链接：**[https://leetcode-cn.com/problems/merge-intervals](https://leetcode-cn.com/problems/merge-intervals)
 

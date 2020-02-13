@@ -1,4 +1,4 @@
-# 318. 最大单词长度乘积
+# 318. [中等] 最大单词长度乘积
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-product-of-word-lengths](https://leetcode-cn.com/problems/maximum-product-of-word-lengths)
 

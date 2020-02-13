@@ -1,4 +1,4 @@
-# $276. 栅栏涂色
+# $276. [简单] 栅栏涂色
 
 **题目链接：**[https://leetcode-cn.com/problems/paint-fence](https://leetcode-cn.com/problems/paint-fence)
 

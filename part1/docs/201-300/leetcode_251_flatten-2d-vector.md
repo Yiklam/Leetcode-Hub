@@ -1,4 +1,4 @@
-# $251. 展开二维向量
+# $251. [中等] 展开二维向量
 
 **题目链接：**[https://leetcode-cn.com/problems/flatten-2d-vector](https://leetcode-cn.com/problems/flatten-2d-vector)
 

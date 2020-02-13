@@ -1,4 +1,4 @@
-# 61. 旋转链表
+# 61. [中等] 旋转链表
 
 **题目链接：**[https://leetcode-cn.com/problems/rotate-list](https://leetcode-cn.com/problems/rotate-list)
 

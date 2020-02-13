@@ -1,4 +1,4 @@
-# 44. 通配符匹配
+# 44. [困难] 通配符匹配
 
 **题目链接：**[https://leetcode-cn.com/problems/wildcard-matching](https://leetcode-cn.com/problems/wildcard-matching)
 

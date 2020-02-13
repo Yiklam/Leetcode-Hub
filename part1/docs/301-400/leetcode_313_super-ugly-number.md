@@ -1,4 +1,4 @@
-# 313. 超级丑数
+# 313. [中等] 超级丑数
 
 **题目链接：**[https://leetcode-cn.com/problems/super-ugly-number](https://leetcode-cn.com/problems/super-ugly-number)
 

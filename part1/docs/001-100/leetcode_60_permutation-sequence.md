@@ -1,4 +1,4 @@
-# 60. 第k个排列
+# 60. [中等] 第k个排列
 
 **题目链接：**[https://leetcode-cn.com/problems/permutation-sequence](https://leetcode-cn.com/problems/permutation-sequence)
 

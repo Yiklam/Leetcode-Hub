@@ -1,4 +1,4 @@
-# 169. 多数元素
+# 169. [简单] 多数元素
 
 **题目链接：**[https://leetcode-cn.com/problems/majority-element](https://leetcode-cn.com/problems/majority-element)
 

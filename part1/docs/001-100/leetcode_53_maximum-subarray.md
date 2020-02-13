@@ -1,4 +1,4 @@
-# 53. 最大子序和
+# 53. [简单] 最大子序和
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-subarray](https://leetcode-cn.com/problems/maximum-subarray)
 

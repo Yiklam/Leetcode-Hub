@@ -1,4 +1,4 @@
-# 111. 二叉树的最小深度
+# 111. [简单] 二叉树的最小深度
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-depth-of-binary-tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree)
 

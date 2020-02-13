@@ -1,4 +1,4 @@
-# 128. 最长连续序列
+# 128. [困难] 最长连续序列
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-consecutive-sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence)
 

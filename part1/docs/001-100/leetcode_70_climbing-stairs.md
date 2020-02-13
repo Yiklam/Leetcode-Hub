@@ -1,4 +1,4 @@
-# 70. 爬楼梯
+# 70. [简单] 爬楼梯
 
 **题目链接：**[https://leetcode-cn.com/problems/climbing-stairs](https://leetcode-cn.com/problems/climbing-stairs)
 

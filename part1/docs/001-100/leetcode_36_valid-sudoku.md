@@ -1,4 +1,4 @@
-# 36. 有效的数独
+# 36. [中等] 有效的数独
 
 **题目链接：**[https://leetcode-cn.com/problems/valid-sudoku](https://leetcode-cn.com/problems/valid-sudoku)
 

@@ -1,4 +1,4 @@
-# 304. 二维区域和检索 - 矩阵不可变
+# 304. [中等] 二维区域和检索 - 矩阵不可变
 
 **题目链接：**[https://leetcode-cn.com/problems/range-sum-query-2d-immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable)
 

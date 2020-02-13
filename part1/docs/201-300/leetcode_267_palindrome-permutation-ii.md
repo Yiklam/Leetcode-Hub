@@ -1,4 +1,4 @@
-# $267. 回文排列 II
+# $267. [中等] 回文排列 II
 
 **题目链接：**[https://leetcode-cn.com/problems/palindrome-permutation-ii](https://leetcode-cn.com/problems/palindrome-permutation-ii)
 

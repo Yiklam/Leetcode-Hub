@@ -1,4 +1,4 @@
-# 301. 删除无效的括号
+# 301. [困难] 删除无效的括号
 
 **题目链接：**[https://leetcode-cn.com/problems/remove-invalid-parentheses](https://leetcode-cn.com/problems/remove-invalid-parentheses)
 

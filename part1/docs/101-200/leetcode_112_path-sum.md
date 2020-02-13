@@ -1,4 +1,4 @@
-# 112. 路径总和
+# 112. [简单] 路径总和
 
 **题目链接：**[https://leetcode-cn.com/problems/path-sum](https://leetcode-cn.com/problems/path-sum)
 

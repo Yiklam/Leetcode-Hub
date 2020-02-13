@@ -1,4 +1,4 @@
-# 50. Pow(x, n)
+# 50. [中等] Pow(x, n)
 
 **题目链接：**[https://leetcode-cn.com/problems/powx-n](https://leetcode-cn.com/problems/powx-n)
 

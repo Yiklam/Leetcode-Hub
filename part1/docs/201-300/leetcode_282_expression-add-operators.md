@@ -1,4 +1,4 @@
-# 282. 给表达式添加运算符
+# 282. [困难] 给表达式添加运算符
 
 **题目链接：**[https://leetcode-cn.com/problems/expression-add-operators](https://leetcode-cn.com/problems/expression-add-operators)
 

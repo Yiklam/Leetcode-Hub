@@ -1,4 +1,4 @@
-# 350. 两个数组的交集 II
+# 350. [简单] 两个数组的交集 II
 
 **题目链接：**[https://leetcode-cn.com/problems/intersection-of-two-arrays-ii](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii)
 

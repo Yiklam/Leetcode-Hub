@@ -1,4 +1,4 @@
-# $379. 电话目录管理系统
+# $379. [中等] 电话目录管理系统
 
 **题目链接：**[https://leetcode-cn.com/problems/design-phone-directory](https://leetcode-cn.com/problems/design-phone-directory)
 

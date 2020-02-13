@@ -1,4 +1,4 @@
-# 264. 丑数 II
+# 264. [中等] 丑数 II
 
 **题目链接：**[https://leetcode-cn.com/problems/ugly-number-ii](https://leetcode-cn.com/problems/ugly-number-ii)
 

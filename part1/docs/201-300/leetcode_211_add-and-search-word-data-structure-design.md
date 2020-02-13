@@ -1,4 +1,4 @@
-# 211. 添加与搜索单词 - 数据结构设计
+# 211. [中等] 添加与搜索单词 - 数据结构设计
 
 **题目链接：**[https://leetcode-cn.com/problems/add-and-search-word-data-structure-design](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design)
 

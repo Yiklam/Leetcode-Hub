@@ -1,4 +1,4 @@
-# 393. UTF-8 编码验证
+# 393. [中等] UTF-8 编码验证
 
 **题目链接：**[https://leetcode-cn.com/problems/utf-8-validation](https://leetcode-cn.com/problems/utf-8-validation)
 

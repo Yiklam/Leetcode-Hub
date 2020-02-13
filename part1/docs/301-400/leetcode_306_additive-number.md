@@ -1,4 +1,4 @@
-# 306. 累加数
+# 306. [中等] 累加数
 
 **题目链接：**[https://leetcode-cn.com/problems/additive-number](https://leetcode-cn.com/problems/additive-number)
 

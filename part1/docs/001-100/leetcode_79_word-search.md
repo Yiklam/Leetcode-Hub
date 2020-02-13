@@ -1,4 +1,4 @@
-# 79. 单词搜索
+# 79. [中等] 单词搜索
 
 **题目链接：**[https://leetcode-cn.com/problems/word-search](https://leetcode-cn.com/problems/word-search)
 

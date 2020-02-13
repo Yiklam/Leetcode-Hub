@@ -1,4 +1,4 @@
-# 26. 删除排序数组中的重复项
+# 26. [简单] 删除排序数组中的重复项
 
 **题目链接：**[https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)
 

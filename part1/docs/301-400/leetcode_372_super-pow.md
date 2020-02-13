@@ -1,4 +1,4 @@
-# 372. 超级次方
+# 372. [中等] 超级次方
 
 **题目链接：**[https://leetcode-cn.com/problems/super-pow](https://leetcode-cn.com/problems/super-pow)
 

@@ -1,4 +1,4 @@
-# 198. 打家劫舍
+# 198. [简单] 打家劫舍
 
 **题目链接：**[https://leetcode-cn.com/problems/house-robber](https://leetcode-cn.com/problems/house-robber)
 

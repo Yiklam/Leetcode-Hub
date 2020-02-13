@@ -1,4 +1,4 @@
-# 331. 验证二叉树的前序序列化
+# 331. [中等] 验证二叉树的前序序列化
 
 **题目链接：**[https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree)
 

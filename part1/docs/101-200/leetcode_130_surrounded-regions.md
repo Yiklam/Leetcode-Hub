@@ -1,4 +1,4 @@
-# 130. 被围绕的区域
+# 130. [中等] 被围绕的区域
 
 **题目链接：**[https://leetcode-cn.com/problems/surrounded-regions](https://leetcode-cn.com/problems/surrounded-regions)
 

@@ -1,4 +1,4 @@
-# 231. 2的幂
+# 231. [简单] 2的幂
 
 **题目链接：**[https://leetcode-cn.com/problems/power-of-two](https://leetcode-cn.com/problems/power-of-two)
 

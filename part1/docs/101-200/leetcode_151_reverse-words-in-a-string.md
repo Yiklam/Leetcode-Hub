@@ -1,4 +1,4 @@
-# 151. 翻转字符串里的单词
+# 151. [中等] 翻转字符串里的单词
 
 **题目链接：**[https://leetcode-cn.com/problems/reverse-words-in-a-string](https://leetcode-cn.com/problems/reverse-words-in-a-string)
 

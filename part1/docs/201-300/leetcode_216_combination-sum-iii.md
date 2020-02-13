@@ -1,4 +1,4 @@
-# 216. 组合总和 III
+# 216. [中等] 组合总和 III
 
 **题目链接：**[https://leetcode-cn.com/problems/combination-sum-iii](https://leetcode-cn.com/problems/combination-sum-iii)
 

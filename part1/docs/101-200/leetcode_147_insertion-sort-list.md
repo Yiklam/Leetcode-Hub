@@ -1,4 +1,4 @@
-# 147. 对链表进行插入排序
+# 147. [中等] 对链表进行插入排序
 
 **题目链接：**[https://leetcode-cn.com/problems/insertion-sort-list](https://leetcode-cn.com/problems/insertion-sort-list)
 

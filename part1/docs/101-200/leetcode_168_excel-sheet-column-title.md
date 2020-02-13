@@ -1,4 +1,4 @@
-# 168. Excel表列名称
+# 168. [简单] Excel表列名称
 
 **题目链接：**[https://leetcode-cn.com/problems/excel-sheet-column-title](https://leetcode-cn.com/problems/excel-sheet-column-title)
 

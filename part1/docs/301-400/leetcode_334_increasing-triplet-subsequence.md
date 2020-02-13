@@ -1,4 +1,4 @@
-# 334. 递增的三元子序列
+# 334. [中等] 递增的三元子序列
 
 **题目链接：**[https://leetcode-cn.com/problems/increasing-triplet-subsequence](https://leetcode-cn.com/problems/increasing-triplet-subsequence)
 

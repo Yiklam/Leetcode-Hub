@@ -1,4 +1,4 @@
-# 226. 翻转二叉树
+# 226. [简单] 翻转二叉树
 
 **题目链接：**[https://leetcode-cn.com/problems/invert-binary-tree](https://leetcode-cn.com/problems/invert-binary-tree)
 

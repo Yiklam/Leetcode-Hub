@@ -1,4 +1,4 @@
-# 329. 矩阵中的最长递增路径
+# 329. [困难] 矩阵中的最长递增路径
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix)
 

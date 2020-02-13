@@ -1,4 +1,4 @@
-# 278. 第一个错误的版本
+# 278. [简单] 第一个错误的版本
 
 **题目链接：**[https://leetcode-cn.com/problems/first-bad-version](https://leetcode-cn.com/problems/first-bad-version)
 

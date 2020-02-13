@@ -1,4 +1,4 @@
-# 185. 部门工资前三高的所有员工
+# 185. [困难] 部门工资前三高的所有员工
 
 **题目链接：**[https://leetcode-cn.com/problems/department-top-three-salaries](https://leetcode-cn.com/problems/department-top-three-salaries)
 
@@ -49,6 +49,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

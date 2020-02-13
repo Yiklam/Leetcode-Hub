@@ -1,4 +1,4 @@
-# 394. 字符串解码
+# 394. [中等] 字符串解码
 
 **题目链接：**[https://leetcode-cn.com/problems/decode-string](https://leetcode-cn.com/problems/decode-string)
 

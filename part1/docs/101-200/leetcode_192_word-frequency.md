@@ -1,4 +1,4 @@
-# 192. 统计词频
+# 192. [中等] 统计词频
 
 **题目链接：**[https://leetcode-cn.com/problems/word-frequency](https://leetcode-cn.com/problems/word-frequency)
 

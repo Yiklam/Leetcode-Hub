@@ -1,4 +1,4 @@
-# $320. 列举单词的全部缩写
+# $320. [中等] 列举单词的全部缩写
 
 **题目链接：**[https://leetcode-cn.com/problems/generalized-abbreviation](https://leetcode-cn.com/problems/generalized-abbreviation)
 

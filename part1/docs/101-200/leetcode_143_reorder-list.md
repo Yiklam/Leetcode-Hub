@@ -1,4 +1,4 @@
-# 143. 重排链表
+# 143. [中等] 重排链表
 
 **题目链接：**[https://leetcode-cn.com/problems/reorder-list](https://leetcode-cn.com/problems/reorder-list)
 

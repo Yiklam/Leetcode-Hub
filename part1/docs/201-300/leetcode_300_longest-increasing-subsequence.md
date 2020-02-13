@@ -1,4 +1,4 @@
-# 300. 最长上升子序列
+# 300. [中等] 最长上升子序列
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-increasing-subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence)
 

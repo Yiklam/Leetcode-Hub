@@ -1,4 +1,4 @@
-# 189. 旋转数组
+# 189. [简单] 旋转数组
 
 **题目链接：**[https://leetcode-cn.com/problems/rotate-array](https://leetcode-cn.com/problems/rotate-array)
 

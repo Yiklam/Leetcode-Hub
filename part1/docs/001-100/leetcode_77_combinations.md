@@ -1,4 +1,4 @@
-# 77. 组合
+# 77. [中等] 组合
 
 **题目链接：**[https://leetcode-cn.com/problems/combinations](https://leetcode-cn.com/problems/combinations)
 

@@ -1,4 +1,4 @@
-# 110. 平衡二叉树
+# 110. [简单] 平衡二叉树
 
 **题目链接：**[https://leetcode-cn.com/problems/balanced-binary-tree](https://leetcode-cn.com/problems/balanced-binary-tree)
 

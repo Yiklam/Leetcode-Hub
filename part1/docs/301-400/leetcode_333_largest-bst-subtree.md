@@ -1,4 +1,4 @@
-# $333. 最大 BST 子树
+# $333. [中等] 最大 BST 子树
 
 **题目链接：**[https://leetcode-cn.com/problems/largest-bst-subtree](https://leetcode-cn.com/problems/largest-bst-subtree)
 

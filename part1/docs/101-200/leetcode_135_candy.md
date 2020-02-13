@@ -1,4 +1,4 @@
-# 135. 分发糖果
+# 135. [困难] 分发糖果
 
 **题目链接：**[https://leetcode-cn.com/problems/candy](https://leetcode-cn.com/problems/candy)
 

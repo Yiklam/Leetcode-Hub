@@ -1,4 +1,4 @@
-# 213. 打家劫舍 II
+# 213. [中等] 打家劫舍 II
 
 **题目链接：**[https://leetcode-cn.com/problems/house-robber-ii](https://leetcode-cn.com/problems/house-robber-ii)
 

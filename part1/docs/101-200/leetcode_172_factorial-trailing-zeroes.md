@@ -1,4 +1,4 @@
-# 172. 阶乘后的零
+# 172. [简单] 阶乘后的零
 
 **题目链接：**[https://leetcode-cn.com/problems/factorial-trailing-zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes)
 

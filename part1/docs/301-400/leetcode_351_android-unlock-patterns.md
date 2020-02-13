@@ -1,4 +1,4 @@
-# $351. 安卓系统手势解锁
+# $351. [中等] 安卓系统手势解锁
 
 **题目链接：**[https://leetcode-cn.com/problems/android-unlock-patterns](https://leetcode-cn.com/problems/android-unlock-patterns)
 

@@ -1,4 +1,4 @@
-# 20. 有效的括号
+# 20. [简单] 有效的括号
 
 **题目链接：**[https://leetcode-cn.com/problems/valid-parentheses](https://leetcode-cn.com/problems/valid-parentheses)
 

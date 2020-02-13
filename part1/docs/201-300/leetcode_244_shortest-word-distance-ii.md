@@ -1,4 +1,4 @@
-# $244. 最短单词距离 II
+# $244. [中等] 最短单词距离 II
 
 **题目链接：**[https://leetcode-cn.com/problems/shortest-word-distance-ii](https://leetcode-cn.com/problems/shortest-word-distance-ii)
 

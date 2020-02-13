@@ -1,4 +1,4 @@
-# 118. 杨辉三角
+# 118. [简单] 杨辉三角
 
 **题目链接：**[https://leetcode-cn.com/problems/pascals-triangle](https://leetcode-cn.com/problems/pascals-triangle)
 

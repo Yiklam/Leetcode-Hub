@@ -1,4 +1,4 @@
-# 228. 汇总区间
+# 228. [中等] 汇总区间
 
 **题目链接：**[https://leetcode-cn.com/problems/summary-ranges](https://leetcode-cn.com/problems/summary-ranges)
 

@@ -1,4 +1,4 @@
-# $369. 给单链表加一
+# $369. [中等] 给单链表加一
 
 **题目链接：**[https://leetcode-cn.com/problems/plus-one-linked-list](https://leetcode-cn.com/problems/plus-one-linked-list)
 

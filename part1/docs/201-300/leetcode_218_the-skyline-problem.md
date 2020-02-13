@@ -1,4 +1,4 @@
-# 218. 天际线问题
+# 218. [困难] 天际线问题
 
 **题目链接：**[https://leetcode-cn.com/problems/the-skyline-problem](https://leetcode-cn.com/problems/the-skyline-problem)
 

@@ -1,4 +1,4 @@
-# 191. 位1的个数
+# 191. [简单] 位1的个数
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-1-bits](https://leetcode-cn.com/problems/number-of-1-bits)
 
@@ -35,6 +35,6 @@
 
 ---
 
-```sh
+```
 
 ```

@@ -1,4 +1,4 @@
-# 307. 区域和检索 - 数组可修改
+# 307. [中等] 区域和检索 - 数组可修改
 
 **题目链接：**[https://leetcode-cn.com/problems/range-sum-query-mutable](https://leetcode-cn.com/problems/range-sum-query-mutable)
 

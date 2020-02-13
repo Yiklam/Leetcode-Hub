@@ -1,4 +1,4 @@
-# 345. 反转字符串中的元音字母
+# 345. [简单] 反转字符串中的元音字母
 
 **题目链接：**[https://leetcode-cn.com/problems/reverse-vowels-of-a-string](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)
 

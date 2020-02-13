@@ -1,4 +1,4 @@
-# 101. 对称二叉树
+# 101. [简单] 对称二叉树
 
 **题目链接：**[https://leetcode-cn.com/problems/symmetric-tree](https://leetcode-cn.com/problems/symmetric-tree)
 

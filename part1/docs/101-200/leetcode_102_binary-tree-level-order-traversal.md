@@ -1,4 +1,4 @@
-# 102. 二叉树的层次遍历
+# 102. [中等] 二叉树的层次遍历
 
 **题目链接：**[https://leetcode-cn.com/problems/binary-tree-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)
 

@@ -1,4 +1,4 @@
-# 67. 二进制求和
+# 67. [简单] 二进制求和
 
 **题目链接：**[https://leetcode-cn.com/problems/add-binary](https://leetcode-cn.com/problems/add-binary)
 

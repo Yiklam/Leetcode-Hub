@@ -1,4 +1,4 @@
-# 344. 反转字符串
+# 344. [简单] 反转字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/reverse-string](https://leetcode-cn.com/problems/reverse-string)
 

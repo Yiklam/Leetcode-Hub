@@ -1,4 +1,4 @@
-# $325. 和等于 k 的最长子数组长度
+# $325. [中等] 和等于 k 的最长子数组长度
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-size-subarray-sum-equals-k](https://leetcode-cn.com/problems/maximum-size-subarray-sum-equals-k)
 

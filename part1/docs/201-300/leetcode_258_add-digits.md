@@ -1,4 +1,4 @@
-# 258. 各位相加
+# 258. [简单] 各位相加
 
 **题目链接：**[https://leetcode-cn.com/problems/add-digits](https://leetcode-cn.com/problems/add-digits)
 

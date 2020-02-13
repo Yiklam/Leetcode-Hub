@@ -1,4 +1,4 @@
-# 373. 查找和最小的K对数字
+# 373. [中等] 查找和最小的K对数字
 
 **题目链接：**[https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums)
 

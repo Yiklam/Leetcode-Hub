@@ -1,4 +1,4 @@
-# 388. 文件的最长绝对路径
+# 388. [中等] 文件的最长绝对路径
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-absolute-file-path](https://leetcode-cn.com/problems/longest-absolute-file-path)
 

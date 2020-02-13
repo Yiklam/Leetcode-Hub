@@ -1,4 +1,4 @@
-# 109. 有序链表转换二叉搜索树
+# 109. [中等] 有序链表转换二叉搜索树
 
 **题目链接：**[https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree)
 

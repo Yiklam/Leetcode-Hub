@@ -1,4 +1,4 @@
-# 66. 加一
+# 66. [简单] 加一
 
 **题目链接：**[https://leetcode-cn.com/problems/plus-one](https://leetcode-cn.com/problems/plus-one)
 

@@ -1,4 +1,4 @@
-# 180. 连续出现的数字
+# 180. [中等] 连续出现的数字
 
 **题目链接：**[https://leetcode-cn.com/problems/consecutive-numbers](https://leetcode-cn.com/problems/consecutive-numbers)
 
@@ -37,6 +37,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

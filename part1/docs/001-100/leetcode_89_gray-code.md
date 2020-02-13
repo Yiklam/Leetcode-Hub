@@ -1,4 +1,4 @@
-# 89. 格雷编码
+# 89. [中等] 格雷编码
 
 **题目链接：**[https://leetcode-cn.com/problems/gray-code](https://leetcode-cn.com/problems/gray-code)
 

@@ -1,4 +1,4 @@
-# 289. 生命游戏
+# 289. [中等] 生命游戏
 
 **题目链接：**[https://leetcode-cn.com/problems/game-of-life](https://leetcode-cn.com/problems/game-of-life)
 

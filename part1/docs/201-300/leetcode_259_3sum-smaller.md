@@ -1,4 +1,4 @@
-# $259. 较小的三数之和
+# $259. [中等] 较小的三数之和
 
 **题目链接：**[https://leetcode-cn.com/problems/3sum-smaller](https://leetcode-cn.com/problems/3sum-smaller)
 

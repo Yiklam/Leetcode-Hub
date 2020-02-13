@@ -1,4 +1,4 @@
-# 176. 第二高的薪水
+# 176. [简单] 第二高的薪水
 
 **题目链接：**[https://leetcode-cn.com/problems/second-highest-salary](https://leetcode-cn.com/problems/second-highest-salary)
 
@@ -33,6 +33,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

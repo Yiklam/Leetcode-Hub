@@ -1,4 +1,4 @@
-# 352. 将数据流变为多个不相交区间
+# 352. [困难] 将数据流变为多个不相交区间
 
 **题目链接：**[https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals)
 

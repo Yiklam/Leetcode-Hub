@@ -1,4 +1,4 @@
-# 395. 至少有K个重复字符的最长子串
+# 395. [中等] 至少有K个重复字符的最长子串
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters)
 

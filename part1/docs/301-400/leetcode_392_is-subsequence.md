@@ -1,4 +1,4 @@
-# 392. 判断子序列
+# 392. [简单] 判断子序列
 
 **题目链接：**[https://leetcode-cn.com/problems/is-subsequence](https://leetcode-cn.com/problems/is-subsequence)
 

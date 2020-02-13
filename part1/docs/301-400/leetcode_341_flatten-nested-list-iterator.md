@@ -1,4 +1,4 @@
-# 341. 扁平化嵌套列表迭代器
+# 341. [中等] 扁平化嵌套列表迭代器
 
 **题目链接：**[https://leetcode-cn.com/problems/flatten-nested-list-iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator)
 

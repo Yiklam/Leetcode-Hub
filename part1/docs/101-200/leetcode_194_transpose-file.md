@@ -1,4 +1,4 @@
-# 194. 转置文件
+# 194. [中等] 转置文件
 
 **题目链接：**[https://leetcode-cn.com/problems/transpose-file](https://leetcode-cn.com/problems/transpose-file)
 
@@ -23,6 +23,6 @@ age 21 30
 
 ---
 
-```sh
+```
 # Read from the file file.txt and print its transposed content to stdout.
 ```

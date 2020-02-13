@@ -1,4 +1,4 @@
-# 94. 二叉树的中序遍历
+# 94. [中等] 二叉树的中序遍历
 
 **题目链接：**[https://leetcode-cn.com/problems/binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal)
 

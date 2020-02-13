@@ -1,4 +1,4 @@
-# 263. 丑数
+# 263. [简单] 丑数
 
 **题目链接：**[https://leetcode-cn.com/problems/ugly-number](https://leetcode-cn.com/problems/ugly-number)
 

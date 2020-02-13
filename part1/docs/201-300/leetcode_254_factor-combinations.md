@@ -1,4 +1,4 @@
-# $254. 因子的组合
+# $254. [中等] 因子的组合
 
 **题目链接：**[https://leetcode-cn.com/problems/factor-combinations](https://leetcode-cn.com/problems/factor-combinations)
 

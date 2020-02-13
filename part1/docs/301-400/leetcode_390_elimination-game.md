@@ -1,4 +1,4 @@
-# 390. 消除游戏
+# 390. [中等] 消除游戏
 
 **题目链接：**[https://leetcode-cn.com/problems/elimination-game](https://leetcode-cn.com/problems/elimination-game)
 

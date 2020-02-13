@@ -1,4 +1,4 @@
-# $360. 有序转化数组
+# $360. [中等] 有序转化数组
 
 **题目链接：**[https://leetcode-cn.com/problems/sort-transformed-array](https://leetcode-cn.com/problems/sort-transformed-array)
 

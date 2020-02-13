@@ -1,4 +1,4 @@
-# 171. Excel表列序号
+# 171. [简单] Excel表列序号
 
 **题目链接：**[https://leetcode-cn.com/problems/excel-sheet-column-number](https://leetcode-cn.com/problems/excel-sheet-column-number)
 

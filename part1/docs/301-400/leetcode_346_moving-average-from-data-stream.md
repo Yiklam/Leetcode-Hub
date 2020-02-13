@@ -1,4 +1,4 @@
-# $346. 数据流中的移动平均值
+# $346. [简单] 数据流中的移动平均值
 
 **题目链接：**[https://leetcode-cn.com/problems/moving-average-from-data-stream](https://leetcode-cn.com/problems/moving-average-from-data-stream)
 

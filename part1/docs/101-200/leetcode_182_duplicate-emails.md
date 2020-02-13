@@ -1,4 +1,4 @@
-# 182. 查找重复的电子邮箱
+# 182. [简单] 查找重复的电子邮箱
 
 **题目链接：**[https://leetcode-cn.com/problems/duplicate-emails](https://leetcode-cn.com/problems/duplicate-emails)
 
@@ -35,6 +35,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

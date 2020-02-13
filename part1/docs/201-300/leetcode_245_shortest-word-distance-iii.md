@@ -1,4 +1,4 @@
-# $245. 最短单词距离 III
+# $245. [中等] 最短单词距离 III
 
 **题目链接：**[https://leetcode-cn.com/problems/shortest-word-distance-iii](https://leetcode-cn.com/problems/shortest-word-distance-iii)
 

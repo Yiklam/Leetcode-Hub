@@ -1,4 +1,4 @@
-# 86. 分隔链表
+# 86. [中等] 分隔链表
 
 **题目链接：**[https://leetcode-cn.com/problems/partition-list](https://leetcode-cn.com/problems/partition-list)
 

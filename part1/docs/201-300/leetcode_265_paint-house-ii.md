@@ -1,4 +1,4 @@
-# $265. 粉刷房子 II
+# $265. [困难] 粉刷房子 II
 
 **题目链接：**[https://leetcode-cn.com/problems/paint-house-ii](https://leetcode-cn.com/problems/paint-house-ii)
 

@@ -1,4 +1,4 @@
-# $186. 翻转字符串里的单词 II
+# $186. [中等] 翻转字符串里的单词 II
 
 **题目链接：**[https://leetcode-cn.com/problems/reverse-words-in-a-string-ii](https://leetcode-cn.com/problems/reverse-words-in-a-string-ii)
 

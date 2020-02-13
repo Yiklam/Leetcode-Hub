@@ -1,4 +1,4 @@
-# 292. Nim 游戏
+# 292. [简单] Nim 游戏
 
 **题目链接：**[https://leetcode-cn.com/problems/nim-game](https://leetcode-cn.com/problems/nim-game)
 

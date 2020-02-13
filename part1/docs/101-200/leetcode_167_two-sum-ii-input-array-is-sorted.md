@@ -1,4 +1,4 @@
-# 167. 两数之和 II - 输入有序数组
+# 167. [简单] 两数之和 II - 输入有序数组
 
 **题目链接：**[https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)
 

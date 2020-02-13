@@ -1,4 +1,4 @@
-# 21. 合并两个有序链表
+# 21. [简单] 合并两个有序链表
 
 **题目链接：**[https://leetcode-cn.com/problems/merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists)
 

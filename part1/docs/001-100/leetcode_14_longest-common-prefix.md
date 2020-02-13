@@ -1,4 +1,4 @@
-# 14. 最长公共前缀
+# 14. [简单] 最长公共前缀
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-common-prefix](https://leetcode-cn.com/problems/longest-common-prefix)
 

@@ -1,4 +1,4 @@
-# 91. 解码方法
+# 91. [中等] 解码方法
 
 **题目链接：**[https://leetcode-cn.com/problems/decode-ways](https://leetcode-cn.com/problems/decode-ways)
 

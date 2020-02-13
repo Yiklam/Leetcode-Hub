@@ -1,4 +1,4 @@
-# 38. 外观数列
+# 38. [简单] 外观数列
 
 **题目链接：**[https://leetcode-cn.com/problems/count-and-say](https://leetcode-cn.com/problems/count-and-say)
 

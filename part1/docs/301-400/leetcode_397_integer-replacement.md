@@ -1,4 +1,4 @@
-# 397. 整数替换
+# 397. [中等] 整数替换
 
 **题目链接：**[https://leetcode-cn.com/problems/integer-replacement](https://leetcode-cn.com/problems/integer-replacement)
 

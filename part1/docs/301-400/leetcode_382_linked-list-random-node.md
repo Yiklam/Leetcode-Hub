@@ -1,4 +1,4 @@
-# 382. 链表随机节点
+# 382. [中等] 链表随机节点
 
 **题目链接：**[https://leetcode-cn.com/problems/linked-list-random-node](https://leetcode-cn.com/problems/linked-list-random-node)
 

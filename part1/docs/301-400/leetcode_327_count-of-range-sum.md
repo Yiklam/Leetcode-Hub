@@ -1,4 +1,4 @@
-# 327. 区间和的个数
+# 327. [困难] 区间和的个数
 
 **题目链接：**[https://leetcode-cn.com/problems/count-of-range-sum](https://leetcode-cn.com/problems/count-of-range-sum)
 

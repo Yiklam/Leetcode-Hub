@@ -1,4 +1,4 @@
-# $294. 翻转游戏 II
+# $294. [中等] 翻转游戏 II
 
 **题目链接：**[https://leetcode-cn.com/problems/flip-game-ii](https://leetcode-cn.com/problems/flip-game-ii)
 

@@ -1,4 +1,4 @@
-# 262. 行程和用户
+# 262. [困难] 行程和用户
 
 **题目链接：**[https://leetcode-cn.com/problems/trips-and-users](https://leetcode-cn.com/problems/trips-and-users)
 
@@ -58,6 +58,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

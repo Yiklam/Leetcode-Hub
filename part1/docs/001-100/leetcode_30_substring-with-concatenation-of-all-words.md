@@ -1,4 +1,4 @@
-# 30. 串联所有单词的子串
+# 30. [困难] 串联所有单词的子串
 
 **题目链接：**[https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words)
 

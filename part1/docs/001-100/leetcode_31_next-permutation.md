@@ -1,4 +1,4 @@
-# 31. 下一个排列
+# 31. [中等] 下一个排列
 
 **题目链接：**[https://leetcode-cn.com/problems/next-permutation](https://leetcode-cn.com/problems/next-permutation)
 

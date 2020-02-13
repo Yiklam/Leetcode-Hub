@@ -1,4 +1,4 @@
-# $293. 翻转游戏
+# $293. [简单] 翻转游戏
 
 **题目链接：**[https://leetcode-cn.com/problems/flip-game](https://leetcode-cn.com/problems/flip-game)
 

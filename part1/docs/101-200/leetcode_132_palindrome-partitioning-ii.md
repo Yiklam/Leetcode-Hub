@@ -1,4 +1,4 @@
-# 132. 分割回文串 II
+# 132. [困难] 分割回文串 II
 
 **题目链接：**[https://leetcode-cn.com/problems/palindrome-partitioning-ii](https://leetcode-cn.com/problems/palindrome-partitioning-ii)
 

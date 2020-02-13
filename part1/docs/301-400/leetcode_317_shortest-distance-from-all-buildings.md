@@ -1,4 +1,4 @@
-# $317. 离建筑物最近的距离
+# $317. [困难] 离建筑物最近的距离
 
 **题目链接：**[https://leetcode-cn.com/problems/shortest-distance-from-all-buildings](https://leetcode-cn.com/problems/shortest-distance-from-all-buildings)
 

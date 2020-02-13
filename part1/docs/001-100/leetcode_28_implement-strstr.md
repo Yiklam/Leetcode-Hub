@@ -1,4 +1,4 @@
-# 28. 实现 strStr()
+# 28. [简单] 实现 strStr()
 
 **题目链接：**[https://leetcode-cn.com/problems/implement-strstr](https://leetcode-cn.com/problems/implement-strstr)
 

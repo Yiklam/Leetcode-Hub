@@ -1,4 +1,4 @@
-# $256. 粉刷房子
+# $256. [简单] 粉刷房子
 
 **题目链接：**[https://leetcode-cn.com/problems/paint-house](https://leetcode-cn.com/problems/paint-house)
 

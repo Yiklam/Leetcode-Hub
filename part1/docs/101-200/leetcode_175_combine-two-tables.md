@@ -1,4 +1,4 @@
-# 175. 组合两个表
+# 175. [简单] 组合两个表
 
 **题目链接：**[https://leetcode-cn.com/problems/combine-two-tables](https://leetcode-cn.com/problems/combine-two-tables)
 
@@ -43,6 +43,6 @@ AddressId 是上表主键
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

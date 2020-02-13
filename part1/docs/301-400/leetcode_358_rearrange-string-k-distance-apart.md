@@ -1,4 +1,4 @@
-# $358. K 距离间隔重排字符串
+# $358. [困难] K 距离间隔重排字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/rearrange-string-k-distance-apart](https://leetcode-cn.com/problems/rearrange-string-k-distance-apart)
 

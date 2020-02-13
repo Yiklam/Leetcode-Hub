@@ -1,4 +1,4 @@
-# 59. 螺旋矩阵 II
+# 59. [中等] 螺旋矩阵 II
 
 **题目链接：**[https://leetcode-cn.com/problems/spiral-matrix-ii](https://leetcode-cn.com/problems/spiral-matrix-ii)
 

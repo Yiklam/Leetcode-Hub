@@ -1,4 +1,4 @@
-# 62. 不同路径
+# 62. [中等] 不同路径
 
 **题目链接：**[https://leetcode-cn.com/problems/unique-paths](https://leetcode-cn.com/problems/unique-paths)
 

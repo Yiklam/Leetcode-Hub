@@ -1,4 +1,4 @@
-# 51. N皇后
+# 51. [困难] N皇后
 
 **题目链接：**[https://leetcode-cn.com/problems/n-queens](https://leetcode-cn.com/problems/n-queens)
 

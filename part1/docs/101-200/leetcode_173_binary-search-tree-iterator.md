@@ -1,4 +1,4 @@
-# 173. 二叉搜索树迭代器
+# 173. [中等] 二叉搜索树迭代器
 
 **题目链接：**[https://leetcode-cn.com/problems/binary-search-tree-iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator)
 

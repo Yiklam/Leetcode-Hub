@@ -1,4 +1,4 @@
-# 23. 合并K个排序链表
+# 23. [困难] 合并K个排序链表
 
 **题目链接：**[https://leetcode-cn.com/problems/merge-k-sorted-lists](https://leetcode-cn.com/problems/merge-k-sorted-lists)
 

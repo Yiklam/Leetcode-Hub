@@ -1,4 +1,4 @@
-# 71. 简化路径
+# 71. [中等] 简化路径
 
 **题目链接：**[https://leetcode-cn.com/problems/simplify-path](https://leetcode-cn.com/problems/simplify-path)
 

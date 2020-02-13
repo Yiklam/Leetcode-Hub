@@ -1,4 +1,4 @@
-# $248. 中心对称数 III
+# $248. [困难] 中心对称数 III
 
 **题目链接：**[https://leetcode-cn.com/problems/strobogrammatic-number-iii](https://leetcode-cn.com/problems/strobogrammatic-number-iii)
 

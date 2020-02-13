@@ -1,4 +1,4 @@
-# 260. 只出现一次的数字 III
+# 260. [中等] 只出现一次的数字 III
 
 **题目链接：**[https://leetcode-cn.com/problems/single-number-iii](https://leetcode-cn.com/problems/single-number-iii)
 

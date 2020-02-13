@@ -1,4 +1,4 @@
-# 342. 4的幂
+# 342. [简单] 4的幂
 
 **题目链接：**[https://leetcode-cn.com/problems/power-of-four](https://leetcode-cn.com/problems/power-of-four)
 

@@ -1,4 +1,4 @@
-# $156. 上下翻转二叉树
+# $156. [中等] 上下翻转二叉树
 
 **题目链接：**[https://leetcode-cn.com/problems/binary-tree-upside-down](https://leetcode-cn.com/problems/binary-tree-upside-down)
 

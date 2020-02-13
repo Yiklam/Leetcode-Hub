@@ -1,4 +1,4 @@
-# 371. 两整数之和
+# 371. [简单] 两整数之和
 
 **题目链接：**[https://leetcode-cn.com/problems/sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers)
 

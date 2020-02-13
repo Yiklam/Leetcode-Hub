@@ -1,4 +1,4 @@
-# $266. 回文排列
+# $266. [简单] 回文排列
 
 **题目链接：**[https://leetcode-cn.com/problems/palindrome-permutation](https://leetcode-cn.com/problems/palindrome-permutation)
 

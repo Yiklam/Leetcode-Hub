@@ -1,4 +1,4 @@
-# 240. 搜索二维矩阵 II
+# 240. [中等] 搜索二维矩阵 II
 
 **题目链接：**[https://leetcode-cn.com/problems/search-a-2d-matrix-ii](https://leetcode-cn.com/problems/search-a-2d-matrix-ii)
 

@@ -1,4 +1,4 @@
-# 229. 求众数 II
+# 229. [中等] 求众数 II
 
 **题目链接：**[https://leetcode-cn.com/problems/majority-element-ii](https://leetcode-cn.com/problems/majority-element-ii)
 

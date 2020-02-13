@@ -1,4 +1,4 @@
-# 141. 环形链表
+# 141. [简单] 环形链表
 
 **题目链接：**[https://leetcode-cn.com/problems/linked-list-cycle](https://leetcode-cn.com/problems/linked-list-cycle)
 

@@ -1,4 +1,4 @@
-# 217. 存在重复元素
+# 217. [简单] 存在重复元素
 
 **题目链接：**[https://leetcode-cn.com/problems/contains-duplicate](https://leetcode-cn.com/problems/contains-duplicate)
 

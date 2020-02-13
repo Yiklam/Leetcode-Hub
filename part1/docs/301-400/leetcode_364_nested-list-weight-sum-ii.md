@@ -1,4 +1,4 @@
-# $364. 加权嵌套序列和 II
+# $364. [中等] 加权嵌套序列和 II
 
 **题目链接：**[https://leetcode-cn.com/problems/nested-list-weight-sum-ii](https://leetcode-cn.com/problems/nested-list-weight-sum-ii)
 

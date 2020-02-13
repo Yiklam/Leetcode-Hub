@@ -1,4 +1,4 @@
-# 199. 二叉树的右视图
+# 199. [中等] 二叉树的右视图
 
 **题目链接：**[https://leetcode-cn.com/problems/binary-tree-right-side-view](https://leetcode-cn.com/problems/binary-tree-right-side-view)
 

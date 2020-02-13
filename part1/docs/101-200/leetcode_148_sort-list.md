@@ -1,4 +1,4 @@
-# 148. 排序链表
+# 148. [中等] 排序链表
 
 **题目链接：**[https://leetcode-cn.com/problems/sort-list](https://leetcode-cn.com/problems/sort-list)
 

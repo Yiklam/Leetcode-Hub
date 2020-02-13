@@ -1,4 +1,4 @@
-# 290. 单词规律
+# 290. [简单] 单词规律
 
 **题目链接：**[https://leetcode-cn.com/problems/word-pattern](https://leetcode-cn.com/problems/word-pattern)
 

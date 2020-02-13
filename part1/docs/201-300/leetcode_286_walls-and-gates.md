@@ -1,4 +1,4 @@
-# $286. 墙与门
+# $286. [中等] 墙与门
 
 **题目链接：**[https://leetcode-cn.com/problems/walls-and-gates](https://leetcode-cn.com/problems/walls-and-gates)
 

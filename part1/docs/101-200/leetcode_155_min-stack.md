@@ -1,4 +1,4 @@
-# 155. 最小栈
+# 155. [简单] 最小栈
 
 **题目链接：**[https://leetcode-cn.com/problems/min-stack](https://leetcode-cn.com/problems/min-stack)
 

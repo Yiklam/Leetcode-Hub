@@ -1,4 +1,4 @@
-# 303. 区域和检索 - 数组不可变
+# 303. [简单] 区域和检索 - 数组不可变
 
 **题目链接：**[https://leetcode-cn.com/problems/range-sum-query-immutable](https://leetcode-cn.com/problems/range-sum-query-immutable)
 

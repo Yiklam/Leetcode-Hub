@@ -1,4 +1,4 @@
-# 8. 字符串转换整数 (atoi)
+# 8. [中等] 字符串转换整数 (atoi)
 
 **题目链接：**[https://leetcode-cn.com/problems/string-to-integer-atoi](https://leetcode-cn.com/problems/string-to-integer-atoi)
 

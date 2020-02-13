@@ -1,4 +1,4 @@
-# $270. 最接近的二叉搜索树值
+# $270. [简单] 最接近的二叉搜索树值
 
 **题目链接：**[https://leetcode-cn.com/problems/closest-binary-search-tree-value](https://leetcode-cn.com/problems/closest-binary-search-tree-value)
 

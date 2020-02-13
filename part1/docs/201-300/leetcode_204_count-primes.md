@@ -1,4 +1,4 @@
-# 204. 计数质数
+# 204. [简单] 计数质数
 
 **题目链接：**[https://leetcode-cn.com/problems/count-primes](https://leetcode-cn.com/problems/count-primes)
 

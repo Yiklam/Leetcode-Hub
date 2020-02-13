@@ -1,4 +1,4 @@
-# 5. 最长回文子串
+# 5. [中等] 最长回文子串
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-palindromic-substring](https://leetcode-cn.com/problems/longest-palindromic-substring)
 

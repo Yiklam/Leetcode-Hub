@@ -1,4 +1,4 @@
-# $356. 直线镜像
+# $356. [中等] 直线镜像
 
 **题目链接：**[https://leetcode-cn.com/problems/line-reflection](https://leetcode-cn.com/problems/line-reflection)
 

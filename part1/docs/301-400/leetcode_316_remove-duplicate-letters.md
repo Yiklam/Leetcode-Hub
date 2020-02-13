@@ -1,4 +1,4 @@
-# 316. 去除重复字母
+# 316. [困难] 去除重复字母
 
 **题目链接：**[https://leetcode-cn.com/problems/remove-duplicate-letters](https://leetcode-cn.com/problems/remove-duplicate-letters)
 

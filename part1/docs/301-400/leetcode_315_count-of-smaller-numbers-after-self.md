@@ -1,4 +1,4 @@
-# 315. 计算右侧小于当前元素的个数
+# 315. [困难] 计算右侧小于当前元素的个数
 
 **题目链接：**[https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self)
 

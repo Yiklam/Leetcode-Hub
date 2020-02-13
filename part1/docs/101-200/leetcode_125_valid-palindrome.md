@@ -1,4 +1,4 @@
-# 125. 验证回文串
+# 125. [简单] 验证回文串
 
 **题目链接：**[https://leetcode-cn.com/problems/valid-palindrome](https://leetcode-cn.com/problems/valid-palindrome)
 

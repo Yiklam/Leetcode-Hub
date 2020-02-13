@@ -1,4 +1,4 @@
-# 193. 有效电话号码
+# 193. [简单] 有效电话号码
 
 **题目链接：**[https://leetcode-cn.com/problems/valid-phone-numbers](https://leetcode-cn.com/problems/valid-phone-numbers)
 
@@ -24,6 +24,6 @@
 
 ---
 
-```sh
+```
 # Read from the file words.txt and output the word frequency list to stdout.
 ```

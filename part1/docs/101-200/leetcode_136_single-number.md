@@ -1,4 +1,4 @@
-# 136. 只出现一次的数字
+# 136. [简单] 只出现一次的数字
 
 **题目链接：**[https://leetcode-cn.com/problems/single-number](https://leetcode-cn.com/problems/single-number)
 

@@ -1,4 +1,4 @@
-# 384. 打乱数组
+# 384. [中等] 打乱数组
 
 **题目链接：**[https://leetcode-cn.com/problems/shuffle-an-array](https://leetcode-cn.com/problems/shuffle-an-array)
 

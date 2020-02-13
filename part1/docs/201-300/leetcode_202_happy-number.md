@@ -1,4 +1,4 @@
-# 202. 快乐数
+# 202. [简单] 快乐数
 
 **题目链接：**[https://leetcode-cn.com/problems/happy-number](https://leetcode-cn.com/problems/happy-number)
 

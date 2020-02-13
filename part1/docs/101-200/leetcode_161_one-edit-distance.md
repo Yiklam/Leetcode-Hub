@@ -1,4 +1,4 @@
-# $161. 相隔为 1 的编辑距离
+# $161. [中等] 相隔为 1 的编辑距离
 
 **题目链接：**[https://leetcode-cn.com/problems/one-edit-distance](https://leetcode-cn.com/problems/one-edit-distance)
 

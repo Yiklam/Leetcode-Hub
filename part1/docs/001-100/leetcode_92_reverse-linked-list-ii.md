@@ -1,4 +1,4 @@
-# 92. 反转链表 II
+# 92. [中等] 反转链表 II
 
 **题目链接：**[https://leetcode-cn.com/problems/reverse-linked-list-ii](https://leetcode-cn.com/problems/reverse-linked-list-ii)
 

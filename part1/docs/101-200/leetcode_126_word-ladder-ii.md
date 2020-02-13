@@ -1,4 +1,4 @@
-# 126. 单词接龙 II
+# 126. [困难] 单词接龙 II
 
 **题目链接：**[https://leetcode-cn.com/problems/word-ladder-ii](https://leetcode-cn.com/problems/word-ladder-ii)
 

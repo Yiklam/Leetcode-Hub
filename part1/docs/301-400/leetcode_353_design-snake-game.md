@@ -1,4 +1,4 @@
-# $353. 贪吃蛇
+# $353. [中等] 贪吃蛇
 
 **题目链接：**[https://leetcode-cn.com/problems/design-snake-game](https://leetcode-cn.com/problems/design-snake-game)
 

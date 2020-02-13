@@ -1,4 +1,4 @@
-# 177. 第N高的薪水
+# 177. [中等] 第N高的薪水
 
 **题目链接：**[https://leetcode-cn.com/problems/nth-highest-salary](https://leetcode-cn.com/problems/nth-highest-salary)
 
@@ -27,7 +27,7 @@
 
 ---
 
-```sh
+```sql
 CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
 BEGIN
   RETURN (

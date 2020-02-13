@@ -1,4 +1,4 @@
-# 7. 整数反转
+# 7. [简单] 整数反转
 
 **题目链接：**[https://leetcode-cn.com/problems/reverse-integer](https://leetcode-cn.com/problems/reverse-integer)
 

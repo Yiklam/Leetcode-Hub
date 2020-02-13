@@ -1,4 +1,4 @@
-# 275. H指数 II
+# 275. [中等] H指数 II
 
 **题目链接：**[https://leetcode-cn.com/problems/h-index-ii](https://leetcode-cn.com/problems/h-index-ii)
 

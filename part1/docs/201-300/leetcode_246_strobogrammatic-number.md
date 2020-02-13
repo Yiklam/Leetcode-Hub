@@ -1,4 +1,4 @@
-# $246. 中心对称数
+# $246. [简单] 中心对称数
 
 **题目链接：**[https://leetcode-cn.com/problems/strobogrammatic-number](https://leetcode-cn.com/problems/strobogrammatic-number)
 

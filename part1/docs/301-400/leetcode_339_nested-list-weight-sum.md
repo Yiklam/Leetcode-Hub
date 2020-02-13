@@ -1,4 +1,4 @@
-# $339. 嵌套列表权重和
+# $339. [简单] 嵌套列表权重和
 
 **题目链接：**[https://leetcode-cn.com/problems/nested-list-weight-sum](https://leetcode-cn.com/problems/nested-list-weight-sum)
 

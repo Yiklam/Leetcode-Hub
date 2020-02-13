@@ -1,4 +1,4 @@
-# 295. 数据流的中位数
+# 295. [困难] 数据流的中位数
 
 **题目链接：**[https://leetcode-cn.com/problems/find-median-from-data-stream](https://leetcode-cn.com/problems/find-median-from-data-stream)
 

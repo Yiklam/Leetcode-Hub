@@ -1,4 +1,4 @@
-# 84. 柱状图中最大的矩形
+# 84. [困难] 柱状图中最大的矩形
 
 **题目链接：**[https://leetcode-cn.com/problems/largest-rectangle-in-histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram)
 

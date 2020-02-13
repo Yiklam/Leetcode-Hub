@@ -1,4 +1,4 @@
-# 46. 全排列
+# 46. [中等] 全排列
 
 **题目链接：**[https://leetcode-cn.com/problems/permutations](https://leetcode-cn.com/problems/permutations)
 

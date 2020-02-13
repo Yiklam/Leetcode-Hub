@@ -1,4 +1,4 @@
-# 178. 分数排名
+# 178. [中等] 分数排名
 
 **题目链接：**[https://leetcode-cn.com/problems/rank-scores](https://leetcode-cn.com/problems/rank-scores)
 
@@ -41,6 +41,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

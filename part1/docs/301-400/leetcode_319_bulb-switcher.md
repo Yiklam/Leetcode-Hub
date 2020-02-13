@@ -1,4 +1,4 @@
-# 319. 灯泡开关
+# 319. [中等] 灯泡开关
 
 **题目链接：**[https://leetcode-cn.com/problems/bulb-switcher](https://leetcode-cn.com/problems/bulb-switcher)
 

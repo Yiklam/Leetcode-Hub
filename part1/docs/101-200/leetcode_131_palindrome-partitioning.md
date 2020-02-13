@@ -1,4 +1,4 @@
-# 131. 分割回文串
+# 131. [中等] 分割回文串
 
 **题目链接：**[https://leetcode-cn.com/problems/palindrome-partitioning](https://leetcode-cn.com/problems/palindrome-partitioning)
 

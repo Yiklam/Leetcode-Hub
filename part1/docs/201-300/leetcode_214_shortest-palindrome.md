@@ -1,4 +1,4 @@
-# 214. 最短回文串
+# 214. [困难] 最短回文串
 
 **题目链接：**[https://leetcode-cn.com/problems/shortest-palindrome](https://leetcode-cn.com/problems/shortest-palindrome)
 

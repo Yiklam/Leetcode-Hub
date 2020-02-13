@@ -1,4 +1,4 @@
-# 365. 水壶问题
+# 365. [中等] 水壶问题
 
 **题目链接：**[https://leetcode-cn.com/problems/water-and-jug-problem](https://leetcode-cn.com/problems/water-and-jug-problem)
 

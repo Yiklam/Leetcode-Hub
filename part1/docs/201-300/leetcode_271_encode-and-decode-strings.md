@@ -1,4 +1,4 @@
-# $271. 字符串的编码与解码
+# $271. [中等] 字符串的编码与解码
 
 **题目链接：**[https://leetcode-cn.com/problems/encode-and-decode-strings](https://leetcode-cn.com/problems/encode-and-decode-strings)
 

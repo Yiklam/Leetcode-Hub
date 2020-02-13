@@ -1,4 +1,4 @@
-# 242. 有效的字母异位词
+# 242. [简单] 有效的字母异位词
 
 **题目链接：**[https://leetcode-cn.com/problems/valid-anagram](https://leetcode-cn.com/problems/valid-anagram)
 

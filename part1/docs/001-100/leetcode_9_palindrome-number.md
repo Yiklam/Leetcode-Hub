@@ -1,4 +1,4 @@
-# 9. 回文数
+# 9. [简单] 回文数
 
 **题目链接：**[https://leetcode-cn.com/problems/palindrome-number](https://leetcode-cn.com/problems/palindrome-number)
 

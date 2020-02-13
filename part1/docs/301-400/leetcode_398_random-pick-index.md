@@ -1,4 +1,4 @@
-# 398. 随机数索引
+# 398. [中等] 随机数索引
 
 **题目链接：**[https://leetcode-cn.com/problems/random-pick-index](https://leetcode-cn.com/problems/random-pick-index)
 

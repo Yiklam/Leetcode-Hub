@@ -1,4 +1,4 @@
-# 120. 三角形最小路径和
+# 120. [中等] 三角形最小路径和
 
 **题目链接：**[https://leetcode-cn.com/problems/triangle](https://leetcode-cn.com/problems/triangle)
 

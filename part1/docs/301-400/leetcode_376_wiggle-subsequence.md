@@ -1,4 +1,4 @@
-# 376. 摆动序列
+# 376. [中等] 摆动序列
 
 **题目链接：**[https://leetcode-cn.com/problems/wiggle-subsequence](https://leetcode-cn.com/problems/wiggle-subsequence)
 

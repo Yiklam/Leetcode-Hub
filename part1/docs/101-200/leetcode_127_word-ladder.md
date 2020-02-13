@@ -1,4 +1,4 @@
-# 127. 单词接龙
+# 127. [中等] 单词接龙
 
 **题目链接：**[https://leetcode-cn.com/problems/word-ladder](https://leetcode-cn.com/problems/word-ladder)
 

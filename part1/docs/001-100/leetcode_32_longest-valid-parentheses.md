@@ -1,4 +1,4 @@
-# 32. 最长有效括号
+# 32. [困难] 最长有效括号
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-valid-parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses)
 

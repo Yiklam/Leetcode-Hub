@@ -1,4 +1,4 @@
-# 39. 组合总和
+# 39. [中等] 组合总和
 
 **题目链接：**[https://leetcode-cn.com/problems/combination-sum](https://leetcode-cn.com/problems/combination-sum)
 

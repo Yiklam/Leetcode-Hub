@@ -1,4 +1,4 @@
-# 203. 移除链表元素
+# 203. [简单] 移除链表元素
 
 **题目链接：**[https://leetcode-cn.com/problems/remove-linked-list-elements](https://leetcode-cn.com/problems/remove-linked-list-elements)
 

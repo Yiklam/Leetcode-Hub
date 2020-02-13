@@ -1,4 +1,4 @@
-# $252. 会议室
+# $252. [简单] 会议室
 
 **题目链接：**[https://leetcode-cn.com/problems/meeting-rooms](https://leetcode-cn.com/problems/meeting-rooms)
 

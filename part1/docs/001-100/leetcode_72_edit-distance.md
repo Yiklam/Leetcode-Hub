@@ -1,4 +1,4 @@
-# 72. 编辑距离
+# 72. [困难] 编辑距离
 
 **题目链接：**[https://leetcode-cn.com/problems/edit-distance](https://leetcode-cn.com/problems/edit-distance)
 

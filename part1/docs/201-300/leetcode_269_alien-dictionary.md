@@ -1,4 +1,4 @@
-# $269. 火星词典
+# $269. [困难] 火星词典
 
 **题目链接：**[https://leetcode-cn.com/problems/alien-dictionary](https://leetcode-cn.com/problems/alien-dictionary)
 

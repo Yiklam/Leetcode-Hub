@@ -1,4 +1,4 @@
-# 322. 零钱兑换
+# 322. [中等] 零钱兑换
 
 **题目链接：**[https://leetcode-cn.com/problems/coin-change](https://leetcode-cn.com/problems/coin-change)
 

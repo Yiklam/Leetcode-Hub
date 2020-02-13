@@ -1,4 +1,4 @@
-# $243. 最短单词距离
+# $243. [简单] 最短单词距离
 
 **题目链接：**[https://leetcode-cn.com/problems/shortest-word-distance](https://leetcode-cn.com/problems/shortest-word-distance)
 

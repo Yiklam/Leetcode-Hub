@@ -1,4 +1,4 @@
-# 221. 最大正方形
+# 221. [中等] 最大正方形
 
 **题目链接：**[https://leetcode-cn.com/problems/maximal-square](https://leetcode-cn.com/problems/maximal-square)
 

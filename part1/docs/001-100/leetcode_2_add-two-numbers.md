@@ -1,4 +1,4 @@
-# 2. 两数相加
+# 2. [中等] 两数相加
 
 **题目链接：**[https://leetcode-cn.com/problems/add-two-numbers](https://leetcode-cn.com/problems/add-two-numbers)
 

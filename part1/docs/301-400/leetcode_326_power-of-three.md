@@ -1,4 +1,4 @@
-# 326. 3的幂
+# 326. [简单] 3的幂
 
 **题目链接：**[https://leetcode-cn.com/problems/power-of-three](https://leetcode-cn.com/problems/power-of-three)
 

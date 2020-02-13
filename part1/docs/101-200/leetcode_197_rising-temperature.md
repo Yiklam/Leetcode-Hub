@@ -1,4 +1,4 @@
-# 197. 上升的温度
+# 197. [简单] 上升的温度
 
 **题目链接：**[https://leetcode-cn.com/problems/rising-temperature](https://leetcode-cn.com/problems/rising-temperature)
 
@@ -33,6 +33,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

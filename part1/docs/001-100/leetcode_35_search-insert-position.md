@@ -1,4 +1,4 @@
-# 35. 搜索插入位置
+# 35. [简单] 搜索插入位置
 
 **题目链接：**[https://leetcode-cn.com/problems/search-insert-position](https://leetcode-cn.com/problems/search-insert-position)
 

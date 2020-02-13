@@ -1,4 +1,4 @@
-# 343. 整数拆分
+# 343. [中等] 整数拆分
 
 **题目链接：**[https://leetcode-cn.com/problems/integer-break](https://leetcode-cn.com/problems/integer-break)
 

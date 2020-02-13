@@ -1,4 +1,4 @@
-# 106. 从中序与后序遍历序列构造二叉树
+# 106. [中等] 从中序与后序遍历序列构造二叉树
 
 **题目链接：**[https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)
 

@@ -1,4 +1,4 @@
-# 43. 字符串相乘
+# 43. [中等] 字符串相乘
 
 **题目链接：**[https://leetcode-cn.com/problems/multiply-strings](https://leetcode-cn.com/problems/multiply-strings)
 

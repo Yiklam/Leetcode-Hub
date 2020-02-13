@@ -1,4 +1,4 @@
-# 241. 为运算表达式设计优先级
+# 241. [中等] 为运算表达式设计优先级
 
 **题目链接：**[https://leetcode-cn.com/problems/different-ways-to-add-parentheses](https://leetcode-cn.com/problems/different-ways-to-add-parentheses)
 

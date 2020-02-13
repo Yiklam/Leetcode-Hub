@@ -1,4 +1,4 @@
-# 205. 同构字符串
+# 205. [简单] 同构字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/isomorphic-strings](https://leetcode-cn.com/problems/isomorphic-strings)
 

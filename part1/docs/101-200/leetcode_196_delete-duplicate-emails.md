@@ -1,4 +1,4 @@
-# 196. 删除重复的电子邮箱
+# 196. [简单] 删除重复的电子邮箱
 
 **题目链接：**[https://leetcode-cn.com/problems/delete-duplicate-emails](https://leetcode-cn.com/problems/delete-duplicate-emails)
 
@@ -35,6 +35,6 @@ Id 是这个表的主键。
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

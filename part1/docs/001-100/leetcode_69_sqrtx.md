@@ -1,4 +1,4 @@
-# 69. x 的平方根
+# 69. [简单] x 的平方根
 
 **题目链接：**[https://leetcode-cn.com/problems/sqrtx](https://leetcode-cn.com/problems/sqrtx)
 

@@ -1,4 +1,4 @@
-# $159. 至多包含两个不同字符的最长子串
+# $159. [中等] 至多包含两个不同字符的最长子串
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters](https://leetcode-cn.com/problems/longest-substring-with-at-most-two-distinct-characters)
 

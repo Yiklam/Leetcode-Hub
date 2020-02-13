@@ -1,4 +1,4 @@
-# 183. 从不订购的客户
+# 183. [简单] 从不订购的客户
 
 **题目链接：**[https://leetcode-cn.com/problems/customers-who-never-order](https://leetcode-cn.com/problems/customers-who-never-order)
 
@@ -44,6 +44,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

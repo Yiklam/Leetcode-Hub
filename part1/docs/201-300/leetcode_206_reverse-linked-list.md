@@ -1,4 +1,4 @@
-# 206. 反转链表
+# 206. [简单] 反转链表
 
 **题目链接：**[https://leetcode-cn.com/problems/reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list)
 

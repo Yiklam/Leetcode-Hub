@@ -1,4 +1,4 @@
-# 37. 解数独
+# 37. [困难] 解数独
 
 **题目链接：**[https://leetcode-cn.com/problems/sudoku-solver](https://leetcode-cn.com/problems/sudoku-solver)
 

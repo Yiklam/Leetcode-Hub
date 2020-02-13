@@ -1,4 +1,4 @@
-# 220. 存在重复元素 III
+# 220. [中等] 存在重复元素 III
 
 **题目链接：**[https://leetcode-cn.com/problems/contains-duplicate-iii](https://leetcode-cn.com/problems/contains-duplicate-iii)
 

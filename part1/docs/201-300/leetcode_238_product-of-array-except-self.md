@@ -1,4 +1,4 @@
-# 238. 除自身以外数组的乘积
+# 238. [中等] 除自身以外数组的乘积
 
 **题目链接：**[https://leetcode-cn.com/problems/product-of-array-except-self](https://leetcode-cn.com/problems/product-of-array-except-self)
 

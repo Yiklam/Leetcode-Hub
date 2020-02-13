@@ -1,4 +1,4 @@
-# 181. 超过经理收入的员工
+# 181. [简单] 超过经理收入的员工
 
 **题目链接：**[https://leetcode-cn.com/problems/employees-earning-more-than-their-managers](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers)
 
@@ -34,6 +34,6 @@
 
 ---
 
-```sh
+```sql
 # Write your MySQL query statement below
 ```

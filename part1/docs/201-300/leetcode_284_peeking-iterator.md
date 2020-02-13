@@ -1,4 +1,4 @@
-# 284. 顶端迭代器
+# 284. [中等] 顶端迭代器
 
 **题目链接：**[https://leetcode-cn.com/problems/peeking-iterator](https://leetcode-cn.com/problems/peeking-iterator)
 

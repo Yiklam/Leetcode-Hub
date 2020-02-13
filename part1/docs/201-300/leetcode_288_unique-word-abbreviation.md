@@ -1,4 +1,4 @@
-# $288. 单词的唯一缩写
+# $288. [中等] 单词的唯一缩写
 
 **题目链接：**[https://leetcode-cn.com/problems/unique-word-abbreviation](https://leetcode-cn.com/problems/unique-word-abbreviation)
 

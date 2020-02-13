@@ -1,4 +1,4 @@
-# 349. 两个数组的交集
+# 349. [简单] 两个数组的交集
 
 **题目链接：**[https://leetcode-cn.com/problems/intersection-of-two-arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays)
 

@@ -1,4 +1,4 @@
-# 76. 最小覆盖子串
+# 76. [困难] 最小覆盖子串
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-window-substring](https://leetcode-cn.com/problems/minimum-window-substring)
 

@@ -1,4 +1,4 @@
-# $281. 锯齿迭代器
+# $281. [中等] 锯齿迭代器
 
 **题目链接：**[https://leetcode-cn.com/problems/zigzag-iterator](https://leetcode-cn.com/problems/zigzag-iterator)
 

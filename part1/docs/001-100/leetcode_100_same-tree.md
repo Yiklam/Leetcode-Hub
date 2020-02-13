@@ -1,4 +1,4 @@
-# 100. 相同的树
+# 100. [简单] 相同的树
 
 **题目链接：**[https://leetcode-cn.com/problems/same-tree](https://leetcode-cn.com/problems/same-tree)
 

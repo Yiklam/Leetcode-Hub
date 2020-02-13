@@ -1,4 +1,4 @@
-# 374. 猜数字大小
+# 374. [简单] 猜数字大小
 
 **题目链接：**[https://leetcode-cn.com/problems/guess-number-higher-or-lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower)
 

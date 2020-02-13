@@ -1,4 +1,4 @@
-# 47. 全排列 II
+# 47. [中等] 全排列 II
 
 **题目链接：**[https://leetcode-cn.com/problems/permutations-ii](https://leetcode-cn.com/problems/permutations-ii)
 

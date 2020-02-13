@@ -1,4 +1,4 @@
-# 124. 二叉树中的最大路径和
+# 124. [困难] 二叉树中的最大路径和
 
 **题目链接：**[https://leetcode-cn.com/problems/binary-tree-maximum-path-sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum)
 

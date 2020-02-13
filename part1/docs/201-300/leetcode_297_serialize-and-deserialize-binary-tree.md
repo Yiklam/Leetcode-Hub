@@ -1,4 +1,4 @@
-# 297. 二叉树的序列化与反序列化
+# 297. [困难] 二叉树的序列化与反序列化
 
 **题目链接：**[https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree)
 

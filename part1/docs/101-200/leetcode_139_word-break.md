@@ -1,4 +1,4 @@
-# 139. 单词拆分
+# 139. [中等] 单词拆分
 
 **题目链接：**[https://leetcode-cn.com/problems/word-break](https://leetcode-cn.com/problems/word-break)
 

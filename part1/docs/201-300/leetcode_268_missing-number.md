@@ -1,4 +1,4 @@
-# 268. 缺失数字
+# 268. [简单] 缺失数字
 
 **题目链接：**[https://leetcode-cn.com/problems/missing-number](https://leetcode-cn.com/problems/missing-number)
 

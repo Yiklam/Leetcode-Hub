@@ -1,4 +1,4 @@
-# 332. 重新安排行程
+# 332. [中等] 重新安排行程
 
 **题目链接：**[https://leetcode-cn.com/problems/reconstruct-itinerary](https://leetcode-cn.com/problems/reconstruct-itinerary)
 

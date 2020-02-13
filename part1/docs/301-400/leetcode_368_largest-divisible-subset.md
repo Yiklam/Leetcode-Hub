@@ -1,4 +1,4 @@
-# 368. 最大整除子集
+# 368. [中等] 最大整除子集
 
 **题目链接：**[https://leetcode-cn.com/problems/largest-divisible-subset](https://leetcode-cn.com/problems/largest-divisible-subset)
 

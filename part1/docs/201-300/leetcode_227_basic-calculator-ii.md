@@ -1,4 +1,4 @@
-# 227. 基本计算器 II
+# 227. [中等] 基本计算器 II
 
 **题目链接：**[https://leetcode-cn.com/problems/basic-calculator-ii](https://leetcode-cn.com/problems/basic-calculator-ii)
 

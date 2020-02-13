@@ -1,4 +1,4 @@
-# 16. 最接近的三数之和
+# 16. [中等] 最接近的三数之和
 
 **题目链接：**[https://leetcode-cn.com/problems/3sum-closest](https://leetcode-cn.com/problems/3sum-closest)
 

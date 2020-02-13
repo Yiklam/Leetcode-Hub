@@ -1,4 +1,4 @@
-# 195. 第十行
+# 195. [简单] 第十行
 
 **题目链接：**[https://leetcode-cn.com/problems/tenth-line](https://leetcode-cn.com/problems/tenth-line)
 
@@ -29,6 +29,6 @@ Line 10
 
 ---
 
-```sh
+```
 # Read from the file file.txt and output the tenth line to stdout.
 ```

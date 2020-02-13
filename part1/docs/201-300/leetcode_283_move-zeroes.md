@@ -1,4 +1,4 @@
-# 283. 移动零
+# 283. [简单] 移动零
 
 **题目链接：**[https://leetcode-cn.com/problems/move-zeroes](https://leetcode-cn.com/problems/move-zeroes)
 

@@ -1,4 +1,4 @@
-# $362. 敲击计数器
+# $362. [中等] 敲击计数器
 
 **题目链接：**[https://leetcode-cn.com/problems/design-hit-counter](https://leetcode-cn.com/problems/design-hit-counter)
 

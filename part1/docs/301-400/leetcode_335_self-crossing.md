@@ -1,4 +1,4 @@
-# 335. 路径交叉
+# 335. [困难] 路径交叉
 
 **题目链接：**[https://leetcode-cn.com/problems/self-crossing](https://leetcode-cn.com/problems/self-crossing)
 

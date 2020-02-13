@@ -1,4 +1,4 @@
-# $253. 会议室 II
+# $253. [中等] 会议室 II
 
 **题目链接：**[https://leetcode-cn.com/problems/meeting-rooms-ii](https://leetcode-cn.com/problems/meeting-rooms-ii)
 

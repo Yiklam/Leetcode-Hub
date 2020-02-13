@@ -1,4 +1,4 @@
-# 55. 跳跃游戏
+# 55. [中等] 跳跃游戏
 
 **题目链接：**[https://leetcode-cn.com/problems/jump-game](https://leetcode-cn.com/problems/jump-game)
 

@@ -1,4 +1,4 @@
-# 338. 比特位计数
+# 338. [中等] 比特位计数
 
 **题目链接：**[https://leetcode-cn.com/problems/counting-bits](https://leetcode-cn.com/problems/counting-bits)
 

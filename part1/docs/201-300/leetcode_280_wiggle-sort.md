@@ -1,4 +1,4 @@
-# $280. 摆动排序
+# $280. [中等] 摆动排序
 
 **题目链接：**[https://leetcode-cn.com/problems/wiggle-sort](https://leetcode-cn.com/problems/wiggle-sort)
 

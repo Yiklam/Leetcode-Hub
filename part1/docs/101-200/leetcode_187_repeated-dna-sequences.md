@@ -1,4 +1,4 @@
-# 187. 重复的DNA序列
+# 187. [中等] 重复的DNA序列
 
 **题目链接：**[https://leetcode-cn.com/problems/repeated-dna-sequences](https://leetcode-cn.com/problems/repeated-dna-sequences)
 

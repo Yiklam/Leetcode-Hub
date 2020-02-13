@@ -1,4 +1,4 @@
-# 225. 用队列实现栈
+# 225. [简单] 用队列实现栈
 
 **题目链接：**[https://leetcode-cn.com/problems/implement-stack-using-queues](https://leetcode-cn.com/problems/implement-stack-using-queues)
 

@@ -1,4 +1,4 @@
-# 239. 滑动窗口最大值
+# 239. [困难] 滑动窗口最大值
 
 **题目链接：**[https://leetcode-cn.com/problems/sliding-window-maximum](https://leetcode-cn.com/problems/sliding-window-maximum)
 

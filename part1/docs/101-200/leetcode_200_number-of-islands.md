@@ -1,4 +1,4 @@
-# 200. 岛屿数量
+# 200. [中等] 岛屿数量
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-islands](https://leetcode-cn.com/problems/number-of-islands)
 

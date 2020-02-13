@@ -1,4 +1,4 @@
-# 274. H指数
+# 274. [中等] H指数
 
 **题目链接：**[https://leetcode-cn.com/problems/h-index](https://leetcode-cn.com/problems/h-index)
 

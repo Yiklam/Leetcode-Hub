@@ -1,4 +1,4 @@
-# 87. 扰乱字符串
+# 87. [困难] 扰乱字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/scramble-string](https://leetcode-cn.com/problems/scramble-string)
 

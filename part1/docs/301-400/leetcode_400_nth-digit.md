@@ -1,4 +1,4 @@
-# 400. 第N个数字
+# 400. [中等] 第N个数字
 
 **题目链接：**[https://leetcode-cn.com/problems/nth-digit](https://leetcode-cn.com/problems/nth-digit)
 

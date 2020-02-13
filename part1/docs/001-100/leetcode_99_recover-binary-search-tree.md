@@ -1,4 +1,4 @@
-# 99. 恢复二叉搜索树
+# 99. [困难] 恢复二叉搜索树
 
 **题目链接：**[https://leetcode-cn.com/problems/recover-binary-search-tree](https://leetcode-cn.com/problems/recover-binary-search-tree)
 

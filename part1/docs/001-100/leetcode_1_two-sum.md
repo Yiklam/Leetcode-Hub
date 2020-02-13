@@ -1,4 +1,4 @@
-# 1. 两数之和
+# 1. [简单] 两数之和
 
 **题目链接：**[https://leetcode-cn.com/problems/two-sum](https://leetcode-cn.com/problems/two-sum)
 

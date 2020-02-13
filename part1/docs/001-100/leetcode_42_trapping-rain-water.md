@@ -1,4 +1,4 @@
-# 42. 接雨水
+# 42. [困难] 接雨水
 
 **题目链接：**[https://leetcode-cn.com/problems/trapping-rain-water](https://leetcode-cn.com/problems/trapping-rain-water)
 

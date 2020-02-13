@@ -1,4 +1,4 @@
-# 386. 字典序排数
+# 386. [中等] 字典序排数
 
 **题目链接：**[https://leetcode-cn.com/problems/lexicographical-numbers](https://leetcode-cn.com/problems/lexicographical-numbers)
 

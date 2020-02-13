@@ -1,4 +1,4 @@
-# 15. 三数之和
+# 15. [中等] 三数之和
 
 **题目链接：**[https://leetcode-cn.com/problems/3sum](https://leetcode-cn.com/problems/3sum)
 
