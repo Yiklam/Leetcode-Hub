@@ -1,4 +1,4 @@
-# 1290. 二进制链表转整数
+# 1290. [简单] 二进制链表转整数
 
 **题目链接：**[https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer)
 
@@ -43,8 +43,18 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public int getDecimalValue(ListNode head) {
+        
+    }
+}
 ```

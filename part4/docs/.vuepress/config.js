@@ -14,7 +14,7 @@ module.exports = {
     nav: getNav(),
     sidebar: getSidebar()
   },
-  evergreen: true
+  evergreen: true,
 };
 
 function getNav() {
@@ -36,8 +36,7 @@ function getNav() {
     },
     {
       text: "1201-1600",
-      link:
-        "/1201-1300/leetcode_1201_ugly-number-iii.html"
+      link: "/1201-1300/leetcode_1201_ugly-number-iii.html"
     },
     {
       text: "题集",
@@ -49,6 +48,10 @@ function getNav() {
         {
           text: "1301-1400",
           link: "/1301-1400/leetcode_1301_number-of-paths-with-max-score/"
+        },
+        {
+          text: "面试题",
+          link: "/interviews/leetcode_面试题 01.01_is-unique-lcci/"
         }
       ]
     }
@@ -64,6 +67,10 @@ function getSidebar() {
     {
       title: "1301-1400",
       children: require("./sidebar/sidebarOf1301To1400")
+    },
+    {
+      title: "面试题",
+      children: require("./sidebar/sidebarOfInterviews")
     }
   ];
 }

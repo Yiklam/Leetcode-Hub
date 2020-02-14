@@ -1,4 +1,4 @@
-# 1314. 矩阵区域和
+# 1314. [中等] 矩阵区域和
 
 **题目链接：**[https://leetcode-cn.com/problems/matrix-block-sum](https://leetcode-cn.com/problems/matrix-block-sum)
 
@@ -33,8 +33,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[][] matrixBlockSum(int[][] mat, int K) {
+        
+    }
+}
 ```

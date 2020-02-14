@@ -1,4 +1,4 @@
-# 1281. 整数的各位积和之差
+# 1281. [简单] 整数的各位积和之差
 
 **题目链接：**[https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)
 
@@ -34,8 +34,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int subtractProductAndSum(int n) {
+        
+    }
+}
 ```

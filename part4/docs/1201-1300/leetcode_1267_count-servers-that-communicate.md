@@ -1,4 +1,4 @@
-# 1267. 统计参与通信的服务器
+# 1267. [中等] 统计参与通信的服务器
 
 **题目链接：**[https://leetcode-cn.com/problems/count-servers-that-communicate](https://leetcode-cn.com/problems/count-servers-that-communicate)
 
@@ -41,8 +41,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int countServers(int[][] grid) {
+        
+    }
+}
 ```

@@ -1,4 +1,4 @@
-# 1260. 二维网格迁移
+# 1260. [简单] 二维网格迁移
 
 **题目链接：**[https://leetcode-cn.com/problems/shift-2d-grid](https://leetcode-cn.com/problems/shift-2d-grid)
 
@@ -42,8 +42,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<List<Integer>> shiftGrid(int[][] grid, int k) {
+        
+    }
+}
 ```

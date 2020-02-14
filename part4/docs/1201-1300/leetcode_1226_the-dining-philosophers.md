@@ -1,4 +1,4 @@
-# 1226. 哲学家进餐
+# 1226. [中等] 哲学家进餐
 
 **题目链接：**[https://leetcode-cn.com/problems/the-dining-philosophers](https://leetcode-cn.com/problems/the-dining-philosophers)
 
@@ -45,8 +45,21 @@ output[i] = [a, b, c] (3个整数)
 
 ---
 
-**AC 代码：**
-
 ```java
+class DiningPhilosophers {
 
+    public DiningPhilosophers() {
+        
+    }
+
+    // call the run() method of any runnable to execute its code
+    public void wantsToEat(int philosopher,
+                           Runnable pickLeftFork,
+                           Runnable pickRightFork,
+                           Runnable eat,
+                           Runnable putLeftFork,
+                           Runnable putRightFork) throws InterruptedException {
+        
+    }
+}
 ```

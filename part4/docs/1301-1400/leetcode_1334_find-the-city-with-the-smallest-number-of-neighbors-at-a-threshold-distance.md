@@ -1,4 +1,4 @@
-# 1334. 阈值距离内邻居最少的城市
+# 1334. [中等] 阈值距离内邻居最少的城市
 
 **题目链接：**[https://leetcode-cn.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://leetcode-cn.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)
 
@@ -50,8 +50,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int findTheCity(int n, int[][] edges, int distanceThreshold) {
+        
+    }
+}
 ```

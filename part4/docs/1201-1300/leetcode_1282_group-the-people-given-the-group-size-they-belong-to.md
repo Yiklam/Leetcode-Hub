@@ -1,4 +1,4 @@
-# 1282. 用户分组
+# 1282. [中等] 用户分组
 
 **题目链接：**[https://leetcode-cn.com/problems/group-the-people-given-the-group-size-they-belong-to](https://leetcode-cn.com/problems/group-the-people-given-the-group-size-they-belong-to)
 
@@ -31,8 +31,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<List<Integer>> groupThePeople(int[] groupSizes) {
+        
+    }
+}
 ```

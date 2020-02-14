@@ -1,4 +1,4 @@
-# $1273. 删除树节点
+# $1273. [中等] 删除树节点
 
 **题目链接：**[https://leetcode-cn.com/problems/delete-tree-nodes](https://leetcode-cn.com/problems/delete-tree-nodes)
 
@@ -33,8 +33,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int deleteTreeNodes(int nodes, int[] parent, int[] value) {
+        
+    }
+}
 ```

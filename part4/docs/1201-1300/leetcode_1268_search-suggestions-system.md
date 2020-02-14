@@ -1,4 +1,4 @@
-# 1268. 搜索推荐系统
+# 1268. [中等] 搜索推荐系统
 
 **题目链接：**[https://leetcode-cn.com/problems/search-suggestions-system](https://leetcode-cn.com/problems/search-suggestions-system)
 
@@ -49,8 +49,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<List<String>> suggestedProducts(String[] products, String searchWord) {
+        
+    }
+}
 ```

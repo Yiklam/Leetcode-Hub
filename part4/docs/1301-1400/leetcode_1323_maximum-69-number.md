@@ -1,4 +1,4 @@
-# 1323. 6 和 9 组成的最大数字
+# 1323. [简单] 6 和 9 组成的最大数字
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-69-number](https://leetcode-cn.com/problems/maximum-69-number)
 
@@ -39,8 +39,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int maximum69Number (int num) {
+        
+    }
+}
 ```

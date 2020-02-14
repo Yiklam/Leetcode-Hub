@@ -1,4 +1,4 @@
-# $1271. 十六进制魔术数字
+# $1271. [简单] 十六进制魔术数字
 
 **题目链接：**[https://leetcode-cn.com/problems/hexspeak](https://leetcode-cn.com/problems/hexspeak)
 
@@ -31,8 +31,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String toHexspeak(String num) {
+        
+    }
+}
 ```

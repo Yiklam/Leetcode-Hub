@@ -1,4 +1,4 @@
-# 1223. 掷骰子模拟
+# 1223. [中等] 掷骰子模拟
 
 **题目链接：**[https://leetcode-cn.com/problems/dice-roll-simulation](https://leetcode-cn.com/problems/dice-roll-simulation)
 
@@ -36,8 +36,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int dieSimulator(int n, int[] rollMax) {
+        
+    }
+}
 ```

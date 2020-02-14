@@ -1,4 +1,4 @@
-# $1215. 步进数
+# $1215. [中等] 步进数
 
 **题目链接：**[https://leetcode-cn.com/problems/stepping-numbers](https://leetcode-cn.com/problems/stepping-numbers)
 
@@ -24,8 +24,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<Integer> countSteppingNumbers(int low, int high) {
+        
+    }
+}
 ```

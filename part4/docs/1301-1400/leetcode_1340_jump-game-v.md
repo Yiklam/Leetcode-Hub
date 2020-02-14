@@ -1,4 +1,4 @@
-# 1344. 跳跃游戏 V
+# 1340. [困难] 跳跃游戏 V
 
 **题目链接：**[https://leetcode-cn.com/problems/jump-game-v](https://leetcode-cn.com/problems/jump-game-v)
 
@@ -53,8 +53,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int maxJumps(int[] arr, int d) {
+        
+    }
+}
 ```

@@ -1,4 +1,4 @@
-# 1202. 交换字符串中的元素
+# 1202. [中等] 交换字符串中的元素
 
 **题目链接：**[https://leetcode-cn.com/problems/smallest-string-with-swaps](https://leetcode-cn.com/problems/smallest-string-with-swaps)
 
@@ -45,8 +45,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String smallestStringWithSwaps(String s, List<List<Integer>> pairs) {
+        
+    }
+}
 ```

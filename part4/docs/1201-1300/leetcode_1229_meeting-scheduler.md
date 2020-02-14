@@ -1,4 +1,4 @@
-# $1229. 安排会议日程
+# $1229. [中等] 安排会议日程
 
 **题目链接：**[https://leetcode-cn.com/problems/meeting-scheduler](https://leetcode-cn.com/problems/meeting-scheduler)
 
@@ -36,8 +36,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<Integer> minAvailableDuration(int[][] slots1, int[][] slots2, int duration) {
+        
+    }
+}
 ```

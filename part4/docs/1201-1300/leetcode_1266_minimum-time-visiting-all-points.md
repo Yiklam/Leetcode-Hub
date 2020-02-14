@@ -1,4 +1,4 @@
-# 1266. 访问所有点的最小时间
+# 1266. [简单] 访问所有点的最小时间
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-time-visiting-all-points](https://leetcode-cn.com/problems/minimum-time-visiting-all-points)
 
@@ -38,8 +38,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minTimeToVisitAllPoints(int[][] points) {
+        
+    }
+}
 ```

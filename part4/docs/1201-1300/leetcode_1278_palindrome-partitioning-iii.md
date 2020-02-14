@@ -1,4 +1,4 @@
-# 1278. 分割回文串 III
+# 1278. [困难] 分割回文串 III
 
 **题目链接：**[https://leetcode-cn.com/problems/palindrome-partitioning-iii](https://leetcode-cn.com/problems/palindrome-partitioning-iii)
 
@@ -38,8 +38,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int palindromePartition(String s, int k) {
+        
+    }
+}
 ```

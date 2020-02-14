@@ -1,4 +1,4 @@
-# 1291. 顺次数
+# 1291. [中等] 顺次数
 
 **题目链接：**[https://leetcode-cn.com/problems/sequential-digits](https://leetcode-cn.com/problems/sequential-digits)
 
@@ -27,8 +27,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<Integer> sequentialDigits(int low, int high) {
+        
+    }
+}
 ```

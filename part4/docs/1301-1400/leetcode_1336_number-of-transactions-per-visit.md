@@ -1,4 +1,4 @@
-# $1336. Number of Transactions per Visit
+# $1336. [困难] Number of Transactions per Visit
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-transactions-per-visit](https://leetcode-cn.com/problems/number-of-transactions-per-visit)
 
@@ -8,8 +8,6 @@
 
 ---
 
-**AC 代码：**
-
-```java
-
+```sql
+# Write your MySQL query statement below
 ```

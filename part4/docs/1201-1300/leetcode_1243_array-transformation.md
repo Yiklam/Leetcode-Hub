@@ -1,4 +1,4 @@
-# $1243. 数组变换
+# $1243. [简单] 数组变换
 
 **题目链接：**[https://leetcode-cn.com/problems/array-transformation](https://leetcode-cn.com/problems/array-transformation)
 
@@ -41,8 +41,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<Integer> transformArray(int[] arr) {
+        
+    }
+}
 ```

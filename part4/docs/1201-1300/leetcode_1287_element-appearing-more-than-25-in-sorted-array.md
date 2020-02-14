@@ -1,4 +1,4 @@
-# 1287. 有序数组中出现次数超过25%的元素
+# 1287. [简单] 有序数组中出现次数超过25%的元素
 
 **题目链接：**[https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array)
 
@@ -24,8 +24,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int findSpecialInteger(int[] arr) {
+        
+    }
+}
 ```

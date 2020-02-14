@@ -1,4 +1,4 @@
-# 1224. 最大相等频率
+# 1224. [困难] 最大相等频率
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-equal-frequency](https://leetcode-cn.com/problems/maximum-equal-frequency)
 
@@ -40,8 +40,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int maxEqualFreq(int[] nums) {
+        
+    }
+}
 ```

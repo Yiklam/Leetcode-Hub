@@ -1,4 +1,4 @@
-# 1239. 串联字符串的最大长度
+# 1239. [中等] 串联字符串的最大长度
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters)
 
@@ -35,8 +35,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int maxLength(List<String> arr) {
+        
+    }
+}
 ```

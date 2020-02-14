@@ -1,4 +1,4 @@
-# 1302. 层数最深叶子节点的和
+# 1302. [中等] 层数最深叶子节点的和
 
 **题目链接：**[https://leetcode-cn.com/problems/deepest-leaves-sum](https://leetcode-cn.com/problems/deepest-leaves-sum)
 
@@ -24,8 +24,19 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public int deepestLeavesSum(TreeNode root) {
+        
+    }
+}
 ```

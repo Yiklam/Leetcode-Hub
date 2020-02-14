@@ -1,4 +1,4 @@
-# LCP 3. 机器人大冒险
+# LCP 3. [中等] 机器人大冒险
 
 **题目链接：**[https://leetcode-cn.com/problems/programmable-robot](https://leetcode-cn.com/problems/programmable-robot)
 
@@ -40,8 +40,6 @@
 
 ---
 
-**AC 代码：**
-
-```java
+```
 
 ```

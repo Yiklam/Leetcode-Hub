@@ -1,4 +1,4 @@
-# 1222. 可以攻击国王的皇后
+# 1222. [中等] 可以攻击国王的皇后
 
 **题目链接：**[https://leetcode-cn.com/problems/queens-that-can-attack-the-king](https://leetcode-cn.com/problems/queens-that-can-attack-the-king)
 
@@ -48,8 +48,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<List<Integer>> queensAttacktheKing(int[][] queens, int[] king) {
+        
+    }
+}
 ```

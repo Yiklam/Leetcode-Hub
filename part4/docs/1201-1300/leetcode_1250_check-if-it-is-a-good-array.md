@@ -1,4 +1,4 @@
-# 1250. 检查「好数组」
+# 1250. [困难] 检查「好数组」
 
 **题目链接：**[https://leetcode-cn.com/problems/check-if-it-is-a-good-array](https://leetcode-cn.com/problems/check-if-it-is-a-good-array)
 
@@ -36,8 +36,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean isGoodArray(int[] nums) {
+        
+    }
+}
 ```

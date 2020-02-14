@@ -1,4 +1,4 @@
-# 1232. 缀点成线
+# 1232. [简单] 缀点成线
 
 **题目链接：**[https://leetcode-cn.com/problems/check-if-it-is-a-straight-line](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line)
 
@@ -32,8 +32,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean checkStraightLine(int[][] coordinates) {
+        
+    }
+}
 ```

@@ -1,4 +1,4 @@
-# 1326. 灌溉花园的最少水龙头数目
+# 1326. [困难] 灌溉花园的最少水龙头数目
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-number-of-taps-to-open-to-water-a-garden](https://leetcode-cn.com/problems/minimum-number-of-taps-to-open-to-water-a-garden)
 
@@ -53,8 +53,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minTaps(int n, int[] ranges) {
+        
+    }
+}
 ```

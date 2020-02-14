@@ -1,4 +1,4 @@
-# 1263. 推箱子
+# 1263. [困难] 推箱子
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-moves-to-move-a-box-to-their-target-location](https://leetcode-cn.com/problems/minimum-moves-to-move-a-box-to-their-target-location)
 
@@ -67,8 +67,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minPushBox(char[][] grid) {
+        
+    }
+}
 ```

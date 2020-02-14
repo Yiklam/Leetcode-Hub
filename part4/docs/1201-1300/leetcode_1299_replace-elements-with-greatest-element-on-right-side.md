@@ -1,4 +1,4 @@
-# 1299. 将每个元素替换为右侧最大元素
+# 1299. [简单] 将每个元素替换为右侧最大元素
 
 **题目链接：**[https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side](https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side)
 
@@ -24,8 +24,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] replaceElements(int[] arr) {
+        
+    }
+}
 ```

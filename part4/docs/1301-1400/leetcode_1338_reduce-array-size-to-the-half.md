@@ -1,4 +1,4 @@
-# 1342. 数组大小减半
+# 1338. [中等] 数组大小减半
 
 **题目链接：**[https://leetcode-cn.com/problems/reduce-array-size-to-the-half](https://leetcode-cn.com/problems/reduce-array-size-to-the-half)
 
@@ -45,8 +45,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minSetSize(int[] arr) {
+        
+    }
+}
 ```

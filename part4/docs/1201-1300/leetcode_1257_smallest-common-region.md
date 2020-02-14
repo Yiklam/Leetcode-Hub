@@ -1,4 +1,4 @@
-# $1257. 最小公共区域
+# $1257. [中等] 最小公共区域
 
 **题目链接：**[https://leetcode-cn.com/problems/smallest-common-region](https://leetcode-cn.com/problems/smallest-common-region)
 
@@ -35,8 +35,10 @@ region2 = "New York"
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String findSmallestRegion(List<List<String>> regions, String region1, String region2) {
+        
+    }
+}
 ```

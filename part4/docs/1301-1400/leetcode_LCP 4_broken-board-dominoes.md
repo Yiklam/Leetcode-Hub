@@ -1,4 +1,4 @@
-# LCP 4. 覆盖
+# LCP 4. [困难] 覆盖
 
 **题目链接：**[https://leetcode-cn.com/problems/broken-board-dominoes](https://leetcode-cn.com/problems/broken-board-dominoes)
 
@@ -35,8 +35,6 @@
 
 ---
 
-**AC 代码：**
-
-```java
+```
 
 ```

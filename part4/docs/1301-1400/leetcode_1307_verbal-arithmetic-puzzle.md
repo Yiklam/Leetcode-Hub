@@ -1,4 +1,4 @@
-# 1307. 口算难题
+# 1307. [困难] 口算难题
 
 **题目链接：**[https://leetcode-cn.com/problems/verbal-arithmetic-puzzle](https://leetcode-cn.com/problems/verbal-arithmetic-puzzle)
 
@@ -47,8 +47,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean isSolvable(String[] words, String result) {
+        
+    }
+}
 ```

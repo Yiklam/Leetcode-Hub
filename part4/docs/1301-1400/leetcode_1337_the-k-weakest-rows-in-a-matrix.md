@@ -1,4 +1,4 @@
-# 1341. 方阵中战斗力最弱的 K 行
+# 1337. [简单] 方阵中战斗力最弱的 K 行
 
 **题目链接：**[https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix)
 
@@ -59,8 +59,10 @@ k = 2
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] kWeakestRows(int[][] mat, int k) {
+        
+    }
+}
 ```

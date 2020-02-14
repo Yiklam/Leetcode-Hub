@@ -1,4 +1,4 @@
-# 1219. 黄金矿工
+# 1219. [中等] 黄金矿工
 
 **题目链接：**[https://leetcode-cn.com/problems/path-with-maximum-gold](https://leetcode-cn.com/problems/path-with-maximum-gold)
 
@@ -48,8 +48,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int getMaximumGold(int[][] grid) {
+        
+    }
+}
 ```

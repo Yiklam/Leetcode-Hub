@@ -1,4 +1,4 @@
-# 1277. 统计全为 1 的正方形子矩阵
+# 1277. [中等] 统计全为 1 的正方形子矩阵
 
 **题目链接：**[https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones](https://leetcode-cn.com/problems/count-square-submatrices-with-all-ones)
 
@@ -47,8 +47,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int countSquares(int[][] matrix) {
+        
+    }
+}
 ```

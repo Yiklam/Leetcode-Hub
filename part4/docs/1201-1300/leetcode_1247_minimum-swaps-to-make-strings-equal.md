@@ -1,4 +1,4 @@
-# 1247. 交换字符使得字符串相同
+# 1247. [中等] 交换字符使得字符串相同
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal](https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal)
 
@@ -42,8 +42,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minimumSwap(String s1, String s2) {
+        
+    }
+}
 ```

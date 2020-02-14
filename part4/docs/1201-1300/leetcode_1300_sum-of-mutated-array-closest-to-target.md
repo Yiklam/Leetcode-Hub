@@ -1,4 +1,4 @@
-# 1300. 转变数组后最接近目标值的数组和
+# 1300. [中等] 转变数组后最接近目标值的数组和
 
 **题目链接：**[https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target)
 
@@ -34,8 +34,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int findBestValue(int[] arr, int target) {
+        
+    }
+}
 ```

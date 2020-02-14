@@ -1,4 +1,4 @@
-# $1212. 查询球队积分
+# $1212. [中等] 查询球队积分
 
 **题目链接：**[https://leetcode-cn.com/problems/team-scores-in-football-tournament](https://leetcode-cn.com/problems/team-scores-in-football-tournament)
 
@@ -8,8 +8,6 @@
 
 ---
 
-**AC 代码：**
-
-```java
-
+```sql
+# Write your MySQL query statement below
 ```

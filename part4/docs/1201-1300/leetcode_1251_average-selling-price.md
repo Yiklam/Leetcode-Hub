@@ -1,4 +1,4 @@
-# $1251. 平均售价
+# $1251. [简单] 平均售价
 
 **题目链接：**[https://leetcode-cn.com/problems/average-selling-price](https://leetcode-cn.com/problems/average-selling-price)
 
@@ -8,8 +8,6 @@
 
 ---
 
-**AC 代码：**
-
-```java
-
+```sql
+# Write your MySQL query statement below
 ```

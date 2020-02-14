@@ -1,4 +1,4 @@
-# 1301. 最大得分的路径数目
+# 1301. [困难] 最大得分的路径数目
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-paths-with-max-score](https://leetcode-cn.com/problems/number-of-paths-with-max-score)
 
@@ -34,8 +34,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] pathsWithMaxScore(List<String> board) {
+        
+    }
+}
 ```

@@ -1,4 +1,4 @@
-# 1305. 两棵二叉搜索树中的所有元素
+# 1305. [中等] 两棵二叉搜索树中的所有元素
 
 **题目链接：**[https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees)
 
@@ -42,8 +42,19 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public List<Integer> getAllElements(TreeNode root1, TreeNode root2) {
+        
+    }
+}
 ```

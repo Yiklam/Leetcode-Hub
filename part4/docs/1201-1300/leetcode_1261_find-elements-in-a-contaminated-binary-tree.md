@@ -1,4 +1,4 @@
-# 1261. 在受污染的二叉树中查找元素
+# 1261. [中等] 在受污染的二叉树中查找元素
 
 **题目链接：**[https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree](https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree)
 
@@ -70,8 +70,30 @@ findElements.find(5); // return True
 
 ---
 
-**AC 代码：**
-
 ```java
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class FindElements {
 
+    public FindElements(TreeNode root) {
+        
+    }
+    
+    public boolean find(int target) {
+        
+    }
+}
+
+/**
+ * Your FindElements object will be instantiated and called as such:
+ * FindElements obj = new FindElements(root);
+ * boolean param_1 = obj.find(target);
+ */
 ```

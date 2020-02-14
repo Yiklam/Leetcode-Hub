@@ -1,4 +1,4 @@
-# 1255. 得分最高的单词集合
+# 1255. [困难] 得分最高的单词集合
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-score-words-formed-by-letters](https://leetcode-cn.com/problems/maximum-score-words-formed-by-letters)
 
@@ -52,8 +52,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int maxScoreWords(String[] words, char[] letters, int[] score) {
+        
+    }
+}
 ```

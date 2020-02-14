@@ -1,4 +1,4 @@
-# 1318. 或运算的最小翻转次数
+# 1318. [中等] 或运算的最小翻转次数
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c)
 
@@ -35,8 +35,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minFlips(int a, int b, int c) {
+        
+    }
+}
 ```

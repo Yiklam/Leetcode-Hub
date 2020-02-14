@@ -1,4 +1,4 @@
-# 1293. 网格中的最短路径
+# 1293. [困难] 网格中的最短路径
 
 **题目链接：**[https://leetcode-cn.com/problems/shortest-path-in-a-grid-with-obstacles-elimination](https://leetcode-cn.com/problems/shortest-path-in-a-grid-with-obstacles-elimination)
 
@@ -50,8 +50,10 @@ k = 1
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int shortestPath(int[][] grid, int k) {
+        
+    }
+}
 ```

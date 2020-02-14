@@ -1,4 +1,4 @@
-# $1308. Running Total for Different Genders
+# $1308. [中等] Running Total for Different Genders
 
 **题目链接：**[https://leetcode-cn.com/problems/running-total-for-different-genders](https://leetcode-cn.com/problems/running-total-for-different-genders)
 
@@ -75,8 +75,6 @@ Fifth day is 2020-01-07, Bajrang scored 7 points and the total score for the tea
 
 ---
 
-**AC 代码：**
-
-```java
-
+```sql
+# Write your MySQL query statement below
 ```

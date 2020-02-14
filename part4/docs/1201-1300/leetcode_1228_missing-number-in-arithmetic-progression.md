@@ -1,4 +1,4 @@
-# $1228. 等差数列中缺失的数字
+# $1228. [简单] 等差数列中缺失的数字
 
 **题目链接：**[https://leetcode-cn.com/problems/missing-number-in-arithmetic-progression](https://leetcode-cn.com/problems/missing-number-in-arithmetic-progression)
 
@@ -33,8 +33,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int missingNumber(int[] arr) {
+        
+    }
+}
 ```

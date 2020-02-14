@@ -1,4 +1,4 @@
-# $1231. 分享巧克力
+# $1231. [困难] 分享巧克力
 
 **题目链接：**[https://leetcode-cn.com/problems/divide-chocolate](https://leetcode-cn.com/problems/divide-chocolate)
 
@@ -37,8 +37,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int maximizeSweetness(int[] sweetness, int K) {
+        
+    }
+}
 ```

@@ -1,4 +1,4 @@
-# $1256. 加密数字
+# $1256. [中等] 加密数字
 
 **题目链接：**[https://leetcode-cn.com/problems/encode-number](https://leetcode-cn.com/problems/encode-number)
 
@@ -28,8 +28,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String encode(int num) {
+        
+    }
+}
 ```

@@ -1,4 +1,4 @@
-# $1264. 页面推荐
+# $1264. [中等] 页面推荐
 
 **题目链接：**[https://leetcode-cn.com/problems/page-recommendations](https://leetcode-cn.com/problems/page-recommendations)
 
@@ -8,8 +8,6 @@
 
 ---
 
-**AC 代码：**
-
-```java
-
+```sql
+# Write your MySQL query statement below
 ```

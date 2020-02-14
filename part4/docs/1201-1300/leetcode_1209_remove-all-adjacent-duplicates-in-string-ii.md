@@ -1,4 +1,4 @@
-# 1209. 删除字符串中的所有相邻重复项 II
+# 1209. [中等] 删除字符串中的所有相邻重复项 II
 
 **题目链接：**[https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii)
 
@@ -38,8 +38,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String removeDuplicates(String s, int k) {
+        
+    }
+}
 ```

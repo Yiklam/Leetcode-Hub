@@ -1,4 +1,4 @@
-# 1233. 删除子文件夹
+# 1233. [中等] 删除子文件夹
 
 **题目链接：**[https://leetcode-cn.com/problems/remove-sub-folders-from-the-filesystem](https://leetcode-cn.com/problems/remove-sub-folders-from-the-filesystem)
 
@@ -45,8 +45,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<String> removeSubfolders(String[] folder) {
+        
+    }
+}
 ```

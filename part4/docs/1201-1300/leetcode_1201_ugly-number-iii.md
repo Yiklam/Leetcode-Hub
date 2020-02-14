@@ -1,4 +1,4 @@
-# 1201. 丑数 III
+# 1201. [中等] 丑数 III
 
 **题目链接：**[https://leetcode-cn.com/problems/ugly-number-iii](https://leetcode-cn.com/problems/ugly-number-iii)
 
@@ -39,8 +39,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int nthUglyNumber(int n, int a, int b, int c) {
+        
+    }
+}
 ```

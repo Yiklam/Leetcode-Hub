@@ -1,4 +1,4 @@
-# 1317. 将整数转换为两个无零整数的和
+# 1317. [简单] 将整数转换为两个无零整数的和
 
 **题目链接：**[https://leetcode-cn.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers](https://leetcode-cn.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers)
 
@@ -46,8 +46,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] getNoZeroIntegers(int n) {
+        
+    }
+}
 ```

@@ -1,4 +1,4 @@
-# 1284. 转化为全零矩阵的最少反转次数
+# 1284. [困难] 转化为全零矩阵的最少反转次数
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://leetcode-cn.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix)
 
@@ -46,8 +46,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minFlips(int[][] mat) {
+        
+    }
+}
 ```

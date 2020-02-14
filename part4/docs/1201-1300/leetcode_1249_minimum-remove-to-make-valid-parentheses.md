@@ -1,4 +1,4 @@
-# 1249. 移除无效的括号
+# 1249. [中等] 移除无效的括号
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses)
 
@@ -45,8 +45,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String minRemoveToMakeValid(String s) {
+        
+    }
+}
 ```

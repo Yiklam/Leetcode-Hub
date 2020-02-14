@@ -1,4 +1,4 @@
-# $1230. 抛掷硬币
+# $1230. [中等] 抛掷硬币
 
 **题目链接：**[https://leetcode-cn.com/problems/toss-strange-coins](https://leetcode-cn.com/problems/toss-strange-coins)
 
@@ -30,8 +30,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public double probabilityOfHeads(double[] prob, int target) {
+        
+    }
+}
 ```

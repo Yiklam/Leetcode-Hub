@@ -1,4 +1,4 @@
-# $1258. 近义词句子
+# $1258. [中等] 近义词句子
 
 **题目链接：**[https://leetcode-cn.com/problems/synonymous-sentences](https://leetcode-cn.com/problems/synonymous-sentences)
 
@@ -35,8 +35,10 @@ text = "I am happy today but was sad yesterday"
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<String> generateSentences(List<List<String>> synonyms, String text) {
+        
+    }
+}
 ```

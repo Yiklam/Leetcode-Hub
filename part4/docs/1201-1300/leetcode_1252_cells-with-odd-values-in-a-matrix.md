@@ -1,4 +1,4 @@
-# 1252. 奇数值单元格的数目
+# 1252. [简单] 奇数值单元格的数目
 
 **题目链接：**[https://leetcode-cn.com/problems/cells-with-odd-values-in-a-matrix](https://leetcode-cn.com/problems/cells-with-odd-values-in-a-matrix)
 
@@ -39,8 +39,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int oddCells(int n, int m, int[][] indices) {
+        
+    }
+}
 ```

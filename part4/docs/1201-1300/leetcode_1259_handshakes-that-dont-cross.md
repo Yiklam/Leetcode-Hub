@@ -1,4 +1,4 @@
-# $1259. 不相交的握手
+# $1259. [困难] 不相交的握手
 
 **题目链接：**[https://leetcode-cn.com/problems/handshakes-that-dont-cross](https://leetcode-cn.com/problems/handshakes-that-dont-cross)
 
@@ -40,8 +40,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int numberOfWays(int num_people) {
+        
+    }
+}
 ```

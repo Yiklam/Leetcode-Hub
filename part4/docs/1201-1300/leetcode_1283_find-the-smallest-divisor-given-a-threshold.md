@@ -1,4 +1,4 @@
-# 1283. 使结果不超过阈值的最小除数
+# 1283. [中等] 使结果不超过阈值的最小除数
 
 **题目链接：**[https://leetcode-cn.com/problems/find-the-smallest-divisor-given-a-threshold](https://leetcode-cn.com/problems/find-the-smallest-divisor-given-a-threshold)
 
@@ -37,8 +37,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int smallestDivisor(int[] nums, int threshold) {
+        
+    }
+}
 ```

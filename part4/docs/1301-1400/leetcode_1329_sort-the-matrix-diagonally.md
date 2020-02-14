@@ -1,4 +1,4 @@
-# 1329. 将矩阵按对角线排序
+# 1329. [中等] 将矩阵按对角线排序
 
 **题目链接：**[https://leetcode-cn.com/problems/sort-the-matrix-diagonally](https://leetcode-cn.com/problems/sort-the-matrix-diagonally)
 
@@ -26,8 +26,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[][] diagonalSort(int[][] mat) {
+        
+    }
+}
 ```

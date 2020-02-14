@@ -1,4 +1,4 @@
-# 1339. 分裂二叉树的最大乘积
+# 1339. [中等] 分裂二叉树的最大乘积
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-product-of-splitted-binary-tree](https://leetcode-cn.com/problems/maximum-product-of-splitted-binary-tree)
 
@@ -40,8 +40,19 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public int maxProduct(TreeNode root) {
+        
+    }
+}
 ```

@@ -1,4 +1,4 @@
-# 1276. 不浪费原料的汉堡制作方案
+# 1276. [中等] 不浪费原料的汉堡制作方案
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients)
 
@@ -49,8 +49,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<Integer> numOfBurgers(int tomatoSlices, int cheeseSlices) {
+        
+    }
+}
 ```

@@ -1,4 +1,4 @@
-# $1272. 删除区间
+# $1272. [中等] 删除区间
 
 **题目链接：**[https://leetcode-cn.com/problems/remove-interval](https://leetcode-cn.com/problems/remove-interval)
 
@@ -29,8 +29,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<List<Integer>> removeInterval(int[][] intervals, int[] toBeRemoved) {
+        
+    }
+}
 ```

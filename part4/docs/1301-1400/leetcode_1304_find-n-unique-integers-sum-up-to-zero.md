@@ -1,4 +1,4 @@
-# 1304. 和为零的N个唯一整数
+# 1304. [简单] 和为零的N个唯一整数
 
 **题目链接：**[https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero](https://leetcode-cn.com/problems/find-n-unique-integers-sum-up-to-zero)
 
@@ -31,8 +31,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] sumZero(int n) {
+        
+    }
+}
 ```

@@ -1,4 +1,4 @@
-# 1325. 删除给定值的叶子节点
+# 1325. [中等] 删除给定值的叶子节点
 
 **题目链接：**[https://leetcode-cn.com/problems/delete-leaves-with-a-given-value](https://leetcode-cn.com/problems/delete-leaves-with-a-given-value)
 
@@ -48,8 +48,19 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public TreeNode removeLeafNodes(TreeNode root, int target) {
+        
+    }
+}
 ```

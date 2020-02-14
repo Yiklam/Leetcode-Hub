@@ -1,4 +1,4 @@
-# $1294. 不同国家的天气类型
+# $1294. [简单] 不同国家的天气类型
 
 **题目链接：**[https://leetcode-cn.com/problems/weather-type-in-each-country](https://leetcode-cn.com/problems/weather-type-in-each-country)
 
@@ -94,8 +94,6 @@ Morocco 11 月的平均 weather_state 为 (25 + 27 + 31) / 3 = 27.667 所以天�
 
 ---
 
-**AC 代码：**
-
-```java
-
+```sql
+# Write your MySQL query statement below
 ```

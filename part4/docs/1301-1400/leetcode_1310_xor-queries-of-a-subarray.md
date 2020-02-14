@@ -1,4 +1,4 @@
-# 1310. 子数组异或查询
+# 1310. [中等] 子数组异或查询
 
 **题目链接：**[https://leetcode-cn.com/problems/xor-queries-of-a-subarray](https://leetcode-cn.com/problems/xor-queries-of-a-subarray)
 
@@ -43,8 +43,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] xorQueries(int[] arr, int[][] queries) {
+        
+    }
+}
 ```

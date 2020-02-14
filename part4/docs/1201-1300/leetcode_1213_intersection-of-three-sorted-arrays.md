@@ -1,4 +1,4 @@
-# $1213. 三个有序数组的交集
+# $1213. [简单] 三个有序数组的交集
 
 **题目链接：**[https://leetcode-cn.com/problems/intersection-of-three-sorted-arrays](https://leetcode-cn.com/problems/intersection-of-three-sorted-arrays)
 
@@ -25,8 +25,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<Integer> arraysIntersection(int[] arr1, int[] arr2, int[] arr3) {
+        
+    }
+}
 ```

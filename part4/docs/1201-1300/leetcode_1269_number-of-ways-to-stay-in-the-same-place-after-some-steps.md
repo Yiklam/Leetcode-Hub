@@ -1,4 +1,4 @@
-# 1269. 停在原地的方案数
+# 1269. [困难] 停在原地的方案数
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps)
 
@@ -42,8 +42,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int numWays(int steps, int arrLen) {
+        
+    }
+}
 ```

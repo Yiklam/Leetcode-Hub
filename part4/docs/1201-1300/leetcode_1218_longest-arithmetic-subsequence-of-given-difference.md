@@ -1,4 +1,4 @@
-# 1218. 最长定差子序列
+# 1218. [中等] 最长定差子序列
 
 **题目链接：**[https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference)
 
@@ -33,8 +33,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int longestSubsequence(int[] arr, int difference) {
+        
+    }
+}
 ```

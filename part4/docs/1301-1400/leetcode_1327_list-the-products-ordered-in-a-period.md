@@ -1,4 +1,4 @@
-# $1327. List the Products Ordered in a Period
+# $1327. [简单] List the Products Ordered in a Period
 
 **题目链接：**[https://leetcode-cn.com/problems/list-the-products-ordered-in-a-period](https://leetcode-cn.com/problems/list-the-products-ordered-in-a-period)
 
@@ -8,8 +8,6 @@
 
 ---
 
-**AC 代码：**
-
-```java
-
+```sql
+# Write your MySQL query statement below
 ```

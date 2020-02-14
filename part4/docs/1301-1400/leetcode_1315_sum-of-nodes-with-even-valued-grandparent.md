@@ -1,4 +1,4 @@
-# 1315. 祖父节点值为偶数的节点和
+# 1315. [中等] 祖父节点值为偶数的节点和
 
 **题目链接：**[https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent](https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent)
 
@@ -29,8 +29,19 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public int sumEvenGrandparent(TreeNode root) {
+        
+    }
+}
 ```

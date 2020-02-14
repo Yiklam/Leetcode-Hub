@@ -1,4 +1,4 @@
-# 1333. 餐厅过滤器
+# 1333. [中等] 餐厅过滤器
 
 **题目链接：**[https://leetcode-cn.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance](https://leetcode-cn.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance)
 
@@ -46,8 +46,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<Integer> filterRestaurants(int[][] restaurants, int veganFriendly, int maxPrice, int maxDistance) {
+        
+    }
+}
 ```

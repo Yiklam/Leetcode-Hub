@@ -1,4 +1,4 @@
-# 1238. 循环码排列
+# 1238. [中等] 循环码排列
 
 **题目链接：**[https://leetcode-cn.com/problems/circular-permutation-in-binary-representation](https://leetcode-cn.com/problems/circular-permutation-in-binary-representation)
 
@@ -35,8 +35,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<Integer> circularPermutation(int n, int start) {
+        
+    }
+}
 ```

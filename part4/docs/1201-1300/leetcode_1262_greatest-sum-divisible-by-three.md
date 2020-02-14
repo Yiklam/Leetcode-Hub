@@ -1,4 +1,4 @@
-# 1262. 可被三整除的最大和
+# 1262. [中等] 可被三整除的最大和
 
 **题目链接：**[https://leetcode-cn.com/problems/greatest-sum-divisible-by-three](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three)
 
@@ -35,8 +35,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int maxSumDivThree(int[] nums) {
+        
+    }
+}
 ```

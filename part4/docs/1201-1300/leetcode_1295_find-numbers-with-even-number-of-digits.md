@@ -1,4 +1,4 @@
-# 1295. 统计位数为偶数的数字
+# 1295. [简单] 统计位数为偶数的数字
 
 **题目链接：**[https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits)
 
@@ -36,8 +36,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int findNumbers(int[] nums) {
+        
+    }
+}
 ```

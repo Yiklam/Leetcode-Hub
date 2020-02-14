@@ -1,4 +1,4 @@
-# 1328. 破坏回文串
+# 1328. [中等] 破坏回文串
 
 **题目链接：**[https://leetcode-cn.com/problems/break-a-palindrome](https://leetcode-cn.com/problems/break-a-palindrome)
 
@@ -28,8 +28,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String breakPalindrome(String palindrome) {
+        
+    }
+}
 ```

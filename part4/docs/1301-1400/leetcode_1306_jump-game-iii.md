@@ -1,4 +1,4 @@
-# 1306. 跳跃游戏 III
+# 1306. [中等] 跳跃游戏 III
 
 **题目链接：**[https://leetcode-cn.com/problems/jump-game-iii](https://leetcode-cn.com/problems/jump-game-iii)
 
@@ -42,8 +42,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean canReach(int[] arr, int start) {
+        
+    }
+}
 ```

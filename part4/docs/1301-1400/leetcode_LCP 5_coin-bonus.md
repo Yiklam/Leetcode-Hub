@@ -1,4 +1,4 @@
-# LCP 5. 发 LeetCoin
+# LCP 5. [困难] 发 LeetCoin
 
 **题目链接：**[https://leetcode-cn.com/problems/coin-bonus](https://leetcode-cn.com/problems/coin-bonus)
 
@@ -55,8 +55,6 @@
 
 ---
 
-**AC 代码：**
-
-```java
+```
 
 ```

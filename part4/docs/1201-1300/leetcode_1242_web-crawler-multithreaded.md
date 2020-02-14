@@ -1,4 +1,4 @@
-# $1242. 多线程网页爬虫
+# $1242. [中等] 多线程网页爬虫
 
 **题目链接：**[https://leetcode-cn.com/problems/web-crawler-multithreaded](https://leetcode-cn.com/problems/web-crawler-multithreaded)
 
@@ -81,8 +81,17 @@ startUrl = "http://news.google.com"
 
 ---
 
-**AC 代码：**
-
 ```java
-
+/**
+ * // This is the HtmlParser's API interface.
+ * // You should not implement it, or speculate about its implementation
+ * interface HtmlParser {
+ *     public List<String> getUrls(String url) {}
+ * }
+ */
+class Solution {
+    public List<String> crawl(String startUrl, HtmlParser htmlParser) {
+        
+    }
+}
 ```

@@ -1,4 +1,4 @@
-# 1324. 竖直打印单词
+# 1324. [中等] 竖直打印单词
 
 **题目链接：**[https://leetcode-cn.com/problems/print-words-vertically](https://leetcode-cn.com/problems/print-words-vertically)
 
@@ -40,8 +40,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<String> printVertically(String s) {
+        
+    }
+}
 ```

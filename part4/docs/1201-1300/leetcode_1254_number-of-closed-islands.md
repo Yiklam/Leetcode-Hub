@@ -1,4 +1,4 @@
-# 1254. 统计封闭岛屿的数目
+# 1254. [中等] 统计封闭岛屿的数目
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-closed-islands](https://leetcode-cn.com/problems/number-of-closed-islands)
 
@@ -43,8 +43,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int closedIsland(int[][] grid) {
+        
+    }
+}
 ```

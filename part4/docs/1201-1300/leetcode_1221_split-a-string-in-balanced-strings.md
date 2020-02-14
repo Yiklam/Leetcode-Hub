@@ -1,4 +1,4 @@
-# 1221. 分割平衡字符串
+# 1221. [简单] 分割平衡字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/split-a-string-in-balanced-strings](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings)
 
@@ -36,8 +36,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int balancedStringSplit(String s) {
+        
+    }
+}
 ```

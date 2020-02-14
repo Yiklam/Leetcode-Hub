@@ -1,4 +1,4 @@
-# 1220. 统计元音字母序列的数目
+# 1220. [困难] 统计元音字母序列的数目
 
 **题目链接：**[https://leetcode-cn.com/problems/count-vowels-permutation](https://leetcode-cn.com/problems/count-vowels-permutation)
 
@@ -40,8 +40,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int countVowelPermutation(int n) {
+        
+    }
+}
 ```

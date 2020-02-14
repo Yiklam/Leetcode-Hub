@@ -1,4 +1,4 @@
-# 1292. 元素和小于等于阈值的正方形的最大边长
+# 1292. [中等] 元素和小于等于阈值的正方形的最大边长
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://leetcode-cn.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold)
 
@@ -40,8 +40,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int maxSideLength(int[][] mat, int threshold) {
+        
+    }
+}
 ```

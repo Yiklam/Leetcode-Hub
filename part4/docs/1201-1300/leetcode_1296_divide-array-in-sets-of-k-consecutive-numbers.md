@@ -1,4 +1,4 @@
-# 1296. 划分数组为连续数字的集合
+# 1296. [中等] 划分数组为连续数字的集合
 
 **题目链接：**[https://leetcode-cn.com/problems/divide-array-in-sets-of-k-consecutive-numbers](https://leetcode-cn.com/problems/divide-array-in-sets-of-k-consecutive-numbers)
 
@@ -39,8 +39,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean isPossibleDivide(int[] nums, int k) {
+        
+    }
+}
 ```

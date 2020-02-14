@@ -1,4 +1,4 @@
-# $1322. Ads Performance
+# $1322. [简单] Ads Performance
 
 **题目链接：**[https://leetcode-cn.com/problems/ads-performance](https://leetcode-cn.com/problems/ads-performance)
 
@@ -67,8 +67,6 @@ Result table is ordered by the ctr. in case of a tie we order them by ad_id
 
 ---
 
-**AC 代码：**
-
-```java
-
+```sql
+# Write your MySQL query statement below
 ```

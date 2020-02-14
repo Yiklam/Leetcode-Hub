@@ -1,4 +1,4 @@
-# $1204. Last Person to Fit in the Elevator
+# $1204. [中等] Last Person to Fit in the Elevator
 
 **题目链接：**[https://leetcode-cn.com/problems/last-person-to-fit-in-the-elevator](https://leetcode-cn.com/problems/last-person-to-fit-in-the-elevator)
 
@@ -8,8 +8,6 @@
 
 ---
 
-**AC 代码：**
-
-```java
-
+```sql
+# Write your MySQL query statement below
 ```

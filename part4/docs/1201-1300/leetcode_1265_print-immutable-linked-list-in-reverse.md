@@ -1,4 +1,4 @@
-# $1265. 逆序打印不可变链表
+# $1265. [中等] 逆序打印不可变链表
 
 **题目链接：**[https://leetcode-cn.com/problems/print-immutable-linked-list-in-reverse](https://leetcode-cn.com/problems/print-immutable-linked-list-in-reverse)
 
@@ -49,8 +49,19 @@
 
 ---
 
-**AC 代码：**
-
 ```java
+/**
+ * // This is the ImmutableListNode's API interface.
+ * // You should not implement it, or speculate about its implementation.
+ * interface ImmutableListNode {
+ *     public void printValue(); // print the value of this node.
+ *     public ImmutableListNode getNext(); // return the next node.
+ * };
+ */
 
+class Solution {
+    public void printLinkedListInReverse(ImmutableListNode head) {
+        
+    }
+}
 ```

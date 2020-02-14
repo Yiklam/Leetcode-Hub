@@ -1,4 +1,4 @@
-# 1234. 替换子串得到平衡字符串
+# 1234. [中等] 替换子串得到平衡字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string)
 
@@ -45,8 +45,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int balancedString(String s) {
+        
+    }
+}
 ```

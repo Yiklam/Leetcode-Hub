@@ -1,4 +1,4 @@
-# $1303. 求团队人数
+# $1303. [简单] 求团队人数
 
 **题目链接：**[https://leetcode-cn.com/problems/find-the-team-size](https://leetcode-cn.com/problems/find-the-team-size)
 
@@ -55,8 +55,6 @@ ID 为 5、6 的员工是 team_id 为 9 的团队的成员。
 
 ---
 
-**AC 代码：**
-
-```java
-
+```sql
+# Write your MySQL query statement below
 ```

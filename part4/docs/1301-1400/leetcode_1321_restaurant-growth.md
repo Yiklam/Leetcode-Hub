@@ -1,4 +1,4 @@
-# $1321. Restaurant Growth
+# $1321. [中等] Restaurant Growth
 
 **题目链接：**[https://leetcode-cn.com/problems/restaurant-growth](https://leetcode-cn.com/problems/restaurant-growth)
 
@@ -8,8 +8,6 @@
 
 ---
 
-**AC 代码：**
-
-```java
-
+```sql
+# Write your MySQL query statement below
 ```

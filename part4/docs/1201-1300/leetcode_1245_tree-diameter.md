@@ -1,4 +1,4 @@
-# $1245. 树的直径
+# $1245. [中等] 树的直径
 
 **题目链接：**[https://leetcode-cn.com/problems/tree-diameter](https://leetcode-cn.com/problems/tree-diameter)
 
@@ -37,8 +37,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int treeDiameter(int[][] edges) {
+        
+    }
+}
 ```

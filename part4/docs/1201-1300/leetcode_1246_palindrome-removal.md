@@ -1,4 +1,4 @@
-# $1246. 删除回文子数组
+# $1246. [困难] 删除回文子数组
 
 **题目链接：**[https://leetcode-cn.com/problems/palindrome-removal](https://leetcode-cn.com/problems/palindrome-removal)
 
@@ -30,8 +30,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minimumMoves(int[] arr) {
+        
+    }
+}
 ```

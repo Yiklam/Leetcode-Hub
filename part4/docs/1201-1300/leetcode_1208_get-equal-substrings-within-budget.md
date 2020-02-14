@@ -1,4 +1,4 @@
-# 1208. 尽可能使字符串相等
+# 1208. [中等] 尽可能使字符串相等
 
 **题目链接：**[https://leetcode-cn.com/problems/get-equal-substrings-within-budget](https://leetcode-cn.com/problems/get-equal-substrings-within-budget)
 
@@ -38,8 +38,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int equalSubstring(String s, String t, int maxCost) {
+        
+    }
+}
 ```

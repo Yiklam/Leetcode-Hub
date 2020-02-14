@@ -1,4 +1,4 @@
-# 1320. 二指输入的的最小距离
+# 1320. [困难] 二指输入的的最小距离
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-distance-to-type-a-word-using-two-fingers](https://leetcode-cn.com/problems/minimum-distance-to-type-a-word-using-two-fingers)
 
@@ -53,8 +53,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minimumDistance(String word) {
+        
+    }
+}
 ```

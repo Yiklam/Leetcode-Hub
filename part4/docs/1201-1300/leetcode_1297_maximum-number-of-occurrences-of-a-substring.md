@@ -1,4 +1,4 @@
-# 1297. 子串的最大出现次数
+# 1297. [中等] 子串的最大出现次数
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-number-of-occurrences-of-a-substring](https://leetcode-cn.com/problems/maximum-number-of-occurrences-of-a-substring)
 
@@ -44,8 +44,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int maxFreq(String s, int maxLetters, int minSize, int maxSize) {
+        
+    }
+}
 ```

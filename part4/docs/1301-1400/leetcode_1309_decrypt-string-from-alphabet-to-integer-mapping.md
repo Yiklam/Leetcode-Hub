@@ -1,4 +1,4 @@
-# 1309. 解码字母到整数映射
+# 1309. [简单] 解码字母到整数映射
 
 **题目链接：**[https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping](https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping)
 
@@ -43,8 +43,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String freqAlphabets(String s) {
+        
+    }
+}
 ```

@@ -1,4 +1,4 @@
-# 1298. 你能从盒子里获得的最大糖果数
+# 1298. [困难] 你能从盒子里获得的最大糖果数
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-candies-you-can-get-from-boxes](https://leetcode-cn.com/problems/maximum-candies-you-can-get-from-boxes)
 
@@ -66,8 +66,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int maxCandies(int[] status, int[] candies, int[][] keys, int[][] containedBoxes, int[] initialBoxes) {
+        
+    }
+}
 ```

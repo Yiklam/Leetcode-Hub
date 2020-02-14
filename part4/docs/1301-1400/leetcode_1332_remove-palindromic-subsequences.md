@@ -1,4 +1,4 @@
-# 1332. 删除回文子序列
+# 1332. [简单] 删除回文子序列
 
 **题目链接：**[https://leetcode-cn.com/problems/remove-palindromic-subsequences](https://leetcode-cn.com/problems/remove-palindromic-subsequences)
 
@@ -43,8 +43,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int removePalindromeSub(String s) {
+        
+    }
+}
 ```

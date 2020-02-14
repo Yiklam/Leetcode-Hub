@@ -1,4 +1,4 @@
-# 1210. 穿过迷宫的最少移动次数
+# 1210. [困难] 穿过迷宫的最少移动次数
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-moves-to-reach-target-with-rotations](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-with-rotations)
 
@@ -51,8 +51,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minimumMoves(int[][] grid) {
+        
+    }
+}
 ```

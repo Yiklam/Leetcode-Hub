@@ -1,4 +1,4 @@
-# 1330. 翻转子数组得到最大的数组值
+# 1330. [困难] 翻转子数组得到最大的数组值
 
 **题目链接：**[https://leetcode-cn.com/problems/reverse-subarray-to-maximize-array-value](https://leetcode-cn.com/problems/reverse-subarray-to-maximize-array-value)
 
@@ -30,8 +30,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int maxValueAfterReverse(int[] nums) {
+        
+    }
+}
 ```

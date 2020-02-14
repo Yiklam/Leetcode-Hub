@@ -1,4 +1,4 @@
-# LCP 2. 分式化简
+# LCP 2. [简单] 分式化简
 
 **题目链接：**[https://leetcode-cn.com/problems/deep-dark-fraction](https://leetcode-cn.com/problems/deep-dark-fraction)
 
@@ -32,8 +32,6 @@
 
 ---
 
-**AC 代码：**
-
-```java
+```
 
 ```

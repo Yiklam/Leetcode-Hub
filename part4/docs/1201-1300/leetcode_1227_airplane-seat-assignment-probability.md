@@ -1,4 +1,4 @@
-# 1227. 飞机座位分配概率
+# 1227. [中等] 飞机座位分配概率
 
 **题目链接：**[https://leetcode-cn.com/problems/airplane-seat-assignment-probability](https://leetcode-cn.com/problems/airplane-seat-assignment-probability)
 
@@ -33,8 +33,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public double nthPersonGetsNthSeat(int n) {
+        
+    }
+}
 ```

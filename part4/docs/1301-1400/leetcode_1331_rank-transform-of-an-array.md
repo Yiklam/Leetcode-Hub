@@ -1,4 +1,4 @@
-# 1331. 数组序号转换
+# 1331. [简单] 数组序号转换
 
 **题目链接：**[https://leetcode-cn.com/problems/rank-transform-of-an-array](https://leetcode-cn.com/problems/rank-transform-of-an-array)
 
@@ -38,8 +38,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] arrayRankTransform(int[] arr) {
+        
+    }
+}
 ```

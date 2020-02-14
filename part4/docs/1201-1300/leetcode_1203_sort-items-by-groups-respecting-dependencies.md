@@ -1,4 +1,4 @@
-# 1203. 项目管理
+# 1203. [困难] 项目管理
 
 **题目链接：**[https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies)
 
@@ -42,8 +42,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] sortItems(int n, int m, int[] group, List<List<Integer>> beforeItems) {
+        
+    }
+}
 ```

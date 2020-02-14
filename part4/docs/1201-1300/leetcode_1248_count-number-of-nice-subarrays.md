@@ -1,4 +1,4 @@
-# 1248. 统计「优美子数组」
+# 1248. [中等] 统计「优美子数组」
 
 **题目链接：**[https://leetcode-cn.com/problems/count-number-of-nice-subarrays](https://leetcode-cn.com/problems/count-number-of-nice-subarrays)
 
@@ -36,8 +36,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int numberOfSubarrays(int[] nums, int k) {
+        
+    }
+}
 ```

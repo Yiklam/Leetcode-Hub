@@ -1,4 +1,4 @@
-# 1316. 不同的循环子字符串
+# 1316. [困难] 不同的循环子字符串
 
 **题目链接：**[https://leetcode-cn.com/problems/distinct-echo-substrings](https://leetcode-cn.com/problems/distinct-echo-substrings)
 
@@ -33,8 +33,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int distinctEchoSubstrings(String text) {
+        
+    }
+}
 ```

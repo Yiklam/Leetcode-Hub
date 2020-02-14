@@ -1,4 +1,4 @@
-# 1313. 解压缩编码列表
+# 1313. [简单] 解压缩编码列表
 
 **题目链接：**[https://leetcode-cn.com/problems/decompress-run-length-encoded-list](https://leetcode-cn.com/problems/decompress-run-length-encoded-list)
 
@@ -28,8 +28,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int[] decompressRLElist(int[] nums) {
+        
+    }
+}
 ```

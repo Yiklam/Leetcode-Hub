@@ -1,4 +1,4 @@
-# 1312. 让字符串成为回文串的最少插入次数
+# 1312. [困难] 让字符串成为回文串的最少插入次数
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome)
 
@@ -44,8 +44,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minInsertions(String s) {
+        
+    }
+}
 ```

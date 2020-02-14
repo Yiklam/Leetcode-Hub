@@ -1,4 +1,4 @@
-# 1240. 铺瓷砖
+# 1240. [困难] 铺瓷砖
 
 **题目链接：**[https://leetcode-cn.com/problems/tiling-a-rectangle-with-the-fewest-squares](https://leetcode-cn.com/problems/tiling-a-rectangle-with-the-fewest-squares)
 
@@ -39,8 +39,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int tilingRectangle(int n, int m) {
+        
+    }
+}
 ```

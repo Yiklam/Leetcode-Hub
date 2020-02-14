@@ -1,4 +1,4 @@
-# 1217. 玩筹码
+# 1217. [简单] 玩筹码
 
 **题目链接：**[https://leetcode-cn.com/problems/play-with-chips](https://leetcode-cn.com/problems/play-with-chips)
 
@@ -36,8 +36,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minCostToMoveChips(int[] chips) {
+        
+    }
+}
 ```

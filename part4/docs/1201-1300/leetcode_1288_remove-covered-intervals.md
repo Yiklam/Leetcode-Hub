@@ -1,4 +1,4 @@
-# 1288. 删除被覆盖区间
+# 1288. [中等] 删除被覆盖区间
 
 **题目链接：**[https://leetcode-cn.com/problems/remove-covered-intervals](https://leetcode-cn.com/problems/remove-covered-intervals)
 
@@ -27,8 +27,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int removeCoveredIntervals(int[][] intervals) {
+        
+    }
+}
 ```

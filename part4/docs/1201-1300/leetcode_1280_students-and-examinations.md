@@ -1,4 +1,4 @@
-# $1280. 学生们参加各科测试的次数
+# $1280. [简单] 学生们参加各科测试的次数
 
 **题目链接：**[https://leetcode-cn.com/problems/students-and-examinations](https://leetcode-cn.com/problems/students-and-examinations)
 
@@ -105,8 +105,6 @@ John  参加了数学、物理、编程测试各 1 次。
 
 ---
 
-**AC 代码：**
-
-```java
-
+```sql
+# Write your MySQL query statement below
 ```

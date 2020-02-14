@@ -1,4 +1,4 @@
-# 1335. 工作计划的最低难度
+# 1335. [困难] 工作计划的最低难度
 
 **题目链接：**[https://leetcode-cn.com/problems/minimum-difficulty-of-a-job-schedule](https://leetcode-cn.com/problems/minimum-difficulty-of-a-job-schedule)
 
@@ -49,8 +49,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int minDifficulty(int[] jobDifficulty, int d) {
+        
+    }
+}
 ```

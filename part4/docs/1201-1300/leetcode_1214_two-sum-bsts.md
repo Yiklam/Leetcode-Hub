@@ -1,4 +1,4 @@
-# $1214. 查找两棵二叉搜索树之和
+# $1214. [中等] 查找两棵二叉搜索树之和
 
 **题目链接：**[https://leetcode-cn.com/problems/two-sum-bsts](https://leetcode-cn.com/problems/two-sum-bsts)
 
@@ -30,8 +30,19 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public boolean twoSumBSTs(TreeNode root1, TreeNode root2, int target) {
+        
+    }
+}
 ```

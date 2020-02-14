@@ -1,4 +1,4 @@
-# 1275. 找出井字棋的获胜者
+# 1275. [简单] 找出井字棋的获胜者
 
 **题目链接：**[https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game](https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game)
 
@@ -66,8 +66,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public String tictactoe(int[][] moves) {
+        
+    }
+}
 ```

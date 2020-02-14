@@ -1,4 +1,4 @@
-# 1253. 重构 2 行二进制矩阵
+# 1253. [中等] 重构 2 行二进制矩阵
 
 **题目链接：**[https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix](https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix)
 
@@ -42,8 +42,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<List<Integer>> reconstructMatrix(int upper, int lower, int[] colsum) {
+        
+    }
+}
 ```

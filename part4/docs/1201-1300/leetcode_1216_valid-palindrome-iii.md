@@ -1,4 +1,4 @@
-# $1216. 验证回文字符串 III
+# $1216. [困难] 验证回文字符串 III
 
 **题目链接：**[https://leetcode-cn.com/problems/valid-palindrome-iii](https://leetcode-cn.com/problems/valid-palindrome-iii)
 
@@ -26,8 +26,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean isValidPalindrome(String s, int k) {
+        
+    }
+}
 ```

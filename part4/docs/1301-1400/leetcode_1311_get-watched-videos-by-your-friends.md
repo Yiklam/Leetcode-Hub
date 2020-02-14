@@ -1,4 +1,4 @@
-# 1311. 获取你好友已观看的视频
+# 1311. [中等] 获取你好友已观看的视频
 
 **题目链接：**[https://leetcode-cn.com/problems/get-watched-videos-by-your-friends](https://leetcode-cn.com/problems/get-watched-videos-by-your-friends)
 
@@ -48,8 +48,10 @@ C -&gt; 2
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public List<String> watchedVideosByFriends(List<List<String>> watchedVideos, int[][] friends, int id, int level) {
+        
+    }
+}
 ```

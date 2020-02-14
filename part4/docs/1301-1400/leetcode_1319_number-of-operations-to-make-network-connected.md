@@ -1,4 +1,4 @@
-# 1319. 连通网络的操作次数
+# 1319. [中等] 连通网络的操作次数
 
 **题目链接：**[https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected)
 
@@ -46,8 +46,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int makeConnected(int n, int[][] connections) {
+        
+    }
+}
 ```

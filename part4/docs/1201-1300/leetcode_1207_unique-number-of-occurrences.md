@@ -1,4 +1,4 @@
-# 1207. 独一无二的出现次数
+# 1207. [简单] 独一无二的出现次数
 
 **题目链接：**[https://leetcode-cn.com/problems/unique-number-of-occurrences](https://leetcode-cn.com/problems/unique-number-of-occurrences)
 
@@ -32,8 +32,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public boolean uniqueOccurrences(int[] arr) {
+        
+    }
+}
 ```

@@ -1,4 +1,4 @@
-# 1235. 规划兼职工作
+# 1235. [困难] 规划兼职工作
 
 **题目链接：**[https://leetcode-cn.com/problems/maximum-profit-in-job-scheduling](https://leetcode-cn.com/problems/maximum-profit-in-job-scheduling)
 
@@ -45,8 +45,10 @@
 
 ---
 
-**AC 代码：**
-
 ```java
-
+class Solution {
+    public int jobScheduling(int[] startTime, int[] endTime, int[] profit) {
+        
+    }
+}
 ```
