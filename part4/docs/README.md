@@ -2,7 +2,7 @@
 home: true
 heroImage: /leetcode.jpg
 heroText: Leetcode 题集
-tagline: 安全、可信。 当前进度：1345/1354
+tagline: 安全、可信。 当前进度：1527/1527
 actionText: 开始刷题 →
 actionLink: http://gdut_yy.gitee.io/doc1-leetcode/001-100/leetcode_1_two-sum.html
 features:
