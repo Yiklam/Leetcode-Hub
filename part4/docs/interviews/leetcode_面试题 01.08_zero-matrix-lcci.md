@@ -41,6 +41,10 @@
 
 ---
 
-```
-
+```java
+class Solution {
+    public void setZeroes(int[][] matrix) {
+        
+    }
+}
 ```

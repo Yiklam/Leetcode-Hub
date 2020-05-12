@@ -35,4 +35,36 @@
 
 ```sql
 # Write your MySQL query statement below
+-- 解法一
+select
+  (
+    select
+      salary
+    from
+      employee
+    where
+      salary <(
+        select
+          max(salary) as salary
+        from
+          employee
+      )
+    order by
+      salary desc
+    limit
+      1
+  ) as secondhighestsalary;
+
+-- 解法二
+select
+  (
+    select
+      distinct salary
+    from
+      employee
+    order by
+      salary desc
+    limit
+      1 offset 1
+  ) as secondhighestsalary;
 ```

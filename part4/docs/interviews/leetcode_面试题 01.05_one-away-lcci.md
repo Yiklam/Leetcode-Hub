@@ -25,6 +25,10 @@ second = "pal"
 
 ---
 
-```
+```java
+class Solution {
+    public boolean oneEditAway(String first, String second) {
 
+    }
+}
 ```
