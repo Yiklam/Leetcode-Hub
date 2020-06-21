@@ -28,3 +28,37 @@ class Solution {
     }
 }
 ```
+
+```java
+import java.util.HashMap;
+import java.util.Map;
+
+class Solution {
+
+    public boolean containsNearbyDuplicate(int[] nums, int k) {
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            if (!map.containsKey(nums[i])) {
+                map.put(nums[i], i);
+            } else if (i - map.get(nums[i]) <= k) {
+                return true;
+            } else {
+                map.put(nums[i], i);
+            }
+        }
+        return false;
+    }
+
+//    public static void main(String[] args) {
+//        int[] nums1 = new int[]{1, 2, 3, 1};
+//        int[] nums2 = new int[]{1, 0, 1, 1};
+//        int[] nums3 = new int[]{1, 2, 3, 1, 2, 3};
+//
+//        Solution219 solution = new Solution219();
+//
+//        System.out.println(solution.containsNearbyDuplicate(nums1, 3)); // true
+//        System.out.println(solution.containsNearbyDuplicate(nums2, 1)); // true
+//        System.out.println(solution.containsNearbyDuplicate(nums3, 2)); // false
+//    }
+}
+```

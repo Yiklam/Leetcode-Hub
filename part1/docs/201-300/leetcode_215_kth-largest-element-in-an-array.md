@@ -28,3 +28,30 @@ class Solution {
     }
 }
 ```
+
+```java
+import java.util.PriorityQueue;
+
+class solution {
+    public int findKthLargest(int[] nums, int k) {
+        PriorityQueue<Integer> priorityQueue = new PriorityQueue<>();
+        for (int num : nums) {
+            priorityQueue.add(-num);
+        }
+        for (int i = 0; i < k - 1; i++) {
+            priorityQueue.remove();
+        }
+        return -priorityQueue.remove();
+    }
+
+//    public static void main(String[] args) {
+//        int[] nums1 = new int[]{3, 2, 1, 5, 6, 4};
+//        int[] nums2 = new int[]{3, 2, 3, 1, 2, 4, 5, 5, 6};
+//
+//        Solution215 solution = new Solution215();
+//
+//        System.out.println(solution.findKthLargest(nums1, 2)); // 5
+//        System.out.println(solution.findKthLargest(nums2, 4)); // 4
+//    }
+}
+```

@@ -27,7 +27,47 @@
 ```java
 class Solution {
     public int rob(int[] nums) {
-        
+
     }
+}
+```
+
+```java
+class Solution {
+    /**
+     * n == 1, dp[0] = nums[0]
+     * n == 2, dp[1] = max(nums[0], nums[1])
+     * n > 2, dp[n] = max(dp[n-1], dp[n-2] + nums[i])
+     *
+     * @param nums nums
+     * @return int
+     */
+    public int rob(int[] nums) {
+        if (nums == null || nums.length == 0) {
+            return 0;
+        }
+        int len = nums.length;
+        if (len == 1) {
+            return nums[0];
+        }
+        // dp
+        int[] dp = new int[len];
+        dp[0] = nums[0];
+        dp[1] = Math.max(nums[0], nums[1]);
+        for (int i = 2; i < len; i++) {
+            dp[i] = Math.max(dp[i - 1], dp[i - 2] + nums[i]);
+        }
+        return dp[len - 1];
+    }
+
+//    public static void main(String[] args) {
+//        int[] nums1 = new int[]{1, 2, 3, 1};
+//        int[] nums2 = new int[]{2, 7, 9, 3, 1};
+//
+//        Solution198 solution = new Solution198();
+//
+//        System.out.println(solution.rob(nums1));
+//        System.out.println(solution.rob(nums2));
+//    }
 }
 ```

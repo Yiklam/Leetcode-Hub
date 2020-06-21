@@ -31,3 +31,49 @@ class Solution {
     }
 }
 ```
+
+```java
+import java.util.ArrayList;
+import java.util.List;
+
+class Solution {
+    public List<Integer> selfDividingNumbers(int left, int right) {
+        List<Integer> list = new ArrayList<>();
+        for (int i = left; i <= right; i++) {
+            if (isSelfDividingNum(i)) {
+                list.add(i);
+            }
+        }
+        return list;
+    }
+
+//    public boolean selfDividing(int num) {
+//        for (char ch : String.valueOf(num).toCharArray()) {
+//            if (ch == '0' || (num % (ch - '0') > 0))
+//                return false;
+//        }
+//        return true;
+//    }
+
+    static boolean isSelfDividingNum(int num) {
+        int tmp = num;
+        while (tmp != 0) {
+            int cur = tmp % 10;
+            if (cur == 0 || num % cur != 0) {
+                return false;
+            }
+            tmp /= 10;
+        }
+        return true;
+    }
+
+//    public static void main(String[] args) {
+//        System.out.println(isSelfDividingNum(10));
+//        System.out.println(isSelfDividingNum(22));
+//
+//        Solution728 solution = new Solution728();
+//
+//        System.out.println(solution.selfDividingNumbers(1, 22));
+//    }
+}
+```

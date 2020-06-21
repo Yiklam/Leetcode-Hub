@@ -29,7 +29,36 @@
 ```java
 class Solution {
     public int reverse(int x) {
-        
+
     }
+}
+```
+
+```java
+class Solution {
+    public int reverse(int x) {
+        String str = String.valueOf(x);
+        boolean isSub = str.charAt(0) == '-';
+        long res;
+        if (!isSub) {
+            res = Long.parseLong(new StringBuilder(str).reverse().toString());
+        } else {
+            res = -Long.parseLong(new StringBuilder(str.substring(1)).reverse().toString());
+        }
+        if (res >= Integer.MIN_VALUE && res <= Integer.MAX_VALUE) {
+            return (int) res;
+        } else {
+            return 0;
+        }
+    }
+
+//    public static void main(String[] args) {
+//        Solution7 solution = new Solution7();
+//
+//        System.out.println(solution.reverse(123)); // 321
+//        System.out.println(solution.reverse(-123)); // -321
+//        System.out.println(solution.reverse(120)); // 21
+//        System.out.println(solution.reverse(1534236469)); // 0
+//    }
 }
 ```
