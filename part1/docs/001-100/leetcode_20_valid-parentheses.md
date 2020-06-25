@@ -44,3 +44,48 @@ class Solution {
     }
 }
 ```
+
+```java
+import java.util.Stack;
+
+class Solution {
+    public boolean isValid(String s) {
+        // 使用栈
+        Stack<Character> stack = new Stack<>();
+        for (char ch : s.toCharArray()) {
+            if (ch == '(' || ch == '[' || ch == '{') {
+                stack.push(ch);
+            } else if (!stack.empty()
+                    && ((ch == ')' && stack.peek() == '(')
+                    || (ch == ']' && stack.peek() == '[')
+                    || (ch == '}' && stack.peek() == '{'))
+            ) {
+                stack.push(ch);
+                stack.pop();
+                stack.pop();
+            } else {
+                return false;
+            }
+        }
+        return stack.empty();
+    }
+
+//    public static void main(String[] args) {
+//        String s1 = "()";
+//        String s2 = "()[]{}";
+//        String s3 = "(]";
+//        String s4 = "([)]";
+//        String s5 = "{[]}";
+//        String s6 = "}";
+//
+//        Solution20 solution = new Solution20();
+//
+//        System.out.println(solution.isValid(s1)); // true
+//        System.out.println(solution.isValid(s2)); // true
+//        System.out.println(solution.isValid(s3)); // false
+//        System.out.println(solution.isValid(s4)); // false
+//        System.out.println(solution.isValid(s5)); // true
+//        System.out.println(solution.isValid(s6));
+//    }
+}
+```
