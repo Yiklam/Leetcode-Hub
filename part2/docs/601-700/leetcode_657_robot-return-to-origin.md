@@ -30,3 +30,30 @@ class Solution {
     }
 }
 ```
+
+```java
+import java.util.HashMap;
+import java.util.Map;
+
+public class Solution {
+    public boolean judgeCircle(String moves) {
+        Map<Character, Integer> map = new HashMap<>(4);
+        map.put('R', 0);
+        map.put('L', 0);
+        map.put('U', 0);
+        map.put('D', 0);
+        for (char ch : moves.toCharArray()) {
+            map.put(ch, map.get(ch) + 1);
+        }
+        return map.get('U').equals(map.get('D')) && map.get('L').equals(map.get('R'));
+    }
+
+//    public static void main(String[] args) {
+//        String moves1 = "UD";
+//        String moves2 = "LL";
+//        Solution657 solution650 = new Solution657();
+//        System.out.println(solution650.judgeCircle(moves1));
+//        System.out.println(solution650.judgeCircle(moves2));
+//    }
+}
+```

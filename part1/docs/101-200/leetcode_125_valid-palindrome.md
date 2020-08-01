@@ -24,7 +24,46 @@
 ```java
 class Solution {
     public boolean isPalindrome(String s) {
-        
+
     }
+}
+```
+
+```java
+public class Solution {
+    public boolean isPalindrome(String s) {
+        String str = dealWithStr(s);
+        if (str.length() == 0) {
+            return true;
+        }
+        String reverseStr = new StringBuilder(str).reverse().toString();
+        for (int i = 0; i < str.length() / 2 + 1; i++) {
+            if (str.charAt(i) != reverseStr.charAt(i)) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    private String dealWithStr(String s) {
+        StringBuilder stringBuilder = new StringBuilder();
+        for (char ch : s.toCharArray()) {
+            if ((ch >= '0' && ch <= '9') || (ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z')) {
+                stringBuilder.append(ch);
+            }
+        }
+        return stringBuilder.toString().toLowerCase();
+    }
+
+//    public static void main(String[] args) {
+//        String s1 = "A man, a plan, a canal: Panama";
+//        String s2 = "race a car";
+//        String s3 = " ";
+//
+//        Solution125 solution = new Solution125();
+//        System.out.println(solution.isPalindrome(s1));
+//        System.out.println(solution.isPalindrome(s2));
+//        System.out.println(solution.isPalindrome(s3));
+//    }
 }
 ```

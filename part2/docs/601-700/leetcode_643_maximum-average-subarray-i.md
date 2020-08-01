@@ -26,7 +26,44 @@
 ```java
 class Solution {
     public double findMaxAverage(int[] nums, int k) {
-        
+
     }
+}
+```
+
+```java
+import java.util.Arrays;
+
+public class Solution {
+    public double findMaxAverage(int[] nums, int k) {
+        if (nums == null || nums.length == 0 || k == 0) {
+            return 0;
+        }
+        int pastCnt = doGetSum(Arrays.copyOfRange(nums, 0, k)); // [0, k)
+        int maxCnt = pastCnt;
+        for (int i = 1; i <= nums.length - k; i++) {
+            int newCnt = pastCnt - nums[i - 1] + nums[i - 1 + k];
+            maxCnt = Math.max(maxCnt, newCnt);
+            pastCnt = newCnt;
+        }
+        return (double) maxCnt / k;
+    }
+
+    private int doGetSum(int[] subNums) {
+        return Arrays.stream(subNums).sum();
+    }
+
+//    public static void main(String[] args) {
+//        int[] nums1 = {1, 12, -5, -6, 50, 3}; // 2 51 42
+//        int k1 = 4;
+//        int[] nums2 = {-1};
+//        int k2 = 1;
+//        int[] nums3 = {0, 4, 0, 3, 2};
+//        int k3 = 1;
+//        Solution643 solution = new Solution643();
+//        System.out.println(solution.findMaxAverage(nums1, k1)); // 12.75
+//        System.out.println(solution.findMaxAverage(nums2, k2)); // -1.0
+//        System.out.println(solution.findMaxAverage(nums3, k3)); // 4.0
+//    }
 }
 ```

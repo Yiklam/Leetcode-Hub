@@ -29,3 +29,27 @@ class Solution {
     }
 }
 ```
+
+```java
+public class Solution {
+    // 巧用 jdk indexOf
+    public boolean isSubsequence(String s, String t) {
+        int curIndex = -1;
+        for (char ch : s.toCharArray()) {
+            curIndex = t.indexOf(ch, curIndex + 1);
+            if (curIndex == -1) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+//    public static void main(String[] args) {
+//        String s1 = "abc", t1 = "ahbgdc";
+//        String s2 = "axc", t2 = "ahbgdc";
+//        Solution392 solution = new Solution392();
+//        System.out.println(solution.isSubsequence(s1, t1));  // true
+//        System.out.println(solution.isSubsequence(s2, t2));  // false
+//    }
+}
+```

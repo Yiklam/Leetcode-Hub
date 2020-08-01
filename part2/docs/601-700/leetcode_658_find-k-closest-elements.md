@@ -33,7 +33,35 @@
 ```java
 class Solution {
     public List<Integer> findClosestElements(int[] arr, int k, int x) {
-        
+
     }
+}
+```
+
+```java
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
+
+public class Solution {
+    public List<Integer> findClosestElements(int[] arr, int k, int x) {
+        return Arrays.stream(arr)
+                .boxed()
+                .sorted((o1, o2) -> o1.equals(o2) ? 0 : Math.abs(o1 - x) - Math.abs(o2 - x))
+                .collect(Collectors.toList())
+                .subList(0, k)
+                .stream()
+                .sorted()
+                .collect(Collectors.toList());
+    }
+
+//    public static void main(String[] args) {
+//        int[] arr1 = {1, 2, 3, 4, 5};
+//        int k1 = 4, x1 = 3;
+//        int k2 = 4, x2 = -1;
+//        Solution658 solution = new Solution658();
+//        solution.findClosestElements(arr1, k1, x1).forEach(System.out::print);
+//        solution.findClosestElements(arr1, k2, x2).forEach(System.out::print);
+//    }
 }
 ```

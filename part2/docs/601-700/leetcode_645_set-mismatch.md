@@ -29,3 +29,47 @@ class Solution {
     }
 }
 ```
+
+```java
+import java.util.Arrays;
+import java.util.BitSet;
+
+public class Solution {
+    public int[] findErrorNums(int[] nums) {
+        int len = nums.length; // [2, 10000]
+        // 默认情况下 bitSet 中所有位的初始值都是 false
+        BitSet bitSet = new BitSet(len + 1);
+        int trueCnt = 0;
+        for (int i = 1; i <= len; i++) {
+            trueCnt += i;
+        }
+        int falseCnt = 0;
+        for (int num : nums) {
+            // 1224 => true false false true
+            // 1334 => true false false true
+            bitSet.set(num, !bitSet.get(num));
+            falseCnt += num;
+        }
+        int[] res = new int[2];
+        for (int i = 1, j = 0; i <= len; i++) {
+            if (!bitSet.get(i)) {
+                res[j] = i;
+                j++;
+            }
+        }
+        if (falseCnt < trueCnt) {
+            return res;
+        } else {
+            return new int[]{res[1], res[0]};
+        }
+    }
+
+//    public static void main(String[] args) {
+//        int[] nums1 = {1, 2, 2, 4};
+//        int[] nums2 = {1, 3, 3, 4};
+//        Solution645 solution = new Solution645();
+//        Arrays.stream(solution.findErrorNums(nums1)).forEach(System.out::print);
+//        Arrays.stream(solution.findErrorNums(nums2)).forEach(System.out::print);
+//    }
+}
+```

@@ -31,3 +31,19 @@ class Solution {
     }
 }
 ```
+
+```java
+public class Solution {
+    public int strStr(String haystack, String needle) {
+        return haystack.indexOf(needle);
+    }
+
+//    public static void main(String[] args) {
+//        String haystack1 = "hello", needle1 = "ll";
+//        String haystack2 = "aaaaa", needle2 = "bba";
+//        Solution28 solution = new Solution28();
+//        System.out.println(solution.strStr(haystack1, needle1)); // 2
+//        System.out.println(solution.strStr(haystack2, needle2)); // -1
+//    }
+}
+```

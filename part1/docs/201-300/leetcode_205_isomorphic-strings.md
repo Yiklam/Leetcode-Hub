@@ -32,3 +32,47 @@ class Solution {
     }
 }
 ```
+
+```java
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+import java.util.Set;
+
+public class Solution {
+    // 是否同构
+    // HashMap 和 HashSet 运用
+    public boolean isIsomorphic(String s, String t) {
+        if (s == null || t == null || s.length() != t.length()) {
+            return false;
+        }
+        Map<Character, Character> kvMap = new HashMap<>();
+        Set<Character> singleSet = new HashSet<>();
+        for (int i = 0; i < s.length(); i++) {
+            char key = s.charAt(i);
+            char value = t.charAt(i);
+            if (!kvMap.containsKey(key) && !singleSet.contains(value)) {
+                kvMap.put(key, value);
+                singleSet.add(value);
+            } else {
+                if (!kvMap.containsKey(key) || (kvMap.get(key) != value)) {
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+
+//    public static void main(String[] args) {
+//        String s1 = "egg", t1 = "add";
+//        String s2 = "foo", t2 = "bar";
+//        String s3 = "paper", t3 = "title";
+//        String s4 = "aab", t4 = "aaa";
+//        Solution205 solution = new Solution205();
+//        System.out.println(solution.isIsomorphic(s1, t1));
+//        System.out.println(solution.isIsomorphic(s2, t2));
+//        System.out.println(solution.isIsomorphic(s3, t3));
+//        System.out.println(solution.isIsomorphic(s4, t4));
+//    }
+}
+```

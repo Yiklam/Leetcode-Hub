@@ -29,3 +29,37 @@ class Solution {
     }
 }
 ```
+
+```java
+import java.util.HashSet;
+import java.util.Set;
+
+public class Solution {
+    // 快乐数 判断链表是否存在环
+    public boolean isHappy(int n) {
+        Set<Integer> seen = new HashSet<>();
+        // 116, 38, 73
+        // 58, 89, 145, 42, 20, 4, 16, 37,
+        while (n != 1 && !seen.contains(n)) {
+            seen.add(n);
+            n = getNext(n);
+        }
+        return n == 1;
+    }
+
+    private int getNext(int n) {
+        int totalSum = 0;
+        while (n > 0) {
+            int d = n % 10;
+            n = n / 10;
+            totalSum += d * d;
+        }
+        return totalSum;
+    }
+
+//    public static void main(String[] args) {
+//        System.out.println(new Solution202().isHappy(19));
+//        System.out.println(new Solution202().isHappy(116));
+//    }
+}
+```

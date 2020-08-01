@@ -24,7 +24,38 @@
 ```java
 class Solution {
     public boolean containsNearbyAlmostDuplicate(int[] nums, int k, int t) {
-        
+
+    }
+}
+```
+
+```java
+import java.util.HashMap;
+import java.util.Map;
+
+class Solution {
+    public boolean containsNearbyAlmostDuplicate(int[] nums, int k, int t) {
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            if (!map.containsKey(nums[i])) {
+                map.put(nums[i], i);
+            } else if (i - map.get(nums[i]) <= k) {
+                return true;
+            } else {
+                map.put(nums[i], i);
+            }
+        }
+        return false;
+    }
+
+    public static void main(String[] args) {
+        int[] nums1 = new int[]{1, 2, 3, 1};
+        int[] nums2 = new int[]{1, 0, 1, 1};
+        int[] nums3 = new int[]{1, 5, 9, 1, 5, 9};
+        Solution220 solution = new Solution220();
+        System.out.println(solution.containsNearbyAlmostDuplicate(nums1, 3, 0)); // true
+        System.out.println(solution.containsNearbyAlmostDuplicate(nums2, 1, 2)); // true
+        System.out.println(solution.containsNearbyAlmostDuplicate(nums3, 2, 3)); // false
     }
 }
 ```
